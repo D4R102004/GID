@@ -1,0 +1,10 @@
+# Editor backups
+*~
+*.swp
+*.tmp
+
+# OS files
+.DS_Store
+
+# PDF exports or builds (if you add them later)
+*.pdf
