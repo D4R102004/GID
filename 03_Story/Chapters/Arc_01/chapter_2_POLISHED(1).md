@@ -422,35 +422,65 @@ Gallan's face soured at the mention of Kami. A brief flash of pain, of complicat
 
 "Nothing of interest as of lately," Lopney said. "Books just don't mention nouryoku at all."
 
-Gallan's tone became firmer. "I've told you, nouryoku is a secret. And it should remain as such."
+"There's a reason for that." Gallan set his fork down. The warmth in his voice was still there, but underneath it, something quieter. Final. "And it stays that way. You don't talk about it outside this island. Either of you."
 
-"But it's not a secret in Pristania, is it?" Arjan asked. "Is their story also a secret?"
+It wasn't a new rule. It had always been the rule. But tonight Lopney felt it differently — the way you feel a fence only when you press against it.
 
-"Yes. And you two shouldn't go talking about it."
+"Pristania knew about it," she said.
 
-Lopney pressed gently. "But you said Kami's deeds were of greatness. Wouldn't people recognize him for it? Didn't he show his powers?"
+"Yes."
 
-"Yes, but not all of them recognized him. Not all of them liked it."
+"And Free."
 
-"And they liked Meiji?" Arjan asked.
+"Yes."
 
-Lopney jumped in. "Yeah, that guy seems the type to be hateful. And arrogant."
+She waited for more. Nothing came.
 
-Gallan's voice sharpened. "I'd prefer we don't mention his name here. It's your birthday, Lopney."
+Arjan tried a different angle. "Kami didn't hide it though. You always said his deeds were—"
 
-"Fine," Lopney backed off. "I just wondered—maybe that's where we should aim to be. You know, an organization of people who know our powers."
+"Great," Gallan said. "They were. He was." He picked his fork back up. "That doesn't mean the world was ready for it."
 
-Arjan shook his head. "Nah, I don't know. Pristania and Free... they both seem vicious. I don't want to enter any war."
+A pause. Lopney was watching him with that look — the one Arjan never noticed but Gallan always did. The one that meant she was counting things.
 
-Gallan nodded emphatically. "Exactly. I've taught you two to use your powers to defend yourselves. I'd advise you to stay away from both Pristania and Free."
+"What about Meiji?" she asked.
 
-Lopney looked at him sharply. "You act like you know them."
+The table went slightly quieter.
 
-Gallan was careful now, weighing each word. "They were famous. Kami and Meiji had intense debates back at Vista Alegre. But now Pristania is led by Kami's children. It's different."
+"It's your birthday," Gallan said.
 
-Arjan grinned. "Well, Gallania is going to be led by Gallan's children too. I don't think it's rare."
+"I know. I'm just asking."
 
-Gallan seized the redirect. "Speaking of which—"
+He looked at her for a moment. Then he looked at his plate.
+
+"Some people," he said carefully, "believed Kami was wrong. They followed someone who told them what they wanted to hear." He left it there.
+
+Lopney opened her mouth. Arjan cut in first, his tone deliberately lighter:
+
+"We could start our own. Gallania. Led by Gallan's children."
+
+Gallan let out a short breath — not quite a laugh.
+
+"You'd lose the war in an afternoon," he said.
+
+"Lopney would win it back."
+
+"True," Gallan admitted.
+
+Lopney didn't smile at that. She was still watching him. "You're from Vista Alegre, aren't you."
+
+It wasn't really a question.
+
+Something shifted in Gallan's face — small, fast, gone almost before it arrived. His knuckles pressed together under the table.
+
+"Yes," he said.
+
+"Did you know them? Kami and Meiji?"
+
+"I knew of them." He stood, picking up his plate. "There's more rabbit. Who wants more?"
+
+Arjan raised his hand immediately. Lopney kept her eyes on Gallan's back for a second longer than she should have. Then she looked down at her food.
+
+The question didn't go anywhere. It just sat there between them, unanswered, waiting.
 
 ---
 
@@ -464,71 +494,81 @@ Arjan's excitement bubbled up. "I got the idea from hiding. You know, from you."
 
 Gallan smiled gently, pride evident in his expression. He nodded encouragingly.
 
-"I thought," Arjan continued, explaining in simple terms, "if I could hide spheres the way you hide yourself, I could surprise someone. So I buried them in the grass while meditating."
+"I thought," Arjan continued, "if I could hide spheres the way you hide yourself, I could surprise someone. So I buried them in the grass while meditating."
 
-"Clever," Gallan said thoughtfully. "I've seen someone pull that off before."
+"Clever," Gallan said. Then, quieter: "I've seen someone do something like that before."
 
-His tone changed subtly. Became more guarded.
+His tone had changed. Not much. Just enough.
 
-"Really?" Arjan asked. "Who?"
+Arjan looked up. "Really? Who?"
 
-Gallan hesitated for just a fraction of a second. "A colleague of mine. At university."
+A beat of silence. Short, but Lopney caught it.
 
----
+"Someone I trained with," Gallan said. "A long time ago."
 
-"You mean at Vista Alegre?" Arjan asked.
+He didn't offer anything else. His eyes had gone somewhere that wasn't the table.
 
-"Yeah."
+Arjan, being Arjan, pushed gently. "In Vista Alegre?"
 
-Lopney leaned forward, interested now. "But how come he had powers? You asked him? He showed them in front of you?"
+"Yes."
 
-"Nouryoku are hidden, but one can notice them."
+"What was he like?"
 
-"And did you ask this person?" Arjan pressed.
+Gallan was quiet for a moment. When he spoke, his voice was careful in the way it got when he was choosing what to leave out.
 
-"Yeah, we've talked."
+"Talented," he said. "Better than me, for a while." A pause. "We haven't spoken since."
 
-Lopney's eyes narrowed slightly. "And what became of him?"
+Lopney said nothing. She was doing the arithmetic. The family that had *gone their own ways.* The person from Vista Alegre. The same city. *We haven't spoken since.*
 
-Gallan deflected smoothly. "Oh, he's fine. Still in Vista Alegre from where I left."
-
-He noticed his kids were inquiring too deeply, getting too close to truths he couldn't share. He became more careful, more defensive in his posture.
-
-Lopney noticed. Stopped pressing. She'd learned from experience—when Gallan didn't want to talk about something, he wouldn't. No matter how hard she pushed.
-
-She filed this away with all the other mysteries.
+She filed it away.
 
 ---
 
-Lopney shifted topics, trying a different angle. "Still, I'd like to know about other powers around the world."
+"You know," Arjan said, trying to keep the mood light, "why not just go enter Free HQ and ask them about powers? Maybe they'd know."
 
-Arjan joked, "Why not go and enter Free HQ then?"
+Gallan's head turned sharply.
 
-Gallan's reaction was immediate, alarmed. "What are you talking about, Arjan? That's mental."
+It wasn't a look of mild correction. It wasn't the firm-but-gentle redirection he used when they wandered near something sensitive. It was something older and harder than that — a flash of something he didn't fully suppress before it crossed his face.
 
-"I've read they're on the run," Lopney said, her voice warming to the topic. "They've been deemed illegal, as have Pristania."
+Then it was gone. Sealed back behind his eyes.
 
-"Oh yeah, sis?"
+"That's not funny, Arjan," he said. Quiet. Flat.
 
-Lopney's eyes lit up with the excitement of sharing knowledge. "I'd take a guess Pristania is somewhere in Kamino. I mean, it was Kami's city after all. You know it was built upon the ruins of a previous city? Kami only rebuilt it."
+Arjan blinked. "I was joking—"
 
-Gallan forced a smile. "You sure investigate a lot."
+"I know." Gallan picked up his cup. His hands were steady. "Stay away from Free. Stay away from Pristania. I've told you both that enough times that it shouldn't need explaining."
 
-Then he cut in before she could continue. "Wonder if your investigations will tell you about your surroundings next time."
+A silence settled over the table. Not hostile. Just heavier than before.
 
-"Aw, come on, Father."
+Arjan looked at his plate. Lopney looked at Gallan.
 
-"So, this technique, Arjan," Gallan said firmly, redirecting the conversation. "Do you have anything in mind with it?"
+He was already redirecting — posture, expression, all of it — but she'd seen it. That first unguarded second. The way the name *Free* had landed on him like something physical.
+
+Not caution. Not a parent's instinct.
+
+Something that had happened to him.
+
+She didn't say anything. She reached for her drink and let it pass.
 
 ---
 
-Arjan began explaining, getting into the technical details of how he'd place the spheres, how he'd keep them hidden, how he'd time the detonations.
+Arjan, sensing the weight, shifted topics the only way he knew how — forward, lighter, faster.
+
+"So, this technique," he said to Gallan. "Do you have anything in mind with it? Like, could I combine it with—"
+
+Gallan let himself be redirected. He leaned in, asking questions, letting Arjan's enthusiasm carry the room back somewhere warmer.
 
 Lopney listened for a moment.
 
-But the conversation about powers stung. It reminded her of what she didn't have. The frustration returned, creeping back in despite the warmth of the moment.
+The conversation about powers was doing it again. Arjan explaining how he'd hidden the spheres. Gallan nodding, engaged, the two of them talking about something she would never have. The person from Vista Alegre who'd had it too.
 
-She finished eating. Stood quietly.
+Everyone had something.
+
+Except her.
+
+The frustration came back quietly, the way it always did — not a flood, just a slow return of pressure she'd been holding back all day.
+
+She finished eating. Stood.
 
 "I'll be right back," she said.
 
@@ -536,11 +576,11 @@ She left before they could respond.
 
 ---
 
-Arjan looked worried but kept eating. Gallan was more disturbed—they'd talked too much about Pristania, stirred up things better left buried—but he gave Lopney a caring smile as she went.
+Arjan looked up from his explanation, worried. Gallan watched the door close behind her, his expression difficult to read — something between guilt and helplessness. They'd stirred up things he hadn't meant to stir.
 
-They let her leave.
+He gave her the only thing he could from across the room.
 
-The door closed softly behind her.
+He let her go.
 
 ---
 
@@ -560,7 +600,7 @@ Martial arts forms—fast, furious. Kicks, strikes, movements precise but angry.
 
 She punched another tree.
 
-*Gallan and his colleagues all had abilities.*
+*Gallan and whoever he trained with both had abilities.*
 
 Another punch. Her knuckles bleeding more now.
 
@@ -571,12 +611,6 @@ Kick. Strike. Move. The forms flowed together, muscle memory taking over.
 *If I had powers, I could—*
 
 *I'm always going to be the weak one.*
-
-She thought of Arjan's spheres. Gallan appearing from nowhere. The "colleague" with the same powers.
-
-Everyone has something.
-
-Except her.
 
 She pushed herself harder, punching until her hands hurt, moving until her muscles burned. The physical pain was easier to deal with than the emotional.
 
@@ -674,44 +708,37 @@ The voice came again, closer to her ear now, menacing despite its small, almost 
 
 ---
 
-## **CHAPTER SUMMARY**
+## CHAPTER SUMMARY
 
-**Word Count:** ~5,500 words  
+**Word Count:** ~6,200 words
 **Key Scenes:**
 1. Arjan and Lopney's sparring (establishes powers, skills, relationship)
-2. Gallan's intervention (establishes his past, teaching style)
-3. Birthday dinner (family warmth, world-building, foreshadowing)
-4. Lopney's solo training (character depth, frustration)
-5. The capture (cliffhanger, introduces Yurisha)
+2. Gallan's intervention (establishes teaching style, experience)
+3. Birthday dinner — Cluster A (family warmth, lore planted as subtext)
+4. Birthday dinner — Cluster B (colleague hint, Free reaction, Lopney exits mid-dinner)
+5. Lopney's solo training (frustration, insecurity — triggered by leaving the table)
+6. The capture (cliffhanger, Yurisha)
 
-**Character Reveals:**
-- Arjan: Kind, clever, protective, conflict-avoidant
-- Lopney: Skilled, frustrated about powers, intelligent, insecure
-- Gallan: Loving father hiding dark past, strict teacher
+**What's Changed From Previous Version:**
+- Dinner exposition restructured around character wants, not reader needs
+- "University colleague" replaced with "someone I trained with" — consistent with Pristania recruitment path (no university)
+- Gallan's Free reaction made visceral and then sealed — Lopney witnesses both
+- Lopney's Kamino/Free theorizing removed — she files things, doesn't broadcast
+- Added: Lopney alone at the table, assembling the list she's been keeping
+- Added: Vista Alegre book as birthday gift — plants the city as personal to Gallan organically
+- Solo training scene: "Gallan's colleagues" → "whoever he trained with" (consistent with revised scene)
 
-**World-Building:**
-- Pristania and Free mentioned (factions)
-- Kami and Meiji (history)
-- Kamino (Kami's city)
-- God's flag race (future importance)
-- Vista Alegre (where Gallan's past happened)
-- Nouryoku must remain secret
-
-**Foreshadowing:**
-- Gallan's "colleague" = Glayne (his brother, same powers)
-- Gallan's family tragedy (Gloria)
-- Island no longer safe
-- Lopney's powers dormant (doesn't activate during capture)
-- Outside world catching up to them
-
-**Emotional Beats:**
-- Sibling love (Arjan comforting Lopney)
-- Family warmth (birthday dinner)
-- Lopney's insecurity (solo training)
-- Sudden danger (capture)
+**Lore Delivered (Subtextually):**
+- Pristania and Free: Named, felt as dangerous, not explained
+- Kami: Someone Gallan genuinely revered — "They were. He was."
+- Meiji: Named, Gallan's discomfort visible, no further detail
+- Vista Alegre: Gallan's birthplace, established as a wound
+- Nouryoku secrecy: One firm line, not a lecture
+- The colleague: Someone Gallan trained with, estranged — the reader doesn't know it's his brother
 
 **Mysteries Planted:**
-- Who is the assassin?
-- Why target the kids?
-- What is Gallan hiding?
-- Will they discover his past?
+- Who is the colleague Gallan trained with?
+- Why does Free cause that reaction in him?
+- What happened in Vista Alegre?
+- Why did Gallan's family go "their own ways"?
+- Who is the assassin, and why target the kids?
