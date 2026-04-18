@@ -108,6 +108,7 @@ AGE_ARC_1: ~35-40
 
 ### **What Drives Him:**
 - **Primary:** Revenge against Gallan (make him suffer, not kill him)
+Learning Gallan found happiness through the kids — "He doesn't get to rebuild what he destroyed."
 - **Secondary:** Pristania's mission (destroy Free, create Kami's perfect world)
 - **Personal:** Pride in Byronstrike legacy, love for Perlereina
 

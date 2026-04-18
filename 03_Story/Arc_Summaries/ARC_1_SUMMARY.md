@@ -177,6 +177,7 @@ Months later, when Gallan mysteriously departs, the siblings discover a stranger
 
 *Yurisha's Arrival:*
 16. **Yurisha arrives on island** - Professional assassin, hired by Glayne
+Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the kids IS the punishment.
 17. **Scouts the family from distance:**
     - Observes their routine
     - Notes Gallan is ex-Pristania (recognizes fighting style)
