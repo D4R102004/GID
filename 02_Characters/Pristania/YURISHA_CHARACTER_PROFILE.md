@@ -34,7 +34,7 @@ AGE_ARC_1: Middle-aged (TBD)
 **Distinctive Style:**
 - Dresses as a **Jiang Shi** (Chinese folklore ghost/vampire)
 - Full traditional costume: robes, hat, complete outfit
-- **Paper talisman on forehead** with the kanji **殭** (jiāng - "stiff/rigid")
+- **Paper talisman on forehead** with the kanji **僵屍**(jiāng shī - "Jiang Shi / stiff corpse")
 - Looks creepy and theatrical, NOT like a typical assassin
 - The absurdity of his appearance is part of his menace
 
