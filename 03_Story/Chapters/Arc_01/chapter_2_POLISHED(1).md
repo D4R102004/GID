@@ -563,16 +563,11 @@ Lopney listened for a moment.
 The conversation about powers was doing it again. Arjan explaining how he'd hidden the spheres. Gallan nodding, engaged, the two of them talking about something she would never have. The person from Vista Alegre who'd had it too.
 
 Everyone had something.
-
-Except her.
-
-The frustration came back quietly, the way it always did — not a flood, just a slow return of pressure she'd been holding back all day.
-
-She finished eating. Stood.
-
-"I'll be right back," she said.
-
-She left before they could respond.
+She set her napkin down and stood.
+"I need to get out."
+Gallan was already pushing back his chair. "Good timing — I'll get started on these dishes." He began stacking plates, movements easy, unhurried. The dinner had run its course and he was glad of it.
+"Bathroom," Arjan said to no one, already gone.
+Lopney was at the door before either of them had fully stood. Neither of them saw her go.
 
 ---
 
