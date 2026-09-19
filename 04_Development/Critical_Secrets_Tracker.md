@@ -286,14 +286,17 @@
 
 ### **THE SECRET:**
 - Gabriella (Tairin's daughter) is alive
-- She was captured by Pristania 5 years ago
+- She was captured by Pristania 5 years ago and held hostage at Pristania HQ for several months
+- She escaped with Uragaeshi's help and has hidden in Vista Alegre since (as the "Metal Knight")
 - Everyone in Free believes she's dead
-- She's imprisoned/kept somewhere by Pristania
 
 ### **WHO KNOWS:**
 - **Gabriella herself** (obviously)
-- **Her Pristania captors** (whoever is holding her)
-- [TBD - Which Kamigami know? All three? Just one?]
+- **Uragaeshi** (freed her)
+- **Her captors, Perlereina and Diominiciel** (know she escaped) [TBD: Hirohiko]
+- **Bellsaw** (knows; silent to protect his cover)
+- The Emperors know the matter exists but rarely discuss it
+- **Claudia/Dragoon does NOT know** she is the fugitive (Claudia is Gabriella's best friend "Misty")
 
 ### **WHO DOESN'T KNOW (Thinks She's Dead):**
 - **Tairin** (her mother - believes daughter is dead, mourning for 5 years)
@@ -306,13 +309,14 @@
 
 ### **DRAMATIC IRONY:**
 - Tairin has mourned for 5 years while her daughter was alive
-- Gabriella's survival could have changed Free's approach
+- Gabriella's survival could have changed Free's approach, but neither she nor Uragaeshi could find Free's hidden HQ
+- Her best friend in Vista Alegre, "Misty", is Claudia/Dragoon, a Pristania Emperor. Neither knows the other's organization
 - The revelation comes too late to save her
 
 ### **THEMATIC WEIGHT:**
 - False hope - finding her alive only to lose her again
 - Tairin's grief becomes rage
-- Pristania's cruelty demonstrated (kept her alive as leverage/hostage)
+- Pristania's cruelty demonstrated (kept her captive as leverage/hostage until she escaped)
 
 ---
 

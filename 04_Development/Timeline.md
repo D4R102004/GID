@@ -312,7 +312,7 @@ All dates are calculated from these reference points.
 - **Pristania attacks Free's original headquarters**
 - **Gabriella** (Tairin's daughter) captured
 - Free presumes her dead
-- Gabriella actually imprisoned by Pristania
+- Gabriella actually held captive at Pristania HQ for several months, then escapes with Uragaeshi's help and hides in Vista Alegre
 - **Free builds new headquarters** in the island cliffs (Gallan's island)
 - Hidden from Gallan (doesn't know it's there)
 - Camouflaged within cliff system
@@ -347,7 +347,7 @@ All dates are calculated from these reference points.
 - Free HQ hidden in island cliffs (unknown to Gallan) - **built 5 years ago**
 - Pristania HQ in Vista Alegre ruins
 - Cold war between factions continues
-- Gabriella still imprisoned (believed dead by Free)
+- Gabriella hiding in Vista Alegre as the "Metal Knight" (believed dead by Free)
 - Jashin possessing Hirohiko (no one knows except Jashin himself)
 
 ### **Arc 1 Begins**
@@ -369,7 +369,7 @@ All dates are calculated from these reference points.
 - **Gallan raising Arjan/Lopney:** 15 years
 - **Jashin possessing Hirohiko:** 10 years
 - **Free HQ on island:** 5 years
-- **Gabriella's captivity:** 5 years (presumed dead)
+- **Gabriella presumed dead:** 5 years (captive several months, then hiding in Vista Alegre)
 
 ---
 

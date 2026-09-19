@@ -198,7 +198,7 @@ Joined Free as one of the very first members alongside:
 - Loving, functional marriage throughout the early Free years
 
 **Birth of Gabriella:**
-- Daughter born during peacetime or early war years
+- Daughter born in peacetime, **before** the 3-Year War (~20 years before Arc 1)
 - Raised with "outmost care" by both parents
 - Tairin's joy, her hope for the future
 
@@ -275,7 +275,7 @@ Joined Free as one of the very first members alongside:
 
 **Gabriella's Fate:**
 - Tairin believes she was killed by Pristania
-- Actually **alive in Vista Alegre** [TBD: held captive by Pristania (per Timeline / Secrets Tracker) vs. escaped (earlier version of this profile)]
+- Actually **alive in Vista Alegre**: held captive by Pristania for several months, then **escaped with Uragaeshi's help**. She and Uragaeshi could not return to Free because Free's HQ is hidden (see GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md)
 - Will be revealed in **Arc 4** (Vista Alegre arc)
 - **Dies in Arc 4** — discovered alive only to be lost again
 
@@ -644,7 +644,7 @@ Joined Free as one of the very first members alongside:
 ### **Gabriella (Her Daughter - Believed Dead):**
 
 **The Lost Child:**
-- Born during or before the 3-Year War
+- Born in peacetime, before the 3-Year War
 - Raised with "outmost care" by Tairin and Terror
 - Age 15 when captured 5 years ago
 - Had just joined Free's security forces
@@ -656,7 +656,7 @@ Joined Free as one of the very first members alongside:
 - Fuels her visceral hatred of Pristania
 
 **The Truth:**
-- **Gabriella is alive in Vista Alegre** [TBD: captive vs. escaped — see above]
+- **Gabriella is alive in Vista Alegre** (captured, then escaped with Uragaeshi's help; hides as the "Metal Knight")
 - Currently age 20
 - **Revealed in Arc 4** (Vista Alegre arc)
 - **Dies in Arc 4** (consistent with Lyzander's and Lyon's profiles, Quick Ref, Secrets Tracker)
@@ -679,6 +679,7 @@ Joined Free as one of the very first members alongside:
 **The Truth:**
 - **Uragaeshi is alive in Vista Alegre**
 - Will be revealed Arc 4 alongside Gabriella
+- He freed Gabriella from Pristania; after she recovered she told him who her mother was
 
 ---
 
@@ -726,11 +727,12 @@ Joined Free as one of the very first members alongside:
 **Major Revelation:**
 - **Gabriella is alive** - discovered in Vista Alegre
 - **Uragaeshi is alive** - also in Vista Alegre
-- Circumstances (captive vs. escaped) and why they did not return: TBD
+- Gabriella escaped Pristania captivity with Uragaeshi's help. Neither could find Free's hidden HQ, so they did not return
 
 **Gabriella's Death:**
 - **Gabriella dies in Arc 4** — Tairin learns she is alive only to lose her again
-- [TBD: who witnesses it, how Tairin learns of it, her reaction — see Open Questions]
+- Dies in front of Lyzander, killed by the Emperor Angel (see Gabriella's profile)
+- [TBD: how and when Tairin learns of it, her reaction — see Open Questions]
 
 **Tairin's Reaction:**
 - Joy and devastation together
@@ -882,7 +884,7 @@ Joined Free as one of the very first members alongside:
 
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
-1. **Gabriella in Vista Alegre:** Captive or escaped? What is she doing there? Why didn't she return? How, and in front of whom, does she die in Arc 4?
+1. **Gabriella in Vista Alegre:** RESOLVED (see Gabriella's profile): captive several months, escaped with Uragaeshi, could not find Free; dies in Arc 4 in front of Lyzander. Remaining: how and when does Tairin learn she was alive and then dead?
 2. **Uragaeshi's survival:** What happened? Why the presumed death?
 3. **Cristopher incident (Arc 2):** Full context of the "punching children" scene?
 4. **Lopney framing (Arc 2):** Who frames her? How is it resolved?

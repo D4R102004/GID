@@ -1,5 +1,25 @@
 # GID LORE CHANGELOG
 
+## 2026-09-19 (Gabriella profile)
+Gabriella Centerfox's full profile added. Captive-vs-escaped and who-knows contradictions resolved.
+
+### Files changed
+- 02_Characters/Supporting/Free/GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md (NEW)
+- 02_Characters/Supporting/Free/TAIRIN_CHARACTER_PROFILE.md
+- 04_Development/Timeline.md
+- 04_Development/Critical_Secrets_Tracker.md
+- 04_Development/Open_Questions_REORGANIZED.md
+- GID_QUICK_REF_FINAL.md
+
+### Changes
+- ADDED: Gabriella Centerfox ("Metal"): 20, Free Security, iron-materialization Nouryoku. Captured 5 years before Arc 1 and held at Pristania HQ for several months (Perlereina and Diominiciel); escaped with Uragaeshi's help; hides in Vista Alegre as the "Metal Knight / Armor Bastard". Dies in Arc 4 to the Emperor Angel, in front of Lyzander
+- RESOLVED: captive vs. escaped: captive first, then escaped (Timeline, Secrets Tracker, Tairin's profile updated). Neither she nor Uragaeshi could find Free's hidden HQ
+- CORRECTED: Gabriella was born in peacetime BEFORE the 3-Year War (Tairin's profile said "peacetime or early war years")
+- CORRECTED: Quick Ref "only Gabriella knows": also Uragaeshi, her captors and Bellsaw
+- ADDED: best friend "Misty" is Claudia/Dragoon (Pristania Emperor); neither knows the other's organization
+- ADDED (new canon, no profile yet): Emperor Angel joins the protagonists at the start of Arc 4; Claudia fights Yonoa and falls into a coma until after the Pristania assault
+- OPEN: Angel and Claudia profiles, Arc 4 event order, Tairin's discovery scene (see Open Questions)
+
 ## 2026-09-19 (Bellsaw + consistency pass)
 Bellsaw's full profile added; contradictions on Shigeru's death, Gabriella's fate and the Emperors' surname resolved.
 

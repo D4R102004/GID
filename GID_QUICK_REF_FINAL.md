@@ -40,6 +40,7 @@
 ## OTHER KEY FREE MEMBERS
 
 **Tairin (Delara Centerfox)** (40+) - Head of Security for Free, Gabriella's mother
+**Gabriella Centerfox "Metal"** (20) - Tairin's daughter, Free Security, iron-materialization Nouryoku, dies Arc 4
 **Glayne Byronstrike** (~35-40) - Pristania Apostle, Gallan's brother, dies Arc 5 (NOT Arc 1)
 
 ---
@@ -64,7 +65,7 @@
 **Rajin = Megami (Kami's ex-wife):** Only Kensuke knows  
 **Meiji = Ryakujin weapon:** NO ONE knows (not even Meiji)
 **Hirohiko = Possessed by Jashin:** Only audience knows (Hirohiko unaware)
-**Gabriella is alive:** Only Gabriella knows until Arc 4
+**Gabriella is alive** (captured, held at Pristania HQ, escaped with Uragaeshi's help, hides in Vista Alegre as the "Metal Knight"): Gabriella, Uragaeshi, her captors (Perlereina, Diominiciel) and Bellsaw know; Free learns in Arc 4
 **Bellsaw = Commander James Whannell of the Vista Alegre police:** All high-ranking Pristania know; Free and the police do not (until after his death, Arc 4)
 **Gallan's island location:** Hidden by Mental Erasure until Glayne breaks through (Arc 1)
 

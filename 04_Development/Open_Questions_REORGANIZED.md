@@ -100,11 +100,14 @@
   - Does Cristopher know he's going to die, or is it sudden?
   - His final words to Arjan?
 
-- [ ] **Gabriella's discovery and death**
-  - How is she found after years of imprisonment?
-  - Who witnesses her death?
-  - Tairin's reaction?
-  - Captive of Pristania (Timeline / Secrets Tracker) or escaped (older Tairin profile)?
+- [ ] **Gabriella's death — remaining details** (captive/escaped, discovery and death scene RESOLVED: see GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md)
+  - Tairin: how and when does she learn her daughter lived and died?
+  - **Angel:** new Emperor, no profile yet (Nouryoku, identity, how he infiltrates the protagonists at the start of Arc 4)
+  - Order of Arc 4 events between finding the Metal Knight and Gabriella's death, incl. the fall of the Vista Alegre police
+  - **Claudia/Dragoon:** Nouryoku (tied to "Misty"), own profile, fight with Yonoa (ends in coma; wakes after the Pristania assault), how she learns Metal was the Armor Bastard
+  - Lyzander/Gabriella: how far the romantic tension went
+  - Does Hirohiko know she escaped?
+  - Geography: Kamigami mansion location; Gabriella's abandoned-building refuge in Vista Alegre
 
 - [ ] **Bellsaw's Arc 4 storyline**
   - The trap sequence (trials showing Gallan's story), locations and order
