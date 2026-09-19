@@ -268,17 +268,19 @@ AGE_ARC_1: 15
 
 ## **CHARACTER ARC TRACKER**
 
-- **Early Arc:** Forced off island (gets his wish, but not how he wanted)
+- **Arc 1:** Discovers Sphere Encapsulation against Yurisha (instinctive defense)
+  - Proves he can protect his family, but only by nearly breaking himself
+- **Early Arc:** Forced off the island (loses the peaceful life he wanted to keep)
 - **Arc 2:** Meets Cristopher (brutal introduction, becomes his mentor)
   - Learns martial arts and tactical thinking
   - Develops confidence in close combat
   - Gains a mentor figure and friend
-- **Mid Arc:** Power awakens - feels validated but must grapple with its nature (negation)
+- **Mid Arc:** Learns Gallan's past, questions what "good" means
 - **Arc 4:** Loses Cristopher (death saving him from Perlereina)
   - Devastating loss of mentor and friend
   - Learns the cost of protection and sacrifice
-- **Late Arc:** Learns his power is just as god-tier as Arjan's, confronts what that means
-- **Endgame:** Embraces both his martial skill AND his power as complementary strengths
+- **Late Arc:** Discovers his true nature (30% of Kami), must choose between peace and justice
+- **Endgame:** Embraces necessary conflict while keeping his compassion, combining martial skill and sphere power
 
 ### **Starting Emotional State (Arc 1):**
 - Content, peaceful, naive
