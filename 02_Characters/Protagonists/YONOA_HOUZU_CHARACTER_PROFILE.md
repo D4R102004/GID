@@ -93,7 +93,7 @@ AGE_ARC_1: 33
 
 **Origins:**
 - **First trigger:** 13 years of isolation from Meiji (childhood friend)
-- **True manifestation:** End of Arc 3 - watches Marsella stab Shigeru in the back
+- **True manifestation:** End of Arc 2 - watches Marsella stab Shigeru in the back
 - **Breaking point:** Shigeru dies protecting her from Marsella
 - **Compounded trauma:** Best friend's betrayal + father's death simultaneously
 
@@ -320,7 +320,7 @@ AGE_ARC_1: 33
 **Can Fight Calm:**
 - **Yes** - capable of controlled combat
 - More strategic when not enraged
-- But anger is her default state (especially post-Arc 3)
+- But anger is her default state (especially post-Arc 2)
 
 ---
 
@@ -391,7 +391,7 @@ AGE_ARC_1: 33
 - Fought him in practice (never beat him)
 - He was strict but supportive teacher
 
-**Arc 3 - The Devastation:**
+**End of Arc 2 - The Devastation:**
 
 **The Betrayal:**
 - Marsella **stabs Shigeru in the back**
@@ -584,7 +584,7 @@ AGE_ARC_1: 33
 
 ---
 
-**The Betrayal (End of Arc 3):**
+**The Betrayal (End of Arc 2):**
 
 **The Moment:**
 - **Marsella stabs Shigeru in the back** (literal)
@@ -947,39 +947,18 @@ AGE_ARC_1: 33
 - Proves trust despite suspicion
 - Beginning of their relationship
 
-**Meiji Captured:**
-- Pristania kidnaps Meiji shortly after
-- **Also takes Gallan**
-- Yonoa joins protagonists to **rescue them**
-
-**End State:**
-- Officially part of "5 Souls to the Rescue"
-- Leader of group (oldest, most powerful)
-- In love with Lyzander (beginning)
-- Desperate to save Meiji
-
----
-
-### **Arc 3 - "5 Souls to the Rescue" & Devastating Betrayal:**
-
-**Mission:**
-- **Rescue Meiji and Gallan** from Pristania
-- Yonoa leads the team
-- Arjan, Lopney, Ichiro, Lyzander, Yonoa = 5 Souls
-
-**Emotional State:**
-- Determined, focused
-- **Bossy leader** - takes charge
-- Hasn't reconciled with Meiji yet
-- Building bonds with team
-
-**End of Arc 3 - The Shattering:**
+**End of Arc 2 - The Shattering (Pristania's intervention):**
 
 **The Betrayal:**
 - **Marsella stabs Shigeru in the back**
 - Yonoa **watches** best friend betray father
 - **Shigeru dies protecting Yonoa**
 - **Double trauma:** Betrayal + death simultaneously
+
+**Meiji Captured:**
+- Pristania captures Meiji in the same clash
+- **Also takes Gallan**
+- Yonoa joins protagonists to **rescue them**
 
 **Immediate Impact:**
 - **Complete emotional devastation**
@@ -988,10 +967,32 @@ AGE_ARC_1: 33
 - **Trust shattered** - can't trust anyone
 - **Revenge obsession** against Marsella begins
 
+**End State:**
+- Officially part of "5 Souls to the Rescue"
+- Leader of group (oldest, most powerful)
+- In love with Lyzander (beginning)
+- Desperate to save Meiji
+- Grieving, enraged, wanting revenge
+
+---
+
+### **Arc 3 - "5 Souls to the Rescue":**
+
+**Mission:**
+- **Rescue Meiji and Gallan** from Pristania
+- Yonoa leads the team
+- Arjan, Lopney, Ichiro, Lyzander, Yonoa = 5 Souls
+
+**Emotional State:**
+- Grieving and enraged after Shigeru's death (Arc 2 finale)
+- Still leads the team (**bossy**, takes charge), but anger flares explosively
+- **Revenge obsession** against Marsella
+- Hasn't reconciled with Meiji yet
+- Building bonds with team
+
 **Arc 4 Starting Point:**
-- **In shock, wanting revenge**
-- Desperate for vengeance on Marsella
-- Traumatized, angry, isolated
+- Still traumatized and wanting revenge on Marsella
+- Angry, isolated
 - **Unhappy throughout** - rare moments of joy
 
 ---
@@ -1348,7 +1349,7 @@ AGE_ARC_1: 33
 - Mediocrity with happiness
 
 **What Breaks Her:**
-- **Marsella's betrayal + Shigeru's death** (Arc 3)
+- **Marsella's betrayal + Shigeru's death** (Arc 2 finale)
 - Learning father ordered genocide (Arc 5)
 - Being alone and isolated
 

@@ -65,6 +65,10 @@
   - Do they discover Free HQ first, then get pulled into Arc 2?
   - Does Gallan's departure/capture trigger the move?
 
+- [ ] **Arc 2 climax location and Bellsaw's role**
+  - Where does the clash (Shigeru's death, Meiji's capture) take place?
+  - How is the Vista Alegre police positioned to "interfere", such that Bellsaw has to keep them out? (Free HQ is on Gallan's island)
+
 ---
 
 ## ARC 3 BLOCKERS
@@ -100,6 +104,13 @@
   - How is she found after years of imprisonment?
   - Who witnesses her death?
   - Tairin's reaction?
+  - Captive of Pristania (Timeline / Secrets Tracker) or escaped (older Tairin profile)?
+
+- [ ] **Bellsaw's Arc 4 storyline**
+  - The trap sequence (trials showing Gallan's story), locations and order
+  - How Yonoa finds him; the beating; his death in a Vista Alegre hospital with Claudia present
+  - Police investigation: what they find, what Free learns, what becomes of his infiltration
+  - How Bellsaw avoided suspicion after Kami's raid on the police HQ
 
 ---
 

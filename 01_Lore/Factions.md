@@ -546,16 +546,18 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 
 **Current Emperors (Arc 2):**
 
-1. **Bellsaw (真名: James Whanell)**
-   - Elite Emperor
-   - **Ideology:** Fanatic - wants war with Free at all costs
+1. **Bellsaw (真名: James Whannell)**
+   - Elite Emperor with **no Nouryoku**: an engineer who supervises missions and fights through traps, robots and mechanical devices
+   - **Ideology:** Ideological fanatic who also wants revenge on Meiji/Free - war is the only solution
+   - **Infiltrated in the Vista Alegre Police Department** as Commander James Whannell (one of three commanders under Chief Marjenis). All high-ranking Pristania know; Free does not
    - **Family:** Father of Claudia (fellow Emperor)
+   - One of the three original Emperors (with Shigeru and Kensuke); dies in Arc 4
    - *[Main antagonist role in Arc 4]*
-   - *[See CHARACTER_PROFILES/BELLSAW.md for full details]*
+   - *[See 02_Characters/Pristania/BELLSAW_JAMES_WHANNELL_CHARACTER_PROFILE.md for full details]*
 
-2. **Dragoon (真名: Claudia Whanell)**
+2. **Dragoon (真名: Claudia Whannell)**
    - Elite Emperor
-   - **Background:** Daughter of James Whanell (Bellsaw)
+   - **Background:** Daughter of James Whannell (Bellsaw)
    - **Note:** Achieved Emperor rank through prowess, but family connection helped
    - *[Main antagonist role in Arc 4]*
    - *[See CHARACTER_PROFILES/DRAGOON.md for full details]*
@@ -582,7 +584,7 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 1. **Bloodline/Family Connection**
    - Born into Pristania families
    - Well-connected individuals have advantages
-   - Example: Claudia Whanell (daughter of James) became Emperor through prowess, but connections helped
+   - Example: Claudia Whannell (daughter of James) became Emperor through prowess, but connections helped
 
 2. **Contributions**
    - Prove usefulness to Pristania through:
@@ -617,24 +619,26 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 
 ### **PRISTANIA'S TECHNOLOGICAL ASSETS**
 
-#### **Diominiciel's Creations**
+#### **Diominiciel's (and Bellsaw's) Creations**
 
 **Arsenal of Machines:**
-Pristania possesses robots, androids, and advanced machines developed by Diominiciel:
+Pristania possesses robots, androids, and advanced machines developed by Diominiciel together with Bellsaw (the Emperor-engineer):
 
 1. **Survey Unit S34 - Nicknamed "Sea"**
    - *[Function and capabilities TBD in tech/character profiles]*
 
 2. **Heavy Unit L411D - Nicknamed "Land"**
-   - *[Function and capabilities TBD]*
+   - Built by Diominiciel and Bellsaw; a huge tank with cannons and great destructive power
+   - *[Further details TBD]*
 
 3. **Android Unit 41R - Nicknamed "Air"**
    - *[Function and capabilities TBD]*
 
 4. **Biological Unit 5P4C3 - Nicknamed "Space"**
+   - Not created by Diominiciel alone: his profile credits another creator, and Marsella's profile has her co-developing it with him
    - *[Function and capabilities TBD]*
 
-**Note:** These units serve Pristania's operations and report to the Kamigami (primarily Diominiciel as their creator).
+**Note:** These units serve Pristania's operations and report to the Kamigami (primarily Diominiciel as their creator; Bellsaw co-built them, per-unit credit TBD).
 
 ---
 
@@ -754,7 +758,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 **Public Awareness:**
 - **Some civilians know Pristania exists** (especially in Kamino)
 - **Most do not** - operates in shadows
-- **Vista Alegre Police Department:** Declared Pristania illegal
+- **Vista Alegre Police Department:** Declared Pristania illegal (yet infiltrated at command level by Bellsaw / Commander James Whannell)
 - **Other regions:** Vary (Kamino welcomes them secretly)
 
 **Recruitment:**
@@ -835,8 +839,8 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 - [Vacant] (Hirohiko's former Apostle: Gallan - defected)
 
 **The 4 Emperors (Currently 3):**
-- Bellsaw / James Whanell
-- Dragoon / Claudia Whanell
+- Bellsaw / James Whannell
+- Dragoon / Claudia Whannell
 - Shigo / Takeshi Kondo 近藤毅
 
 **Technological Assets:**

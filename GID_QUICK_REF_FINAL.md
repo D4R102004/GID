@@ -65,6 +65,7 @@
 **Meiji = Ryakujin weapon:** NO ONE knows (not even Meiji)
 **Hirohiko = Possessed by Jashin:** Only audience knows (Hirohiko unaware)
 **Gabriella is alive:** Only Gabriella knows until Arc 4
+**Bellsaw = Commander James Whannell of the Vista Alegre police:** All high-ranking Pristania know; Free and the police do not (until after his death, Arc 4)
 **Gallan's island location:** Hidden by Mental Erasure until Glayne breaks through (Arc 1)
 
 ---
@@ -83,7 +84,8 @@
 ## MAJOR DEATHS BY ARC (Verified from character profiles)
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
-**Arc 4:** Cristopher (dies saving Arjan), Goro Kiryuin (reconciles with Ichiro first), Gabriella
+**Arc 2:** Shigeru Houzu (finale: sacrifices himself to save Yonoa)
+**Arc 4:** Cristopher (dies saving Arjan), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
 **Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
 **Arc 6:** Arjan vs. Lopney duel over reviving Gallan; Jashin freed [rest not developed yet]
 

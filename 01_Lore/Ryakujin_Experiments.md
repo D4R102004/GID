@@ -481,13 +481,13 @@ A phenomenon unique to Bakuzoku where they lose all control and enter a violent 
 - Climax of her infiltration and betrayal
 - Consequences for Jitsumoto and other factions
 
-#### **Arc 3: Shigeru Learns the Truth**
+#### **Arc 2 Finale (continued): Shigeru Learns the Truth**
 
 - Shigeru discovers Marsella's true identity
 - Learns she was Nantes' wife and Lyon's mother
 - **Marsella stabs Shigeru in the back** (literal or figurative betrayal)
 - Shigeru confronts the consequences of the extermination order
-- [Shigeru's fate/reaction TBD]
+- Shigeru dies protecting Yonoa at the climax of Arc 2 (see Shigeru's profile)
 
 #### **Arc 5: Yonoa vs. Marsella**
 

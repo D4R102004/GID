@@ -275,9 +275,9 @@ Joined Free as one of the very first members alongside:
 
 **Gabriella's Fate:**
 - Tairin believes she was killed by Pristania
-- Actually **escaped and is alive in Vista Alegre**
+- Actually **alive in Vista Alegre** [TBD: held captive by Pristania (per Timeline / Secrets Tracker) vs. escaped (earlier version of this profile)]
 - Will be revealed in **Arc 4** (Vista Alegre arc)
-- **Major character in Arc 5** (Pristania assault)
+- **Dies in Arc 4** — discovered alive only to be lost again
 
 **The Aftermath:**
 - Tairin was **destroyed**
@@ -656,10 +656,10 @@ Joined Free as one of the very first members alongside:
 - Fuels her visceral hatred of Pristania
 
 **The Truth:**
-- **Gabriella escaped and is alive in Vista Alegre**
+- **Gabriella is alive in Vista Alegre** [TBD: captive vs. escaped — see above]
 - Currently age 20
 - **Revealed in Arc 4** (Vista Alegre arc)
-- **Major character in Arc 5** (Pristania assault)
+- **Dies in Arc 4** (consistent with Lyzander's and Lyon's profiles, Quick Ref, Secrets Tracker)
 
 ---
 
@@ -726,11 +726,15 @@ Joined Free as one of the very first members alongside:
 **Major Revelation:**
 - **Gabriella is alive** - discovered in Vista Alegre
 - **Uragaeshi is alive** - also in Vista Alegre
-- Both escaped Pristania, didn't return for reasons TBD
+- Circumstances (captive vs. escaped) and why they did not return: TBD
+
+**Gabriella's Death:**
+- **Gabriella dies in Arc 4** — Tairin learns she is alive only to lose her again
+- [TBD: who witnesses it, how Tairin learns of it, her reaction — see Open Questions]
 
 **Tairin's Reaction:**
-- Emotional devastation and joy
-- Learning they're alive changes her
+- Joy and devastation together
+- [TBD in Arc 4 development]
 
 ---
 
@@ -748,8 +752,8 @@ Joined Free as one of the very first members alongside:
 - Reckless, overconfident, blinded by rage
 - **She is defeated** - doesn't get her revenge
 
-**Gabriella's Role:**
-- Gabriella is a **major character** in this arc
+**Gabriella's Absence:**
+- Gabriella already died in Arc 4; her loss feeds Tairin's grief and recklessness in this arc
 
 **Resolution:**
 - **She survives Arc 5**
@@ -803,7 +807,7 @@ Joined Free as one of the very first members alongside:
 - Terror still loves her (she feels the same)
 
 ### **What Tairin DOESN'T Know:**
-- **Gabriella is alive** (believes she's dead for 5 years)
+- **Gabriella is alive** (believes she's dead for 5 years; learns otherwise in Arc 4)
 - **Uragaeshi is alive** (believes martyrdom story)
 - Arjan and Lopney's true nature (Kami's reincarnations)
 - Rajin is Megami (Kami's ex-wife)
@@ -878,12 +882,12 @@ Joined Free as one of the very first members alongside:
 
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
-1. **Gabriella in Vista Alegre:** What is she doing there? Why didn't she return?
+1. **Gabriella in Vista Alegre:** Captive or escaped? What is she doing there? Why didn't she return? How, and in front of whom, does she die in Arc 4?
 2. **Uragaeshi's survival:** What happened? Why the presumed death?
 3. **Cristopher incident (Arc 2):** Full context of the "punching children" scene?
 4. **Lopney framing (Arc 2):** Who frames her? How is it resolved?
 5. **Arc 5 specifics:** How exactly is she defeated? What leads to her finding peace?
-6. **Reconciliation with Terror:** Does Gabriella's return bring them back together?
+6. **Reconciliation with Terror:** How does Gabriella's death in Arc 4 affect them? Does shared grief bring them back together?
 
 ---
 

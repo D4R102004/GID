@@ -21,6 +21,7 @@
 8. [Kami's Corpse Location](#kamis-corpse-location)
 9. [The Resurrection Truth](#the-resurrection-truth)
 10. [Free Headquarters Location](#free-headquarters-location)
+11. [Bellsaw's Infiltration](#bellsaws-infiltration)
 
 ---
 
@@ -423,6 +424,31 @@
 - Gallan sought isolation but lives next to the enemy's base
 - Arjan and Lopney's safe island is actually a war headquarters
 - Pristania would restart the war immediately if they found it
+
+---
+
+## BELLSAW'S INFILTRATION
+
+### **THE SECRET:**
+- Commander James Whannell of the Vista Alegre Police Department is **Bellsaw**, a Pristania Emperor
+- He was a police officer before Pristania; after Kami recruited him he spied on the police for Pristania
+- Kami's assault on the police headquarters followed Bellsaw's information
+
+### **WHO KNOWS:**
+- **All high-ranking Pristania** (including Claudia/Dragoon and the other Emperors)
+- **Bellsaw himself**
+
+### **WHO DOESN'T KNOW:**
+- **Free** (and the protagonists' side)
+- **The Vista Alegre police** (Chief Marjenis and the other two commanders): nobody suspects him
+
+### **WHEN REVEALED (Planned):**
+- **Arc 4:** after his death in a Vista Alegre hospital, the police investigation discovers he was an Emperor [details TBD]
+- Note: in Arc 4 he presents himself to Arjan and Lopney as the Emperor. Whether they connect "Bellsaw" with "Commander Whannell" before his death: TBD
+
+### **DRAMATIC IRONY:**
+- One of the commanders investigating Pristania is one of Pristania's Emperors
+- His courtesy toward the police and toward Pristania is the same: the disguise is nearly honest
 
 ---
 

@@ -622,7 +622,7 @@ AGE_ARC_1: ~19
 
 **First Night:**
 - They **sleep together** (non-sexual - just comfort)
-- **Why:** Gabriella (Yonoa) had no other place to stay [Arc 2 spoilers]
+- **Why:** Yonoa had no other place to stay [Arc 2 spoilers]
 - Beginning of their bond
 
 **Rescuing Her:**

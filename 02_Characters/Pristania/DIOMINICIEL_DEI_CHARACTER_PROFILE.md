@@ -315,6 +315,7 @@ AGE_ARC_1: ~40
 
 2. **Land (Heavy Unit L411D)**
    - Heavy combat/construction unit
+   - Built with Bellsaw (Pristania Emperor, engineer)
    - Autonomous AI with personality
    - *[Further details TBD in Land's profile]*
 
@@ -610,6 +611,7 @@ AGE_ARC_1: ~40
 
 **Special Respect for Bellsaw:**
 - **Bellsaw was with Kami** from Pristania's founding
+- **Bellsaw contributed to Diominiciel's education**, letting him see science in action up close (Diominiciel is the scientist, Bellsaw the engineer)
 - **Veteran loyalty** - holds deep respect for his dedication
 - **Shared history** - connection through Kami
 - Values his experience and commitment

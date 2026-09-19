@@ -1,5 +1,32 @@
 # GID LORE CHANGELOG
 
+## 2026-09-19 (Bellsaw + consistency pass)
+Bellsaw's full profile added; contradictions on Shigeru's death, Gabriella's fate and the Emperors' surname resolved.
+
+### Files changed
+- 02_Characters/Pristania/BELLSAW_JAMES_WHANNELL_CHARACTER_PROFILE.md (NEW)
+- 02_Characters/Protagonists/YONOA_HOUZU_CHARACTER_PROFILE.md
+- 02_Characters/Supporting/Free/TAIRIN_CHARACTER_PROFILE.md
+- 02_Characters/Protagonists/LYZANDER_SUGIMORI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/DIOMINICIEL_DEI_CHARACTER_PROFILE.md
+- 01_Lore/Factions.md
+- 01_Lore/Ryakujin_Experiments.md
+- 04_Development/Critical_Secrets_Tracker.md
+- 04_Development/Open_Questions_REORGANIZED.md
+- GID_QUICK_REF_FINAL.md
+
+### Changes
+- ADDED: Bellsaw (James Whannell): Emperor with no Nouryoku, automation engineer, Commander in the Vista Alegre police (infiltrated, under Chief Marjenis), father of Claudia (Dragoon). Ideological fanatic who also wants revenge on Meiji/Free. Dies in Arc 4: beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present
+- ADDED: Bellsaw's infiltration to the Critical Secrets Tracker (all high-ranking Pristania know; Free and the police do not)
+- ADDED: Land (L411D) was built by Diominiciel and Bellsaw. Bellsaw contributed to Diominiciel's education (Diominiciel's profile, Factions)
+- ADDED: Shigeru (Arc 2) and Bellsaw (Arc 4) to the Quick Ref deaths list
+- CORRECTED: Shigeru's death is at the END OF ARC 2 (Shigeru's and Marsella's profiles were right). Yonoa's profile said Arc 3 in several places; the Ryakujin Experiments file labelled the stabbing "Arc 3". Yonoa's Arc 3 emotional state rewritten accordingly (she now enters the rescue arc grieving and enraged) — PROPOSAL, review
+- CORRECTED: Gabriella dies in ARC 4. Tairin's profile said she was a major Arc 5 character; fixed to match Lyzander, Lyon, Quick Ref, Secrets Tracker and Open Questions
+- CORRECTED: Lyzander's profile had a stray "Gabriella (Yonoa)"; now "Yonoa"
+- CORRECTED: Surname spelling "Whanell" → "Whannell" (homage to Leigh Whannell) across Factions.md
+- CORRECTED: Factions.md credited all four robots to Diominiciel; his profile says Space was not his (co-developed with Marsella). Factions now reflects that
+- FLAGGED [TBD]: Gabriella captive (Timeline / Tracker / Open Questions) vs. escaped (Tairin's earlier text); Arc 2 climax location vs. Vista Alegre police interference; Bellsaw's Arc 4 details
+
 ## 2026-09-19
 Arc 5-6 climax decisions: Gallan's death and resurrection, Kami's 40%, the Arjan vs. Lopney duel.
 
