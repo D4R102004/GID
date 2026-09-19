@@ -263,7 +263,8 @@ AGE_ARC_1: N/A (died age 50)
 - **One use remaining:** Never used the second
 - **Believes Hide's lie:** Thinks using it again will kill him (it won't - only the power dies)
 - **Secret plan:** Considered killing dormant Jashin, then resurrecting him (to "fix" his sin)
-- **Why he didn't:** Couldn't bring himself to do it
+- **Why he didn't:** Couldn't bring himself to do it, and feared using it would kill him (Hide's lie)
+- **Confessed to Megami:** told her everything, including this plan and the lie as he believed it (decided 2026-09-19)
 
 ---
 

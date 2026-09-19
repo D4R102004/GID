@@ -566,6 +566,11 @@ AGE_ARC_1: ~35
 - **Free assaults Pristania Headquarters**
 - **Climax of her character arc**
 - **Captures Meiji** - "I have you now. HAHAHAHAHA"
+- **Meiji is freed and every Apostle falls:** only Perlereina and Diominiciel remain undefeated (decided 2026-09-19)
+- **Absorbs Kami's 40%:** Diominiciel acts as a conduit and dies in the process (his body turns to dust); she becomes far more powerful
+- **She holds the energy but not the control:** the Resurrection is controlled only by Arjan and Lopney, so she cannot use it
+- **Still loses and dies** at the end of Arc 5. The absorbed 40% stays in her corpse
+- **Arc 6:** her corpse turns to dust when Arjan and Lopney use the 2nd resurrection (Kami's power is destroyed); Gyrus (Hirohiko) sees it
 
 **Her Losses Leading to Madness:**
 1. **Kami** (died 18 years ago - never recovered)

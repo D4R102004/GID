@@ -1,6 +1,6 @@
 # GID - OPEN QUESTIONS TRACKER
-**Version:** 2.0
-**Last Updated:** 2025-04-18
+**Version:** 2.1
+**Last Updated:** 2026-09-19
 **Status:** Reorganized — questions sorted by priority, resolved questions archived at bottom
 
 ---
@@ -73,6 +73,7 @@
   - Does Hirohiko (as Gyrus/Dr. Araki) remember Gallan?
   - Emotional beats — guilt, recognition, forgiveness?
   - Does Gallan know Hirohiko has amnesia going in?
+  - Later reunion decided 2026-09-19: in Arc 6, Gyrus finds a freshly revived Gallan (see ARC 6)
 
 - [ ] **The two-track rescue — Logistics and structure**
   - Team A: Arjan/Lopney → rescue Gallan
@@ -235,14 +236,9 @@
 
 ## POWER SYSTEM
 
-- [ ] **Kami's 40% corpse — Who attempts to absorb it?**
-  - Someone in Pristania? Free? Meiji? Arjan/Lopney?
-  - Or is it destroyed?
 - [ ] **How do Arjan/Lopney eventually access Kami's four abilities?**
-  - Gradual awakening? Absorb the 40%? Split (2 each)?
-- [ ] **Resurrection truth reveal — When is it discovered?**
-  - This recontextualizes all of Kami's choices
-  - Who figures it out first?
+  - Decided 2026-09-19: they gain all four when Kami's part awakens and use them in the Arc 6 duel
+  - [TBD: what triggers the awakening, and when in Arc 5-6]
 - [ ] **Evolution truth (Kiryuin line) — How is it proven?**
   - Who figures it out first?
 
@@ -312,10 +308,15 @@
 
 ## ARC 6 (Not Yet In Development)
 
-- [ ] **Jashin's separation from Gyrus** — physical manifestation, visual moment
-- [ ] **Gyrus vs. Jashin final confrontation** — resolution, Jashin's ultimate fate
-- [ ] **Arjan/Lopney absorb Kami's 40%** — process, immediate consequences
-- [ ] **Story ending** — Arjan/Lopney vs. Jashin? vs. Meiji? New threat? Resolution type?
+- [ ] **Jashin's separation from Gyrus** — physical manifestation, visual moment (decided 2026-09-19: Jashin plans to take control of Gyrus's body to unleash chaos; scene to be developed later)
+- [ ] **Gyrus vs. Jashin final confrontation** — Gyrus is the one who faces Jashin; resolution, Jashin's ultimate fate
+- [ ] **Story ending** — Arc 6 climax decided (Arjan vs. Lopney duel, Gallan revived, Jashin freed); Gyrus vs. Jashin resolution still open
+- [ ] **How does Gyrus discover what happened?** — He sees Perlereina's corpse turn to dust. He does not know Arjan and Lopney exist; Jashin may guide him
+- [ ] **Whose Nouryoku is the possession of Gallan by Gloria's spirit (Arc 5)?** — No possession ability exists in the files. Glayne's is Ellipse Manipulation (and Arjan already defeated him). Another user? A real spirit? Lopney's nullification ends it
+- [ ] **Gallan's resurrection logistics** — his body falls to the sea floor chained to the machine; the Resurrection restores him as he was before death (stabbed; the device reads his pulse). Where/how does he appear so Gyrus finds him?
+- [ ] **Arc 3 rescue vs. Arc 5 capture** — Team A rescues Gallan in Arc 3, but in Arc 5 he is bound to a machine in Pristania HQ. Does the Arc 3 rescue fail, or is he recaptured?
+- [ ] **Were Arjan and Lopney present at Megami's account (Arc 5)?** — Needed for their Arc 6 argument about the lie
+- [ ] **Arjan's theory about Hide's motive** — conflicts with the timeline (see Critical_Secrets_Tracker.md, The Resurrection Truth)
 
 ---
 ---
@@ -352,4 +353,34 @@
 
 ---
 
-*END OF OPEN QUESTIONS TRACKER v2.0*
+**[✅ RESOLVED — 2026-09-19] Kami's 40% corpse — Who attempts to absorb it?**
+→ Perlereina, in Arc 5. After Free assaults Pristania HQ and frees Meiji, only Perlereina and Diominiciel remain undefeated. Diominiciel acts as a conduit and transfers the 40% to her. The transfer kills him and his body turns to dust. Perlereina becomes far more powerful but still dies at the end of Arc 5, and the 40% stays in her corpse. In Arc 6 it turns to dust when Arjan and Lopney use the 2nd resurrection.
+*(Source: user decision, consistent with DIOMINICIEL_DEI_CHARACTER_PROFILE.md)*
+
+---
+
+**[✅ RESOLVED — 2026-09-19] Do Arjan/Lopney absorb Kami's 40%?**
+→ NO. The 40% never reaches them. It goes to Perlereina (Arc 5) and is destroyed in Arc 6.
+*(Source: user decision)*
+
+---
+
+**[✅ RESOLVED — 2026-09-19] Resurrection truth reveal — When is it discovered?**
+→ Arc 6, instantly. Arjan and Lopney survive reviving Gallan and only lose Kami's part of the power. Before that (Arc 5, before the Pristania assault), Megami tells all of Free the lie as Kami believed it; the reader has no reason to suspect Hide lied. In Arc 6, Arjan suspects it (hope and intuition); Lopney does not want to risk death.
+*(Source: user decision)*
+
+---
+
+**[✅ RESOLVED — 2026-09-19] What is Gallan's role in later arcs?**
+→ He dies in Arc 5 and is resurrected in Arc 6. After Arjan defeats Glayne, Arjan stays to watch him and sends Lopney to find "Dad". Gallan is bound to a strange machine; when she reaches him he wakes suddenly and chains her foot to it, and the machine activates. Both will be dragged to the sea floor after a set time; the only way out is the other's death. Gallan is possessed by the spirit of Gloria, who wants revenge on him. Lopney awakens her Nouryoku and nullifies the possession. With no time left, Gallan stabs himself so the device stops detecting his pulse and frees Lopney, and falls to the sea floor.
+*(Source: user decision)*
+
+---
+
+**[✅ RESOLVED — 2026-09-19] How does the Arc 6 climax play out?**
+→ Arjan and Lopney fight a secret duel with no witnesses, so nobody interferes. Arjan wants to revive Gallan (believes the risk is worth it and suspects Hide lied). Lopney refuses: she thinks Arjan is becoming like Perlereina, that they must let go, and that if they died Gallan would be left alone. The winner decides. Lopney is established as the stronger fighter throughout the series; Arjan wins with power and cunning. Both use all four of Kami's abilities. Lopney accepts; together they speak the words and revive Gallan. They only lose Kami's part of the power (they keep their own Nouryoku). Perlereina's corpse turns to dust, and Jashin is freed (100% power, full consciousness). Gyrus sees the dust, understands what happened, and goes to find them, finding his best friend Gallan freshly revived.
+*(Source: user decision)*
+
+---
+
+*END OF OPEN QUESTIONS TRACKER v2.1*

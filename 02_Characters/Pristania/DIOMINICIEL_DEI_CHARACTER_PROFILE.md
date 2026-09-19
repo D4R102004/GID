@@ -412,7 +412,7 @@ AGE_ARC_1: ~40
 - **Visits his corpse** - conducts research, talks to him (?)
 
 **The 40% Research:**
-- Discovered that **percentage is missing** from corpse
+- Discovered that **60% of Kami's power is missing** from the corpse (only 40% remains)
 - Doesn't know Arjan and Lopney have it
 - Researching how to utilize remaining power
 - **Arc 5:** Uses corpse as conduit to transfer power to Perlereina
@@ -654,6 +654,7 @@ AGE_ARC_1: ~40
 - **Transfers 40% from corpse to Perlereina**
 - Energy passes **through his body** to reach her
 - **The transfer kills him** - too much power for mortal vessel
+- **His body turns to dust** (decided 2026-09-19)
 
 **Why He Does It:**
 - **Only way to save Perlereina** - give her god-tier power
@@ -771,13 +772,13 @@ AGE_ARC_1: ~40
 - Full truth about Kami, Jashin, Megami (Kami told all three siblings)
 - Pristania's complete operations and structure
 - Kami's corpse location and research (guards it, studies it)
-- **Percentage is missing** from corpse (60% present, 40% gone)
+- **60% of Kami's power is missing** from the corpse (40% present, 60% gone)
 - Zafiro's true identity (Shiro Kiryuin - only he knows)
 - Hirohiko's memory loss cause (combined power trauma)
 - Free's general operations and ideology
 
 ### **What Diominiciel DOESN'T Know:**
-- **Arjan and Lopney exist** and have the missing 40%
+- **Arjan and Lopney exist** and have the missing 60% (30% each)
 - **Rajin is Megami** (his mother is in Free)
 - **Rajin raised Meiji** (mother helped create father's killer)
 - **Meiji is Ryakujin weapon** (designed to kill Kami)

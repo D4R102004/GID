@@ -103,8 +103,13 @@
 - **2nd resurrection:** Never used (1 use remaining when he died)
 
 **Current Status:**
-- Resurrection ability split between Arjan/Lopney/corpse
-- [TBD: Can they use it? Do they know about it?]
+- Power is split: Arjan (30%), Lopney (30%), corpse (40%)
+- **Control of the Resurrection belongs only to Arjan and Lopney** (decided 2026-09-19). The 40% in the corpse is energy, not control
+- They use it together (both speak the words). Arc 6: they revive Gallan with it
+- This counts as the 2nd resurrection: Kami's power is destroyed entirely, including any 40% held by an absorber
+- Arjan and Lopney keep their own Nouryoku (spheres, nullification). They lose only Kami's abilities: Spear, Shield, Judgment, Flight, Resurrection
+- They gain access to all four core abilities when Kami's part awakens, and use all of them in their Arc 6 duel [TBD: what triggers the awakening, and when]
+- [TBD: How/when they learn about the Resurrection ability]
 
 ---
 
@@ -251,6 +256,12 @@ Their power **fragments into 3 parts:**
 - 30% → **Lopney** (negative fragment)
 - 40% → **Kami's corpse** (guarded by Kamigami, location secret)
 
+**Kami's 40% (Arc 5 update, decided 2026-09-19):**
+- Diominiciel acts as a conduit and transfers the 40% from Kami's corpse to Perlereina. The transfer kills him and his body turns to dust
+- Perlereina absorbs it and becomes far more powerful. She dies at the end of Arc 5
+- The absorbed 40% stays in Perlereina's corpse (it does not fragment again)
+- Arc 6: when Arjan and Lopney use the 2nd resurrection, Kami's power is destroyed and Perlereina's corpse turns to dust
+
 **Implication:**
 - Arjan and Lopney are unaware of their true nature
 - They can potentially unlock all of Kami's abilities
@@ -285,6 +296,7 @@ Their power **fragments into 3 parts:**
 - Arjan/Lopney use 2nd resurrection → Kami's power destroyed → seal breaks
 - All 3 fragments (Arjan, Lopney, corpse) destroyed → seal breaks
 - Time alone won't break it (needs power destruction)
+- **Arc 6 (decided 2026-09-19):** the 2nd resurrection triggers it. Jashin is fully freed: 100% of his power and his consciousness completely free
 
 ---
 
@@ -428,8 +440,8 @@ Their power **fragments into 3 parts:**
 
 ---
 
-**Last Updated:** [Date]
-**Version:** 1.0
+**Last Updated:** 2026-09-19
+**Version:** 1.1
 **Status:** Complete - Ready for combat reference
 
 ---

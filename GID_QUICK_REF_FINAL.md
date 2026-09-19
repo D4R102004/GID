@@ -84,8 +84,8 @@
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
 **Arc 4:** Cristopher (dies saving Arjan), Goro Kiryuin (reconciles with Ichiro first), Gabriella
-**Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot)
-**Arc 6:** [Story not developed yet]
+**Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
+**Arc 6:** Arjan vs. Lopney duel over reviving Gallan; Jashin freed [rest not developed yet]
 
 ---
 

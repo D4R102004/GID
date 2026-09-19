@@ -3,7 +3,7 @@
 ---
 ROLE: Supporting
 FACTION: Island (formerly Pristania)
-STATUS: Alive
+STATUS: Dies Arc 5 (resurrected Arc 6)
 AGE_ARC_1: ~35-40
 ---
 ---
@@ -486,7 +486,19 @@ AGE_ARC_1: ~35-40
 
 ### **Does Gallan Die in Arc 1?**
 - **No.** He survives
-- *[His role in later arcs TBD]*
+
+### **Later Arcs (decided 2026-09-19):**
+- **Arc 5 - Dies (Pristania HQ assault):**
+  - After Arjan defeats Glayne, Arjan stays to watch him and sends Lopney to find "Dad"
+  - Lopney finds Gallan bound to a strange machine, head hanging. He wakes suddenly and chains her foot to it; the machine activates
+  - A device will drag both to the sea floor after a set time. The only way out is the other's death
+  - Gallan is possessed by the spirit of Gloria, who wants revenge on him. The possession is a Nouryoku [TBD: whose]
+  - Lopney awakens her Nouryoku during the fight and nullifies the possession, freeing Gallan
+  - With no time left, Gallan stabs himself so the device stops detecting his pulse and frees Lopney. He falls to the sea floor
+- **Arc 6 - Resurrected:**
+  - Arjan and Lopney revive him with the Resurrection (see Power_System.md)
+  - Gyrus (Hirohiko), his master and best friend, finds him freshly revived
+  - [TBD: where/how he appears, his condition (revived as he was before death), how he and Hirohiko react]
 
 ---
 

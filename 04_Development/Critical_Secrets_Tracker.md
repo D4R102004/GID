@@ -368,17 +368,19 @@
 - **Kami** (deceased - died believing the lie)
 - **The Kamigami** - Kami told them the lie
   - They believe resurrection costs the user's life after two uses
+- **Rajin/Megami** - Kami told her everything (his confession, decided 2026-09-19). She knows he believed the lie and that he considered using his remaining resurrection on his brother (Jashin) but never did, fearing it would kill him
 - **Jashin** - May or may not know (unclear if Hide told him)
 
 ### **WHO DOESN'T KNOW (Either Version):**
-- All of Free
+- All of Free, until Megami's account before the Arc 5 assault (see WHEN REVEALED)
 - All of Pristania (except the Kamigami)
-- Arjan & Lopney
-- Rajin/Megami (she was dead when Hide told the lie)
+- Arjan & Lopney, until that same account [TBD: are they present?]
 
-### **WHEN REVEALED (Planned):**
-- [TBD - Major twist potential]
-- [TBD - If Arjan/Lopney use resurrections, do they discover the truth?]
+### **WHEN REVEALED (Decided 2026-09-19):**
+- **The Lie reaches Free in Arc 5:** before the Pristania assault, Megami tells her son (Meiji) and all of Free her history with Kami, including the lie as Kami believed it. The reader has no reason to suspect Hide lied (major twist)
+- **Arc 6, before the duel:** Arjan suspects Hide lied (hope and intuition, no proof). Lopney does not want to risk death and believes they must let go
+- **Arc 6, the truth:** confirmed instantly when Arjan and Lopney survive reviving Gallan and only lose Kami's part of the power
+- [TBD - Arjan's stated theory (Hide lied so Kami wouldn't revive Megami) conflicts with the timeline: Kami used his 1st resurrection on Megami right after the lie. Needs another motive or reframing]
 
 ### **DRAMATIC IRONY:**
 - Kami had the power to resurrect one more person but was too afraid
@@ -443,8 +445,8 @@
 
 ---
 
-**Last Updated:** [Date]
-**Version:** 1.0
+**Last Updated:** 2026-09-19
+**Version:** 1.1
 **Status:** Foundation Complete - Update as story progresses
 
 ---

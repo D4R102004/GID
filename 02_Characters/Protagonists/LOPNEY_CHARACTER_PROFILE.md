@@ -308,6 +308,8 @@ AGE_ARC_1: 15
 - **Early Arc:** Forced off island (gets her wish, but not how she wanted)
 - **Mid Arc:** Power awakens - feels validated but must grapple with its nature (negation)
 - **Late Arc:** Learns her power is just as god-tier as Arjan's, confronts what that means
+- **Arc 5 (decided 2026-09-19):** Awakens her Nouryoku while fighting a possessed Gallan (nullifies the possession). Gallan sacrifices himself to free her
+- **Arc 6 (decided 2026-09-19):** Secret duel with Arjan over whether to revive Gallan. She believes they must let go and refuses to risk their lives; Arjan believes the risk is worth it. She is the stronger fighter but loses, and keeps her word. After reviving Gallan they lose Kami's abilities (Spear, Shield, Judgment, Flight, Resurrection) and keep their own Nouryoku
 - **Endgame:** Embraces both her martial skill AND her power as complementary strengths
 
 ---
