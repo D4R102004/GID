@@ -214,8 +214,9 @@ He does not say a fixed farewell before missions; he has several phrases and use
 - Raised her on Kami's ideals. She learned of Pristania and her father's role as a teenager, then chose to join and rose to Emperor
 - Very tender with her; hard when needed. Proud she is an Emperor like him
 - She admires him. She shares his devotion and sees truth in Pristania, but she is more inquisitive and not a fanatic like him
-- Claudia's Nouryoku is to be covered in her own profile
-- Claudia works at the Vista Alegre hospital where Bellsaw is taken and dies. She watches him die, helpless. It is a turning point for her
+- Claudia's Nouryoku (Cloud), personality and full history are in CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md
+- Claudia is a **real nurse** at the Vista Alegre hospital where Bellsaw is taken and dies. She watches him die, helpless. It is a turning point for her
+- **He does not know his daughter's best friend "Misty" is the fugitive Gabriella** until Perlereina's meeting in Arc 4 (see Arc 4). He knew the fugitive existed and stayed silent to protect his cover, but never connected her to Claudia
 
 ### **Diominiciel Dei:**
 - Diominiciel holds special respect for him: veteran loyalty, with Kami since the founding
@@ -315,6 +316,14 @@ He does not say a fixed farewell before missions; he has several phrases and use
 - The trials make them see Gallan's story and feel the pain of going against Pristania
 - Afterwards he intends to talk to them so they appreciate their lives and abandon their cause
 
+**Perlereina's meeting (Arc 4, decided 2026-09-19):**
+- After Perlereina defeats Gabriella (with Angel's information) and Claudia saves her life, Perlereina calls a meeting of Pristania. **Bellsaw learns there, at the same time as everyone, that Gabriella is the Metal Knight and that she is his daughter's best friend**
+- Perlereina orders Claudia to finish Gabriella off; Claudia refuses; Perlereina accuses her of treason
+- **Bellsaw intervenes for his daughter:** it is a misunderstanding, and she has the right to fix it in her own way. (His voice-of-reason role with Perlereina; his "gear that spins too fast" register)
+- **Diominiciel** agrees and gives Claudia the task of persuading Gabriella to abandon the fight. Diominiciel takes over the position of Dragoon meanwhile
+- This meeting comes **before** his death
+- [TBD: how it fits with his trap sequence for Arjan, Lopney and Yonoa]
+
 **Death:**
 - Yonoa brutally beats him with her power while he plays with her about her father
 - He is taken to a **Vista Alegre hospital** (not Dr. Araki's practice, which is in Kamino), where Claudia works
@@ -349,8 +358,10 @@ He does not say a fixed farewell before missions; he has several phrases and use
 - Gallan's history in Pristania
 - Police internal information
 - The identities and status of all Pristania high ranks
+- **That the fugitive Gabriella is alive** (silent to protect his cover)
 
 ### **What Bellsaw DOESN'T Know:**
+- **That his daughter's best friend "Misty" is Gabriella**, until Perlereina's meeting in Arc 4
 - **Yurisha's mission** (only Glayne knew)
 - **The Bakuzoku genocide** (Yonoa learns of it only in Arc 5)
 
@@ -399,13 +410,13 @@ He does not say a fixed farewell before missions; he has several phrases and use
 1. **Exact age** (61 proposed)
 2. **Wife's name**
 3. **Signature device:** none defined yet
-4. **Arc 4 details:** the trials, locations, order of events, how Yonoa finds him
+4. **Arc 4 details:** the trials, locations, order of events, how Yonoa finds him. New: Perlereina's meeting comes before his death (see Arc 4); how it fits with his trap sequence
 5. **Aftermath:** what the police find, what Free learns, what happens to his infiltration
 6. **How he avoided suspicion after Kami's raid on the police HQ**
 7. **Arc 1-2 timing:** when Perlereina told the Emperors about Arjan and Lopney
 8. **Arc 3 role**
 9. **Does he use Taeko (whom he knew) as leverage against Yonoa?**
-10. **Claudia's status at the hospital:** cover job or real role?
+10. ~~**Claudia's status at the hospital:** cover job or real role?~~ **RESOLVED (2026-09-19):** she is a real nurse; the hospital is not part of Pristania; she helps get wounded Pristania members taken away from it
 11. **Which of the four robots (Sea, Land, Air, Space) did he build vs Diominiciel?** (Land confirmed co-built)
 12. **Vista Alegre PD emblem design**
 13. **Where the Arc 2 climax happens and how the police are positioned to interfere** (Free HQ is on Gallan's island)

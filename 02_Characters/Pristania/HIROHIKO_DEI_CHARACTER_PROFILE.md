@@ -3,7 +3,7 @@
 ---
 ROLE: Antagonist (becomes protagonist Arc 6)
 FACTION: Pristania (formerly) / Free (Arc 4+)
-STATUS: Alive (becomes Pristania leader Arc 6)
+STATUS: Alive (becomes Pristania leader at the END OF ARC 5)
 AGE_ARC_1: ~38
 ---
 
@@ -690,6 +690,12 @@ AGE_ARC_1: ~38
 - Gyrus survives
 - **Last surviving Kamigami**
 
+**End of Arc 5 (decided 2026-09-19):**
+- **Becomes the leader of Pristania**
+- **Peace between Pristania and Free** is in place by the time Claudia wakes (author: "now that there is peace between the organizations")
+- Emperor **Claudia Whannell (Dragoon)**, in a coma since Arc 4, wakes shortly after, learns everything, and **decides to keep serving Pristania under him** now that there is peace (see her profile)
+- Note: **Jashin is still inside him** (unaware) until it is fully freed in Arc 6, so he leads Pristania while still possessed
+
 ---
 
 ### **Arc 6 (The Dark God Arises):**
@@ -721,13 +727,13 @@ AGE_ARC_1: ~38
 ### **Post-Story (Endgame):**
 
 **Leadership:**
-- **Becomes leader of what remains of Pristania**
+- **Became leader of Pristania at the end of Arc 5** (moved up from post-story, decided 2026-09-19)
 - Rebuilds organization in father's true vision
 - Leads them toward peace and reconciliation
 
 **Reconciliation:**
-- Signs peace with Free
-- Signs peace with Jitsumoto
+- **Peace with Free:** established at the end of Arc 5 (moved up from post-story)
+- Peace with Jitsumoto: [TBD: timing unchanged from before; confirm]
 - **Leads world as Kami intended** - but correctly this time
 
 **Relationship with Protagonists:**
@@ -1121,7 +1127,7 @@ AGE_ARC_1: ~38
 6. **Reunion with Gallan (Arc 6):** Emotional beats, what they say to each other
 7. **Inverse World visuals:** Specific aesthetic details, color palette, atmosphere
 8. **Healing spear appearance:** What does it look like? Taste? Patient experience?
-9. **Post-story role:** Specifics of leading Pristania, rebuilding ideology
+9. **Leadership from the end of Arc 5:** he leads Pristania while still possessed by Jashin (until Arc 6). How does the peace with Free work in practice? What happens to Pristania's ideology and the surviving Emperors (Claudia, Shigo)?
 10. **Relationship with survivors:** How does he interact with Free members post-war?
 
 ---

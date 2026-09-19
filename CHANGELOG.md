@@ -1,5 +1,36 @@
 # GID LORE CHANGELOG
 
+## 2026-09-19 (Claudia profile + consistency pass)
+Claudia Whannell's full profile added. New Arc 4 sequence (Perlereina, the meeting, the persuasion), Hirohiko's leadership and the peace moved to the end of Arc 5, and the changes propagated to the affected files.
+
+### Files changed
+- 02_Characters/Pristania/CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md (NEW)
+- 02_Characters/Pristania/HIROHIKO_DEI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/BELLSAW_JAMES_WHANNELL_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/PERLEREINA_DEI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/DIOMINICIEL_DEI_CHARACTER_PROFILE.md
+- 02_Characters/Supporting/Free/GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md
+- 02_Characters/Protagonists/YONOA_HOUZU_CHARACTER_PROFILE.md
+- 01_Lore/Factions.md
+- 04_Development/Critical_Secrets_Tracker.md
+- 04_Development/Timeline.md
+- 04_Development/Open_Questions_REORGANIZED.md (v2.2)
+- GID_QUICK_REF_FINAL.md
+
+### Changes
+- ADDED: Claudia Whannell (codename Dragoon, alias "Misty"), 21, Pristania Emperor (frontline fighter), real nurse at the Vista Alegre hospital, Bellsaw's daughter. Nouryoku: Cloud. Shy, reserved, determined, does not kill. Codename spelling "Dragoon" is for readers; the origin is "Dragun" = dragon + un (雲, cloud)
+- ADDED: Claudia and Gabriella met at the Vista Alegre hospital when Gabriella arrived hurt after Uragaeshi freed her; Claudia (then ~16, a nursing trainee, not yet in Pristania) treated her. Claudia joined Pristania afterward. Gabriella told her she was a refugee attacked by criminals
+- ADDED (Arc 4): with Angel's information Perlereina corners Gabriella alone and stabs her repeatedly; Claudia arrives, then Free; Perlereina retreats wounded. Claudia saves Gabriella's life. At Perlereina's meeting all of Pristania (Bellsaw included) learns Gabriella is the Metal Knight; Perlereina orders Claudia to kill her, Claudia refuses, Perlereina accuses her of treason, Bellsaw intervenes, Diominiciel gives Claudia the task of persuading Gabriella, orders that nothing be done to Gabriella, and takes over Dragoon's position. Gabriella tells Claudia about Free; Claudia's persuasion fails; Gabriella never learns Claudia is an Emperor. Angel acts on his own and kills Gabriella
+- ADDED: Claudia goes after Yonoa in revenge for Bellsaw's death, starts wanting to kill and doubts mid-fight; Yonoa beats her into a coma. After the peace Yonoa apologizes; Claudia accepts but does not look at her. Claudia has no role in Arc 6
+- CHANGED: **Hirohiko becomes the leader of Pristania at the END OF ARC 5** (was: post-story/Arc 6), and there is **peace between Pristania and Free** by then (was: post-story). Claudia wakes shortly after and stays under him. Hirohiko is still Jashin-possessed until Arc 6
+- CHANGED: Bellsaw learns at the meeting that his daughter's best friend is the fugitive (was: never connected). He intervenes for Claudia
+- RESOLVED: Bellsaw Open Question 10: Claudia's hospital job is real; the hospital is not part of Pristania; Claudia helps get wounded Pristania members taken away from it
+- RESOLVED: Gabriella's Open Question about how Claudia learns "Metal" was the Armor Bastard (at Perlereina's meeting)
+- CORRECTED: Factions.md pointed to a nonexistent CHARACTER_PROFILES/DRAGOON.md; now points to the new profile. Angel added to the Emperors list ("fourth" Emperor, no profile yet)
+- ADDED: Timeline (Gabriella/Claudia meeting, Claudia 21 in Arc 1, Arc 4-6 Emperor events), Secrets Tracker (meeting, "Gabriella never learns"), Quick Ref (Claudia, Arc 4 and end-of-Arc-5 facts)
+- FLAGGED [TBD]: Angel (no profile; motive, how and when he dies); how Diominiciel covers Dragoon's role (Nouryoku is Time Flow Manipulation); which Free members are at the scene (Yonoa?); Gabriella's recovery time; exact order of Gabriella's death, Bellsaw's death and the Yonoa fight; how the peace with Free works; Jitsumoto's peace timing; Claudia's outfits, hobbies, mother's name, more dialogue
+- PROPOSALS (in Claudia's profile, marked "Editor's proposal", not confirmed): her doubt mid-fight as the "concentration/emotional shock" weakness in action; the tornado leaving a core that survives as the reason for the coma; Persuasion as her father's method that fails; Hirohiko (a doctor) and Claudia (a nurse); Gabriella unconscious at the scene (Gabriella's profile marks it as an inference)
+
 ## 2026-09-19 (Gabriella profile)
 Gabriella Centerfox's full profile added. Captive-vs-escaped and who-knows contradictions resolved.
 

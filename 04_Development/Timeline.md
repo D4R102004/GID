@@ -313,6 +313,7 @@ All dates are calculated from these reference points.
 - **Gabriella** (Tairin's daughter) captured
 - Free presumes her dead
 - Gabriella actually held captive at Pristania HQ for several months, then escapes with Uragaeshi's help and hides in Vista Alegre
+- **Gabriella arrives hurt at the Vista Alegre hospital and is treated by Claudia Whannell** (then a nursing trainee/aide, ~16, not yet in Pristania). They become best friends ("Misty" and "Metal"). Claudia joins Pristania afterward
 - **Free builds new headquarters** in the island cliffs (Gallan's island)
 - Hidden from Gallan (doesn't know it's there)
 - Camouflaged within cliff system
@@ -348,11 +349,32 @@ All dates are calculated from these reference points.
 - Pristania HQ in Vista Alegre ruins
 - Cold war between factions continues
 - Gabriella hiding in Vista Alegre as the "Metal Knight" (believed dead by Free)
+- Claudia Whannell (Dragoon), 21, a nurse at the Vista Alegre hospital and a recently made Pristania Emperor, is Gabriella's best friend "Misty" (neither knows the other's faction)
 - Jashin possessing Hirohiko (no one knows except Jashin himself)
 
 ### **Arc 1 Begins**
 - Story starts with Arjan and Lopney at age 15
 - Gallan's peaceful isolation about to be shattered
+
+---
+
+## ARC 4-6 EVENTS (as decided in drafting; not yet fully sequenced)
+
+### **Arc 4 (Vista Alegre), order of the Emperor events**
+1. Perlereina, with Angel's information, corners Gabriella alone and stabs her repeatedly. Claudia arrives, then the Free members; Perlereina retreats. Claudia saves Gabriella's life on the spot
+2. Perlereina's meeting: everyone in Pristania learns Gabriella is the Metal Knight. Perlereina orders Claudia to kill her; Claudia refuses; treason accusation; Bellsaw intervenes; Diominiciel gives Claudia the task of persuading Gabriella and orders that nothing be done to her. Diominiciel takes Dragoon's position meanwhile
+3. Claudia persuades; Gabriella tells her about Free, refuses to stop
+4. Angel acts on his own and kills Gabriella (the ceasefire is not broken by Diominiciel)
+5. Bellsaw dies (beaten by Yonoa; dies in the hospital where Claudia works)
+6. Claudia goes after Yonoa and is beaten into a coma
+[TBD: exact order of 4, 5 and 6; how the fall of the Vista Alegre police fits]
+
+### **Arc 5 end**
+- Perlereina and Diominiciel die; Hirohiko becomes the leader of Pristania; peace between Pristania and Free
+- Claudia wakes shortly after, learns everything (Angel is already dead), and stays in Pristania under Hirohiko
+
+### **Arc 6**
+- Jashin is freed and confronted (Claudia takes no part)
 
 ---
 

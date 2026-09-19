@@ -1019,6 +1019,12 @@ AGE_ARC_1: 33
 - Hasn't processed grief healthily
 - **Needs to learn forgiveness** (not there yet)
 
+**Encounters with the Emperors (decided 2026-09-19):**
+- **Bellsaw:** she brutally beats him with her power while he plays with her about her father (see his profile). He dies in a Vista Alegre hospital
+- **Claudia Whannell (Dragoon):** Bellsaw's daughter goes after Yonoa in revenge for his death. Claudia starts wanting to kill, then doubts mid-fight. **Yonoa beats her with Aeronaval Gigablasts and tornadoes** (a cloud is scattered by wind, so Yonoa's power is the hard counter) and leaves her in a **coma**. Claudia is the nurse who saved Gabriella earlier; if Yonoa was among the Free members present, she has seen her
+- **After the peace:** Yonoa **apologizes to Claudia**, who accepts but does not look at her. (Fits her arc of learning forgiveness and responsibility)
+- [TBD: whether Yonoa was among the Free members at the scene where Claudia saved Gabriella; how she learns Claudia's link to Bellsaw]
+
 ---
 
 ### **Arc 5 - "A Sanctuary of Peace and Order" (Pristania HQ Assault):**

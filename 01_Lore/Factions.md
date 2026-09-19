@@ -419,6 +419,7 @@
 - **Hirohiko is absent** from Pristania
   - [SPOILER: Lost his memories in a conflict with his siblings, imprisoned by them, later escaped]
   - His whereabouts unknown to most of Pristania
+  - [LATER DEVELOPMENT, decided 2026-09-19: **at the end of Arc 5 Hirohiko becomes the leader of Pristania** (Diominiciel and Perlereina die in Arc 5), and there is **peace between Pristania and Free**. Claudia (Dragoon) stays under him]
 
 **Individual Responsibilities:**
 
@@ -555,12 +556,12 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
    - *[Main antagonist role in Arc 4]*
    - *[See 02_Characters/Pristania/BELLSAW_JAMES_WHANNELL_CHARACTER_PROFILE.md for full details]*
 
-2. **Dragoon (真名: Claudia Whannell)**
-   - Elite Emperor
-   - **Background:** Daughter of James Whannell (Bellsaw)
-   - **Note:** Achieved Emperor rank through prowess, but family connection helped
-   - *[Main antagonist role in Arc 4]*
-   - *[See CHARACTER_PROFILES/DRAGOON.md for full details]*
+2. **Dragoon (真名: Claudia Whannell)** (alias "Misty")
+   - Elite Emperor, frontline fighter. **Nouryoku: Cloud** (becomes a cloud in whole or in part)
+   - **Background:** Daughter of James Whannell (Bellsaw). A real nurse at the Vista Alegre hospital (the hospital is not part of Pristania)
+   - **Note:** Achieved Emperor rank through prowess, but family connection helped. Recently made Emperor
+   - *[Main antagonist role in Arc 4; falls into a coma after fighting Yonoa; wakes at the end of Arc 5 and stays in Pristania under Hirohiko]*
+   - *[See 02_Characters/Pristania/CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md for full details]*
 
 3. **Shigo - 死後 (真名: Takeshi Kondo 近藤毅)**
    - Elite Emperor
@@ -842,6 +843,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 - Bellsaw / James Whannell
 - Dragoon / Claudia Whannell
 - Shigo / Takeshi Kondo 近藤毅
+- Angel (joins the protagonists at the start of Arc 4 to feed Pristania information; kills Gabriella in Arc 4; dead by the end of Arc 5. **No profile yet**). The "fourth" Emperor
 
 **Technological Assets:**
 - Sea (Survey Unit S34)

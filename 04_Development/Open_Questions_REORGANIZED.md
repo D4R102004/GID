@@ -1,5 +1,5 @@
 # GID - OPEN QUESTIONS TRACKER
-**Version:** 2.1
+**Version:** 2.2
 **Last Updated:** 2026-09-19
 **Status:** Reorganized — questions sorted by priority, resolved questions archived at bottom
 
@@ -104,12 +104,23 @@
   - Tairin: how and when does she learn her daughter lived and died?
   - **Angel:** new Emperor, no profile yet (Nouryoku, identity, how he infiltrates the protagonists at the start of Arc 4)
   - Order of Arc 4 events between finding the Metal Knight and Gabriella's death, incl. the fall of the Vista Alegre police
-  - **Claudia/Dragoon:** Nouryoku (tied to "Misty"), own profile, fight with Yonoa (ends in coma; wakes after the Pristania assault), how she learns Metal was the Armor Bastard
+  - ~~**Claudia/Dragoon:** Nouryoku, own profile, fight with Yonoa, how she learns Metal was the Armor Bastard~~ **RESOLVED 2026-09-19** (see CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md)
   - Lyzander/Gabriella: how far the romantic tension went
   - Does Hirohiko know she escaped?
   - Geography: Kamigami mansion location; Gabriella's abandoned-building refuge in Vista Alegre
 
+- [ ] **The Perlereina / Gabriella / Claudia sequence (Arc 4, decided 2026-09-19; see Claudia's profile)**
+  - How does it fit with the Cristopher incident and the fall of the Vista Alegre police?
+  - Which Free members are at the scene? Is Yonoa one of them? How does the exchange between Perlereina and Claudia look from Free's side, given Free reads Claudia only as a nurse?
+  - What does Gabriella tell Claudia about Free, her duty and her family? Does Claudia learn Tairin's name or Free's structure?
+  - How long is Gabriella's recovery and where does she recover?
+  - How does Diominiciel cover Dragoon's position (Nouryoku is Time Flow Manipulation; he avoids direct combat)?
+  - Why does Angel act on his own against Diominiciel's ceasefire? Does Pristania learn he did?
+  - **Angel profile:** Nouryoku, identity, motive, and how and when he dies (he is dead by the time Claudia wakes)
+  - Exact order of Gabriella's death, Bellsaw's death and the Yonoa fight
+
 - [ ] **Bellsaw's Arc 4 storyline**
+  - Perlereina's meeting comes before his death; how does it fit with his trap sequence?
   - The trap sequence (trials showing Gallan's story), locations and order
   - How Yonoa finds him; the beating; his death in a Vista Alegre hospital with Claudia present
   - Police investigation: what they find, what Free learns, what becomes of his infiltration
@@ -118,6 +129,11 @@
 ---
 
 ## ARC 5 BLOCKERS
+
+- [ ] **Hirohiko becomes leader of Pristania and there is peace with Free at the end of Arc 5 (decided 2026-09-19)**
+  - How does the peace work in practice? Who agrees to it for Free (Meiji, Kensuke)? Does Jitsumoto sign too?
+  - Hirohiko leads while Jashin is still inside him (unaware) until Arc 6: consequences for the peace
+  - What happens to the surviving Emperors (Claudia stays; Shigo: TBD)
 
 - [ ] **Hirohiko vs. Diominiciel — "Something complicated happens"**
   - How does Jashin empower Gyrus for this fight?
@@ -397,4 +413,16 @@
 
 ---
 
-*END OF OPEN QUESTIONS TRACKER v2.1*
+**[✅ RESOLVED — 2026-09-19] Claudia (Dragoon): Nouryoku, arc, and how she learns Metal was the Armor Bastard**
+→ Nouryoku: Cloud (becomes a cloud in whole or in part, incorporeal, lightning and rain, regenerates by absorbing nearby clouds, cloud clones, flight, dispersal). She learns Gabriella is the Metal Knight at Perlereina's meeting in Arc 4, after saving Gabriella's life; Perlereina orders her to kill Gabriella, she refuses, Bellsaw and Diominiciel overrule Perlereina and send her to persuade Gabriella, who refuses. Bellsaw dies; Claudia goes after Yonoa and is beaten into a coma; she wakes shortly after the end of Arc 5, learns everything, and stays in Pristania under Hirohiko. No role in Arc 6.
+*(Source: user decision; full detail in CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md)*
+
+---
+
+**[✅ RESOLVED — 2026-09-19] Claudia's status at the hospital: cover job or real role?**
+→ Real nurse. The hospital is not part of Pristania; Claudia helps get wounded Pristania members taken away from it.
+*(Source: user decision)*
+
+---
+
+*END OF OPEN QUESTIONS TRACKER v2.2*

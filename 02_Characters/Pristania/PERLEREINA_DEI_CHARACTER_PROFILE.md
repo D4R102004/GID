@@ -558,6 +558,14 @@ AGE_ARC_1: ~35
 - **Perlereina's satisfaction** - hurt Meiji even if she didn't kill him directly yet
 - **Escalation** - proves she's ruthless, willing to kill anyone
 
+**The Gabriella Incident (decided 2026-09-19):**
+- Angel, feeding Pristania information from inside the protagonists' side, lets Perlereina **corner Gabriella alone**. Gabriella was her captive years before (with Diominiciel) and escaped
+- After a hard battle, **Perlereina defeats her by stabbing her repeatedly**
+- **Emperor Claudia (Dragoon) arrives** and finds her boss stabbing her best friend. The Free members arrive as well; **outnumbered and wounded from the fight, Perlereina retreats**
+- Claudia treats Gabriella on the spot and saves her life. Perlereina calls a **meeting** of Pristania about what happened, where everyone learns Gabriella is the Metal Knight
+- **At the meeting she orders Claudia to finish Gabriella off. Claudia refuses, and Perlereina accuses her of treason.** Bellsaw intervenes for his daughter and Diominiciel agrees, giving Claudia the task of persuading Gabriella to abandon the fight. Perlereina is overruled (she listens to Diominiciel)
+- [TBD: order relative to the Cristopher incident; her reaction to being overruled]
+
 ---
 
 ### **Arc 5 (A Sanctuary of Peace and Order - Pristania HQ Assault):**
@@ -658,6 +666,7 @@ AGE_ARC_1: ~35
 ## **SECRETS & KNOWLEDGE**
 
 ### **What Perlereina Knows:**
+- **That Gabriella (her former captive) escaped and is the Metal Knight** (from Arc 4, with Angel's information)
 - Full truth about Kami, Jashin, Megami (Kami told her)
 - Pristania's complete operations and structure
 - Kami's corpse location (guards it with siblings)
@@ -770,6 +779,7 @@ AGE_ARC_1: ~35
 8. **Rajin/Megami reveal** - Does she learn the truth before dying?
 9. **Sea's capabilities** - What can her robot companion do?
 10. **Beach routine with Glayne** - How often? Their special place?
+11. **Gabriella incident (Arc 4):** order relative to the Cristopher incident; how she reacts to being overruled by Bellsaw and Diominiciel; how a top-tier fighter ends up retreating (numbers and wounds, per the author)
 
 ---
 

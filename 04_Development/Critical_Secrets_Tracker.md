@@ -296,7 +296,14 @@
 - **Her captors, Perlereina and Diominiciel** (know she escaped) [TBD: Hirohiko]
 - **Bellsaw** (knows; silent to protect his cover)
 - The Emperors know the matter exists but rarely discuss it
-- **Claudia/Dragoon does NOT know** she is the fugitive (Claudia is Gabriella's best friend "Misty")
+- **Claudia/Dragoon does NOT know** she is the fugitive (Claudia is Gabriella's best friend "Misty") **until Perlereina's meeting in Arc 4**
+
+### **REVEALED WITHIN PRISTANIA (Arc 4, decided 2026-09-19):**
+- After Perlereina defeats Gabriella (with Angel's information) and Claudia saves her life, Perlereina calls a meeting. **All of Pristania, including Bellsaw and Claudia, learns at the same time that Gabriella is the Metal Knight** and that she is Claudia's best friend "Misty"
+- Perlereina orders Claudia to kill her; Claudia refuses; Bellsaw and Diominiciel overrule Perlereina and send Claudia to persuade Gabriella to give up
+- **Free's members present see Claudia only as a nurse**; they do not know she is an Emperor
+- **Gabriella never learns that Claudia is an Emperor**
+- After the operation, **Gabriella tells Claudia** about Free, her duty and her family
 
 ### **WHO DOESN'T KNOW (Thinks She's Dead):**
 - **Tairin** (her mother - believes daughter is dead, mourning for 5 years)
@@ -310,7 +317,7 @@
 ### **DRAMATIC IRONY:**
 - Tairin has mourned for 5 years while her daughter was alive
 - Gabriella's survival could have changed Free's approach, but neither she nor Uragaeshi could find Free's hidden HQ
-- Her best friend in Vista Alegre, "Misty", is Claudia/Dragoon, a Pristania Emperor. Neither knows the other's organization
+- Her best friend in Vista Alegre, "Misty", is Claudia/Dragoon, a Pristania Emperor. Neither knows the other's organization (until Arc 4, and then only Claudia learns, never Gabriella)
 - The revelation comes too late to save her
 
 ### **THEMATIC WEIGHT:**

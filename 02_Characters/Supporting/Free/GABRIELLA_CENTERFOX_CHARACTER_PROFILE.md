@@ -122,6 +122,7 @@
 - Sees Uragaeshi from time to time to **plan upcoming operations**
 - **Pristania actively hunts her.** Bellsaw, a commander in the Vista Alegre police, has told the police nothing (they would suspect him)
 - She gathers **information on Pristania's movements** and **hinders Pristania's plans and those of the Vista Alegre police**, without any contact with Free
+- **She arrived at the Vista Alegre hospital hurt after Uragaeshi freed her, and Claudia (then a nursing trainee/aide, not yet in Pristania) treated her.** They bonded, and Gabriella returned once she was well. Both were lonely and became each other's shelter (see Claudia's profile)
 - She could not return to Free, and neither could Uragaeshi: **Free is a hidden secret organization, exactly like Pristania**, and they have no way to find it
 - Had to use her Nouryoku **in real time** to survive: her skills improved and she found more ingenious ways to use them
 - As the **Metal Knight / Armor Bastard** she wreaks havoc on Vista Alegre's lesser organizations and on its police
@@ -194,16 +195,17 @@
 
 ### **Claudia Whannell / Dragoon, "Misty" (Best Friend in Vista Alegre):**
 - Her best friend. Talk when bored, volleyball together
-- Gabriella introduces herself as **"Metal"**; Claudia introduces herself as **"Misty"** (her Emperor name "Dragoon" is not shared). The name "Misty" is tied to Claudia's Nouryoku, like "Dragoon" (to be covered in Claudia's own profile)
+- Gabriella introduces herself as **"Metal"**; Claudia introduces herself as **"Misty"** (her Emperor name "Dragoon" is not shared). The name "Misty" is tied to Claudia's Nouryoku, like "Dragoon" (covered in CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md: her Nouryoku is Cloud)
 - They **swore not to tell anyone the other's secret**, meaning their abilities. Each knows the other's Nouryoku
 - **Neither knows the other's organization:**
   - Gabriella does not tell Claudia she is from Free/on the run: she fears Pristania would hunt her through the connection
-  - Claudia does not tell Gabriella she is a Pristania Emperor: Emperor identities must stay secret, and she does not want her friend involved in Pristania's world, with Free and Meiji, so she doesn't worry and doesn't get hurt
-- Claudia **does not connect the dots**: it does not cross her mind that her friend is the fugitive or the Armor Bastard. The Emperors rarely discuss Gabriella, and Claudia only became an Emperor recently and is not well connected to the history. Pristania thinks the Armor Bastard is a man
+  - Claudia does not tell Gabriella she is a Pristania Emperor: Emperor identities must stay secret, and she does not want her friend involved in Pristania's world, with Free and Meiji, so she doesn't worry and doesn't get hurt. (Claudia joined Pristania *after* meeting Gabriella)
+- **Until Arc 4**, Claudia **does not connect the dots**: it does not cross her mind that her friend is the fugitive or the Armor Bastard. The Emperors rarely discuss Gabriella, and Claudia only became an Emperor recently and is not well connected to the history. Pristania thinks the Armor Bastard is a man. She also does not suspect her friend could be an underground hero fighting Pristania, and overlooks the clues
+- **Arc 4 (decided 2026-09-19):** Perlereina defeats Gabriella and Claudia saves her life (see Arc 4). Claudia learns Gabriella is the Metal Knight at Perlereina's meeting, and is sent to persuade her to give up. **After waking from the operation, Gabriella decides Claudia should know everything and tells her about Free, her duty and her family, and sincerely apologizes.** Claudia asks her to stop ("I can't always be there to catch you"); Gabriella refuses. **Gabriella never learns Claudia is an Emperor**
 
 ### **Pristania:**
 - **Perlereina and Diominiciel** held her. They know she escaped. [TBD: whether Hirohiko knows]
-- **Bellsaw** (Vista Alegre police commander) is silent about her presence to avoid suspicion
+- **Bellsaw** (Vista Alegre police commander) is silent about her presence to avoid suspicion. He learns at Perlereina's meeting in Arc 4 that his daughter's best friend is Gabriella
 - Pristania hunts her actively
 
 ### **Angel (Emperor, the killer in Arc 4):**
@@ -222,8 +224,17 @@
 ### **Structure:**
 - **All the events of Arc 4 happen between finding her and her death**
 
+### **The Perlereina incident (decided 2026-09-19):**
+1. With **Angel's information**, **Perlereina corners Gabriella alone**. After a hard battle she defeats her by **stabbing her repeatedly** (editor's note: this hits her listed weaknesses: being cornered, and her trauma of Pristania)
+2. **Claudia ("Misty") arrives** and finds her boss stabbing her best friend. **The Free members arrive**; outnumbered and wounded, **Perlereina retreats**. All of Free sees Claudia, but reads her only as a nurse who is saving Gabriella. (Editor's inference, not confirmed: Gabriella is unconscious and does not see Claudia there)
+3. **Claudia treats her on the spot**, calling the hospital for supplies, and **saves her life**
+4. At Perlereina's meeting Pristania learns Gabriella is the Metal Knight. **Perlereina orders Claudia to finish her off; Claudia refuses.** Bellsaw and Diominiciel overrule Perlereina and give Claudia the task of persuading Gabriella to give up. **Diominiciel orders that nothing be done to Gabriella meanwhile**
+5. After the operation Gabriella tells Claudia everything about Free, her duty and her family, and apologizes. Claudia begs her to stop. Gabriella **refuses**
+6. **Angel breaks the ceasefire by acting on his own** (Diominiciel never does); see Death
+[TBD: recovery time before the trap; where she recovers (with Free?)]
+
 ### **Death (author-defined):**
-1. After the fall of the Vista Alegre police department, **Angel** guides **Lyzander and Gabriella** to a building holding **intel on Pristania's Emperors**
+1. After the fall of the Vista Alegre police department, and **acting on his own** (not on Diominiciel's ceasefire order), **Angel** guides **Lyzander and Gabriella** to a building holding **intel on Pristania's Emperors**
 2. On arrival Angel **reveals himself as an Emperor**, boards a **giant mecha (megazord-style)** and fires an **energy beam** at both
 3. Gabriella **blocks it with a metal shield**. It is too strong and she knows she cannot hold
 4. She **opens a path for Lyzander to escape** before she is **brutally wounded**
@@ -235,7 +246,7 @@
 - Consistent with her rules: she forms and **detaches** them before dying, so they persist as plain iron (attached metal would vanish when she loses concentration)
 
 ### **Aftermath:**
-- **Claudia** fights Yonoa in that same period, ends up in a **coma**, and only wakes **after the assault on Pristania**, when she learns her friend is dead
+- **Claudia** goes after Yonoa in revenge for her father's death, starts wanting to kill and doubts mid-fight, and ends up in a **coma**. She wakes **shortly after the Pristania assault** (end of Arc 5), when she learns **everything**: Gabriella's death and how it happened. **Angel is dead by then**
 - **Lyzander** carries the loss (see his profile). Lyon learns in Arc 5
 - **Tairin** learns her daughter was alive only to lose her again [TBD: how and when she learns]
 
@@ -260,13 +271,13 @@
 - **Perlereina and Diominiciel** (her captors: they know she escaped) [Hirohiko: TBD]
 - **Bellsaw** (aware, silent to protect his cover)
 - The Emperors know the matter exists but rarely discuss it
-- **Claudia does not know**
+- **Claudia did not know until Perlereina's meeting in Arc 4.** From that meeting on, **all of Pristania knows Gabriella is the Metal Knight** and she is the fugitive
 
 **Who thinks she is dead:** Tairin, Terror, all of Free (memorial held), Lyon, Arjan and Lopney (will learn later). Lyzander refuses to accept it and believes she is alive, without certainty.
 
 **What Gabriella does NOT know:**
 - Where Pristania HQ is, or what it looks like inside
-- That "Misty" is Claudia Whannell, Dragoon, Bellsaw's daughter and a Pristania Emperor
+- That "Misty" is Claudia Whannell, Dragoon, Bellsaw's daughter and a Pristania Emperor. **She never learns it** (decided 2026-09-19)
 - Where Free's hidden HQ is
 
 **What the AUDIENCE knows that Gabriella does not:** that her best friend is a Pristania Emperor.
@@ -294,8 +305,8 @@
 
 1. **Sample dialogue:** a line that represents her
 2. **Angel:** no profile exists. Nouryoku, identity, how he infiltrates the protagonists, why Free/the group trusts him. (Factions says "4 Emperors, currently 3": Angel would be the fourth)
-3. **Order of events in Arc 4** between her discovery and the fall of the police department, and Angel's plan
-4. **Claudia:** her Nouryoku (tied to "Misty" and "Dragoon"), her profile, the fight with Yonoa, how she learns Metal was the Armor Bastard
+3. **Order of events in Arc 4** between her discovery and the fall of the police department, and Angel's plan. New: the Perlereina incident and the persuasion happen in between; recovery time and where she recovers are TBD
+4. ~~**Claudia:** her Nouryoku, her profile, the fight with Yonoa, how she learns Metal was the Armor Bastard~~ **RESOLVED (2026-09-19):** see CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md. She learns at Perlereina's meeting
 5. **Tairin:** how and when she learns Gabriella lived and died
 6. **Lyzander / Gabriella:** how far the romantic tension went; is there a moment between them in Arc 4?
 7. **Ground-traveling iron:** range limit (presumably the same as the rod: tens of meters)
