@@ -449,7 +449,7 @@ AGE_ARC_1: N/A (died age 50)
 - **In his ideology** - taught them Pristania's mission
 - **For greatness** - told them they were destined for it
 - **Prepared them to lead** - but didn't WANT them as leaders
-- **Wanted to find an outside successor** - keep them safe
+- **Wanted to find an outside successor** - keep them safe (he found **Angel Velasco**; see "Angel Velasco" under Key Relationships)
 
 **Relationship with Each:**
 - **Diominiciel (eldest):** *[TBD in their profile]*
@@ -462,6 +462,17 @@ AGE_ARC_1: N/A (died age 50)
 - They'd stay safe (contradictory with leading Pristania)
 
 ---
+
+### **Angel Velasco (His Secret Successor and Lover):**
+*(Added 2026-09-19 from the author. Full detail in ANGEL_CHARACTER_PROFILE.md.)*
+- Kami sought **a successor for Pristania who was not one of his children**, so they would not fight over power. He found Angel: an orphan born without an arm and a failed shopkeeper. He knew Angel's past and resolved to **educate him**
+- He **pulled strings inside Pristania** so Angel's business prospered and Angel became a star of the city, then told him he was the chosen successor and asked whether he would leave everything behind. Angel accepted
+- They became **close friends and, in time, lovers**. Angel **idolized** Kami; Kami saw in him **a true friend**
+- Kami **kept Angel secret from Pristania** during his formation, in case anyone tried to kill or attack him
+- Kami decided Angel was ready and promised to present him to Pristania. **Three days before he could, Meiji killed him**
+- Angel had given Kami a **handkerchief, his only memento of his mother**. Kami **was carrying it** when he died
+- As leader of Pristania Kami **was** the 4th Emperor, so for him the two titles were equivalent. Angel takes the 4th Emperor seat, but not the leadership: Perlereina grants him the title only years later (when the protagonists reach Vista Alegre) and keeps it secret
+- Editor's note: this is a **later** relationship than the Megami thread (Kami was 50, Angel about 25). [TBD: how it sits beside his lingering feelings for Megami]
 
 ### **The 4 Emperors:**
 
@@ -500,6 +511,7 @@ AGE_ARC_1: N/A (died age 50)
 - **Jashin's body location** - only the Kamigami would find it later
 - **Full details of Ryakujin experiments** - buried with him
 - **His plan to revive Jashin** - never enacted
+- **His plan to present Angel as his successor** - three days short (see Angel's profile)
 - **His true feelings about Megami** - did he ever stop loving her?
 
 ---

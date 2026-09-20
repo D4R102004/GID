@@ -1025,6 +1025,10 @@ AGE_ARC_1: 33
 - **After the peace:** Yonoa **apologizes to Claudia**, who accepts but does not look at her. (Fits her arc of learning forgiveness and responsibility)
 - [TBD: whether Yonoa was among the Free members at the scene where Claudia saved Gabriella; how she learns Claudia's link to Bellsaw]
 
+**The Arc 4 finale (decided 2026-09-19):**
+- After Lyzander freezes Angel's mecha and Angel, and with him **wingless, gravely wounded and trapped under collapsing rubble**, **Yonoa appears and saves him**. It pays off her growing love for him (see his profile)
+- [TBD: how she knows where he is; what she does; how it fits the timeline with the Bellsaw and Claudia fights]
+
 ---
 
 ### **Arc 5 - "A Sanctuary of Peace and Order" (Pristania HQ Assault):**

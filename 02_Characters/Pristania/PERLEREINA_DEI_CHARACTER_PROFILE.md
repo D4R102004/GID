@@ -488,6 +488,16 @@ AGE_ARC_1: ~35
 
 ---
 
+### **Angel Velasco (Her Secret 4th Emperor and Spy):**
+*(Added 2026-09-19 from the author. Full detail in ANGEL_CHARACTER_PROFILE.md.)*
+- **She found him.** When she and Diominiciel hid Kami's body to study it, she **noticed a handkerchief** on it (Angel's only memento of his mother, which he had given Kami). She traced **Angel's mother to her death at the orphanage**, then traced **Angel himself**, about **12-13 years after Kami's death** (the Angel profile suggests 13-14), after Gabriella escaped and before the protagonists reached Vista Alegre
+- Once she understood **what her father had done** (chosen an outsider as successor, and been Angel's lover), she gave him **the chance to be her spy, to honor her father**
+- **She is the one who deals with him.** **Only she and Diominiciel know he exists**
+- She sends him to **tail Derek Guzman**, a Vista Alegre police commander. When the protagonists arrive, he **tails them instead**, and she **grants him the title of 4th Emperor in secret**, so he can keep his undercover role
+- She **commissions Bellsaw** to build him a giant mecha (she gives the design, including its face; Bellsaw does not know who Angel is) and uses it to **destroy Vista Alegre out of hatred**, but **orders Angel not to destroy the hospital** where Claudia lies
+- She **orders him to lure Gabriella and Lyzander into a trap and kill both**, against Diominiciel's ceasefire
+- [TBD: how she feels about her father choosing an outsider over his own children; whether she knew about the romance; her reaction to Angel's death]
+
 ### **Sea (Survey Unit S34 - Her Beloved Robot):**
 
 **Their Relationship:**
@@ -559,12 +569,17 @@ AGE_ARC_1: ~35
 - **Escalation** - proves she's ruthless, willing to kill anyone
 
 **The Gabriella Incident (decided 2026-09-19):**
-- Angel, feeding Pristania information from inside the protagonists' side, lets Perlereina **corner Gabriella alone**. Gabriella was her captive years before (with Diominiciel) and escaped
+- Angel, her secret spy inside the protagonists' side, gives her **where and when Gabriella will be alone** (he does not know who she is), so she can **corner her alone**, suddenly on the page. Gabriella was her captive years before (with Diominiciel) and escaped
 - After a hard battle, **Perlereina defeats her by stabbing her repeatedly**
 - **Emperor Claudia (Dragoon) arrives** and finds her boss stabbing her best friend. The Free members arrive as well; **outnumbered and wounded from the fight, Perlereina retreats**
 - Claudia treats Gabriella on the spot and saves her life. Perlereina calls a **meeting** of Pristania about what happened, where everyone learns Gabriella is the Metal Knight
 - **At the meeting she orders Claudia to finish Gabriella off. Claudia refuses, and Perlereina accuses her of treason.** Bellsaw intervenes for his daughter and Diominiciel agrees, giving Claudia the task of persuading Gabriella to abandon the fight. Perlereina is overruled (she listens to Diominiciel)
 - [TBD: order relative to the Cristopher incident; her reaction to being overruled]
+
+**The trap and Vista Alegre (decided 2026-09-19):**
+- **She hates Vista Alegre**: for her everyone there is guilty of **not supporting Kami while he lived**, and she **hates its police department**
+- Against Diominiciel's ceasefire, she has Angel **lure Gabriella and Lyzander into a trap and kill both**, and uses the mecha Bellsaw built to **destroy a large part of the city**. She orders Angel **not to destroy the hospital** where Claudia lies
+- **Lyzander freezes the mecha and Angel** (Angel dies). [TBD: her reaction; whether she learns Lyzander knows everything about Angel and her role]
 
 ---
 
@@ -667,6 +682,7 @@ AGE_ARC_1: ~35
 
 ### **What Perlereina Knows:**
 - **That Gabriella (her former captive) escaped and is the Metal Knight** (from Arc 4, with Angel's information)
+- **That Angel exists** (Kami's secret chosen successor, her spy and secret 4th Emperor). Only she and Diominiciel know
 - Full truth about Kami, Jashin, Megami (Kami told her)
 - Pristania's complete operations and structure
 - Kami's corpse location (guards it with siblings)

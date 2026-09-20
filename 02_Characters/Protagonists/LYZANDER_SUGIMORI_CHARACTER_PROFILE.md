@@ -240,15 +240,15 @@ AGE_ARC_1: ~19
 3. **Combat Applications:**
    - **Scorch opponents** with blue flames
    - **Solidify fire around them** - freezes them alive (extremely brutal)
-   - **Freeze technique used ONCE** in entire story (too cruel)
+   - **Freeze technique used ONCE** in entire story (too cruel). **It is used on Angel in the Arc 4 finale**
    - **Materialize weapons** and fight with them
    - **Hover/Levitate** by ejecting fire from feet (jet pack effect)
-   - **Does NOT fly** in literal sense - merely hovers, increased mobility
+   - **Does NOT fly** in literal sense - merely hovers, increased mobility (**exception:** Gabriella's metal wings, powered by his blue fire, in the Arc 4 finale)
 
 **Signature Technique:**
 - **Materialized sword combat** - creates blade, fights with it
 - **Burning enemies** - scorching attacks
-- **Freezing alive** (once only) - solidifies fire around target, fatal
+- **Freezing alive** (once only) - solidifies fire around target, fatal (**used on Angel**, Arc 4 finale)
 
 ---
 
@@ -1031,6 +1031,14 @@ AGE_ARC_1: ~19
    - His worst fear realized
    - After finding her alive, loses her again
    - **Ultimate devastation**
+
+**The Emperor Angel and the Arc 4 finale (decided 2026-09-19):**
+- A **beggar, Angel**, first approaches Lyzander asking for money, and earns the group's trust by pointing them to the Metal Knight (Gabriella). He is a **secret 4th Emperor** and Perlereina's spy (see ANGEL_CHARACTER_PROFILE.md)
+- In the finale Angel lures him and Gabriella into a trap. A projector shows Angel's life and **all his acts, including his betrayals**; **Lyzander learns everything**, including Perlereina's part
+- Angel reveals himself and fires from a giant mecha. Gabriella shields him, opens him a path, and dies. Her last words: she loves him ("que lo quiere") and he must **save Lyon**. She gives him **metal wings** (real flight, powered by his blue fire)
+- He fights the mecha and **freezes it**, but is **gravely wounded**. Angel burns his wings and is about to kill him; Lyzander **freezes Angel alive**: **his only use of that technique** (Angel offered him to Kami as "Meiji's son")
+- **Yonoa saves him** from the collapsing rubble
+- [TBD: how Lyzander carries having killed; what he does with what he learned about Perlereina and Kami's secret successor; whether he tells Free and Meiji]
 
 **Falling in Love:**
 - Feelings for Yonoa **deepen**

@@ -238,6 +238,7 @@ All dates are calculated from these reference points.
   - Revenge achieved, feels emptiness
   - Mourns for the Kamigami (now fatherless)
   - Remains in Free but becomes wandering, emotionally absent
+- **Angel Velasco** (Kami's secret chosen successor and lover, about 25) was to be presented to Pristania **three days later**. He never is: cut off from Pristania, beaten at its gate, he ends up in debt and on the street (see ANGEL_CHARACTER_PROFILE.md)
 
 ---
 
@@ -318,6 +319,11 @@ All dates are calculated from these reference points.
 - Hidden from Gallan (doesn't know it's there)
 - Camouflaged within cliff system
 
+### **About 4-5 Years Before Arc 1 - Perlereina Finds Angel**
+- Perlereina notices a handkerchief on Kami's body (the only memento of Angel's mother, which he gave Kami), traces Angel's mother to her death at the orphanage, then Angel himself, and makes him her secret spy "to honor her father"
+- Author's timing: **12-13 years after Kami's death, after Gabriella escapes and before the protagonists reach Vista Alegre**. Gabriella escaped about 4.5 years before Arc 1 and Kami died 18 years before, so the gap works out to about 13-14 years
+- She assigns him to tail **Derek Guzman**, a Vista Alegre police commander. Only Perlereina and Diominiciel know Angel exists
+
 ### **Peace Period Developments**
 - Pristania declared illegal by Vista Alegre
 - Both factions operate in hiding
@@ -364,14 +370,15 @@ All dates are calculated from these reference points.
 1. Perlereina, with Angel's information, corners Gabriella alone and stabs her repeatedly. Claudia arrives, then the Free members; Perlereina retreats. Claudia saves Gabriella's life on the spot
 2. Perlereina's meeting: everyone in Pristania learns Gabriella is the Metal Knight. Perlereina orders Claudia to kill her; Claudia refuses; treason accusation; Bellsaw intervenes; Diominiciel gives Claudia the task of persuading Gabriella and orders that nothing be done to her. Diominiciel takes Dragoon's position meanwhile
 3. Claudia persuades; Gabriella tells her about Free, refuses to stop
-4. Angel acts on his own and kills Gabriella (the ceasefire is not broken by Diominiciel)
-5. Bellsaw dies (beaten by Yonoa; dies in the hospital where Claudia works)
-6. Claudia goes after Yonoa and is beaten into a coma
-[TBD: exact order of 4, 5 and 6; how the fall of the Vista Alegre police fits]
+4. Bellsaw dies (beaten by Yonoa; dies in the hospital where Claudia works)
+5. Claudia goes after Yonoa and is beaten into a coma
+6. **Arc 4 finale, the trap (author):** on Perlereina's order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists), Angel, her secret 4th Emperor, lures Gabriella and Lyzander to a building. A projector shows Angel's life and all his acts, including his betrayals: **Lyzander learns everything**. Angel reveals himself and fires from a giant mecha; Gabriella shields Lyzander, opens him a path and dies, giving him metal wings; Lyzander fights the mecha, freezes it and then **freezes Angel alive (Angel dies)**. The mecha has destroyed a large part of Vista Alegre (Claudia's hospital is spared). **Yonoa saves Lyzander** from the rubble
+[TBD: exact order of 4 and 5 relative to 6 (the trap is the final act of Arc 4, author); how the fall of the Vista Alegre police fits (before the trap)]
 
 ### **Arc 5 end**
 - Perlereina and Diominiciel die; Hirohiko becomes the leader of Pristania; peace between Pristania and Free
-- Claudia wakes shortly after, learns everything (Angel is already dead), and stays in Pristania under Hirohiko
+- Claudia wakes shortly after, learns everything (Angel died in the Arc 4 finale), and stays in Pristania under Hirohiko
+- The Arc 5 assault is on Pristania HQ, not on Vista Alegre
 
 ### **Arc 6**
 - Jashin is freed and confronted (Claudia takes no part)

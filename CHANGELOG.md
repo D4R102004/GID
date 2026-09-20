@@ -1,5 +1,43 @@
 # GID LORE CHANGELOG
 
+## 2026-09-19 (Angel profile + consistency pass)
+Angel Velasco's full profile added (secret 4th Emperor, Kami's chosen successor and lover, twist villain of Arc 4). His Arc 4 role, the trap finale and his death changed several earlier statements ("Angel acts on his own", "dead by the end of Arc 5", "joins in Arc 4"). Changes propagated to the affected files.
+
+### Files changed
+- 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md (NEW)
+- 02_Characters/Pristania/KAMI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/PERLEREINA_DEI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/DIOMINICIEL_DEI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/BELLSAW_JAMES_WHANNELL_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md
+- 02_Characters/Supporting/Free/GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md
+- 02_Characters/Protagonists/LYZANDER_SUGIMORI_CHARACTER_PROFILE.md
+- 02_Characters/Protagonists/YONOA_HOUZU_CHARACTER_PROFILE.md
+- 01_Lore/Factions.md
+- 04_Development/Critical_Secrets_Tracker.md
+- 04_Development/Timeline.md
+- 04_Development/Open_Questions_REORGANIZED.md
+- GID_QUICK_REF_FINAL.md
+
+### Changes
+- ADDED: Angel Velasco (private self-given codename Tenshi 天使), 43 in Arc 1. No Nouryoku. Born in an orphanage (mother died in childbirth, father never appeared) without his left arm below the elbow. Failed shopkeeper; Kami chose him as successor (an outsider, not one of his children), secretly made his business prosper, educated him, and became his closest friend and lover. Kami was killed by Meiji three days before presenting him. Angel was beaten at Pristania's gate, lost everything and lives as a beggar in Vista Alegre
+- ADDED: Perlereina found Angel 12-13 years after Kami's death (author; about 13-14 by the dates) through the handkerchief Angel gave Kami, and made him her spy "to honor her father". She assigns him to tail Vista Alegre police commander Derek Guzman, then the protagonists, and grants him the 4th Emperor title in secret. Only Perlereina and Diominiciel know he exists. He is not the leader of Pristania (for Kami, leader and 4th Emperor were the same title)
+- ADDED: Arc 4: he approaches Lyzander first asking for money and earns the group's trust by pointing them to the Metal Knight (Gabriella). He does not know she is Gabriella. His information (where and when she will be alone) lets Perlereina ambush her. Twist villain: the reader learns at the finale
+- ADDED: Arc 4 finale: on Perlereina's order he lures Gabriella and Lyzander into a trap. A projector shows his life and all his acts (Lyzander learns everything). He boards a giant winged mecha built by Bellsaw at Perlereina's request (Bellsaw does not know who Angel is or the target). Gabriella dies shielding Lyzander and gives him metal wings; the mecha destroys much of Vista Alegre (Claudia's hospital spared); Lyzander freezes the mecha and Angel (his only use of the freeze); Yonoa saves Lyzander
+- ADDED: Perlereina hates Vista Alegre (everyone there failed to support Kami; she hates its police) and uses the mecha to destroy it
+- CHANGED: Angel does NOT act "on his own": Perlereina orders the trap, and Angel does not know Diominiciel's ceasefire exists. Diominiciel never breaks it
+- CHANGED: Angel dies in the Arc 4 finale (was "dead by the end of Arc 5")
+- CHANGED: Angel is a secret Emperor: Bellsaw, Claudia, Shigo and Hirohiko do not know him. Factions "currently 3" is now "3 publicly known, the 4th is secret"
+- RESOLVED (Open Questions): Angel profile, Nouryoku, identity, how and when he dies, the 4th Emperor succession, why he defies the ceasefire
+- CORRECTED: the audience does not know Angel's role in advance (Claudia's profile line about the audience removed)
+- ADDED: Lyzander's freeze technique ("used ONCE") is used on Angel; the metal wings are the exception to "does not fly"
+- FLAGGED (pre-existing): Kami's age at death is 50 in his profile and 55 in the Timeline
+- FLAGGED [TBD]: Derek Guzman (no profile); what Lyzander does with what he learned (does Free/Meiji learn Kami had a secret successor?); whether Diominiciel learns Perlereina used Angel to break his ceasefire; whether the Arc 4 order puts Bellsaw's death and Claudia's coma before the finale; who tells Claudia about Angel after she wakes; the mecha's name; who built Angel's arm cannon
+
+### Not in this update (pending)
+- HIROHIKO profile: he does not know Angel exists
+- TAIRIN, MEIJI, ICHIRO, GORO profiles: any Arc 4 intrigue/suspect details
+
 ## 2026-09-19 (Claudia profile + consistency pass)
 Claudia Whannell's full profile added. New Arc 4 sequence (Perlereina, the meeting, the persuasion), Hirohiko's leadership and the peace moved to the end of Arc 5, and the changes propagated to the affected files.
 

@@ -102,7 +102,7 @@
 
 - [ ] **Gabriella's death — remaining details** (captive/escaped, discovery and death scene RESOLVED: see GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md)
   - Tairin: how and when does she learn her daughter lived and died?
-  - **Angel:** new Emperor, no profile yet (Nouryoku, identity, how he infiltrates the protagonists at the start of Arc 4)
+  - ~~**Angel:** new Emperor, no profile yet~~ **RESOLVED 2026-09-19** (see ANGEL_CHARACTER_PROFILE.md)
   - Order of Arc 4 events between finding the Metal Knight and Gabriella's death, incl. the fall of the Vista Alegre police
   - ~~**Claudia/Dragoon:** Nouryoku, own profile, fight with Yonoa, how she learns Metal was the Armor Bastard~~ **RESOLVED 2026-09-19** (see CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md)
   - Lyzander/Gabriella: how far the romantic tension went
@@ -115,9 +115,17 @@
   - What does Gabriella tell Claudia about Free, her duty and her family? Does Claudia learn Tairin's name or Free's structure?
   - How long is Gabriella's recovery and where does she recover?
   - How does Diominiciel cover Dragoon's position (Nouryoku is Time Flow Manipulation; he avoids direct combat)?
-  - Why does Angel act on his own against Diominiciel's ceasefire? Does Pristania learn he did?
-  - **Angel profile:** Nouryoku, identity, motive, and how and when he dies (he is dead by the time Claudia wakes)
-  - Exact order of Gabriella's death, Bellsaw's death and the Yonoa fight
+  - ~~Why does Angel act on his own against Diominiciel's ceasefire?~~ **RESOLVED 2026-09-19:** he acts on Perlereina's order and does not know the ceasefire exists. Still open: does Diominiciel learn Perlereina used Angel to break it?
+  - ~~**Angel profile:** Nouryoku, identity, motive, and how and when he dies~~ **RESOLVED 2026-09-19:** no Nouryoku; Angel Velasco; dies in the Arc 4 finale, frozen alive by Lyzander
+  - Exact order of Gabriella's death, Bellsaw's death and the Yonoa fight (the trap is the final act of Arc 4, author)
+
+- [ ] **Angel's remaining questions (2026-09-19; see ANGEL_CHARACTER_PROFILE.md, Editor's Flags and Open Questions)**
+  - What Lyzander does with what he learned (Angel's history with Kami, Perlereina's role): does he tell Free and Meiji? How do they react to learning Kami had a lover and a secret successor?
+  - Does Perlereina learn Lyzander knows? Does Diominiciel learn she used Angel to break his ceasefire?
+  - Vista Alegre after the mecha's attack: who survives (Derek Guzman, Marjenis, the police)? Who is Derek Guzman and why does Perlereina watch him?
+  - The projection: does it show the ambush tip; is it Angel's edited version? Who runs it?
+  - Kami's age at death: profile says 50, Timeline says 55 (pre-existing; affects the Kami/Angel age gap)
+  - The mecha's name; who built Angel's arm cannon; a full Yonoa rescue scene
 
 - [ ] **Bellsaw's Arc 4 storyline**
   - Perlereina's meeting comes before his death; how does it fit with his trap sequence?
@@ -285,7 +293,7 @@
 
 ### Pristania
 - [ ] **Technological Units' full combat capabilities** (Sea, Land, Air, Space)
-- [ ] **4th Emperor succession** — Will Kami's vacant seat ever be filled? By whom?
+- [x] **4th Emperor succession** — RESOLVED 2026-09-19: **Angel Velasco**, in secret; he takes Kami's Emperor seat but not the leadership of Pristania
 - [ ] **Marsella de Sores' recruitment** — When/how does she join Pristania?
 - [ ] **Lyon's complicated story** — How does a Free member end up connected to Pristania?
 

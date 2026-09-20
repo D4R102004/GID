@@ -601,7 +601,16 @@ AGE_ARC_1: ~40
 
 ---
 
+### **Angel Velasco (Secret 4th Emperor):**
+*(Added 2026-09-19 from the author. Full detail in ANGEL_CHARACTER_PROFILE.md.)*
+- **One of the only two people who know Angel exists** (with Perlereina). **Perlereina found him and handles him**; Diominiciel and Angel **speak little**
+- Sees him as **an asset**, but also **a little as what his father wanted** (Kami sought an outside successor), so he holds **some affection** for him. **An ally at the end of the day**
+- **He does not order the Arc 4 trap.** Perlereina does, through Angel, against his ceasefire, and Angel does not know the ceasefire exists
+- [TBD: did he know about the mecha Bellsaw built for Perlereina? Does he learn Perlereina used Angel to break his order before his Arc 5 death?]
+
+
 ### **The 4 Emperors (Bellsaw, Dragoon, Shigo):**
+*(A fourth Emperor, Angel, is secret: see his entry above. Only Diominiciel and Perlereina know him.)*
 
 **Leadership Relationship:**
 - **Their leader** now that Kami is gone
@@ -644,7 +653,7 @@ AGE_ARC_1: ~40
 **Arc 4: Perlereina's meeting (decided 2026-09-19):**
 - After Perlereina's fight with Gabriella and Claudia's rescue of her, Perlereina calls a meeting. Perlereina orders Emperor Claudia (Dragoon) to kill Gabriella; Claudia refuses; Perlereina accuses her of treason; Bellsaw intervenes
 - **Diominiciel agrees with Bellsaw** and, wisely, gives Claudia the task of **persuading Gabriella to abandon the fight, if she can**
-- He **orders that nothing be done to Gabriella** while Claudia tries. **He never breaks this order**; Angel acts on his own and kills Gabriella
+- He **orders that nothing be done to Gabriella** while Claudia tries. **He never breaks this order**; **Perlereina breaks it through her secret Emperor Angel** (who does not know of the order), who kills Gabriella in the Arc 4 finale
 - **He takes over the position of Dragoon** in the meantime [TBD: how, given that his Nouryoku is Time Flow Manipulation and he avoids direct combat: his Nouryoku, robots?]
 - Fits his pragmatic, measured side (contrast with Perlereina)
 
@@ -785,6 +794,7 @@ AGE_ARC_1: ~40
 - Zafiro's true identity (Shiro Kiryuin - only he knows)
 - Hirohiko's memory loss cause (combined power trauma)
 - Free's general operations and ideology
+- **That Angel exists**: Kami's secret chosen successor, who Perlereina found and uses as a spy and secret Emperor (only he and Perlereina know)
 
 ### **What Diominiciel DOESN'T Know:**
 - **Arjan and Lopney exist** and have the missing 60% (30% each)
@@ -896,7 +906,7 @@ AGE_ARC_1: ~40
 5. **Does he talk to Kami's corpse?** - Private moments in the lab?
 6. **Other inventions** - Beyond the four units and necklace?
 7. **Relationship with Space's creator** - Who made the biological unit?
-8. **Arc 2-4 specifics** - What are his pivotal moments? (Arc 4 now includes Perlereina's meeting and the task he gives Claudia; still TBD: how he covers Dragoon's role, whether he learns Angel broke his order before dying)
+8. **Arc 2-4 specifics** - What are his pivotal moments? (Arc 4 now includes Perlereina's meeting and the task he gives Claudia; still TBD: how he covers Dragoon's role, whether he learns that Perlereina broke his order through Angel before his Arc 5 death)
 9. **Does he ever doubt the cause?** - Moments of clarity?
 10. **Relationship with other Pristania members** - Beyond Emperors?
 

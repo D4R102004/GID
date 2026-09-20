@@ -25,7 +25,7 @@ AGE_ARC_1: 21
 **Family:** Father: James Whannell (Bellsaw, fellow Emperor, Commander in the Vista Alegre police). Mother: died in childbirth (name TBD)
 **Status:** Antagonist. Recently made Emperor. Coma in Arc 4
 
-**Rank:** Emperor alongside Bellsaw and Shigo (Angel joins in Arc 4). Below the Apostles, above general membership, reports directly to the Kamigami. Rose through prowess; her family connection helped.
+**Rank:** Emperor alongside Bellsaw and Shigo. (There is a fourth, **secret** Emperor, Angel, known only to Perlereina and Diominiciel. **Claudia does not know he exists.** He dies in the Arc 4 finale.) Below the Apostles, above general membership, reports directly to the Kamigami. Rose through prowess; her family connection helped.
 
 ---
 
@@ -192,9 +192,12 @@ AGE_ARC_1: 21
 - Per his profile he is the amnesiac doctor near Kamino, possessed by Jashin (unaware until Arc 6)
 - [TBD: their relationship]
 
-### **Shigo (Takeshi Kondo) and Angel:**
-- Fellow Emperors. **Angel kills Gabriella in Arc 4, acting on his own** (Diominiciel's ceasefire is not broken by Diominiciel). Angel's information also let Perlereina corner Gabriella
-- **Angel is dead by the time Claudia wakes**, and she learns of Gabriella's death and how it happened [TBD: how and when Angel dies]
+### **Shigo (Takeshi Kondo):**
+- Fellow Emperor. [TBD: her relationship with Shigo]
+
+### **Angel Velasco ("Angel", secret 4th Emperor):**
+- **She does not know he exists.** Only Perlereina and Diominiciel do (see ANGEL_CHARACTER_PROFILE.md). **On Perlereina's order** (not Diominiciel's: his ceasefire is not broken by him), Angel lures Gabriella and Lyzander into a trap in the Arc 4 finale and kills Gabriella. His information also let Perlereina ambush her earlier
+- **Angel dies in the Arc 4 finale**, frozen by Lyzander, so he is long dead by the time Claudia wakes. She learns of Gabriella's death and how it happened [TBD: who tells her, and whether she learns Angel existed and was a secret Emperor]
 - [TBD: her relationship with Shigo]
 
 ---
@@ -238,7 +241,7 @@ AGE_ARC_1: 21
 10. After Gabriella wakes from the operation, Claudia is with her. Gabriella decides her friend has to know everything, so she **tells her about Free, her duty and her family, and sincerely apologizes**
 11. Claudia tries to persuade her: she lays out the consequences of the fight and asks her to stop **for her own good, because Claudia will not always be there to save her**
 12. Claudia does **not** reveal she is an Emperor. It **fails**
-13. **The ceasefire ends:** **Diominiciel never breaks it. Angel acts on his own** and kills Gabriella (Claudia is **not present**)
+13. **The ceasefire ends:** **Diominiciel never breaks it. Perlereina does, through her secret Emperor Angel**, who lures Gabriella and Lyzander into a trap and kills Gabriella (Claudia is **not present**). Angel does not know the ceasefire exists
 
 **Part 3: Her father's death and the Yonoa fight (author):**
 14. **Bellsaw dies:** beaten by Yonoa, taken to her hospital, dies on admission while she is there, helpless. Her **turning point**
@@ -250,7 +253,7 @@ AGE_ARC_1: 21
 ### **Arc 5 - "A Sanctuary of Peace and Order":**
 - In a coma during the assault on Pristania HQ. Wakes **after** it
 - **At the end of Arc 5, Hirohiko becomes the leader of Pristania** (author). **Shortly after, Claudia wakes**
-- **She learns everything** (author): Gabriella's death and how it happened. **Angel is also dead by this point**
+- **She learns everything** (author): Gabriella's death and how it happened. **Angel died in the Arc 4 finale** [TBD: who tells her]
 - Her father is dead; Perlereina, Diominiciel, Glayne and every Apostle are dead or defeated
 - **She decides to keep helping Pristania, now that there is peace between the organizations** (author), under Hirohiko's command
 
@@ -292,7 +295,7 @@ AGE_ARC_1: 21
 
 **Who knows she is "Misty":** Gabriella. Bellsaw and Pristania learn at Perlereina's meeting that Claudia's best friend is the fugitive
 
-**What the AUDIENCE knows that Claudia doesn't (until Arc 4):** her best friend is Free's Gabriella, and will die to Angel, a fellow Emperor.
+**What the AUDIENCE knows that Claudia doesn't (until Arc 4):** her best friend is Free's Gabriella. (The audience does **not** know of Angel or his role until the trap: he is a twist villain.)
 
 ---
 
@@ -330,22 +333,22 @@ AGE_ARC_1: 21
    - **Diominiciel:** he gives Claudia the persuasion task, orders the ceasefire and takes over Dragoon's position; his profile needs the meeting
    - **Gabriella:** she is stabbed repeatedly and survives before her later death to Angel; needs a recovery window, and her profile's death sequence should mention it
    - **Perlereina:** her Arc 4 role lists only the Cristopher incident; this fight and the meeting need adding. She orders Claudia to kill, and accuses her of treason when she refuses. Her "betrayal = death, no exceptions" trait fits, and being overruled by Bellsaw and Diominiciel fits her profile (she listens to Diominiciel)
-   - **Angel:** he supplies the information that lets Perlereina corner Gabriella, then kills her against the ceasefire
+   - **Angel:** *(updated 2026-09-19)* he supplies the information (where and when Gabriella will be alone) that lets Perlereina ambush her, then kills her on Perlereina's order. Claudia does not know he exists
    - **Consistency to check:** **all of Free and Perlereina see Claudia** at the scene, but Free reads her only as a nurse who saves Gabriella (author). Make sure Perlereina's and Claudia's exchange on the scene does not give it away. Also, if Yonoa is among them, she later fights the woman who saved Gabriella
    - **Diominiciel taking Dragoon's position:** his Nouryoku is Time Flow Manipulation and his profile says he avoids direct combat. Decide how he fills the role (his Nouryoku, robots)
-   - **Diominiciel's ceasefire:** he orders nothing be done to Gabriella while Claudia persuades. **Angel breaks it by acting on his own** (author). Decide whether Diominiciel learns of it before his Arc 5 death
+   - **Diominiciel's ceasefire:** he orders nothing be done to Gabriella while Claudia persuades. **Perlereina breaks it through Angel** (author), without Diominiciel's order. Decide whether Diominiciel learns of it before his Arc 5 death
    - **Gabriella (also):** (a) her profile does not say she was treated at the Vista Alegre hospital by Claudia; (b) it says Claudia "does not connect the dots" without noting the Arc 4 meeting; (c) its Open Question about how Claudia learns "Metal" was the Armor Bastard is now answered: at Perlereina's meeting
 4. **Hirohiko's leadership and the peace: DECIDED, and propagated (2026-09-19).** Hirohiko becomes Pristania's leader at the END OF ARC 5 and there is peace between Pristania and Free by the time Claudia wakes (moved up from post-story). Jashin is still in him until Arc 6, so Claudia serves a leader who is unknowingly possessed. Hirohiko's profile, Factions, Timeline, Open Questions and Quick Ref were updated
-5. **Angel defies Diominiciel's ceasefire, and is dead by the time Claudia wakes.** His profile does not exist; decide his motive, whether Pristania learns he acted on his own, and how and when he dies
+5. **Angel: RESOLVED (2026-09-19).** He acts on Perlereina's order and does not know of the ceasefire. Dies in the Arc 4 finale, frozen by Lyzander. Profile: ANGEL_CHARACTER_PROFILE.md
 6. **Factions.md** pointed to a nonexistent `CHARACTER_PROFILES/DRAGOON.md`. **FIXED (2026-09-19):** now points to this file
-7. **Emperor count:** Factions says "4 Emperors (currently 3)"; Angel is the fourth
+7. **Emperor count:** Factions says "4 Emperors (currently 3)"; Angel is the fourth, a secret Emperor (title granted by Perlereina when the protagonists reach Vista Alegre)
 
 ---
 
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
 1. **Which Free members are at the scene**, and how does Perlereina and Claudia's exchange look from their side?
-2. **How and when does Angel die?** (Author: he is dead by the time Claudia wakes)
+2. ~~**How and when does Angel die?**~~ **RESOLVED (2026-09-19):** in the Arc 4 finale, frozen alive by Lyzander
 3. **What happens after the failed persuasion**, up to her father's death?
 4. **What does Gabriella tell Claudia about Free, her duty and her family?** (Does Claudia learn Tairin, Free's structure?)
 5. More sample dialogue (one line chosen so far)

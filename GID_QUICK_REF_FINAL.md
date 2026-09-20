@@ -25,6 +25,7 @@
 **Rajin/Megami** (~40s) - **IS MEGAMI** (Kami's ex-wife, only Kensuke knows)
 **Kensuke** (~60s) - Free acting president, ex-Pristania Emperor, Rajin's husband
 **Claudia Whannell "Dragoon"/"Misty"** (21, Arc 1) - Pristania Emperor, Bellsaw's daughter, real nurse at the Vista Alegre hospital, **Cloud Nouryoku**, Gabriella's best friend; coma in Arc 4, wakes end of Arc 5, stays in Pristania under Hirohiko
+**Angel Velasco "Tenshi"** (43, Arc 1) - **Secret 4th Emperor** of Pristania: Kami's chosen successor and lover, no Nouryoku, a real beggar in Vista Alegre, Perlereina's spy, **twist villain** of Arc 4. Kills Gabriella on Perlereina's order; killed by Lyzander (frozen alive) in the Arc 4 finale. Profile: 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md
 
 ---
 
@@ -56,6 +57,7 @@
 - **18-15 years before Arc 1:** 3-Year War
 - **15 years before Arc 1:** Peace treaty (Jitsumoto mediates)
 - **5 years before Arc 1:** Pristania attack on Free (Gabriella captured, presumed dead)
+- **~4-5 years before Arc 1 (12-13 years after Kami's death, per the author; about 13-14 by the dates):** Perlereina finds Angel and makes him her spy
 - **Arc 1 present:** Arjan & Lopney are 15, story begins
 
 ---
@@ -69,6 +71,7 @@
 **Gabriella is alive** (captured, held at Pristania HQ, escaped with Uragaeshi's help, hides in Vista Alegre as the "Metal Knight"): Gabriella, Uragaeshi, her captors (Perlereina, Diominiciel) and Bellsaw know; Free learns in Arc 4
 **Bellsaw = Commander James Whannell of the Vista Alegre police:** All high-ranking Pristania know; Free and the police do not (until after his death, Arc 4)
 **Claudia = Gabriella's best friend "Misty"** (neither knows the other's faction): Claudia learns Gabriella is the Metal Knight at Perlereina's meeting in Arc 4, when all of Pristania (Bellsaw included) does. **Gabriella never learns Claudia is an Emperor.** Free sees Claudia only as a nurse
+**Angel exists (Kami's secret chosen successor, Perlereina's spy and secret 4th Emperor):** Only Perlereina and Diominiciel know. Bellsaw builds his mecha without knowing who he is or that the target is Vista Alegre. Lyzander (and Gabriella) learn everything at the Arc 4 finale; the audience learns at the same time (twist)
 **Gallan's island location:** Hidden by Mental Erasure until Glayne breaks through (Arc 1)
 
 ---
@@ -88,9 +91,9 @@
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
 **Arc 2:** Shigeru Houzu (finale: sacrifices himself to save Yonoa)
-**Arc 4:** Cristopher (dies saving Arjan), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
+**Arc 4:** Cristopher (dies saving Arjan), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
 **Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
-**Arc 4 (Emperors):** Angel kills Gabriella on his own (Diominiciel's ceasefire order is not broken by Diominiciel); Angel is dead by the end of Arc 5. Claudia falls into a coma after Yonoa beats her
+**Arc 4 (Emperors):** Perlereina, through Angel (secret 4th Emperor), lures Gabriella and Lyzander into a trap in the finale, on her order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists). Gabriella dies; Lyzander freezes Angel alive (Angel dies) and Yonoa saves him. Claudia falls into a coma after Yonoa beats her
 **End of Arc 5:** Hirohiko becomes leader of Pristania; peace between Pristania and Free
 **Arc 6:** Arjan vs. Lopney duel over reviving Gallan; Jashin freed [rest not developed yet]
 

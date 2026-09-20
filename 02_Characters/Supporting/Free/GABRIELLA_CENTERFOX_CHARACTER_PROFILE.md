@@ -209,7 +209,7 @@
 - Pristania hunts her actively
 
 ### **Angel (Emperor, the killer in Arc 4):**
-- A Pristania Emperor who **joins the protagonists at the start of Arc 4** to feed information to Pristania. Not yet developed
+- **Angel Velasco**, a **secret 4th Emperor** of Pristania (title granted by Perlereina; only she and Diominiciel know him). He is a **real beggar** in Vista Alegre. He approaches **Lyzander first, asking for money**, and joins the protagonists **to spy for Perlereina**. He **does not know** the Metal Knight is Gabriella, or who she is. Full detail: 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md
 
 ---
 
@@ -217,6 +217,7 @@
 
 ### **First Contact:**
 - The protagonists investigate the **Metal Knight / Armor Bastard** of Vista Alegre: an armored knight with helmet and sword who wreaks havoc on lesser organizations and the police
+- **Angel** (the beggar) is the one who tells them **where to look**: to win their trust, he says that if they want to move against Pristania they should find the Metal Knight
 - They believe the knight could **help them fight Pristania**
 - **Shock:** the knight is **Gabriella**. This is how the protagonists find her
 - Lyzander tells her about Lyon
@@ -225,28 +226,30 @@
 - **All the events of Arc 4 happen between finding her and her death**
 
 ### **The Perlereina incident (decided 2026-09-19):**
-1. With **Angel's information**, **Perlereina corners Gabriella alone**. After a hard battle she defeats her by **stabbing her repeatedly** (editor's note: this hits her listed weaknesses: being cornered, and her trauma of Pristania)
+1. With **Angel's information** (**where and when Gabriella will be alone**; he does not know who she is), **Perlereina corners Gabriella alone**, suddenly on the page. After a hard battle she defeats her by **stabbing her repeatedly** (editor's note: this hits her listed weaknesses: being cornered, and her trauma of Pristania)
 2. **Claudia ("Misty") arrives** and finds her boss stabbing her best friend. **The Free members arrive**; outnumbered and wounded, **Perlereina retreats**. All of Free sees Claudia, but reads her only as a nurse who is saving Gabriella. (Editor's inference, not confirmed: Gabriella is unconscious and does not see Claudia there)
 3. **Claudia treats her on the spot**, calling the hospital for supplies, and **saves her life**
 4. At Perlereina's meeting Pristania learns Gabriella is the Metal Knight. **Perlereina orders Claudia to finish her off; Claudia refuses.** Bellsaw and Diominiciel overrule Perlereina and give Claudia the task of persuading Gabriella to give up. **Diominiciel orders that nothing be done to Gabriella meanwhile**
 5. After the operation Gabriella tells Claudia everything about Free, her duty and her family, and apologizes. Claudia begs her to stop. Gabriella **refuses**
-6. **Angel breaks the ceasefire by acting on his own** (Diominiciel never does); see Death
+6. **Perlereina breaks the ceasefire through Angel** (Diominiciel never does; Angel does not know the ceasefire exists); see Death
 [TBD: recovery time before the trap; where she recovers (with Free?)]
 
 ### **Death (author-defined):**
-1. After the fall of the Vista Alegre police department, and **acting on his own** (not on Diominiciel's ceasefire order), **Angel** guides **Lyzander and Gabriella** to a building holding **intel on Pristania's Emperors**
-2. On arrival Angel **reveals himself as an Emperor**, boards a **giant mecha (megazord-style)** and fires an **energy beam** at both
-3. Gabriella **blocks it with a metal shield**. It is too strong and she knows she cannot hold
-4. She **opens a path for Lyzander to escape** before she is **brutally wounded**
-5. Lyzander goes to her. With her **last breath** she asks him to **save Lyon** and gives him **metal wings** so he can fight Angel
-6. **Claudia is not present**
+1. After the fall of the Vista Alegre police department, and **on Perlereina's order to kill both Gabriella and Lyzander** (Angel does not know of Diominiciel's ceasefire), **Angel** guides **Lyzander and Gabriella** to a building supposedly holding **intel on an Emperor of Pristania**. **On the way he disappears**, leaving them alone
+2. A **projector** switches on and shows a **young "Kami"** (Angel's life, cast with a **Kami avatar**): orphanage, discrimination, business, a **haloed figure called Kami**, friendship and romance, Kami's **death in the duel with Meiji**, his **fall to the street**, then **"Kami" asking Lyzander for money**. It then shows **all Angel's Arc 4 acts, with Kami, with Perlereina and with the other protagonists, including his betrayals**. **Lyzander and Gabriella learn everything**
+3. A voice says **"just a moment, this is not the right avatar"** and **Angel reveals himself, smiling**. Lyzander is stunned; Gabriella **attacks at once**. Useless: Angel is in a **protective sphere** that **docks into a giant winged mecha** (Kami's likeness, Angel's face) at the back of the room
+4. The mecha fires an **energy beam**. Gabriella **blocks it with a metal shield**, which **starts to melt**, so she knows she cannot hold
+5. She **opens a path for Lyzander to escape** as the **building collapses** from the force of the energy, and is **brutally wounded**
+6. Lyzander, desperate, searches for her. With her **last breath** she tells him **she loves him ("que lo quiere")** and asks him to **save Lyon**, and gives him **metal wings** so he can fight Angel
+7. **Claudia is not present**
+*(Angel then fights Lyzander and dies frozen alive; see ANGEL_CHARACTER_PROFILE.md.)*
 
 **The Wings:**
 - They work as a **jetpack**: Lyzander can **fly** with them (not merely hover), **powered by his blue fire**
 - Consistent with her rules: she forms and **detaches** them before dying, so they persist as plain iron (attached metal would vanish when she loses concentration)
 
 ### **Aftermath:**
-- **Claudia** goes after Yonoa in revenge for her father's death, starts wanting to kill and doubts mid-fight, and ends up in a **coma**. She wakes **shortly after the Pristania assault** (end of Arc 5), when she learns **everything**: Gabriella's death and how it happened. **Angel is dead by then**
+- **Claudia** goes after Yonoa in revenge for her father's death, starts wanting to kill and doubts mid-fight, and ends up in a **coma**. She wakes **shortly after the Pristania assault** (end of Arc 5), when she learns **everything**: Gabriella's death and how it happened. **Angel is already dead** (he dies in the same Arc 4 finale, frozen by Lyzander)
 - **Lyzander** carries the loss (see his profile). Lyon learns in Arc 5
 - **Tairin** learns her daughter was alive only to lose her again [TBD: how and when she learns]
 
@@ -304,7 +307,7 @@
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
 1. **Sample dialogue:** a line that represents her
-2. **Angel:** no profile exists. Nouryoku, identity, how he infiltrates the protagonists, why Free/the group trusts him. (Factions says "4 Emperors, currently 3": Angel would be the fourth)
+2. ~~**Angel**~~ **RESOLVED (2026-09-19):** see ANGEL_CHARACTER_PROFILE.md. New: her last words to Lyzander ("que lo quiere") are ambiguous (love or affection) and touch question 6
 3. **Order of events in Arc 4** between her discovery and the fall of the police department, and Angel's plan. New: the Perlereina incident and the persuasion happen in between; recovery time and where she recovers are TBD
 4. ~~**Claudia:** her Nouryoku, her profile, the fight with Yonoa, how she learns Metal was the Armor Bastard~~ **RESOLVED (2026-09-19):** see CLAUDIA_WHANNELL_DRAGOON_CHARACTER_PROFILE.md. She learns at Perlereina's meeting
 5. **Tairin:** how and when she learns Gabriella lived and died

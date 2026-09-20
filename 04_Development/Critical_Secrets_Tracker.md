@@ -22,6 +22,7 @@
 9. [The Resurrection Truth](#the-resurrection-truth)
 10. [Free Headquarters Location](#free-headquarters-location)
 11. [Bellsaw's Infiltration](#bellsaws-infiltration)
+12. [Angel's Existence & Role](#angels-existence--role)
 
 ---
 
@@ -300,6 +301,7 @@
 
 ### **REVEALED WITHIN PRISTANIA (Arc 4, decided 2026-09-19):**
 - After Perlereina defeats Gabriella (with Angel's information) and Claudia saves her life, Perlereina calls a meeting. **All of Pristania, including Bellsaw and Claudia, learns at the same time that Gabriella is the Metal Knight** and that she is Claudia's best friend "Misty"
+- *Note (2026-09-19):* Perlereina already knew where the Metal Knight would be alone, from Angel's information. **Angel himself never learns the knight is Gabriella.** The "same time" applies to everyone else in Pristania
 - Perlereina orders Claudia to kill her; Claudia refuses; Bellsaw and Diominiciel overrule Perlereina and send Claudia to persuade Gabriella to give up
 - **Free's members present see Claudia only as a nurse**; they do not know she is an Emperor
 - **Gabriella never learns that Claudia is an Emperor**
@@ -460,6 +462,37 @@
 ### **DRAMATIC IRONY:**
 - One of the commanders investigating Pristania is one of Pristania's Emperors
 - His courtesy toward the police and toward Pristania is the same: the disguise is nearly honest
+
+---
+
+## ANGEL'S EXISTENCE & ROLE
+
+*(Added 2026-09-19. Full detail in 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md.)*
+
+### **THE SECRET:**
+- **Angel Velasco** was **Kami's chosen successor and lover**, kept secret from Pristania by Kami. After Kami's death Perlereina found him (through his mother's handkerchief) and made him her **spy** and, in secret, **4th Emperor** (title granted when the protagonists reach Vista Alegre)
+- In Arc 4 he lives as a real beggar in Vista Alegre, approaches Lyzander for money, and spies on the protagonists
+- He is a **twist villain**: the reader learns of his role at the Arc 4 finale, together with the protagonists
+
+### **WHO KNOWS:**
+- **Perlereina** and **Diominiciel** (only them, until the trap)
+- **Angel himself**
+- **After the trap:** **Lyzander** and **Gabriella** (before she dies), through the projection that shows everything: his acts with Kami, with Perlereina and with the other protagonists
+
+### **WHO DOESN'T KNOW:**
+- **Bellsaw:** he builds Angel's mecha but does not know who Angel is, or that the target is Vista Alegre
+- **Claudia, Shigo, Hirohiko, the Apostles** and the rest of Pristania
+- **Free and the protagonists' side**, until the trap (then Lyzander). [TBD: when the others, and Meiji, learn]
+- **The audience**, until the trap
+- **Angel does not know:** that the Metal Knight is Gabriella, or who Gabriella is; that Diominiciel's ceasefire exists
+
+### **WHEN REVEALED:**
+- **Arc 4 finale:** to Lyzander and Gabriella (and the reader), through the projector, then in his combat with Lyzander (he declares himself an Emperor). Angel dies there, frozen alive
+- [TBD: whether Perlereina learns that Lyzander knows; whether Free and Meiji learn Kami had a lover and a secret successor]
+
+### **FORESHADOWING (Arc 4 is an intrigue arc with other suspects):**
+- Planted across Arc 4: the gold **K necklace** (read as "King", means Kami), his double-meaning speech, the smile as a tool, the suit that does not fit a beggar, his name
+- Other suspects for the leak: Goro Kiryuin, police members who could be double agents like Bellsaw, Dragoon (Claudia), and more
 
 ---
 

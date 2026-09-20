@@ -181,6 +181,7 @@ He does not say a fixed farewell before missions; he has several phrases and use
 ### **Combat Style: Engineer**
 - **Traps** — his signature method; preparation and terrain
 - **Robots** — he and Diominiciel built Pristania's robots (e.g., L411D "Land", a huge cannon-armed tank). Space (5P4C3) is credited to another creator in Diominiciel's profile (co-developed with Marsella)
+- **The Arc 4 mecha** — at Perlereina's request he builds a giant winged mecha for Pristania (see Arc 4). He does not know who will pilot it or that the target is Vista Alegre
 - **Hidden mechanical appendages** — blades, extra arms, shields, stored under his cape/coat
 - **Pistols** — conventional, not custom-designed
 - **Surveillance devices**
@@ -324,6 +325,14 @@ He does not say a fixed farewell before missions; he has several phrases and use
 - This meeting comes **before** his death
 - [TBD: how it fits with his trap sequence for Arjan, Lopney and Yonoa]
 
+**The mecha (decided 2026-09-19):**
+- **At Perlereina's request** he builds a **giant winged mecha** (cannon on one arm, hand on the other; lasers, bomb drones, fire, giant bombs), as a weapon for Pristania
+- She gives him the design, **including a face** (Angel's) and a **Kami-like body**. **He does not know who the face is**: he does not know **Angel** exists. He **follows orders**
+- **He knows it is a weapon of destruction, but not that the target is Vista Alegre**, the city where he is a commander and where his daughter works
+- Perlereina uses it, through Angel, to **destroy a large part of Vista Alegre** in the Arc 4 finale. Lyzander freezes it
+- *Editor's observation, not confirmed:* he dies having built the weapon that ravages his daughter's city, without knowing. [TBD: when he builds it relative to his death; whether Diominiciel, his usual co-builder, knew about it]
+
+
 **Death:**
 - Yonoa brutally beats him with her power while he plays with her about her father
 - He is taken to a **Vista Alegre hospital** (not Dr. Araki's practice, which is in Kamino), where Claudia works
@@ -357,11 +366,12 @@ He does not say a fixed farewell before missions; he has several phrases and use
 - Arjan and Lopney were raised by Gallan (from Perlereina)
 - Gallan's history in Pristania
 - Police internal information
-- The identities and status of all Pristania high ranks
+- The identities and status of all Pristania high ranks (**except Angel**, the secret 4th Emperor, known only to Perlereina and Diominiciel)
 - **That the fugitive Gabriella is alive** (silent to protect his cover)
 
 ### **What Bellsaw DOESN'T Know:**
 - **That his daughter's best friend "Misty" is Gabriella**, until Perlereina's meeting in Arc 4
+- **That Angel exists**, or that the mecha he built is piloted by him; **that the mecha's target is Vista Alegre**
 - **Yurisha's mission** (only Glayne knew)
 - **The Bakuzoku genocide** (Yonoa learns of it only in Arc 5)
 

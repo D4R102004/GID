@@ -452,7 +452,7 @@ THE KAMIGAMI (3 siblings - currently 2 active)
     ↓
 APOSTLES (Personal disciples, 1 per Kamigami)
     ↓
-4 EMPERORS (Elite combat force - currently 3)
+4 EMPERORS (Elite combat force - 3 publicly known; the 4th, Angel, is secret)
     ↓
 GENERAL MEMBERSHIP
     ↓
@@ -532,7 +532,7 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 **Historical Note:**
 - Originally 3 Emperors + Kami (who served as the 4th)
 - Kami intended to select a successor to take his place as 4th Emperor
-- Currently only **3 Emperors** active (Kami's position remains unfilled)
+- **3 Emperors** are publicly known. Kami's seat is filled in secret by **Angel Velasco** (Kami's chosen successor; the title is granted by Perlereina when the protagonists reach Vista Alegre). Only Perlereina and Diominiciel know him. For Kami, leader of Pristania and 4th Emperor were the same title; Angel takes the seat but **not the leadership**
 
 **Function:**
 - Elite strike force for high-priority missions
@@ -567,6 +567,12 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
    - Elite Emperor
    - *[Main antagonist role in Arc 4]*
    - *[See CHARACTER_PROFILES/SHIGO.md for full details]*
+
+4. **Angel (真名: Angel Velasco; self-given private name: Tenshi 天使)** *(secret)*
+   - Elite Emperor with **no Nouryoku**. Fights from a **giant winged mecha** (built by Bellsaw at Perlereina's request)
+   - **Kami's chosen successor and lover**, a beggar in Vista Alegre. Perlereina's spy; the title is granted in secret when the protagonists arrive in Vista Alegre; he declares himself openly in his Arc 4 combat with Lyzander
+   - Twist villain of Arc 4: kills Gabriella on Perlereina's order, and dies in the Arc 4 finale, frozen alive by Lyzander
+   - *[See 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md for full details]*
 
 **Former Emperors:**
 - **Kensuke** - Defected to Free before Kami's duel
@@ -638,6 +644,8 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 4. **Biological Unit 5P4C3 - Nicknamed "Space"**
    - Not created by Diominiciel alone: his profile credits another creator, and Marsella's profile has her co-developing it with him
    - *[Function and capabilities TBD]*
+
+**Angel's mecha (Arc 4):** a giant winged mecha (cannon on one arm, hand on the other; lasers, bomb drones, fire, giant bombs), built by Bellsaw at Perlereina's request. Not one of the four units above. *[Name TBD]*
 
 **Note:** These units serve Pristania's operations and report to the Kamigami (primarily Diominiciel as their creator; Bellsaw co-built them, per-unit credit TBD).
 
@@ -839,11 +847,11 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 - Zafiro / Takumi Reiji / Shiro Kiryuin (Diominiciel's Apostle)
 - [Vacant] (Hirohiko's former Apostle: Gallan - defected)
 
-**The 4 Emperors (Currently 3):**
+**The 4 Emperors (3 publicly known; the 4th is secret):**
 - Bellsaw / James Whannell
 - Dragoon / Claudia Whannell
 - Shigo / Takeshi Kondo 近藤毅
-- Angel (joins the protagonists at the start of Arc 4 to feed Pristania information; kills Gabriella in Arc 4; dead by the end of Arc 5. **No profile yet**). The "fourth" Emperor
+- Angel / Angel Velasco (secret 4th Emperor: Perlereina's spy; kills Gabriella on her order in the Arc 4 finale and dies there, frozen by Lyzander. Profile: 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md)
 
 **Technological Assets:**
 - Sea (Survey Unit S34)
@@ -927,7 +935,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 2. **Kamigami personal residences** - Where do they actually live?
 3. **Kamino details** - Full relationship and operational use
 4. **Technological units' capabilities** - What can Sea, Land, Air, Space do?
-5. **4th Emperor succession** - Will Kami's vacant position ever be filled?
+5. ~~**4th Emperor succession** - Will Kami's vacant position ever be filled?~~ **RESOLVED (2026-09-19):** Angel, in secret
 6. **Marsella de Sores' role** - When/how does she join?
 7. **Lyon's complicated story** - How does a Free member end up in Pristania?
 8. **Internal fracture potential** - Will philosophical divisions cause splits?
