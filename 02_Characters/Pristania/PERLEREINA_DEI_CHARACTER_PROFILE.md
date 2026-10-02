@@ -554,19 +554,23 @@ AGE_ARC_1: ~35
 
 ### **Arc 4 (Into the City of the Misbegotten - Vista Alegre):**
 
-**The Cristopher Incident:**
-
-**The Capture:**
-- **Cristopher saves Arjan** from Perlereina's attack
-- **Throws himself in harm's way** (heroic sacrifice)
-- **Perlereina captures him** (doesn't kill immediately)
-- **Meiji witnesses the capture** (devastating - sees his boyfriend taken)
+**The Cristopher Incident (decided 2026-10-02, author):**
+- **The ambush:** after Cristopher kills Shigo at the cemetery, Perlereina arrives (having just defeated Aoi). Cristopher **holds her off so Arjan and Lopney can escape**, and she captures him. *(Other profiles stress Arjan because of the mentor bond; on the page he saves both twins.)*
+- **Why she takes him alive:** Meiji is held inside the Protos Sphere Kensuke cast around him at the end of Arc 2. Perlereina **wrongly believes Meiji can break out of it**, and her plan to force him is to bring a member of Free before him
+- **The torture:** she throws Cristopher to the floor in front of the captive Meiji and **tortures him cruelly**
+- **She breaks:** partway through she realizes she **hates what she is doing**; tears come as she thinks of her father, and of Meiji. She **abruptly leaves the room**. She does not execute him
+- **Cristopher's last act:** half dead, he pulls himself up and uses his strength to **punch a hole in the wall** to free Meiji. He succeeds
+- **The bombs:** at that moment it is revealed that Pristania had planted **a set of hidden bombs** in the room. They detonate and Cristopher is **blown to pieces in front of Meiji**
+- [TBD: who planted the bombs and why; whether Perlereina knew about them; whether the hole/explosion has any consequence for Meiji's captivity (he stays captive until Arc 5)]
 
 **Impact:**
-- **Meiji's grief** - boyfriend captured/killed (one of saddest moments)
+- **Meiji's grief** - watches his boyfriend tortured and killed (one of saddest moments)
 - **Arjan's guilt** - his mentor died saving him
-- **Perlereina's satisfaction** - hurt Meiji even if she didn't kill him directly yet
-- **Escalation** - proves she's ruthless, willing to kill anyone
+- **Perlereina's crack** - the cruelty she believed she was capable of turns out to disgust her; an early sign that her devotion is not the whole of her
+- **Escalation** - proves how far she will go against Meiji
+
+**Alone with the captive Meiji (Arc 3 or 4):**
+- Meiji has been her prisoner since the end of Arc 2. In a scene alone with him: "I have you now. HAHAHAHAHA" [TBD: Arc 3 or Arc 4]
 
 **The Gabriella Incident (decided 2026-09-19):**
 - Angel, her secret spy inside the protagonists' side, gives her **where and when Gabriella will be alone** (he does not know who she is), so she can **corner her alone**, suddenly on the page. Gabriella was her captive years before (with Diominiciel) and escaped
@@ -588,7 +592,6 @@ AGE_ARC_1: ~35
 **The Final Confrontation:**
 - **Free assaults Pristania Headquarters**
 - **Climax of her character arc**
-- **Captures Meiji** - "I have you now. HAHAHAHAHA"
 - **Meiji is freed and every Apostle falls:** only Perlereina and Diominiciel remain undefeated (decided 2026-09-19)
 - **Absorbs Kami's 40%:** Diominiciel acts as a conduit and dies in the process (his body turns to dust); she becomes far more powerful
 - **She holds the energy but not the control:** the Resurrection is controlled only by Arjan and Lopney, so she cannot use it
@@ -664,7 +667,7 @@ AGE_ARC_1: ~35
 - Her guilt over Hirohiko shows capacity for remorse
 
 **But also no, because:**
-- She kills innocents (Cristopher and others)
+- She tortures and kills innocents (Cristopher, who dies in her custody, and others)
 - She refuses to heal or grow
 - She corrupts her father's teachings
 - She becomes a monster by choice, not just circumstance
@@ -751,7 +754,7 @@ AGE_ARC_1: ~35
 ✅ **About Kami:** Reverent, passionate, grieving
 ✅ **About Meiji:** Cold fury, absolute hatred
 ✅ **Losing people:** Desperation → grief → madness
-✅ **Capturing Meiji:** Triumphant, maniacal satisfaction
+✅ **Alone with the captive Meiji:** Triumphant, maniacal satisfaction
 
 ---
 
@@ -787,7 +790,7 @@ AGE_ARC_1: ~35
 
 1. **Portal color/aesthetic** - What do her portals look like visually?
 2. **Arc 2 specifics** - What brings her into the plot initially?
-3. **Cristopher's death method** - How exactly does she kill him?
+3. ~~**Cristopher's death method**~~ **RESOLVED 2026-10-02** (see The Cristopher Incident). Open: who planted the bombs, and whether she knew
 4. **Meiji captivity** - How long does she hold him? What does she do?
 5. **Her final battle** - Who confronts her in her insane state?
 6. **Her death scene** - Who kills her? Final words? Or just madness?

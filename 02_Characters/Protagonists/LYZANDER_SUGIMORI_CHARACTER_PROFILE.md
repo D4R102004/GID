@@ -68,14 +68,14 @@ AGE_ARC_1: ~19
 4. **Conflicted with the world** - internal turmoil constant
 5. **Grateful to those who show affection** - appreciates kindness deeply
 6. **Can be very nice** - kind person underneath grief
-7. **Mad with rage at times** - explosive anger (very rare, directed at Pristina)
+7. **Mad with rage at times** - explosive anger (very rare, directed at Pristania)
 
 ### **Core Values:**
 - **Self-centered individualism** - prefers to carry burdens alone
 - **Solve problems himself** - doesn't ask for help
 - **Family loyalty** - not into ideologies, just loyal to loved ones
 - **Freedom** - wants to live without hiding
-- **Justice** - believes Pristina must be eliminated
+- **Justice** - believes Pristania must be eliminated
 
 ### **Fatal Flaws:**
 - **Self-isolation** - pushes loved ones away
@@ -90,7 +90,7 @@ AGE_ARC_1: ~19
 **Sources:**
 1. **Meiji's state** - father consumed by guilt over Kami
 2. **Gabriella's "death"** - childhood friend captured 5 years ago
-3. **Free's hidden state** - living in darkness, not taking war to Pristina
+3. **Free's hidden state** - living in darkness, not taking war to Pristania
 4. **Rajin's disappearances** - grandmother constantly absent
 5. **Kensuke's indifference** - grandfather emotionally distant at times
 
@@ -113,7 +113,7 @@ AGE_ARC_1: ~19
 
 **What Triggers It:**
 - Memories of Gabriella
-- Pristina (enemy faction)
+- Pristania (enemy faction)
 - Father's passive acceptance of hiding
 - Feeling helpless
 - Being unable to save people
@@ -129,7 +129,7 @@ AGE_ARC_1: ~19
 - **Hope** - when things look possible
 
 ### **What Pisses Him Off:**
-- **Pristina** - entire faction, primary target of rage
+- **Pristania** - entire faction, primary target of rage
 - They're the reason Free can't live happily
 - They're the reason Meiji is consumed by grief
 - They took Gabriella
@@ -171,7 +171,7 @@ AGE_ARC_1: ~19
 > "I honestly wouldn't know what to say. I'll help you."
 
 **Talking to Meiji (frustrated, wanting action):**
-> "Father, why does Pristina still exist? Can't you erase them off the map?"
+> "Father, why does Pristania still exist? Can't you erase them off the map?"
 
 **Warning enemy (tries to reason):**
 > "Listen, it doesn't have to be like this. Listen to me."
@@ -273,7 +273,7 @@ AGE_ARC_1: ~19
 ### **Combat Philosophy:**
 
 **Approach:**
-- **Prefers to avoid fighting** unless against Pristina
+- **Prefers to avoid fighting** unless against Pristania
 - **Defensive overall** - doesn't initiate
 - **Mid-range attacks** - not close combat (not skilled at martial arts)
 - **Fears hurting enemies too much** - fire is unstable and powerful
@@ -319,7 +319,7 @@ AGE_ARC_1: ~19
 - Fights to achieve goals (protect, revenge, freedom)
 - Depends on point in story
 - **Not eager to harm** - prefers redemption
-- **Conflict-avoidant** unless Pristina involved
+- **Conflict-avoidant** unless Pristania involved
 
 ---
 
@@ -361,7 +361,7 @@ AGE_ARC_1: ~19
 **What Frustrates Him:**
 - Meiji is **too passive**
 - **Accepts living in darkness** instead of fighting
-- Won't **take the war to Pristina**
+- Won't **take the war to Pristania**
 - Consumed by guilt over Kami (everyone at Free knows)
 - **Doesn't admire him much lately** - wants him to act
 
@@ -387,7 +387,7 @@ AGE_ARC_1: ~19
 - **Wants Meiji to be happy**
 - Go into the open
 - **Look for Yonoa** (best friend)
-- **Annihilate Pristina**
+- **Annihilate Pristania**
 - Turn sadness and grief into **assertiveness**
 - Stop accepting hiding
 
@@ -430,7 +430,7 @@ AGE_ARC_1: ~19
 **Impact:**
 - Grandfather's indifference adds to grief
 - Not as close as with Meiji
-- More aligned with **Kensuke's ideology** (eliminate Pristina)
+- More aligned with **Kensuke's ideology** (eliminate Pristania)
 
 ---
 
@@ -483,11 +483,11 @@ AGE_ARC_1: ~19
 - Agreed to meet again and reconcile
 - **Secret alliance** between Jitsumoto and Free
 - Shigeru reluctantly agreed for daughter
-- **Marsella gave Pristina the intel**
-- Pristina **attacked the ceremony**
+- **Marsella gave Pristania the intel**
+- Pristania **attacked the ceremony**
 - **Gabriella was captured** and seemingly "killed"
 - Many older Free members died
-- Jitsumoto and Pristina members also died
+- Jitsumoto and Pristania members also died
 - **Shigeru used ability to shield** both factions (how they escaped)
 
 **Lyzander's Experience:**
@@ -505,7 +505,7 @@ AGE_ARC_1: ~19
 - **Firmly believes Gabriella is still alive**
 - **Obsessed with this idea**
 - Even Gabriella's **parents gave up** (Tairin and husband)
-- **Schemes alone** on ways to attack Pristina
+- **Schemes alone** on ways to attack Pristania
 - **Doesn't have certainty** she's alive
 - **Can't move on** - refuses to accept death
 
@@ -516,7 +516,7 @@ AGE_ARC_1: ~19
 - **Neglects friends** (especially Lyon)
 - **Didn't join Security** - was their shared dream
 - **Resents Security position** - blames it for her capture
-- **Nightmares and disturbance** every time he thinks of her or Pristina
+- **Nightmares and disturbance** every time he thinks of her or Pristania
 - **Entirely unresolved grief**
 
 ---
@@ -593,7 +593,7 @@ AGE_ARC_1: ~19
 ---
 
 **Arc 4 Conflict:**
-- **Lyon has joined Pristina** (spoiler)
+- **Lyon has joined Pristania** (spoiler)
 - **Confrontation** between former friends turned enemies
 - **Gabriella dies** in Arc 4 - adds grief and tension to battle
 - **Lyzander must fight Lyon** - devastating
@@ -608,7 +608,7 @@ AGE_ARC_1: ~19
 ### **Yonoa (Love Interest):**
 
 **First Meeting (5 Years Ago):**
-- Met during **the ceremony** before Pristina attack
+- Met during **the ceremony** before Pristania attack
 - Meiji had **talked about her a lot** to Lyzander
 - **Already kind of close** to her in his own way
 - **Very shy** around her
@@ -617,7 +617,7 @@ AGE_ARC_1: ~19
 
 **Her Capture:**
 - Yonoa infiltrated Free HQ, was captured
-- **Framed as Pristina attacker**
+- **Framed as Pristania attacker**
 - First person she sees: **Lyzander**
 
 **First Night:**
@@ -627,7 +627,7 @@ AGE_ARC_1: ~19
 
 **Rescuing Her:**
 - **Lyzander saves her from prison** [Arc 2 spoilers - reasons unclear]
-- Knows she **couldn't be Pristina**
+- Knows she **couldn't be Pristania**
 - **Wanted to prevent injustice**
 
 ---
@@ -655,8 +655,8 @@ AGE_ARC_1: ~19
 **Arc 3-4 (Friends/Buddies):**
 
 **What They Bond Over:**
-- **War against Pristina** - shared enemy
-- **Saving Meiji** - captured by Pristina
+- **War against Pristania** - shared enemy
+- **Saving Meiji** - captured by Pristania
 - **Realize they have a lot in common**
 
 **His Role:**
@@ -676,7 +676,7 @@ AGE_ARC_1: ~19
 
 **Emotional Journey:**
 - Discovers **Gabriella is still alive** (joy)
-- But **Lyon has joined Pristina** (conflict) [spoilers]
+- But **Lyon has joined Pristania** (conflict) [spoilers]
 - **Falling in love** alleviates sadness a little
 
 **Going Out Together:**
@@ -691,7 +691,7 @@ AGE_ARC_1: ~19
 **When Love Develops:**
 - Friendship becomes love throughout Arc 4
 - At end of Arc 5: **become somewhat formal**
-- **No time** to explore relationship (Arc 5 = Pristina assault)
+- **No time** to explore relationship (Arc 5 = Pristania assault)
 
 **The Confession:**
 > "I had never realized until this point. I have... I love you."
@@ -715,7 +715,7 @@ AGE_ARC_1: ~19
 - **Yes** - fears losing her
 - **Already lost Gabriella** - doesn't want to lose anyone else
 - **Secretly fears losing everyone**
-- **Not even sure about Pristina vendetta** - conflict in his heart
+- **Not even sure about Pristania vendetta** - conflict in his heart
 
 ---
 
@@ -775,7 +775,7 @@ AGE_ARC_1: ~19
 
 **What They Bond Over:**
 - **Common objective:** Saving Lopney and Yonoa (Arc 2)
-- Then: Saving **Meiji and Gallan** from Pristina (Arc 3+)
+- Then: Saving **Meiji and Gallan** from Pristania (Arc 3+)
 - **Similar distaste for violence** - Yonoa doesn't fancy this
 - Both prefer peaceful solutions
 
@@ -821,7 +821,7 @@ AGE_ARC_1: ~19
 - Town was **destroyed in the war**
 
 **The Tragedy:**
-- **Battle between Free and Pristina** razed his village
+- **Battle between Free and Pristania** razed his village
 - **Parents died in explosion** - caught in crossfire
 - **Found as baby** in smoldering remains of house
 - **Meiji discovered him** during aftermath
@@ -875,15 +875,15 @@ AGE_ARC_1: ~19
 - Location: **Former Free HQ** (not current island)
 
 **The Betrayal:**
-- **Marsella gave Pristina the intel** (she was spy)
-- Pristina **attacked the ceremony**
+- **Marsella gave Pristania the intel** (she was spy)
+- Pristania **attacked the ceremony**
 
 **The Attack:**
 - **Lyzander was at Free HQ** when it happened
 - Battle erupted
 - **Knocked unconscious** during fighting
 - Many **older Free members died**
-- Jitsumoto and Pristina members also died
+- Jitsumoto and Pristania members also died
 - **Shigeru used ability to shield** both factions (allowed escape)
 
 **The Loss:**
@@ -914,7 +914,7 @@ AGE_ARC_1: ~19
 - **Firmly believes Gabriella is alive**
 - Grows **obsessed with idea**
 - Even her **parents gave up** (Tairin and husband)
-- **Schemes alone** on attacking Pristina
+- **Schemes alone** on attacking Pristania
 - Doesn't have **certainty** she's alive
 - **Refuses to move on**
 
@@ -925,7 +925,7 @@ AGE_ARC_1: ~19
 **Daily Routine:**
 - Wakes up
 - **Goes to secret room** (only he and Lyon know about)
-- **Investigates Pristina** - finds details, plans attacks
+- **Investigates Pristania** - finds details, plans attacks
 - **Trains himself** a bit
 - Spends most of day **alone** in that area
 - **Drinking and smoking**
@@ -945,7 +945,7 @@ AGE_ARC_1: ~19
 - **Nightmares** - disturbed by memories
 - **Flashbacks** to attack
 - Thinks about Gabriella constantly
-- Thinks about Pristina with rage
+- Thinks about Pristania with rage
 - **Entirely unresolved grief**
 - **Emotionally at peak** anger and sadness (Arc 2 start)
 
@@ -964,13 +964,13 @@ AGE_ARC_1: ~19
 
 **Yonoa Arrives:**
 - **Infiltrates Free HQ**
-- Framed as Pristina attacker
+- Framed as Pristania attacker
 - **Lyzander is first person she sees**
 - They sleep together (comfort) that night
 
 **Why He Saved Her:**
 - [Arc 2 spoilers]
-- Knew she **couldn't be Pristina**
+- Knew she **couldn't be Pristania**
 - Wanted to **prevent injustice**
 
 **Impact:**
@@ -979,7 +979,7 @@ AGE_ARC_1: ~19
 - She showed **genuine care and love** for him 5 years ago
 
 **The Twist:**
-- **Meiji is captured by Pristina** shortly after
+- **Meiji is captured by Pristania** shortly after
 - **Gallan also kidnapped**
 - Lyzander joins **"5 Souls to the Rescue"**
 - Mission: Save Meiji and Gallan
@@ -994,7 +994,7 @@ AGE_ARC_1: ~19
 ### **Arc 3 - "5 Souls to the Rescue":**
 
 **Mission:**
-- Rescue Meiji and Gallan from Pristina
+- Rescue Meiji and Gallan from Pristania
 - Team: Arjan, Lopney, Ichiro, Yonoa, Lyzander
 
 **Emotional State:**
@@ -1024,7 +1024,7 @@ AGE_ARC_1: ~19
 1. **Gabriella is Alive:**
    - **Vindication** - he was right all along
    - Joy mixed with pain
-   - But: **Lyon has joined Pristina** [spoilers]
+   - But: **Lyon has joined Pristania** [spoilers]
 
 2. **Gabriella Dies:**
    - **Breaks him completely**
@@ -1056,10 +1056,10 @@ AGE_ARC_1: ~19
 
 ---
 
-### **Arc 5 - "A Sanctuary of Peace and Order" (Pristina HQ Assault):**
+### **Arc 5 - "A Sanctuary of Peace and Order" (Pristania HQ Assault):**
 
 **The Battle:**
-- Free assaults Pristina Headquarters
+- Free assaults Pristania Headquarters
 - **Lyzander's role:** Fight Lyon (former best friend)
 - **Confrontation** between friends turned enemies
 - Gabriella's death **adds grief and tension**
@@ -1114,7 +1114,7 @@ AGE_ARC_1: ~19
 - **Just loyal to his family** - not ideological crusader
 - Not really into politics or factions abstractly
 
-### **Views on Pristina:**
+### **Views on Pristania:**
 - **Enemy** - the reason for their misfortune
 - **What he hates most** in the world
 - They're why Free can't live happily
@@ -1124,13 +1124,13 @@ AGE_ARC_1: ~19
 
 ### **Views on the War:**
 - **Doesn't have much view** - was a baby during 3-Year War
-- But **wants Pristina eliminated** now
+- But **wants Pristania eliminated** now
 - **More in line with Kensuke's ideology** (aggressive stance)
 
 ### **Views on Kami:**
 - **Knows the history** - Kensuke told him
 - **Doesn't despise Kami** personally (wasn't born when he died)
-- But **Kami = embodiment of Pristina**
+- But **Kami = embodiment of Pristania**
 - Doesn't fancy him for that reason
 - No personal grudge, just association
 
@@ -1231,7 +1231,7 @@ AGE_ARC_1: ~19
 - **Doesn't want to believe Gabriella is dead**
 - **Wants time back** to how it was
 - But also **wants freedom** from hiding
-- **Wants Pristina finished** - requires violence
+- **Wants Pristania finished** - requires violence
 - **Not willing to fight** - pacifist nature
 - **What he wants can't be achieved without fighting** - paradox
 
@@ -1275,7 +1275,7 @@ AGE_ARC_1: ~19
 
 ### **Internal Thoughts:**
 ✅ Obsessing over Gabriella
-✅ Plotting against Pristina
+✅ Plotting against Pristania
 ✅ Wanting Meiji to act
 ✅ Overthinking situations
 ✅ Fear of losing people
@@ -1334,7 +1334,7 @@ AGE_ARC_1: ~19
 > "I honestly wouldn't know what to say. I'll help you."
 
 **Frustration with Father:**
-> "Father, why does Pristina still exist? Can't you erase them off the map?"
+> "Father, why does Pristania still exist? Can't you erase them off the map?"
 
 **Trying to Reason in Combat:**
 > "Listen, it doesn't have to be like this. Listen to me."
@@ -1363,7 +1363,7 @@ AGE_ARC_1: ~19
 **What Would Break Him:**
 - Seeing Gabriella's death in Arc 4 (does happen)
 - Losing Meiji or Yonoa
-- Pristina destroying Free
+- Pristania destroying Free
 
 **What He'd Die For:**
 - His father (Meiji)

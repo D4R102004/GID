@@ -218,9 +218,9 @@ AGE_ARC_1: 15
 - Honest feedback, blunt criticism, genuine praise
 
 **Arc 4 - The Devastating Loss:**
-- **Cristopher dies saving Arjan from Perlereina**
+- **Cristopher holds off Perlereina so Arjan and Lopney can escape** (after he and Arjan defeat Shigo)
 - Heroic sacrifice (throws himself in harm's way)
-- **Is captured protecting his student** (complete redemption)
+- **Is captured protecting his students** (complete redemption); later dies in Pristania's custody, in front of Meiji
 - Arjan loses his mentor and friend
 - Proves to Arjan that strength isn't about powers - it's about who you protect
 - This loss profoundly shapes Arjan's development

@@ -167,10 +167,10 @@ AGE_ARC_1: 15
 - First on-page encounter: ambushes them at a cemetery, tipped off they'd be there, around a tombstone bearing their father Gallan's name
 - Aoi intervenes and calls a cease-fire; Perlereina intervenes as well. Aoi resolves to fight her former student to stop her, while Shigo leaves with Arjan and Lopney
 - They run into **Cristopher**. In a sudden fit of duty, Shigo attacks both — incapacitating Lopney with a low blow, going for Arjan's Nouryoku. **Arjan and Cristopher defeat him.** Cristopher realizes Shigo is the one who killed Tased and, in a burst of vengeance, **breaks his neck, killing him**
-- Perlereina arrives immediately after, having just defeated Aoi — this leads directly into Cristopher's sacrifice against her to let Arjan and Lopney escape *(cross-reference: CRISTOPHER_TRUEMAN, PERLEREINA_DEI, and MEIJI character profiles for the scene that follows)*
+- Perlereina arrives immediately after, having just defeated Aoi — Cristopher holds her off so Arjan and Lopney can escape, and she captures him *(the scene that follows, before the captive Meiji: PERLEREINA_DEI, "The Cristopher Incident")*
 
 ### **Meiji:**
-- **[TBD]:** no direct relationship confirmed. Relevant only in that Shigo's death is the event that sets off the Cristopher/Perlereina/Meiji scene immediately following it
+- No direct relationship (Meiji is Pristania's captive from the end of Arc 2 to Arc 5). Shigo's death sets off Cristopher's capture, which ends in Cristopher's death before Meiji
 
 ---
 
@@ -179,7 +179,7 @@ AGE_ARC_1: 15
 - Born Takeshi Kondo, younger brother of Mizuki Kondo. Their parents had him **much later** than her
 - **Father:** built DeathCake, a real family-owned confectionery and bakery company in Vista Alegre. Killed in **conflicts with the local mafia**, leaving Shigo as successor
 - **Too young to front the company publicly**, Shigo had his secretary pose as CEO instead. The public believes the secretary runs DeathCake; in truth, Shigo — trained by his father in business from an early age — controls everything from behind
-- **Entered Pristania through Aoi**, who had been Empress (succeeding Shigeru and Kensuke in the seat) before later resigning
+- **Entered Pristania through Aoi**, who had been Empress before later resigning. After Kensuke and Shigeru left, the Emperors were **Aoi, Goro Kiryuin and Bellsaw**; Aoi and Goro later left too, and their seats went to **Shigo and Claudia** (author, 2026-10-02)
 - **Rose to Emperor** through his own talent, helped by Aoi's influence and Perlereina's affection for her former student — a decision **not universally supported** within Pristania
 - Already an Emperor by Arc 2, having become one **not long before**
 
@@ -198,7 +198,7 @@ AGE_ARC_1: 15
 - Aoi and Perlereina both intervene; Aoi fights Perlereina to stop her while Shigo leaves with the twins
 - Encounters Cristopher. Attacks both Arjan and Cristopher out of a sudden fit of duty — incapacitates Lopney with a low blow, tries to force Arjan's Nouryoku from him
 - **Loses to Arjan and Cristopher.** Cristopher discovers Shigo killed Tased and, in vengeance, **breaks his neck — killing him**
-- His death is the immediate trigger for the scene that follows: Perlereina arrives (having just defeated Aoi), and Cristopher turns to fight her so Arjan and Lopney can escape
+- His death is the immediate trigger for the scene that follows: Perlereina arrives (having just defeated Aoi), and Cristopher turns to fight her so Arjan and Lopney can escape. She captures Cristopher
 
 ### **Arc 5:** N/A — deceased
 ### **Arc 6:** N/A — deceased
@@ -211,5 +211,5 @@ AGE_ARC_1: 15
 - Full Arc 1-3 role beyond killing Tased
 - Nouryoku limits beyond stated (switching speed mid-combat, per-power energy cost specifics)
 - Final linework for all three looks (Emperor, DeathCake heir, and bare/civilian)
-- Factions.md currently points to a broken path (`CHARACTER_PROFILES/SHIGO.md`) — update it to this file as part of the next consistency pass
-- This file should also be cross-checked in the same pass against: GORO_KIRYUIN (Emperor retcon), SHIRO_KIRYUIN, ICHIRO_KIRYUIN, BELLSAW, Timeline.md (Emperor succession), MEIJI/CRISTOPHER/PERLEREINA (Arc 4 capture-and-death sequence correction — see session notes: Meiji is captured at the end of Arc 2, not freed until Arc 5; MEIJI.md, CRISTOPHER.md and PERLEREINA.md's "Cristopher Incident" section currently describe him as free in Arc 4 and need correcting)**
+- Why Aoi resigned, and when
+- *(Consistency pass DONE 2026-10-02: Factions path, Emperor succession, Goro retcon, Meiji/Cristopher/Perlereina Arc 4 sequence)***

@@ -282,7 +282,7 @@ AGE_ARC_1: 43
 - He lives **in a dump**, in a lair where he stores **the gifts Kami gave him** (author). He still wears **the same suit from his days as a star**, now neglected
 - He is an Emperor **in the shadows** and **declares himself openly in his combat with Lyzander** (Arc 4). Until then nobody knows it is him
 
-**Timeline note:** Kami died at **50** (his profile) and Angel was about **25**. About **18 years** separate Kami's death from Arc 1. Perlereina found him **12-13 years** after (author), when Angel was about 37-38 and Perlereina about 29-30 (ages from the Quick Ref).
+**Timeline note:** Kami died at **~55** and Angel was about **25**. About **18 years** separate Kami's death from Arc 1. Perlereina found him **12-13 years** after (author), when Angel was about 37-38 and Perlereina about 29-30 (ages from the Quick Ref).
 
 [TBD: **why Derek Guzman matters to Perlereina** (the author's reason is only that she wants to know his movements);
 

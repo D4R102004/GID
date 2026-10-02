@@ -439,16 +439,13 @@ AGE_ARC_1: ~34
 - Their relationship is stuck in limbo (neither fully together nor apart)
 
 **Arc 4 - The Devastating Loss:**
-- **Cristopher is captured saving Arjan from Perlereina**
-- **Meiji witnesses his death** (in front of him)
+- Meiji has been Pristania's captive since the end of Arc 2, held inside Kensuke's Protos Sphere (freed in Arc 5)
+- **Cristopher is captured holding off Perlereina so Arjan and Lopney can escape**
+- Perlereina, wrongly believing Meiji can break the sphere, brings Cristopher before him and **tortures him in front of Meiji**, then breaks down and leaves the room
+- Half dead, Cristopher **breaks a hole in the wall to free Meiji**; hidden Pristania bombs detonate and **he dies in front of Meiji**
 - **One of the saddest moments in the story**
 - Compounds his existing grief (Kami, the war, now Cristopher)
-
-**Cristopher's Death:**
-- **Loses his boyfriend in this arc**
-- Cristopher is catured saving Arjan from Perlereina
-- **Meiji witnesses the death** (happens in front of him)
-- One of the most devastating moments in his life
+- *(Full scene: PERLEREINA_DEI_CHARACTER_PROFILE.md, "The Cristopher Incident")*
 ---
 
 ### **His Adopted Son:**

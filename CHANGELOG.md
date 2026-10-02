@@ -1,5 +1,33 @@
 # GID LORE CHANGELOG
 
+## 2026-10-02 (Consistency pass after Shigo profile)
+Resolved the Arc 4 Cristopher/Meiji contradiction (Meiji is captive from the end of Arc 2 to Arc 5), the Emperor succession, Goro's Emperor retcon and Kami's age.
+
+**Files changed:**
+- 02_Characters/Supporting/Free/CRISTOPHER_TRUEMAN_CHARACTER_PROFILE.md
+- 02_Characters/Supporting/Free/MEIJI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/PERLEREINA_DEI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/SHIGO_TAKESHI_KONDO_CHARACTER_PROFILE.md
+- 02_Characters/Protagonists/ARJAN_CHARACTER_PROFILE.md
+- 02_Characters/Supporting/Vista_alegre/GORO_KIRYUIN_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/KAMI_CHARACTER_PROFILE.md
+- 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md
+- 02_Characters/Protagonists/LYZANDER_SUGIMORI_CHARACTER_PROFILE.md
+- 01_Lore/Factions.md
+- 04_Development/Timeline.md
+- 04_Development/Open_Questions_REORGANIZED.md
+- GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- RESOLVED: Cristopher's death. He holds off Perlereina so Arjan AND Lopney escape (other profiles stress Arjan for the mentor bond) and is captured. Perlereina, wrongly believing Meiji can break Kensuke's Protos Sphere, brings him before the captive Meiji and tortures him; she comes to hate it, cries thinking of her father and of Meiji, and leaves. Half dead, Cristopher breaks a hole in the wall to free Meiji; hidden Pristania bombs detonate and kill him in front of Meiji. She does not execute him
+- CORRECTED: Meiji does not witness anything at the cemetery; he is a captive from the end of Arc 2 and is freed in Arc 5 (Meiji, Cristopher, Perlereina, Arjan, Shigo profiles)
+- CORRECTED: Perlereina does NOT capture Meiji in Arc 5. "I have you now. HAHAHAHAHA" moved to a scene alone with the captive Meiji in Arc 3 or 4
+- ADDED: Emperor succession. Bellsaw/Shigeru/Kensuke + Kami → Aoi/Goro/Bellsaw → Bellsaw/Claudia/Shigo (+ Angel secret, Arc 4)
+- ADDED (retcon): Goro Kiryuin was a Pristania Emperor for a time before Kami's death
+- RESOLVED: Kami died at ~55 (approximate by design)
+- CORRECTED: Factions.md path to Shigo's profile; "Pristina" → "Pristania" (Lyzander)
+- FLAGGED [TBD]: who planted the bombs and whether Perlereina knew; Arc 3 or 4 for the "I have you now" scene; why/when Aoi and Goro left; Kami's life-stage ages and the Timeline's Kamigami birth years (45/42/36 years before Arc 1) don't match the roster ages (~40/~38/~35)
+
 ## 2026-09-19 (Angel profile + consistency pass)
 Angel Velasco's full profile added (secret 4th Emperor, Kami's chosen successor and lover, twist villain of Arc 4). His Arc 4 role, the trap finale and his death changed several earlier statements ("Angel acts on his own", "dead by the end of Arc 5", "joins in Arc 4"). Changes propagated to the affected files.
 

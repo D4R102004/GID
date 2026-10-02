@@ -566,7 +566,7 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 3. **Shigo - 死後 (真名: Takeshi Kondo 近藤毅)**
    - Elite Emperor
    - *[Main antagonist role in Arc 4]*
-   - *[See CHARACTER_PROFILES/SHIGO.md for full details]*
+   - *[See 02_Characters/Pristania/SHIGO_TAKESHI_KONDO_CHARACTER_PROFILE.md for full details]*
 
 4. **Angel (真名: Angel Velasco; self-given private name: Tenshi 天使)** *(secret)*
    - Elite Emperor with **no Nouryoku**. Fights from a **giant winged mecha** (built by Bellsaw at Perlereina's request)
@@ -576,7 +576,11 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 
 **Former Emperors:**
 - **Kensuke** - Defected to Free before Kami's duel
-- [Other former members TBD]
+- **Shigeru Houzu** - Left gradually and amicably; founded Jitsumoto
+- **Aoi (Mizuki Kondo)** - Empress after Kensuke and Shigeru left; Perlereina's former teacher; later resigned. Shigo's elder sister
+- **Goro Kiryuin** - Emperor for a time before Kami's death; later left (now an independent contractor, "Fukusei")
+
+**Succession:** original seats Bellsaw, Shigeru, Kensuke + Kami (4th) → after Kensuke and Shigeru left: **Aoi, Goro, Bellsaw** → after Aoi and Goro left: **Bellsaw, Claudia, Shigo** (+ Angel in Kami's seat, secret, from Arc 4)
 
 **The 4 Emperors are primary antagonists of Arc 4**
 

@@ -454,10 +454,9 @@ AGE_ARC_1: ~25
 - Cristopher finds purpose in teaching
 
 **Arc 4 - The Sacrifice:**
-- Cristopher **dies saving Arjan from Perlereina**
+- Cristopher **holds off Perlereina so Arjan (and Lopney) can escape**, and is captured
 - Heroic sacrifice (complete redemption)
-- Dies in front of Meiji (devastating)
-- *[Further details spoilers for Arc 5]*
+- Dies in front of the captive Meiji, at Pristania (see Character Arc, Arc 4)
 
 ---
 
@@ -487,7 +486,7 @@ AGE_ARC_1: ~25
 
 **Perlereina (His Killer):**
 - Specifically mentioned as "stronger than him" during Pristania rejection
-- Becomes the one who kills him in Arc 4
+- Captures and tortures him in Arc 4; he dies in Pristania's custody, killed by hidden bombs in the room (not by her hand)
 - Tragic irony: They were right about her strength, but he dies a hero anyway
 
 ---
@@ -532,14 +531,21 @@ AGE_ARC_1: ~25
 - Their bond is strong now (master and student, friends)
 
 **The Sacrifice:**
-- **Perlereina attacks**
-- Cristopher **dies saving Arjan**
-- **Dies in front of Meiji** (Meiji witnesses it)
-- *[Specific circumstances are spoilers for Arc 5]*
+- After Arjan and Cristopher defeat Shigo at the cemetery, Cristopher **kills Shigo** (breaks his neck) on realizing he killed Tased
+- **Perlereina arrives**; Cristopher holds her off so **Arjan and Lopney escape**, and she captures him
+
+**Captivity and death (decided 2026-10-02, author):**
+- **The ambush:** after Cristopher kills Shigo at the cemetery, Perlereina arrives (having just defeated Aoi). Cristopher **holds her off so Arjan and Lopney can escape**, and she captures him. *(Other profiles stress Arjan because of the mentor bond; on the page he saves both twins.)*
+- **Why she takes him alive:** Meiji is held inside the Protos Sphere Kensuke cast around him at the end of Arc 2. Perlereina **wrongly believes Meiji can break out of it**, and her plan to force him is to bring a member of Free before him
+- **The torture:** she throws Cristopher to the floor in front of the captive Meiji and **tortures him cruelly**
+- **She breaks:** partway through she realizes she **hates what she is doing**; tears come as she thinks of her father, and of Meiji. She **abruptly leaves the room**. She does not execute him
+- **Cristopher's last act:** half dead, he pulls himself up and uses his strength to **punch a hole in the wall** to free Meiji. He succeeds
+- **The bombs:** at that moment it is revealed that Pristania had planted **a set of hidden bombs** in the room. They detonate and Cristopher is **blown to pieces in front of Meiji**
+- [TBD: who planted the bombs and why; whether Perlereina knew about them; whether the hole/explosion has any consequence for Meiji's captivity (he stays captive until Arc 5)]
 
 **His Final Moment:**
 - Heroic sacrifice (complete redemption)
-- Proves his worth (dies protecting someone he loves)
+- Proves his worth (dies protecting someone he loves: first the twins, then trying to free Meiji)
 - No powers, but saves the day anyway
 
 **Impact:**

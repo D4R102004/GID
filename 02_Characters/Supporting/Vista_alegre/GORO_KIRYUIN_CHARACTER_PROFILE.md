@@ -109,7 +109,7 @@ Two sons, two different mothers — non-Kiryuin women, both stolen from at birth
 - Lives in the Kiryuin mansion, outskirts of Vista Alegre
 - Not truly alone — clones fill the halls, manage the estate, keep him company
 - Operates as independent assassin-for-hire under the codename Fukusei
-- Has had a working relationship with Pristania in the past
+- Has had a working relationship with Pristania in the past: he was a **Pristania Emperor** for a time **before Kami's death**, serving alongside Aoi and Bellsaw after Kensuke and Shigeru left, and later left the seat (author, 2026-10-02) [TBD: why he left, and when]
 - Last living Kiryuin practicing the tradition actively
 
 ---

@@ -366,6 +366,13 @@ All dates are calculated from these reference points.
 
 ## ARC 4-6 EVENTS (as decided in drafting; not yet fully sequenced)
 
+### **Emperor succession (author, 2026-10-02)**
+1. Original: Bellsaw, Shigeru, Kensuke + Kami as 4th
+2. After Kensuke and Shigeru leave: Aoi, Goro Kiryuin, Bellsaw (Goro serves before Kami's death)
+3. After Aoi and Goro leave: Bellsaw, Claudia, Shigo (both recently made Emperor by Arc 2)
+4. Arc 4: Angel takes Kami's seat in secret
+[TBD: exact years of each change]
+
 ### **Arc 4 (Vista Alegre), order of the Emperor events**
 1. Perlereina, with Angel's information, corners Gabriella alone and stabs her repeatedly. Claudia arrives, then the Free members; Perlereina retreats. Claudia saves Gabriella's life on the spot
 2. Perlereina's meeting: everyone in Pristania learns Gabriella is the Metal Knight. Perlereina orders Claudia to kill her; Claudia refuses; treason accusation; Bellsaw intervenes; Diominiciel gives Claudia the task of persuading Gabriella and orders that nothing be done to her. Diominiciel takes Dragoon's position meanwhile

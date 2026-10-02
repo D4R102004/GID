@@ -1,6 +1,6 @@
 # GID - QUICK REFERENCE
 
-**Last Updated:** 2026-09-19
+**Last Updated:** 2026-10-02
 **Purpose:** Fast fact-checking for writing sessions. ALL information verified from character profiles.
 
 ---
@@ -91,7 +91,7 @@
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
 **Arc 2:** Shigeru Houzu (finale: sacrifices himself to save Yonoa)
-**Arc 4:** Cristopher (dies saving Arjan), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
+**Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
 **Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
 **Arc 4 (Emperors):** Perlereina, through Angel (secret 4th Emperor), lures Gabriella and Lyzander into a trap in the finale, on her order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists). Gabriella dies; Lyzander freezes Angel alive (Angel dies) and Yonoa saves him. Claudia falls into a coma after Yonoa beats her
 **End of Arc 5:** Hirohiko becomes leader of Pristania; peace between Pristania and Free

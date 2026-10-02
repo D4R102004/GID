@@ -95,7 +95,7 @@
 
 ## ARC 4 BLOCKERS
 
-- [ ] **Cristopher's death scene — Exact circumstances**
+- [x] **Cristopher's death scene — RESOLVED 2026-10-02** (see PERLEREINA_DEI_CHARACTER_PROFILE.md, "The Cristopher Incident"). Still open: who planted the bombs; whether Perlereina knew; his final words
   - How does Perlereina's attack unfold?
   - Does Cristopher know he's going to die, or is it sudden?
   - His final words to Arjan?
@@ -124,7 +124,7 @@
   - Does Perlereina learn Lyzander knows? Does Diominiciel learn she used Angel to break his ceasefire?
   - Vista Alegre after the mecha's attack: who survives (Derek Guzman, Marjenis, the police)? Who is Derek Guzman and why does Perlereina watch him?
   - The projection: does it show the ambush tip; is it Angel's edited version? Who runs it?
-  - Kami's age at death: profile says 50, Timeline says 55 (pre-existing; affects the Kami/Angel age gap)
+  - ~~Kami's age at death~~ **RESOLVED 2026-10-02: ~55.** Still open: Kami's life-stage ages and the Timeline's Kamigami birth years don't match the roster ages (~40/~38/~35)
   - The mecha's name; who built Angel's arm cannon; a full Yonoa rescue scene
 
 - [ ] **Bellsaw's Arc 4 storyline**

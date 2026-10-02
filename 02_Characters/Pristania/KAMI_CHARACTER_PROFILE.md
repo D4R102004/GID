@@ -4,7 +4,7 @@
 ROLE: Antagonist (historical)
 FACTION: Pristania (founder)
 STATUS: Deceased (18 years before Arc 1)
-AGE_ARC_1: N/A (died age 50)
+AGE_ARC_1: N/A (died age ~55)
 ---
 
 ---
@@ -14,7 +14,7 @@ AGE_ARC_1: N/A (died age 50)
 **Birth Name:** Zenshin (善神 - "Good God")
 **Codename:** Magnus Dei ("The Positive God")
 **Chosen Name:** Kami (神 - "God")
-**Age at Death:** 50 years old (died 18 years before Arc 1)
+**Age at Death:** ~55 years old (died 18 years before Arc 1). Approximate by design: a family man in his mid-fifties (author, 2026-10-02)
 **Status:** Deceased, founder of Pristania, father of the Kamigami
 
 ---
@@ -57,7 +57,8 @@ AGE_ARC_1: N/A (died age 50)
 - Raised the Kamigami alone
 - Spread his vision of absolute morality
 
-**Age 50:** Died in duel with Meiji (age 16)
+**Age ~55:** Died in duel with Meiji (age 16)
+- *[TBD: the life-stage ages above (family 21-31, founding at 31) were built on a death at 50 and don't yet match ~55 or the Timeline; reconcile in a dedicated pass]*
 - 18 years before Arc 1 begins
 - Power fragmented: 30% Arjan, 30% Lopney, 40% corpse
 
@@ -472,7 +473,7 @@ AGE_ARC_1: N/A (died age 50)
 - Kami decided Angel was ready and promised to present him to Pristania. **Three days before he could, Meiji killed him**
 - Angel had given Kami a **handkerchief, his only memento of his mother**. Kami **was carrying it** when he died
 - As leader of Pristania Kami **was** the 4th Emperor, so for him the two titles were equivalent. Angel takes the 4th Emperor seat, but not the leadership: Perlereina grants him the title only years later (when the protagonists reach Vista Alegre) and keeps it secret
-- Editor's note: this is a **later** relationship than the Megami thread (Kami was 50, Angel about 25). [TBD: how it sits beside his lingering feelings for Megami]
+- Editor's note: this is a **later** relationship than the Megami thread (Kami was ~55, Angel about 25). [TBD: how it sits beside his lingering feelings for Megami]
 
 ### **The 4 Emperors:**
 
