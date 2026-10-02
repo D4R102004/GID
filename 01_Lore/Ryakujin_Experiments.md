@@ -8,7 +8,7 @@ The Ryakujin conducted numerous experiments to create biological weapons and god
 ## TABLE OF CONTENTS
 1. [The Ryakujin](#the-ryakujin)
 2. [Bakuzoku (爆属)](#bakuzoku-爆属)
-3. [Kiryuuin (鬼龍院)](#kiryuuin-鬼龍院) - *[To be added]*
+3. [Kiryuin (鬼龍院)](#kiryuuin-鬼龍院) - *[To be added]*
 4. [Other Known Experiments](#other-known-experiments)
 
 ---
@@ -22,7 +22,7 @@ The Ryakujin conducted numerous experiments to create biological weapons and god
 
 **Known Experiments:**
 1. **Bakuzoku (爆属)** - Biological bomb-wielding weapons (failed experiment, abandoned)
-2. **Kiryuuin (鬼龍院)** - [Details TBD]
+2. **Kiryuin (鬼龍院)** - [Details TBD]
 3. **Kami (Zenshin)** - God-tier being created as ultimate weapon
 4. **Meiji** - God-tier being, circumstances of creation [TBD]
 5. **Rajin** - God-tier being, circumstances of creation [TBD]
@@ -537,7 +537,7 @@ A phenomenon unique to Bakuzoku where they lose all control and enter a violent 
 
 **END OF BAKUZOKU ENTRY**
 
-## KIRYUUIN (鬼龍院)
+## KIRYUIN (鬼龍院)
 
 ### **NAME MEANING**
 - **鬼** (Ki) = Demon, Oni
@@ -550,12 +550,12 @@ A phenomenon unique to Bakuzoku where they lose all control and enter a violent 
 ### **DEFINITION**
 
 **What They Are:**
-An ancient bloodline of assassins descended from Ryakujin experiments conducted centuries ago. Originally created as perfect soldiers, the Kiryuuin were abandoned and formed their own family dynasty. Over generations, their Ryakujin origins were forgotten or deliberately concealed, and they became a legendary assassin clan.
+An ancient bloodline of assassins descended from Ryakujin experiments conducted centuries ago. Originally created as perfect soldiers, the Kiryuin were abandoned and formed their own family dynasty. Over generations, their Ryakujin origins were forgotten or deliberately concealed, and they became a legendary assassin clan.
 
 **Classification:**
 - Originally artificially created (Ryakujin experiment)
 - Now a self-perpetuating family lineage through reproduction
-- Descendants inherit Kiryuuin traits and abilities
+- Descendants inherit Kiryuin traits and abilities
 - Ancient bloodline (centuries old)
 
 **Population Status (Arc 2):**
@@ -564,9 +564,9 @@ An ancient bloodline of assassins descended from Ryakujin experiments conducted 
 - Family destroyed from within by their own traditions
 
 **Current Members:**
-1. **Goro Kiryuuin (鬼龍院伍郎)** - Father, family head, ~50-55 years old
-2. **Shiro Kiryuuin (鬼龍院四郎)** - Elder son, ~32 years old (officially "dead", actually alive as Takumi Reiji/Zafiro)
-3. **Ichiro Kiryuuin (鬼龍院一朗)** - Younger son, ~17 years old (member of Free, protagonist)
+1. **Goro Kiryuin (鬼龍院伍郎)** - Father, family head, ~50-55 years old
+2. **Shiro Kiryuin (鬼龍院四郎)** - Elder son, ~32 years old (officially "dead", actually alive as Takumi Reiji/Zafiro)
+3. **Ichiro Kiryuin (鬼龍院一朗)** - Younger son, ~17 years old (member of Free, protagonist)
 
 ---
 
@@ -574,7 +574,7 @@ An ancient bloodline of assassins descended from Ryakujin experiments conducted 
 
 #### **Physical Appearance**
 - **Indistinguishable from normal humans**
-- No distinctive physical markers that identify them as Kiryuuin
+- No distinctive physical markers that identify them as Kiryuin
 - Appear completely human
 
 #### **Mental/Behavioral Traits**
@@ -585,7 +585,7 @@ An ancient bloodline of assassins descended from Ryakujin experiments conducted 
 - Complicated family dynamics due to traditions
 
 #### **Cultural Identity**
-- **Naming convention:** All male Kiryuuin names end in **-rou (郎, 朗, etc.)**
+- **Naming convention:** All male Kiryuin names end in **-rou (郎, 朗, etc.)**
   - Examples: Go**rou**, Shi**rou**, Ichi**rou**
   - Traditional Japanese naming pattern
   - Identifies them within the family lineage
@@ -597,68 +597,68 @@ An ancient bloodline of assassins descended from Ryakujin experiments conducted 
 #### **Nouryoku (能力)**
 
 **NOT Universal:**
-- Unlike Bakuzoku (who all share bomb generation), each Kiryuuin has a **unique Nouryoku**
+- Unlike Bakuzoku (who all share bomb generation), each Kiryuin has a **unique Nouryoku**
 - Powers are individual, not standardized
 - Inherited genetically but manifest differently per person
 - Specific powers: [See individual character profiles]
 
 **What IS Universal:**
-- **ALL Kiryuuin possess Nouryoku** (100% rate, unlike general population)
-- ALL Kiryuuin powers can **evolve** to a higher level
-- Evolution mechanism is unique to Kiryuuin bloodline
+- **ALL Kiryuin possess Nouryoku** (100% rate, unlike general population)
+- ALL Kiryuin powers can **evolve** to a higher level
+- Evolution mechanism is unique to Kiryuin bloodline
 
 ---
 
-#### **Power Evolution - The Kiryuuin Curse**
+#### **Power Evolution - The Kiryuin Curse**
 
 **True Mechanism (Unknown to the Family):**
 
-When a Kiryuuin is **at the brink of death**, their body releases a special energy.
+When a Kiryuin is **at the brink of death**, their body releases a special energy.
 
 **Activation Conditions:**
 - Must be **near death** (life-threatening injury, critical state)
-- Applies to the Kiryuuin themselves OR other Kiryuuin nearby
-- **Range:** Within 2 meters of the dying/nearly-dying Kiryuuin
+- Applies to the Kiryuin themselves OR other Kiryuin nearby
+- **Range:** Within 2 meters of the dying/nearly-dying Kiryuin
 
 **Effect:**
 - Released energy triggers **permanent evolution** of Nouryoku
-- Works on the dying Kiryuuin themselves (if they survive)
-- Works on other Kiryuuin within 2-meter radius
+- Works on the dying Kiryuin themselves (if they survive)
+- Works on other Kiryuin within 2-meter radius
 - **Evolution is permanent** - power remains at new level forever
 - **Can only evolve once** - not multiple levels (base → evolved, that's it)
 
 **Example Scenarios:**
 
 1. **Self-Evolution:**
-   - Kiryuuin is mortally wounded in battle
+   - Kiryuin is mortally wounded in battle
    - Hovers at brink of death but recovers
    - Their own power evolves during near-death state
    - Awakens with permanently evolved Nouryoku
 
 2. **Proximity Evolution:**
-   - Kiryuuin A is dying
-   - Kiryuuin B and C are within 2 meters
+   - Kiryuin A is dying
+   - Kiryuin B and C are within 2 meters
    - All three evolve (including A if they survive)
-   - Energy release affects all nearby Kiryuuin simultaneously
+   - Energy release affects all nearby Kiryuin simultaneously
 
 3. **Intentional Triggering:**
-   - Kiryuuin brings themselves to brink of death deliberately
+   - Kiryuin brings themselves to brink of death deliberately
    - Triggers evolution in nearby family members
    - Dangerous but possible method
 
 **Critical Truth:**
-**The dying Kiryuuin does NOT need to actually die. They only need to reach the brink of death to trigger the energy release.**
+**The dying Kiryuin does NOT need to actually die. They only need to reach the brink of death to trigger the energy release.**
 
 ---
 
 #### **The Family's Fatal Misunderstanding**
 
-**What the Kiryuuin Believe (INCORRECT):**
+**What the Kiryuin Believe (INCORRECT):**
 To evolve their Nouryoku, they must **kill a member of their own family**.
 
 **How the Misunderstanding Began:**
 - Centuries ago, during a family dispute
-- One Kiryuuin killed another in combat
+- One Kiryuin killed another in combat
 - Killer's power evolved (victim was at brink of death before dying, released energy)
 - Family concluded: "Murder = Evolution"
 - Tradition solidified over generations
@@ -669,27 +669,27 @@ To evolve their Nouryoku, they must **kill a member of their own family**.
 - Killer evolves → reinforces belief
 - Family never tested non-lethal alternatives
 - Became sacred tradition, never questioned
-- **No living Kiryuuin knows the truth** (as of Arc 2 start)
+- **No living Kiryuin knows the truth** (as of Arc 2 start)
 
 **The Tragedy:**
-The Kiryuuin have been **murdering each other for centuries based on a lie**. They could evolve by simply bringing each other near death and healing them, but instead they commit familicide believing it's necessary.
+The Kiryuin have been **murdering each other for centuries based on a lie**. They could evolve by simply bringing each other near death and healing them, but instead they commit familicide believing it's necessary.
 
 ---
 
 #### **Power Evolution - Current Status**
 
-**Goro Kiryuuin:**
+**Goro Kiryuin:**
 - **Has evolved** - killed his own father to trigger evolution
 - Committed patricide believing it was necessary tradition
 - Lives with this act as part of family legacy
 
-**Shiro Kiryuuin:**
+**Shiro Kiryuin:**
 - **Has evolved** - brought to brink of death and survived (details TBD in character profile)
 - **Did NOT kill anyone** to achieve evolution
 - Evolution occurred through actual mechanism (near-death experience)
 - Does not fully understand how it happened (begins forming theories)
 
-**Ichiro Kiryuuin:**
+**Ichiro Kiryuin:**
 - **Evolution status:** [SPOILER - TBD in story]
 
 ---
@@ -699,7 +699,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 #### **The Assassin Legacy**
 
 **Profession:**
-- **All Kiryuuin must be assassins** (family law)
+- **All Kiryuin must be assassins** (family law)
 - Trained from childhood in killing arts
 - Expected to take contracts and execute targets
 - Professional reputation built over centuries
@@ -722,19 +722,19 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 #### **Purity Obsession**
 
 **Bloodline Fanaticism:**
-- Obsessed with maintaining pure Kiryuuin genetics
-- Believe only Kiryuuin blood carries the evolution trait
+- Obsessed with maintaining pure Kiryuin genetics
+- Believe only Kiryuin blood carries the evolution trait
 - **Refuse to allow outsiders into the family**
 
 **Reproduction Method:**
-- Kiryuuin have children with **non-Kiryuuin partners** (genetic diversity)
+- Kiryuin have children with **non-Kiryuin partners** (genetic diversity)
 - **Steal the baby** immediately after birth
-- Disappear without trace, leaving the non-Kiryuuin parent behind
-- **No mothers or fathers** allowed in family (only Kiryuuin blood)
+- Disappear without trace, leaving the non-Kiryuin parent behind
+- **No mothers or fathers** allowed in family (only Kiryuin blood)
 
 **Result:**
-- Every Kiryuuin child raised by **only one parent** (the Kiryuuin parent)
-- Never meet their non-Kiryuuin parent
+- Every Kiryuin child raised by **only one parent** (the Kiryuin parent)
+- Never meet their non-Kiryuin parent
 - Grow up knowing they were "stolen" for the bloodline
 - Creates broken family dynamics
 
@@ -750,13 +750,13 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 **The "Rule":**
 - To evolve your Nouryoku, you must kill a family member
-- **NOT mandatory** - Kiryuuin can choose not to seek evolution
+- **NOT mandatory** - Kiryuin can choose not to seek evolution
 - But it's a **revered tradition** - those who evolve gain prestige
 - Family expects members to eventually do it
 
 **How It Works in Practice:**
 - **No formal rules** on who, when, or how
-- Each Kiryuuin plans their own "sacrifice"
+- Each Kiryuin plans their own "sacrifice"
 - Can target: father, sibling, grandparent, cousin - any blood relative
 - Method is personal choice (duel, assassination, ambush)
 - **Availability matters** - kill who you can access
@@ -807,7 +807,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 **Family History:**
 - Oral traditions passed down generations
-- Stories of past Kiryuuin and their deeds
+- Stories of past Kiryuin and their deeds
 - Legends of famous assassinations
 - Tales of evolution sacrifices
 
@@ -877,7 +877,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 **The Incident:**
 - Family dispute erupted (cause unknown)
-- One Kiryuuin killed another in the conflict
+- One Kiryuin killed another in the conflict
 - Killer's power evolved unexpectedly
 - Family witnessed this and drew conclusion
 
@@ -906,9 +906,9 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 - Continued traditions despite being one of last surviving members
 
 **Shiro's Birth (~32 years ago):**
-- Goro fathers child with non-Kiryuuin woman
+- Goro fathers child with non-Kiryuin woman
 - Steals baby Shiro at birth
-- Raises him alone in Kiryuuin mansion
+- Raises him alone in Kiryuin mansion
 - Trains him as assassin from childhood
 
 **Shiro's Departure (~16 years ago):**
@@ -928,7 +928,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 **Ichiro's Birth (~18 years ago):**
 - During beginning of 3-Year War
-- Goro fathers child with different non-Kiryuuin woman
+- Goro fathers child with different non-Kiryuin woman
 - Steals baby Ichiro at birth
 - Shiro already gone (left 2 years prior)
 - **Ichiro never meets Shiro**
@@ -956,11 +956,11 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 - Believes Shiro is dead
 - Knows Ichiro fled but doesn't know where
 - Searches for Ichiro but cannot find him (Free is hidden)
-- **Last known Kiryuuin using the family name openly**
+- **Last known Kiryuin using the family name openly**
 
 ---
 
-### **THE KIRYUUIN MANSION**
+### **THE KIRYUIN MANSION**
 
 **Location:**
 - Outskirts of Vista Alegre
@@ -979,7 +979,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 **Current Resident:**
 - **Goro lives alone**
-- No servants (Kiryuuin handle everything themselves)
+- No servants (Kiryuin handle everything themselves)
 - **Exception:** Yurisha (Goro's friend) - [see character profile]
 - Otherwise isolated existence
 
@@ -993,7 +993,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 - **Bad reputation** - known as assassins
 - Feared and avoided
 - Not openly persecuted but socially ostracized
-- "Don't admit you're a Kiryuuin in public"
+- "Don't admit you're a Kiryuin in public"
 
 **Among Criminal Underworld:**
 - **Legendary reputation** - most skilled assassins alive
@@ -1010,7 +1010,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 ---
 
-#### **How to Hire a Kiryuuin**
+#### **How to Hire a Kiryuin**
 
 **Contact Methods:**
 - Through **intermediaries** in criminal networks
@@ -1021,7 +1021,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 **Process:**
 - Contact intermediary
 - State target and terms
-- Kiryuuin accepts or refuses based on:
+- Kiryuin accepts or refuses based on:
   - Payment offered
   - Difficulty of target
   - Personal interest/honor code (if any)
@@ -1039,16 +1039,16 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 #### **Three Survivors, Three Paths**
 
-**Goro Kiryuuin (鬼龍院伍郎):**
+**Goro Kiryuin (鬼龍院伍郎):**
 - Age: ~50-55 years old
 - Status: Head of family, professional assassin
-- Location: Kiryuuin mansion (Vista Alegre outskirts)
+- Location: Kiryuin mansion (Vista Alegre outskirts)
 - Power: Evolved (killed his father)
 - **Believes Shiro is dead**
 - **Searching for Ichiro** (wants him back)
 - Operates independently as assassin-for-hire
 
-**Shiro Kiryuuin / Takumi Reiji / Zafiro (鬼龍院四郎):**
+**Shiro Kiryuin / Takumi Reiji / Zafiro (鬼龍院四郎):**
 - Age: ~32 years old
 - Status: **Officially dead**, actually alive under false identity
 - Location: Pristania (Apostol of Diominiciel)
@@ -1057,7 +1057,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 - **Knows about Ichiro** (learned somehow after leaving family)
 - **Secret:** Beginning to theorize about evolution not requiring murder
 
-**Ichiro Kiryuuin (鬼龍院一朗):**
+**Ichiro Kiryuin (鬼龍院一朗):**
 - Age: ~17 years old
 - Status: Fugitive from family, member of Free
 - Location: Free HQ (island)
@@ -1111,7 +1111,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 #### **Arc 5: Brothers Collide - Shiro vs. Ichiro**
 
 **The Revelation:**
-- **Shiro reveals himself as Kiryuuin** during confrontation with Ichiro
+- **Shiro reveals himself as Kiryuin** during confrontation with Ichiro
 - Ichiro learns:
   - Zafiro is his brother Shiro
   - Shiro is alive (thought dead or didn't know he existed)
@@ -1134,7 +1134,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 
 **[SPOILER - Timing TBD]:**
 - The truth is revealed: **You don't need to kill to evolve**
-- Only need to bring Kiryuuin to brink of death (can survive)
+- Only need to bring Kiryuin to brink of death (can survive)
 - **Centuries of murder were unnecessary**
 
 **Who Discovers It:**
@@ -1146,7 +1146,7 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 - Goro's patricide was unnecessary
 - All the deaths throughout history were avoidable
 - Guilt, rage, grief over wasted lives
-- Potential for Kiryuuin to evolve safely in future
+- Potential for Kiryuin to evolve safely in future
 
 ---
 
@@ -1156,19 +1156,19 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 - **Both created by Ryakujin** as weapons
 - **Both abandoned** when deemed obsolete/failed
 - **Both formed self-sustaining populations** through reproduction
-- **Key difference:** Kiryuuin retained intelligence and integrated into society; Bakuzoku remained animalistic and were exterminated
+- **Key difference:** Kiryuin retained intelligence and integrated into society; Bakuzoku remained animalistic and were exterminated
 
 **Compared to Kami/Meiji/Rajin (God-Tier Beings):**
-- Kiryuuin are **much older** (centuries vs. decades)
-- Kiryuuin are **reproducible** (have children); God-tiers are unique individuals
-- Kiryuuin were **forgotten successes**; God-tiers are **known failures/escapes**
-- Power scale: God-tiers >>> Kiryuuin (evolved Kiryuuin still not god-tier)
+- Kiryuin are **much older** (centuries vs. decades)
+- Kiryuin are **reproducible** (have children); God-tiers are unique individuals
+- Kiryuin were **forgotten successes**; God-tiers are **known failures/escapes**
+- Power scale: God-tiers >>> Kiryuin (evolved Kiryuin still not god-tier)
 
 ---
 
 ### **THEMATIC SIGNIFICANCE**
 
-**The Kiryuuin Represent:**
+**The Kiryuin Represent:**
 - **Generational trauma** - cycles of violence passed down
 - **Misunderstood legacy** - traditions based on false assumptions
 - **Self-destruction** - family destroyed by its own beliefs
@@ -1193,16 +1193,16 @@ The Kiryuuin have been **murdering each other for centuries based on a lie**. Th
 4. **Ichiro's evolution** - Does he evolve? How? (Spoiler)
 5. **Yurisha's role** - Who is Goro's friend? Why are they close?
 6. **Specific Nouryoku** - What are Goro/Shiro/Ichiro's powers? (Character profiles)
-7. **Kiryuuin mansion details** - Layout, defenses, history (Geography section)
+7. **Kiryuin mansion details** - Layout, defenses, history (Geography section)
 8. **How evolution truth is discovered** - Who figures it out? How is it proven?
 9. **Shiro and Ichiro's final confrontation** - How does Arc 5 battle resolve?
 10. **Goro's ultimate fate** - Does he survive the story? Reconcile with sons?
-11. **Can the Kiryuuin line continue?** - Will any of them have children? Break the cycle?
-12. **Ryakujin records** - Do files on Kiryuuin creation still exist somewhere?
+11. **Can the Kiryuin line continue?** - Will any of them have children? Break the cycle?
+12. **Ryakujin records** - Do files on Kiryuin creation still exist somewhere?
 
 ---
 
-**END OF KIRYUUIN ENTRY**
+**END OF KIRYUIN ENTRY**
 
 ---
 

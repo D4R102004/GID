@@ -30,8 +30,8 @@ All dates are calculated from these reference points.
 ## THE ANCIENT ERA - RYAKUJIN PROJECTS
 
 ### **Centuries Before Present**
-- **Kiryuuin Creation** - Ryakujin create the Kiryuuin family as perfect soldiers
-- Kiryuuin are abandoned, form assassin dynasty over centuries
+- **Kiryuin Creation** - Ryakujin create the Kiryuin family as perfect soldiers
+- Kiryuin are abandoned, form assassin dynasty over centuries
 - Origins forgotten/concealed by descendants
 
 ### **Many Years Before Present**

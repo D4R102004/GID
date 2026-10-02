@@ -412,7 +412,7 @@ Their power **fragments into 3 parts:**
 - Sees it once → can use it forever
 - No limit on number of copied abilities
 
-**Shiro's Copycat (Kiryuuin Evolution):**
+**Shiro's Copycat (Kiryuin Evolution):**
 - [TBD: Specifics of how his version works]
 - [TBD: Differences from Megami's Copy]
 

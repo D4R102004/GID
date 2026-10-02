@@ -4,7 +4,7 @@
 ROLE: Supporting (Free leadership) → Tragic Hero (Arc 2 death)
 FACTION: Free (Co-founder, Acting President)
 STATUS: Dies Arc 2
-AGE_ARC_1: ~60s (same generation as Kami)
+AGE_ARC_1: ~60s
 ---
 
 ---
@@ -13,7 +13,7 @@ AGE_ARC_1: ~60s (same generation as Kami)
 
 **Full Name:** Kensuke Sugimori (杉森健介)
 **Nickname/Codename:** Protos
-**Age:** ~60s (Arc 1-2) — born roughly the same era as Kami
+**Age:** ~60s (Arc 1-2) — younger than Kami (who would be ~73 in Arc 1)
 **Occupation:** Acting President of Free; former Pristania 4 Emperor
 **Status:** Co-founder of Free, Rajin's husband, Meiji's adoptive father, Lyzander's adoptive grandfather. Dies Arc 2.
 **Family:**

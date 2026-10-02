@@ -1,8 +1,8 @@
 # **ARC 1: "A WONDROUS ISLAND" - MASTER SUMMARY**
 
 **Document Version:** 1.0  
-**Last Updated:** 2025-01-29  
-**Status:** Complete - Ready for Chapter Development  
+**Last Updated:** 2026-10-02  
+**Status:** Chapters 1-3 written; Chapters 4-5 outlined  
 
 ---
 
@@ -58,8 +58,8 @@ Months later, when Gallan mysteriously departs, the siblings discover a stranger
 | Chapter | Title | Timeline | Key Events | Word Count Est. |
 |---------|-------|----------|------------|-----------------|
 | **1** | "I'm Leaving" | 15 years ago | Gallan finds babies in cave | ~2,750 (COMPLETE) |
-| **2** | Island Life → Captured | Present day | Character establishment, Yurisha arrives, Lopney captured | ~4,000-5,000 |
-| **3** | The Rescue → The Hat | Same day/night | Cave battle, Yurisha killed by Glayne, Gallan finds hat | ~5,000-6,000 |
+| **2** | Island Life → Captured | Present day | Character establishment, Yurisha arrives, Lopney captured | ~4,000-5,000 (COMPLETE) |
+| **3** | The Rescue → The Hat | Same day/night | Cave battle, Yurisha killed by Glayne, Gallan finds hat | ~5,000-6,000 (COMPLETE) |
 | **4** | Several Months Later → Departure | Months later | Time skip, Gallan leaves for "supply run" | ~3,000-4,000 |
 | **5** | The Stranger → Into the Dark | Same night | Kids follow stranger, discover Free HQ entrance | ~4,000-5,000 |
 
@@ -73,7 +73,7 @@ Months later, when Gallan mysteriously departs, the siblings discover a stranger
 
 **Timeline:** 15 years before Arc 1 present  
 **POV:** Gallan  
-**Status:** Written, in repository (Chapter_01_Im_Leaving.md)
+**Status:** Written — 03_Story/Chapters/Arc_01/chapter_1_FINAL.md
 
 **Story Beats:**
 
@@ -114,7 +114,7 @@ Months later, when Gallan mysteriously departs, the siblings discover a stranger
 
 ---
 
-### **CHAPTER 2: "Island Life" → "Captured"**
+### **CHAPTER 2: "Island Life" → "Captured"** ✅ COMPLETE (03_Story/Chapters/Arc_01/chapter_2_FINAL.md)
 
 **Timeline:** Arc 1 present (Arjan and Lopney are 15)  
 **POV:** Arjan, Lopney, Gallan (alternating sections)
@@ -214,7 +214,7 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 
 ---
 
-### **CHAPTER 3: "The Rescue" → "The Hat"**
+### **CHAPTER 3: "The Rescue" → "The Hat"** ✅ COMPLETE (03_Story/Chapters/Arc_01/chapter_3_FINAL.md, titled 僵屍 / Jiang Shi)
 
 **Timeline:** Same day/night as Lopney's capture  
 **POV:** Arjan, Yurisha (brief sections), Gallan, Glayne (minimal)
@@ -1152,7 +1152,7 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 
 | Element | Details |
 |---------|---------|
-| **Chapters** | 5 total (Ch 1 complete) |
+| **Chapters** | 5 total (Ch 1-3 complete; Ch 4-5 outlined) |
 | **Timeline** | 15 years ago → Present |
 | **Setting** | The Island |
 | **Protagonists** | Arjan (15), Lopney (15), Gallan (~40) |

@@ -14,7 +14,7 @@ AGE_ARC_1: ~40s
 **Full Name:** Megami (女神) — true name; abandoned after Kami's confession
 **Codename:** Mei Dei
 **Current Alias:** Rajin (雷神) — permanent disguise maintained for 30+ years
-**Age:** ~40s (Arc 1)
+**Age:** Looks ~40s (Arc 1) — the apparent age of her permanent Rajin disguise (Cartoon Transfiguration). As Megami she is an ancient Ryakujin creation and the mother of the Kamigami
 **Occupation:** Free member (non-combatant, wandering); acting Commander of Free (end of Arc 2 onward, during Meiji's capture)
 **Status:** Supporting character; becomes central pillar in Arc 5
 **Family:**

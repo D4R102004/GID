@@ -21,8 +21,8 @@
 
 **Gallan Byronstrike** (~35-40) - Former Pristania Apostle, father figure to Arjan/Lopney
 **Cristopher/Rachi Trueman** (25, Arc 2) - Free security officer, Arjan's mentor, Meiji's boyfriend, dies Arc 4
-**Meiji** (~40s) - Free leader, god-killer, Ryakujin weapon (doesn't know)
-**Rajin/Megami** (~40s) - **IS MEGAMI** (Kami's ex-wife, only Kensuke knows)
+**Meiji** (~34, Arc 1) - Free leader, god-killer, Ryakujin weapon (doesn't know)
+**Rajin/Megami** (looks ~40s; Rajin is a permanent transfigured disguise — as Megami she is the Kamigami's mother) - **IS MEGAMI** (Kami's ex-wife, only Kensuke knows)
 **Kensuke** (~60s) - Free acting president, ex-Pristania Emperor, Rajin's husband
 **Claudia Whannell "Dragoon"/"Misty"** (21, Arc 1) - Pristania Emperor, Bellsaw's daughter, real nurse at the Vista Alegre hospital, **Cloud Nouryoku**, Gabriella's best friend; coma in Arc 4, wakes end of Arc 5, stays in Pristania under Hirohiko
 **Angel Velasco "Tenshi"** (43, Arc 1) - **Secret 4th Emperor** of Pristania: Kami's chosen successor and lover, no Nouryoku, a real beggar in Vista Alegre, Perlereina's spy, **twist villain** of Arc 4. Kills Gabriella on Perlereina's order; killed by Lyzander (frozen alive) in the Arc 4 finale. Profile: 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md
