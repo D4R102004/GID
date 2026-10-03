@@ -525,7 +525,6 @@ AGE_ARC_2: 35 years old
 - Shiro Kiryuin (鬼龍院四郎)
 - Eldest son of Goro Kiryuin
 - **Heir to Kiryuin assassin family**
-- Born before Kami founded Pristania
 - Goro's only child at the time
 
 **Early Years:**

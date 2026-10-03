@@ -1,5 +1,20 @@
 # GID LORE CHANGELOG
 
+## 2026-10-02 (Chronology pass: Pristania before the family)
+Kami founds Pristania (~41 years before Arc 1) BEFORE his children; the Kamigami roster ages (~40/~38/~35) are untouchable and everything else is fitted to them.
+
+**Files changed:** Timeline.md, GID_MASTER_LORE.md, KAMI, SHIGERU, BELLSAW, GALLAN, GLAYNE, SHIRO profiles, Factions.md, GID_QUICK_REF_FINAL.md, ARC_1_SUMMARY.md
+
+**Decisions (author):**
+- Kami: born 73 years before Arc 1; massacre at 18 (55 years before); marries Megami 2-9 years later, together without children; founds Pristania at ~32 (~41 before); children born 40/38/35 years before (Kami ~33/35/38); confession at ~40, Megami leaves 33 years before (kids 7/5/2); dies at ~55
+- Rajin finds Meiji at age 1 right after leaving (Timeline said ~2). Meiji founds Free with Kensuke at 15-16 (Timeline said 17)
+- The original Emperors are NOT named on day one, but in Pristania's early years
+- Shigeru raised to ~62 (was ~58-59)
+- Gallan ~35 (younger than Hirohiko; ~17 and already an Apostle when Kami died); Glayne ~36 (Gloria's biological son, a year old when she found Gallan; not twins)
+- CORRECTED: Factions said Pristania HQ was founded ~19 years ago (now ~41); Shiro (35) was "born before Kami founded Pristania" (removed); Quick Ref put the massacre ~40 years ago (55); Timeline duel ages for the Kamigami (27/24/18 -> ~22/~20/~17)
+- FILLED: Gallan's stale TBDs (Glayne's status, Hirohiko's truth, why Hirohiko doesn't search for him) from existing canon
+- FLAGGED [TBD]: exact years each original Emperor was named
+
 ## 2026-10-02 (Consistency pass after Shigo profile)
 Resolved the Arc 4 Cristopher/Meiji contradiction (Meiji is captive from the end of Arc 2 to Arc 5), the Emperor succession, Goro's Emperor retcon and Kami's age.
 

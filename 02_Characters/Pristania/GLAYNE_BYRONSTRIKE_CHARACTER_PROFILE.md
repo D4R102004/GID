@@ -4,7 +4,7 @@
 ROLE: Antagonist
 FACTION: Pristania
 STATUS: Dies Arc 5
-AGE_ARC_1: ~35-40
+AGE_ARC_1: ~36
 ---
 
 ---
@@ -13,7 +13,7 @@ AGE_ARC_1: ~35-40
 
 **Full Name:** Glayne Byronstrike
 **Nickname:** Elipse
-**Age:** ~35-40 years old (roughly same age as Gallan - both were babies when found/born)
+**Age:** ~36 (Arc 1). About a year older than Gallan: Glayne was Gloria and Gerald's one-year-old son when Gloria found baby Gallan in the garbage (see Gallan's profile). Not twins
 **Occupation:** Pristania Apostle (serves under Perlereina Dei)
 **Status:** Arc 1 shadow antagonist, long-term recurring villain
 

@@ -4,7 +4,7 @@
 ROLE: Antagonist (Arc 4 main antagonist, with Dragoon and Shigo)
 FACTION: Pristania (Emperor) — infiltrated in Vista Alegre Police
 STATUS: Dies Arc 4
-AGE_ARC_1: 61 [CONFIRM — proposed; slightly older than Shigeru (~58-59)]
+AGE_ARC_1: 61 [CONFIRM — proposed; Shigeru is now ~62]
 ---
 
 ---

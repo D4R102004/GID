@@ -37,28 +37,26 @@ AGE_ARC_1: N/A (died age ~55)
 - Escaped with resurrected Megami
 - Buried Jashin's comatose body
 
-**Age 18-21:** Traveled the world with Megami
+**Age 18-~32:** Traveled the world with Megami
 - Witnessed human suffering
 - Developed his ideology
-- Married Megami, renamed himself Kami
+- Married Megami (2-9 years after the massacre), renamed himself Kami. Together, no children yet
 
-**Age 21-31:** Family life in Vista Alegre outskirts
-- Had three children (Diominiciel, Hirohiko, Perlereina)
-- Raised them for ~9 years
-- **Age 30:** Confessed to Megami, she left (kids aged 7, 5, 2)
-
-**Age 31:** Founded Pristania
-- Recruited the 4 Emperors
+**Age ~32:** Founded Pristania (~41 years before Arc 1)
 - Began spreading his ideology
-- Temporarily served as one of the Emperors himself
+- Served as one of the Emperors himself
+- Named the other Emperors during Pristania's early years (not on day one)
 
-**Age 31-50:** Led Pristania
+**Age ~33-40:** Family life in Vista Alegre outskirts, while leading Pristania
+- Had three children: Diominiciel (Kami ~33), Hirohiko (~35), Perlereina (~38)
+- **Age ~40:** Confessed to Megami, she left (kids aged 7, 5, 2)
+
+**Age ~40-55:** Led Pristania alone
 - Built the organization
 - Raised the Kamigami alone
 - Spread his vision of absolute morality
 
 **Age ~55:** Died in duel with Meiji (age 16)
-- *[TBD: the life-stage ages above (family 21-31, founding at 31) were built on a death at 50 and don't yet match ~55 or the Timeline; reconcile in a dedicated pass]*
 - 18 years before Arc 1 begins
 - Power fragmented: 30% Arjan, 30% Lopney, 40% corpse
 
@@ -148,15 +146,15 @@ AGE_ARC_1: N/A (died age ~55)
 - **Self-deception:** "It was for the greater good"
 - Began constructing his ideology as a coping mechanism
 
-### **Husband & Father (Age 21-30):**
+### **Husband & Father (married in his 20s; father from ~33 to ~40):**
 - **Loving father** - the Kamigami had no better opinion of him
 - **Especially fond of Perlereina** (youngest) - spoiled her
 - **Devoted husband** - genuinely loved Megami, heartbroken when she left
 - **Growing guilt** - the lie weighed heavier over time
 - **Overprotective** - didn't want his family exposed to danger
 
-### **Pristania Founder (Age 31-50):**
-- **Conviction solidified** - Megami leaving proved he must "cleanse himself"
+### **Pristania Founder (Age ~32-55):**
+- **Conviction solidified** - Pristania's mission drove him to "cleanse himself" (the confession); Megami leaving hardened it
 - **Saw her departure as confirmation** of his mission's importance
 - **Raised Kamigami in his ideology** - prepared them for greatness
 - **Warm but authoritative** - inspired trust, commanded obedience

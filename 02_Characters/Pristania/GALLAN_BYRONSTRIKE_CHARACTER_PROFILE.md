@@ -4,7 +4,7 @@
 ROLE: Supporting
 FACTION: Island (formerly Pristania)
 STATUS: Dies Arc 5 (resurrected Arc 6)
-AGE_ARC_1: ~35-40
+AGE_ARC_1: ~35
 ---
 ---
 
@@ -12,7 +12,7 @@ AGE_ARC_1: ~35-40
 
 **Full Name:** Gallan Byronstrike
 **Nickname:** Disappear
-**Age:** ~35-40 years old (around Perlereina's age) - *[Exact age to be determined in timeline]*
+**Age:** ~35 (Arc 1). Younger than his master Hirohiko (~38); ~17 when Kami died, already Hirohiko's Apostle
 **Status:** Former Pristania Apostle (defected), hermit, father figure to Arjan and Lopney
 
 ---
@@ -347,23 +347,23 @@ AGE_ARC_1: ~35-40
 - Feels remorse that Hirohiko left without telling him
 
 **The Truth:**
-- Hirohiko did NOT leave Pristania *[backstory TBD]*
+- Hirohiko did NOT leave Pristania: right after the treaty he clashed with Diominiciel and Perlereina, lost his memories and was imprisoned by them; "Dyoni and Paru" told Gallan that "Gyrus left" (see HIROHIKO_DEI profile and Timeline)
 - Gallan doesn't know this
 
 **Does Hirohiko Search for Him?**
-- **No.** *[Reason TBD - does Hirohiko think Gallan is dead? Does he respect his choice to leave?]*
+- **No.** Hirohiko is amnesiac (now Dr. Araki) and does not remember him
 
 **If They Meet Again:**
 - Gallan would say: **"Master..."**
 - Would give him a hug
 - Likely break down emotionally
-- *[This reunion needs to be DEVASTATING when it happens]*
+- *[This reunion needs to be DEVASTATING when it happens]* — it happens in **Arc 6** (see HIROHIKO_DEI profile)
 
 ---
 
 ### **Glayne (His Brother):**
 
-**Current Status:** *[TBD - alive? Dead? Estranged?]*
+**Current Status:** Alive. Pristania Apostle and Perlereina's boyfriend; blames Gallan for Gloria's death. Arc 1 shadow antagonist, confronts Gallan in Arc 3, dies in Arc 5 (see GLAYNE_BYRONSTRIKE profile)
 
 **Gallan's Feelings:**
 - Guilt for leaving him to care for Gloria alone
@@ -570,11 +570,11 @@ He's the **moral complexity** of the story - proof that good people do terrible 
 
 ## **OPEN QUESTIONS FOR LATER DEVELOPMENT:**
 
-1. **Glayne's current status:** Alive? Dead? Estranged? Role in story?
+1. ~~**Glayne's current status**~~ **RESOLVED** (see Relationships → Glayne)
 2. **Gallan's love interest:** Who was she? What happened to her? Why does Lopney remind him of her?
-3. **Hirohiko's truth:** What actually happened? Why does Gallan think he left Pristania?
+3. ~~**Hirohiko's truth**~~ **RESOLVED** (see Relationships → Hirohiko)
 4. **The scar location:** Where exactly is Gallan's war mark/scar?
-5. **Reunion scenes:** Gallan + Hirohiko? Gallan + Glayne? Gallan + his past?
+5. **Reunion scenes:** Gallan + Hirohiko (Arc 6; beats open), Gallan + Glayne (Arc 3; beats open)
 
 ---
 

@@ -108,30 +108,29 @@ All dates are calculated from these reference points.
 
 ---
 
-## KAMI'S TRAVELS - 55 TO 48 YEARS BEFORE ARC 1
+## KAMI'S TRAVELS - 55 TO ~41 YEARS BEFORE ARC 1
 
-**Kami's Age:** 18 to 25 years old
+**Kami's Age:** 18 to ~32 years old
 
 ### **The Wandering Period**
 - Zenshin renames himself **Kami (神)** - "God"
 - Travels the world with Megami
+- **Marries Megami** (2-9 years after the massacre). They choose to be together; **no children yet**
 - Develops his ideology of absolute morality
 - Witnesses human suffering and conflict
 - Formulates plan for Pristania
 
-**Duration:** ~7-8 years of travel and development
-
 ---
 
-## PRISTANIA FOUNDED - 48 YEARS BEFORE ARC 1
+## PRISTANIA FOUNDED - ~41 YEARS BEFORE ARC 1
 
-**Kami's Age:** ~25 years old
+**Kami's Age:** ~32 years old
 
 ### **Establishment**
-- Kami establishes **Pristania**
+- Kami establishes **Pristania** (before the Kamigami are born)
 - Ideology: Absolute morality creates perfect world
-- Recruits the **4 Emperors** as elite force
-- Kami serves alongside them as 4th member initially
+- Kami serves as 4th Emperor himself
+- **The 4 Emperors are NOT named on day one:** Kami recruits and names the original Emperors (Bellsaw, Shigeru, Kensuke) during Pristania's **early years** [TBD: exact years]
 - Begins building following
 
 ### **Early Development**
@@ -141,24 +140,23 @@ All dates are calculated from these reference points.
 
 ---
 
-## THE FAMILY ERA - 45 TO 34 YEARS BEFORE ARC 1
+## THE FAMILY ERA - 40 TO 33 YEARS BEFORE ARC 1
 
-**Kami's Age:** 28 to 39 years old
+**Kami's Age:** ~33 to ~40 years old
 
-### **45 Years Before Arc 1**
-- Kami marries Megami (if not already married)
+### **40 Years Before Arc 1**
 - They settle near Vista Alegre
-- **Diominiciel Dei** born (Kami age 28)
+- **Diominiciel Dei** born (Kami ~33)
 
-### **42 Years Before Arc 1**
-- **Hirohiko Dei** born (Kami age 31)
+### **38 Years Before Arc 1**
+- **Hirohiko Dei** born (Kami ~35)
 
-### **36 Years Before Arc 1**
-- **Perlereina Dei** born (Kami age 37)
+### **35 Years Before Arc 1**
+- **Perlereina Dei** born (Kami ~38)
 
-### **34 Years Before Arc 1 - Kami's Confession**
+### **33 Years Before Arc 1 - Kami's Confession**
 - **Perlereina is 2 years old**
-- Kami confesses everything to Megami:
+- "If I'm to clean the world, I must clean myself first": Kami confesses everything to Megami:
   - Conspired with Hide to kill Jashin
   - Megami's pacifism was designed limitation
   - Jashin is buried alive (still comatose)
@@ -176,9 +174,9 @@ All dates are calculated from these reference points.
 
 ---
 
-## MEGAMI'S DEPARTURE - 34 YEARS BEFORE ARC 1
+## MEGAMI'S DEPARTURE - 33 YEARS BEFORE ARC 1
 
-**Kamigami Ages:** Diominiciel (11), Hirohiko (8), Perlereina (2)
+**Kamigami Ages:** Diominiciel (7), Hirohiko (5), Perlereina (2)
 
 ### **The Revelation**
 - Megami is devastated by Kami's confession
@@ -189,10 +187,7 @@ All dates are calculated from these reference points.
 ### **Immediate Aftermath**
 - Megami uses **Cartoon Transfiguration** to permanently disguise herself
 - New identity: **"Rajin"** (different face, voice, mannerisms)
-- Wanders, grief-stricken and purposeless
-
-### **~32 Years Before Arc 1**
-- Rajin finds baby **Meiji** (Ryakujin weapon, ~2 years old at discovery)
+- Explores the ruined Ryakujin laboratory and finds baby **Meiji** (Ryakujin weapon, **1 year old**) in an intact underground chamber
 - Raises him as her son
 - Purpose: Create someone to challenge Kami's ideology
 
@@ -209,14 +204,14 @@ All dates are calculated from these reference points.
 **Kami's Age:** 55 years old (dies this day)
 
 ### **Setup**
-- **Meiji (age 17)** founds **Free**
+- **Meiji (age 15-16)** founds **Free** with his adoptive father **Kensuke**
 - Ideological opposition to Pristania
 - Publicly challenges Kami to a duel
 
 ### **The Kamigami's Ages During Duel**
-- **Diominiciel:** 27 years old
-- **Hirohiko:** 24 years old (has recruited Apostle **Gallan Byronstrike**)
-- **Perlereina:** 18 years old
+- **Diominiciel:** ~22 years old
+- **Hirohiko:** ~20 years old (has recruited Apostle **Gallan Byronstrike**, ~17)
+- **Perlereina:** ~17 years old
 
 ### **The Duel**
 - Location: Stadium (public to factions, hidden from civilians)
@@ -394,11 +389,10 @@ All dates are calculated from these reference points.
 
 ## QUICK REFERENCE - KEY TIME GAPS
 
-- **Facility Massacre → Kami's Travels:** 7-8 years
-- **Kami's Travels → Pristania Founded:** 0 years (end of travels = founding)
-- **Pristania Founded → Eldest Kamigami born:** 3 years
-- **Facility Massacre → Eldest Kamigami born:** 10 years
-- **Megami leaves → Meiji founds Free:** ~16-17 years
+- **Facility Massacre → Pristania Founded:** ~14 years (travels; marriage without children)
+- **Pristania Founded → Eldest Kamigami born:** ~1 year
+- **Facility Massacre → Eldest Kamigami born:** ~15 years
+- **Megami leaves → Meiji founds Free:** ~14-15 years (duel 15 years after she leaves)
 - **The Duel → Arc 1 Present:** 18 years
 - **3-Year War duration:** 3 years (18-15 years before Arc 1)
 - **Peace Era → Arc 1 Present:** 15 years
@@ -414,9 +408,9 @@ All dates are calculated from these reference points.
 **To find current age (Arc 1):**
 - Character born X years before Arc 1 = X years old in Arc 1
 - Examples:
-  - Meiji born ~35 years before Arc 1 = ~35 years old in Arc 1
-  - Diominiciel born 45 years before Arc 1 = 45 years old in Arc 1
-  - Perlereina born 36 years before Arc 1 = 36 years old in Arc 1
+  - Meiji born ~34 years before Arc 1 = ~34 years old in Arc 1
+  - Diominiciel born 40 years before Arc 1 = ~40 years old in Arc 1
+  - Perlereina born 35 years before Arc 1 = ~35 years old in Arc 1
 
 **To find age during past events:**
 - Years before Arc 1 that character was born - Years before Arc 1 of event = Age during event

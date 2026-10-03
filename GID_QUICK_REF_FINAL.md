@@ -19,7 +19,7 @@
 
 ## KEY SUPPORTING CHARACTERS
 
-**Gallan Byronstrike** (~35-40) - Former Pristania Apostle, father figure to Arjan/Lopney
+**Gallan Byronstrike** (~35) - Former Pristania Apostle, father figure to Arjan/Lopney
 **Cristopher/Rachi Trueman** (25, Arc 2) - Free security officer, Arjan's mentor, Meiji's boyfriend, dies Arc 4
 **Meiji** (~34, Arc 1) - Free leader, god-killer, Ryakujin weapon (doesn't know)
 **Rajin/Megami** (looks ~40s; Rajin is a permanent transfigured disguise — as Megami she is the Kamigami's mother) - **IS MEGAMI** (Kami's ex-wife, only Kensuke knows)
@@ -43,16 +43,18 @@
 
 **Tairin (Delara Centerfox)** (40+) - Head of Security for Free, Gabriella's mother
 **Gabriella Centerfox "Metal"** (20) - Tairin's daughter, Free Security, iron-materialization Nouryoku, dies Arc 4
-**Glayne Byronstrike** (~35-40) - Pristania Apostle, Gallan's brother, dies Arc 5 (NOT Arc 1)
+**Glayne Byronstrike** (~36) - Pristania Apostle, Gallan's brother, dies Arc 5 (NOT Arc 1)
 
 ---
 
 ## CRITICAL TIMELINE
 
 - **Ancient past:** Ryakujin create Kami (Zenshin), Jashin, Megami
-- **~40 years ago:** Facility massacre, Jashin sealed by Kami
-- **~35 years before Arc 1:** Kamigami born (Diominiciel, Hirohiko, Perlereina)
-- **~18 years before Arc 1:** Meiji founds Free (age 15-16)
+- **55 years before Arc 1:** Facility massacre (Kami 18), Jashin sealed by Kami
+- **~41 years before Arc 1:** Kami founds Pristania (before his children)
+- **40-35 years before Arc 1:** Kamigami born (Diominiciel, Hirohiko, Perlereina)
+- **33 years before Arc 1:** Megami leaves; as Rajin she finds Meiji (age 1)
+- **~19-18 years before Arc 1:** Meiji founds Free with Kensuke (age 15-16)
 - **18 years before Arc 1:** THE DUEL - Meiji kills Kami
 - **18-15 years before Arc 1:** 3-Year War
 - **15 years before Arc 1:** Peace treaty (Jitsumoto mediates)

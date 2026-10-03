@@ -4,7 +4,7 @@
 ROLE: Supporting (Historical Deuteragonist) / Shogun of Jitsumoto
 FACTION: Jitsumoto (founder), formerly Pristania (4 Emperors)
 STATUS: Deceased (Arc 2 finale)
-AGE_ARC_1: ~58-59
+AGE_ARC_1: ~62
 CODENAME: Fénix
 ---
 
@@ -14,7 +14,7 @@ CODENAME: Fénix
 
 **Full Name:** Shigeru Houzu (鳳渦茂)
 **Codename:** Fénix
-**Age:** Late 50s in Arc 1 (contemporary of Kami's generation)
+**Age:** ~62 in Arc 1 (raised 2026-10-02). About 21 when Pristania was founded; named Emperor in its early years, not on day one
 **Occupation:** Shogun of Jitsumoto, founder. Former Pristania 4 Emperor.
 **Status:** Deceased — dies at the climax of Arc 2, sacrificing himself to save Yonoa
 **Family:** Wife Taeko (deceased, illness, pre-Duel), daughter Yonoa Houzu (heir, protagonist)

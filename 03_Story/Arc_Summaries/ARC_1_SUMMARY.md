@@ -1155,7 +1155,7 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 | **Chapters** | 5 total (Ch 1-3 complete; Ch 4-5 outlined) |
 | **Timeline** | 15 years ago → Present |
 | **Setting** | The Island |
-| **Protagonists** | Arjan (15), Lopney (15), Gallan (~40) |
+| **Protagonists** | Arjan (15), Lopney (15), Gallan (~35) |
 | **Antagonist** | Yurisha (dies Ch 3) |
 | **Shadow Antagonist** | Glayne (identity obscured) |
 | **Major Battle** | Cave fight (Ch 3) |

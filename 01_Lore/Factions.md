@@ -819,7 +819,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 
 **History:**
 - Built within the ruins of the city Kami destroyed during Ryakujin era tests
-- Established when Pristania was founded (~19 years ago)
+- Established when Pristania was founded (~41 years ago)
 - Camouflaged as ruins - appears abandoned from outside
 - Never discovered despite decades of existence
 

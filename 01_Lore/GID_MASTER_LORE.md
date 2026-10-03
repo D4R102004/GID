@@ -96,24 +96,26 @@ The Ryakujin send all three to different human cities to test their combat effec
 
 **~2-9 Years After Massacre:**
 - Zenshin renames himself **Kami (神)** - "God"
-- Marries Megami
-- They settle in the outskirts of **Vista Alegre** (the city Kami was originally sent to)
+- Marries Megami; they travel together and choose to be a couple **without children yet**
+
+**Kami's Journey (~41 years before Arc 1, Kami ~32):**
+- Travels the world, witnesses suffering
+- Decides to "make the world a better place"
+- Founds the organization **Pristania** (BEFORE the Kamigami are born)
+- Recruits the **4 Emperors** during Pristania's early years (not on day one); Kami temporarily serves as one
+  - One Emperor: **Kensuke** (joins for righteousness, later becomes disillusioned)
+
+**The Family (40-35 years before Arc 1):**
+- Kami and Megami settle in the outskirts of **Vista Alegre** (the city Kami was originally sent to)
 - Have three children (the **Kamigami** - 神々):
   1. **Diominiciel** (eldest)
   2. **Hirohiko** (middle child)
   3. **Perlereina** (youngest)
 
-**Ages when Megami leaves:**
+**Ages when Megami leaves (33 years before Arc 1):**
 - Diominiciel: 7 years old
 - Hirohiko: 5 years old
 - Perlereina: 2 years old
-
-**Kami's Journey:**
-- Travels the world, witnesses suffering
-- Decides to "make the world a better place"
-- Founds the organization **Pristania**
-- Recruits the **4 Emperors** (elite force, Kami temporarily serves as one)
-  - One Emperor: **Kensuke** (joins for righteousness, later becomes disillusioned)
 
 **The Confession:**
 - Kami decides: "If I'm to clean the world, I must clean myself first"
