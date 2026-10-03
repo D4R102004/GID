@@ -1,5 +1,17 @@
 # GID LORE CHANGELOG
 
+## 2026-10-02 (Cross-file audit: powers, headers, links)
+**Files changed:** Power_System.md, Ryakujin_Experiments.md, Critical_Secrets_Tracker.md, Factions.md, GID_QUICK_REF_FINAL.md, CLAUDE_INSTRUCTIONS.md, GABRIELLA, TASED, SHIRO, ANGEL profiles
+
+- CORRECTED: Power System described Mental Erasure as memory-only with Gallan "visible"; rewritten to match his profile (erases him from perception: invisibility + forgetting)
+- CORRECTED: "Glayne breaks through Mental Erasure in Arc 1" (Power System, Secrets Tracker, Quick Ref) contradicted the resolved answer that Glayne always knew where the island was
+- CORRECTED: Power System listed Shiro as a copy user ("Copycat"); his Nouryoku is Soul Possession. Shigo added as a copy user
+- CORRECTED: Shiro's profile called Soul Possession a "Kiryuin family ability"; each Kiryuin has a unique Nouryoku (Ryakujin Experiments; Goro = clones, Ichiro = hypnosis)
+- UPDATED: Ryakujin Experiments now records Ichiro's evolution (end of Arc 4, Goro's death) and Shiro's (ship explosion), from their profiles
+- ADDED: missing ROLE/FACTION/STATUS/AGE headers to Gabriella and Tased
+- FIXED: "Centerox" -> "Centerfox"; 5 broken CHARACTER_PROFILES/*.md links in Factions; outdated filenames in CLAUDE_INSTRUCTIONS examples
+- Quick Ref: Kami also knew Rajin = Megami; Megami tells Free before the Arc 5 assault
+
 ## 2026-10-02 (Chronology pass: Pristania before the family)
 Kami founds Pristania (~41 years before Arc 1) BEFORE his children; the Kamigami roster ages (~40/~38/~35) are untouchable and everything else is fitted to them.
 

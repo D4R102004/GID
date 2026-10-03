@@ -1,6 +1,11 @@
 # **TASED (LEANDRYS OCHOA) - COMPLETE CHARACTER PROFILE**
 
 ---
+ROLE: Supporting
+FACTION: Free
+STATUS: Dies Arc 2 (killed by Shigo)
+AGE_ARC_2: 17
+---
 
 ## **BASIC INFO**
 

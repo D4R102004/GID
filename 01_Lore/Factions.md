@@ -121,12 +121,12 @@
 - Security officers have authority to give orders (law enforcement capacity)
 - The Elite (三傑) operate as a specialized subdivision
 
-**Head of Security:** Tairin (真名: Delara Centerox)
+**Head of Security:** Tairin (真名: Delara Centerfox)
 - Supreme commander of all security operations
 - Direct report to the President
 - Oversees both general security and Elite operations
 - **Additional role:** Takes care of children brought to Free from desperate situations (war victims, starving orphans, etc.)
-- *[See CHARACTER_PROFILES/TAIRIN.md for full details]*
+- *[See 02_Characters/Supporting/Free/TAIRIN_CHARACTER_PROFILE.md for full details]*
 
 **Security Officers:**
 
@@ -317,7 +317,7 @@
 - Policia (Satsuki Raynor)
 
 **Security Unit:**
-- Tairin (Delara Centerox) - Head of Security
+- Tairin (Delara Centerfox) - Head of Security
 - Phlosion (Lyon de Sores) - Security guard
 - Tased (Leandrys Ochoa) - Security trainee/instructor
 - Rachi (Cristopher Trueman) - Security officer, training under Elysia
@@ -501,14 +501,14 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
    - **Status:** Active
    - **Background:** Brother of Gallan (former Apostle to Hirohiko)
    - **Note:** Trained through Pristania's training course
-   - *[See CHARACTER_PROFILES/GLAYNE.md for full details]*
+   - *[See 02_Characters/Pristania/GLAYNE_BYRONSTRIKE_CHARACTER_PROFILE.md for full details]*
 
 2. **Zafiro (真名: Takumi Reiji 巧怜志)**
    - **Master:** Diominiciel Dei
    - **Status:** Active
    - **True Identity:** Shiro Kiryuin 鬼龍院四郎 (only Diominiciel knows this)
    - **Note:** Operating under assumed name
-   - *[See CHARACTER_PROFILES/ZAFIRO.md for full details]*
+   - *[See 02_Characters/Pristania/SHIRO_KIRYUIN_TAKUMI_REIJI_ZAFIRO_CHARACTER_PROFILE.md for full details]*
 
 3. **[Vacant - Hirohiko's Former Apostle]**
    - **Former Apostle:** Gallan Byronstrike (defected)
@@ -1088,7 +1088,7 @@ GENERAL MEMBERSHIP
 
 **Successor:**
 - **Yonoa Houzu (鳳渦世乃愛)** - Daughter, next in line to become Shogun
-- [See CHARACTER_PROFILES/YONOA.md for details]
+- [See 02_Characters/Protagonists/YONOA_HOUZU_CHARACTER_PROFILE.md for details]
 
 ---
 
@@ -1122,7 +1122,7 @@ GENERAL MEMBERSHIP
 - **Background:** [Former/current Pristania member? TBD in character profile]
 - **Function:** Develops technology and solutions for Jitsumoto
 - **Note:** "It's complicated" regarding her background with other factions
-- *[See CHARACTER_PROFILES/MARSELLA.md for full details]*
+- *[See 02_Characters/Jitsumoto/MARSELLA_DE_SORES_CHARACTER_PROFILE.md for full details]*
 
 **Advisor:** Toshiyuki Umeda (梅田利幸)
 - **Role:** Personal counsel to Shogun Shigeru

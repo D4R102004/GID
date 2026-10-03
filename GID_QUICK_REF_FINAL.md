@@ -67,14 +67,14 @@
 ## WHO KNOWS WHAT (Critical Secrets Tracker)
 
 **Arjan/Lopney = 30% Kami reincarnations:** NO ONE knows (not even them)
-**Rajin = Megami (Kami's ex-wife):** Only Kensuke knows  
+**Rajin = Megami (Kami's ex-wife):** Only Kensuke knows (Kami knew, before the duel); Megami tells Free before the Arc 5 assault  
 **Meiji = Ryakujin weapon:** NO ONE knows (not even Meiji)
 **Hirohiko = Possessed by Jashin:** Only audience knows (Hirohiko unaware)
 **Gabriella is alive** (captured, held at Pristania HQ, escaped with Uragaeshi's help, hides in Vista Alegre as the "Metal Knight"): Gabriella, Uragaeshi, her captors (Perlereina, Diominiciel) and Bellsaw know; Free learns in Arc 4
 **Bellsaw = Commander James Whannell of the Vista Alegre police:** All high-ranking Pristania know; Free and the police do not (until after his death, Arc 4)
 **Claudia = Gabriella's best friend "Misty"** (neither knows the other's faction): Claudia learns Gabriella is the Metal Knight at Perlereina's meeting in Arc 4, when all of Pristania (Bellsaw included) does. **Gabriella never learns Claudia is an Emperor.** Free sees Claudia only as a nurse
 **Angel exists (Kami's secret chosen successor, Perlereina's spy and secret 4th Emperor):** Only Perlereina and Diominiciel know. Bellsaw builds his mecha without knowing who he is or that the target is Vista Alegre. Lyzander (and Gabriella) learn everything at the Arc 4 finale; the audience learns at the same time (twist)
-**Gallan's island location:** Hidden by Mental Erasure until Glayne breaks through (Arc 1)
+**Gallan's island location:** Hidden by Mental Erasure from the world; Glayne always knew it
 
 ---
 

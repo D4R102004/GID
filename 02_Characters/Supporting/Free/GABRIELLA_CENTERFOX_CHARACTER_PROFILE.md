@@ -1,6 +1,11 @@
 # **GABRIELLA CENTERFOX ("METAL") - COMPLETE CHARACTER PROFILE**
 
 ---
+ROLE: Supporting
+FACTION: Free
+STATUS: Dies Arc 4
+AGE_ARC_1: 20
+---
 
 ## **BASIC INFO**
 

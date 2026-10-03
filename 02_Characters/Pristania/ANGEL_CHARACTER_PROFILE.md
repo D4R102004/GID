@@ -379,7 +379,7 @@ One of the Emperors, who are the **primary antagonists of Arc 4**. What the file
 8. **Cross-file gaps found while compiling:**
 - Quick Ref: says Angel is "dead by the end of Arc 5". He **dies in the Arc 4 finale** (author): move him to Arc 4's deaths
    - Diominiciel's Emperors section (line ~604) names only Bellsaw, Dragoon and Shigo
-   - Shigo also has no profile (Factions points to a nonexistent `CHARACTER_PROFILES/SHIGO.md`)
+   - ~~Shigo also has no profile~~ **FIXED (2026-10-02):** SHIGO_TAKESHI_KONDO_CHARACTER_PROFILE.md; Factions path fixed
    - Factions' Emperor entry lists three Emperors (Arc 2) and refers to Angel only in the Kamigami/roster block
 
 9. **How he reconnects: RESOLVED, with timing (author).** Perlereina finds him **12-13 years** after Kami's death, after Gabriella escapes and before the protagonists reach Vista Alegre. **Date check:** Gabriella was captured 5 years before Arc 1, held several months, and lived in Vista Alegre roughly 4.5 years, so her escape is about **4.5 years before Arc 1**. Kami died **18 years before Arc 1**. That makes it about **13-14 years** after Kami's death; 12-13 would land at or before her capture, not after her escape. Suggest "about 13-14". Also open: whether Angel accepts at once, and what Perlereina tells him

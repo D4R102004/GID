@@ -377,9 +377,9 @@ AGE_ARC_2: 35 years old
 
 ## **POWERS & COMBAT**
 
-### **NOURYOKU: SOUL POSSESSION (鬼龍院 Kiryuin Family Ability)**
+### **NOURYOKU: SOUL POSSESSION (Shiro's own Kiryuin Nouryoku — each Kiryuin has a unique one)**
 
-**Ability Name:** [Unnamed - Kiryuin family power]
+**Ability Name:** [Unnamed]
 **Nature:** Transfer consciousness/soul to possess objects and beings
 
 ---

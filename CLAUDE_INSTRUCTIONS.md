@@ -164,8 +164,8 @@ Deaths, captures, revelations → these are in character profile "ARC-BY-ARC ROL
 ```markdown
 User: "When does Glayne die?"
 Claude: [searches "Glayne death"]
-Claude: [sees PERLEREINA_CHARACTER_PROFILE.md mentions "Glayne dies Arc 5"]
-Claude: [calls view on GLAYNE_CHARACTER_PROFILE.md to verify]
+Claude: [sees PERLEREINA_DEI_CHARACTER_PROFILE.md mentions "Glayne dies Arc 5"]
+Claude: [calls view on GLAYNE_BYRONSTRIKE_CHARACTER_PROFILE.md to verify]
 Claude: "Glayne dies in Arc 5 (NOT Arc 1), during Perlereina's losses."
 ```
 
@@ -202,7 +202,7 @@ When creating documents like QUICK_REF, add a "VERIFICATION SOURCES" section:
 ## VERIFICATION SOURCES
 - Yonoa's age (33): YONOA_HOUZU_CHARACTER_PROFILE.md line 9
 - Kamigami roster: GID_MASTER_LORE.md lines 101-104
-- Glayne's death: PERLEREINA_CHARACTER_PROFILE.md line 565
+- Glayne's death: PERLEREINA_DEI_CHARACTER_PROFILE.md line 565
 ```
 
 **Why:** User can spot-check your work and trace errors back to source.

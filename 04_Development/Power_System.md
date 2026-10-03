@@ -375,46 +375,44 @@ Their power **fragments into 3 parts:**
 
 ### **Mental Erasure (Gallan)**
 
-**Power:** Erases memories of himself from targets
+*(Source of truth: GALLAN_BYRONSTRIKE_CHARACTER_PROFILE.md)*
+
+**Power:** Erases himself (or others) from a target's perception
 
 **How It Works:**
-- Target forgets Gallan exists
-- Forgets ever meeting him
-- Forgets conversations, events involving him
-- Effect is permanent unless broken
-
-**Limitations:**
-- Must be applied actively (not automatic)
-- Can be broken by:
-  - Extreme emotional triggers
-  - Nouryoku specifically designed to break mental effects
-  - Strong-willed individuals may resist
-- Doesn't work on written records (only memories)
-- Gallan remains visible while in target's presence
+- Affects sight AND sound: complete invisibility while active
+- Can be maintained passively once activated
+- Has an activation moment: people can notice when he starts using it
+- Conceals the island itself (people passing by don't register it exists)
+- Mainland trips: no one remembers him after he leaves
 
 **Strategic Use:**
-- Gallan uses it when visiting mainland (no one remembers him)
-- Hides his island location (people forget they saw him)
+- Thievery as a child; infiltration/assassination during the war
+- Hides his island location
 - Can't be tracked because nobody remembers meeting him
 
 **Counter:**
-- Glayne (his brother) eventually breaks through it [Arc 1]
-- [TBD: How does Glayne break it? Emotion? Special ability?]
+- Lopney's Nullification makes him visible
+- Glayne never needed to break it: he always knew where Gallan had retreated (RESOLVED, see Open Questions)
 
 ---
 
 ### **Copy Abilities**
 
-**Users:** Shiro Kiryuin (Zafiro), Megami (Copy is one of her abilities)
+**Users:** Megami (Copy is one component of Cartoon Transfiguration), Shigo (copies the Nouryoku of the dead)
 
 **Megami's Copy:**
 - Can permanently duplicate any Nouryoku
 - Sees it once → can use it forever
 - No limit on number of copied abilities
 
-**Shiro's Copycat (Kiryuin Evolution):**
-- [TBD: Specifics of how his version works]
-- [TBD: Differences from Megami's Copy]
+**Shigo's 死後 ("After Death"):**
+- Ingests something with the target's DNA (usually hair) and copies their Nouryoku in full
+- Full power requires a dead target; a living one costs him enormous energy
+- One copied Nouryoku active at a time; fixed number of uses per object
+- See SHIGO_TAKESHI_KONDO_CHARACTER_PROFILE.md
+
+*(Shiro Kiryuin is NOT a copy user: his Nouryoku is Soul Possession. See his profile.)*
 
 ---
 

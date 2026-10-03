@@ -344,7 +344,7 @@ A phenomenon unique to Bakuzoku where they lose all control and enter a violent 
 - **Do NOT know he is Bakuzoku** (appears fully human)
 
 **Adoption:**
-- **Tairin (Delara Centerox)** takes Lyon in
+- **Tairin (Delara Centerfox)** takes Lyon in
 - Raises him within Free as one of their own
 - Lyon grows up believing he's an orphan
 - No knowledge of his Bakuzoku heritage
@@ -684,13 +684,13 @@ The Kiryuin have been **murdering each other for centuries based on a lie**. The
 - Lives with this act as part of family legacy
 
 **Shiro Kiryuin:**
-- **Has evolved** - brought to brink of death and survived (details TBD in character profile)
+- **Has evolved** - brought to brink of death in the ship explosion 18 years ago (Reiji died shielding him) and survived (see SHIRO_KIRYUIN profile)
 - **Did NOT kill anyone** to achieve evolution
 - Evolution occurred through actual mechanism (near-death experience)
 - Does not fully understand how it happened (begins forming theories)
 
 **Ichiro Kiryuin:**
-- **Evolution status:** [SPOILER - TBD in story]
+- **Evolves at the end of Arc 4**, triggered by Goro's death in his arms (proximity evolution). Evolved form: 完全催眠 Kanzen Saimin (see ICHIRO_KIRYUIN profile)
 
 ---
 

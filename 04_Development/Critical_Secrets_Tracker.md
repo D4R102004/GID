@@ -267,12 +267,12 @@
 - **Arjan** (naive, trusts Gallan completely - doesn't suspect)
 
 ### **WHO COULD DISCOVER IT:**
-- Glayne (if he breaks through Mental Erasure and finds the island)
+- Glayne always knew where the island was (RESOLVED); he acts when he learns Gallan is happy with the kids
 - Free members (if Gallan reveals himself or is recognized)
 - The Kamigami (if they meet)
 
 ### **WHEN REVEALED (Planned):**
-- **Arc 1:** Glayne discovers the island - forces Gallan's past into the open
+- **Arc 1:** Glayne acts (sends Yurisha) - forces Gallan's past into the open
 - **To Arjan/Lopney:** During or after Glayne's attack
 
 ### **DRAMATIC IRONY:**
