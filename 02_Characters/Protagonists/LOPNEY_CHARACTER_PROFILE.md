@@ -11,7 +11,7 @@ AGE_ARC_1: 15
 
 ## **BASIC INFO**
 
-**Full Name:** Lopney (真名/True Name Unknown)
+**Full Name:** Lopney Byronstrike (adopted surname, from Gallan; 真名/True Name Unknown)
 **Nickname:** Unknown
 **Age:** 15 years old (Arc 1 start)
 **Status:** Co-protagonist, 30% negative reincarnation of Kami's power (unaware)
