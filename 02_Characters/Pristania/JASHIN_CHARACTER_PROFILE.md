@@ -48,7 +48,7 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 
 **The comatose body (author):**
 - **Emaciated, bearded, unrecognizable. But alive**
-- Hidden behind a wall in Pristania HQ (Hirohiko's profile)
+- First **buried** by Kami and Megami after the escape (Master Lore). Later **moved by Kami to Pristania HQ**, hidden behind a wall (author; see Backstory)
 
 **Free manifestation, Arc 6 (author):**
 - Takes **his own body at the age Kami was when he died (~55)**
@@ -206,6 +206,12 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 - Hide reveals the sealing technique; **Zenshin seals him**
 - Jashin goes under **believing Megami is dead** (author). He never learns that Zenshin revived her and lied to her
 
+### **The body's journey (author, 2026-10-06):**
+- After the escape, Kami and Megami **bury** the comatose body
+- Years later, **Kami confesses to Megami** what really happened (Kami ~40). Afterwards **Megami goes back to the burial site** to see if he is still there, **and so does Kami**
+- **Kami takes his brother's body to Pristania** and hides it behind a wall in HQ
+- [TBD: who reaches the grave first, and what Megami finds there]
+
 ### **The sealed years:**
 - **While Kami lives:** he perceives **nothing**. His consciousness is in a **void, with nothing to do: a torment**. He survives the solitude **with his imagination, imagining all kinds of things** (author)
 - **After Kami's death:** the seal weakens (Kami's power is fragmented). His consciousness partially returns; he still cannot move or speak, but can influence his surroundings (Hirohiko's profile). Develops the healing spear (author)
@@ -261,7 +267,7 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 - **Does not know** (before Arc 5) that Megami was revived, nor that he had the resurrection power
 
 **Who knows Jashin exists / survives:**
-- **Megami** believes he died (Kami lied: "the Ryakujin killed Jashin"). [TBD: does she ever learn the truth?]
+- **Megami** believed he died (Kami's lie), until **Kami's confession** (~22 years before Arc 1): she learns he was sealed and buried alive, and goes back to the grave (author). [TBD: whether she knows Kami moved the body to Pristania, and whether she ever learns of his death]
 - **The Kamigami:** [TBD: do Diominiciel and Perlereina know whose body is behind the wall?]
 - **Gyrus:** completely unaware until Arc 6
 
@@ -289,14 +295,14 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 
 1. **Resurrection rule: Hide told the truth (author, 2026-10-06).** For the **originals** (Kami, Jashin), two resurrections = **death, body disappears**. For **heirs** (Arjan, Lopney), only Kami's power is lost. It is a **misunderstanding**, not a lie: everyone assumes the rule is inherited. Rewrite "Hide's lie" in: **Master Lore** (Hide's Final Manipulation), **Kami's profile**, **Critical Secrets Tracker** (The Resurrection Truth), **Power System**. **Resolves** the tracker's TBD on Arjan's theory: Arjan does not intuit a lie, he intuits that **the rule is different for them**
 2. **Rajin's profile and Master Lore line ~583 are wrong:** they say Jashin was "killed during facility tests, resurrected by Kami". **Megami** was killed and resurrected; Jashin was **sealed alive**
-3. **Hirohiko's post-story is now wrong:** it says he "doesn't reconcile with Diominiciel and Perlereina (they die in Arc 5) - mourns them". They are **revived in Arc 6** (adults, no memories). Rewrite the post-story and the "last surviving Kamigami" line
+3. **Hirohiko's post-story: NOT a contradiction (author).** He mourns them after Arc 5, and they **come back in Arc 6** (adults, no memories). Just add the Arc 6 return to his post-story
 4. **Hirohiko's Arc 6 section:** "manifests independently" stays (free from the seal he can manifest), but add the plan to take Gyrus's body, the Inverse World confession and fight, and the sacrifice
 5. **Hirohiko's "more resembles Jashin":** means **build**, not face. Clarify the line
 6. **Hirohiko's healing spear:** "developed during his sealed years" → **after Kami's death** (before it he perceived nothing)
 7. **Hirohiko's "can communicate with Gyrus mentally":** sharpen to **no direct speech; urges and premonitions** Gyrus takes as his own (author)
 8. **Inverse World ability:** add to Hirohiko's profile and the Power System (anything imaginable, only inside; shared by both; Gyrus discovers it in Arc 6)
-9. **Seal date:** Power System says the seal was created "~40 years ago". By Kami's ages (sealed at 18, died at ~55, 18 years before Arc 1) it is **~55 years before Arc 1**
-10. **Where the body is:** the Master Lore says Kami and Megami **buried** his comatose body; Hirohiko's profile has it **behind a wall in Pristania HQ**, hidden by Kami. [TBD: did Kami move it later (Pristania was founded ~14 years after the escape)? Did Megami know?]
+9. **Seal date: CONFIRMED (author).** Power System says "~40 years ago"; correct is **~55 years before Arc 1** (sealed at 18, Kami died at ~55, 18 years before Arc 1). Fix the Power System
+10. **Where the body is: RESOLVED (author).** Buried first; after Kami's confession both Megami and Kami return to the grave, and **Kami moves the body to Pristania HQ**. Both files were right. Add the move to the Master Lore, Kami's and Rajin's profiles. *Editor's note:* Pristania already existed then (founded at Kami ~32, confession at ~40), so it fits
 11. **Critical Secrets Tracker:** "Jashin - may or may not know [the resurrection rule]" → **learns it in Arc 5** through Gyrus, hearing Megami
 12. **Arc 3 and Arc 5 summaries:** note that **Jashin causes** Dr. Araki's encounters with the protagonists
 13. **Power System, sealing:** replace the TBD with: usable once free, irrelevant by then (Kami's power is gone)
@@ -307,9 +313,9 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
 1. What Jashin does in Arc 6 between his release and the Inverse World (does he act on the world, manifest before others?)
-2. Does Megami ever learn he was alive, or that he died reviving the Kamigami?
+2. ~~Does Megami learn he was alive?~~ **RESOLVED:** yes, at Kami's confession. Still open: what she finds at the grave, and whether she ever learns he died reviving the Kamigami
 3. Did Diominiciel and Perlereina know whose body was behind the wall?
-4. The body: buried or hidden in HQ (Flag 10)
+4. ~~The body: buried or hidden in HQ~~ **RESOLVED** (Flag 10). Still open: who reaches the grave first
 5. Aftermath: what Gyrus does with Diominiciel and Perlereina, revived without memories
 6. More sample dialogue (with Megami, with Arjan) for the voice
 
