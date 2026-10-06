@@ -93,10 +93,11 @@
 
 **Limitations:**
 - **Maximum 2 uses per user**
-- **After 2 resurrections:** The POWER ceases to exist (user survives but becomes powerless)
-  - This is the TRUTH
-  - Hide told Kami a LIE: "After 2 uses, the USER ceases to exist"
-  - Kami believed the lie, never used his 2nd resurrection out of fear
+- **After 2 resurrections (originals - Kami, Jashin):** the USER dies and his body disappears
+  - Hide told Kami exactly this, and it is TRUE (corrected 2026-10-06; previously recorded as a lie)
+  - Kami never used his 2nd resurrection out of fear, and the fear was founded
+- **After 2 resurrections (heirs - Arjan, Lopney):** only the POWER ceases to exist; the heir survives
+  - Nobody knows the rule differs for heirs until Arc 6
 
 **Kami's Usage:**
 - **1st resurrection:** Used on Megami (after she was shot)
@@ -164,7 +165,7 @@
 
 **Usage by Jashin:**
 - Never used before being sealed
-- [TBD: Can he use it if freed?]
+- **Can use it once freed** (author, 2026-10-06), but by then Kami's power no longer exists
 
 ---
 
@@ -285,7 +286,7 @@ Their power **fragments into 3 parts:**
 - **If sealer's power is destroyed:** Seal breaks completely
 
 **Current Jashin Seal Status:**
-- Created using Kami's power ~40 years ago
+- Created using Kami's power ~55 years before Arc 1 (Kami was 18)
 - Kami died 18 years ago → seal weakened
 - Kami's power fragmented (Arjan 30%, Lopney 30%, corpse 40%)
 - Seal still holds but Jashin is semi-conscious

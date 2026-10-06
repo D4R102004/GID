@@ -260,10 +260,10 @@ AGE_ARC_1: N/A (died age ~55)
 - Can revive the dead (twice maximum)
 - **Used once:** Resurrected Megami after she was shot
 - **One use remaining:** Never used the second
-- **Believes Hide's lie:** Thinks using it again will kill him (it won't - only the power dies)
+- **Believes Hide's rule:** thinks using it again will kill him. **He is right**: for the originals, two resurrections = death and the body disappears (corrected 2026-10-06; only heirs survive)
 - **Secret plan:** Considered killing dormant Jashin, then resurrecting him (to "fix" his sin)
-- **Why he didn't:** Couldn't bring himself to do it, and feared using it would kill him (Hide's lie)
-- **Confessed to Megami:** told her everything, including this plan and the lie as he believed it (decided 2026-09-19)
+- **Why he didn't:** Couldn't bring himself to do it, and feared using it would kill him (a founded fear)
+- **Confessed to Megami:** told her everything, including this plan and the rule (decided 2026-09-19)
 
 ---
 
@@ -351,6 +351,7 @@ AGE_ARC_1: N/A (died age ~55)
 - **Couldn't do it** - couldn't bring himself to end his brother's life
 
 **Visiting the Body:**
+- **Moving the body (decided 2026-10-06):** after his confession, Megami went back to Jashin's grave to hug him. Kami arrived and told her **he would take him, because he is his brother**. He moved the body to Pristania HQ
 - Kept Jashin in a secret chamber in Pristania HQ
 - Visited sometimes (frequency unknown)
 - What did he say to the comatose body? *[Haunting image]*

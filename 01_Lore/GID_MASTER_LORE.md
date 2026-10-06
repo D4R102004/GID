@@ -79,8 +79,8 @@ The Ryakujin send all three to different human cities to test their combat effec
 
 **Hide's Final Manipulation:**
 - Reveals the **Resurrection Ability** (both brothers possess it)
-- **THE LIE:** "You can revive the dead twice, after which you will cease to exist"
-- **THE TRUTH:** After two resurrections, the **power** ceases to exist (user survives but becomes powerless)
+- **What Hide says (TRUE):** "You can revive the dead twice, after which you will cease to exist". For the **originals** (Zenshin, Jashin) this is correct: two resurrections = death, the body disappears
+- **The misunderstanding:** everyone later assumes the rule is inherited. It is **not**: an **heir** of the power (Arjan, Lopney) who uses both only loses the power and survives (decided 2026-10-06; previously recorded as "Hide's lie")
 - Hide suggests: "Revive me, we'll make more Megamis, call the experiment a success"
 - Zenshin **kills Hide** in fury
 
@@ -88,6 +88,7 @@ The Ryakujin send all three to different human cities to test their combat effec
 - Zenshin uses his **first resurrection** on Megami
 - **Lies to her:** "The Ryakujin killed Jashin, we both destroyed the facility together"
 - They bury Jashin's **still-living comatose body**
+- *Later (after Kami's confession, ~33 years before Arc 1):* Megami returns to the grave to hug him; Kami arrives and takes his brother's body to a hidden chamber in Pristania HQ. Megami knows (decided 2026-10-06)
 - Escape together
 
 ---
@@ -297,8 +298,8 @@ The Ryakujin send all three to different human cities to test their combat effec
 **Hidden Ability:**
 - **Resurrection** (can revive the dead)
 - **Limit:** 2 uses maximum
-- **Cost (TRUTH):** After 2 resurrections, the **power** ceases to exist (user survives but becomes powerless)
-- **Cost (LIE told by Hide):** After 2 resurrections, the **user** ceases to exist
+- **Cost (originals - Kami, Jashin):** After 2 resurrections, the **user** dies and his body disappears (what Hide said; TRUE)
+- **Cost (heirs - Arjan, Lopney):** After 2 resurrections, only the **power** ceases to exist; the heir survives. Nobody knows this until Arc 6
 - **Kami's usage:** 1 resurrection used (on Megami) → 1 remaining
 
 ---
@@ -580,7 +581,7 @@ The Ryakujin send all three to different human cities to test their combat effec
 
 **Relationships:**
 - **Kami/Zenshin:** Ex-husband (married after resurrection, left after confession)
-- **Jashin:** Lover (killed during facility tests, resurrected by Kami, buried alive while comatose)
+- **Jashin:** First love (mutual romantic tension, never consummated). Sealed alive by Kami, buried comatose; she believed him dead until Kami's confession, then visited his grave (decided 2026-10-06)
 - **Kensuke:** Current husband (only person who knows her true identity)
 - **Meiji:** Adoptive son (unaware she's Megami, unaware he's a Ryakujin weapon)
 - **The Kamigami:** Biological children (abandoned when she left Kami)
@@ -993,19 +994,17 @@ This section tracks **who knows what** to avoid continuity errors.
 
 ---
 
-#### **THE RESURRECTION LIE**
+#### **THE RESURRECTION MISUNDERSTANDING** (was "The Resurrection Lie"; corrected 2026-10-06)
 
-**The Truth:** After 2 resurrections, the **power** ceases to exist (not the user)
+**The Rule (true, told by Hide):** for the **originals** (Kami, Jashin), after 2 resurrections the **user** dies and his body disappears
 
-**The Lie (told by Hide):** After 2 resurrections, the **user** ceases to exist
+**The Misunderstanding:** everyone assumes the rule passes to whoever inherits the power. For **heirs** (Arjan, Lopney), 2 resurrections only destroy the **power**
 
-**Who Knows the Truth:**
-- Possibly no one (Hide died with the secret)
-- Will be revealed later in story
+**Who Knows the Rule:**
+- Kami (feared it, rightly), the Kamigami (Kami told them), Megami (Kami's confession), all of Free (Megami's account, Arc 5), Jashin (hears that account through Gyrus)
 
-**Who Believes the Lie:**
-- Kami (believed it when alive)
-- Possibly Rajin (if Kami told her)
+**Who Knows It Does Not Apply to Heirs:**
+- No one, until Arjan and Lopney survive reviving Gallan (Arc 6)
 
 ---
 

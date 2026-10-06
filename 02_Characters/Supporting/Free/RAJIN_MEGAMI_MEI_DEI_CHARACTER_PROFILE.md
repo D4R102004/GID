@@ -19,7 +19,7 @@ AGE_ARC_1: ~40s
 **Status:** Supporting character; becomes central pillar in Arc 5
 **Family:**
 - Kami/Zenshin (ex-husband — married after resurrection, separated after his confession)
-- Jashin (former lover — killed during Ryakujin tests, resurrected by Kami, buried comatose)
+- Jashin (first love — mutual romantic tension, never consummated; sealed alive by Kami, buried comatose)
 - Kensuke Sugimori (current husband — the only living person who knows she is Megami)
 - Meiji (adoptive son — unaware of her true identity; she unaware he is a Ryakujin weapon)
 - Lyzander Sugimori (adoptive grandson)
@@ -173,7 +173,11 @@ AGE_ARC_1: ~40s
 - She dies before she knows if they heard her.
 
 ### **Jashin**
-- Her first love; killed during Ryakujin tests; resurrected by Kami, then sealed comatose
+- Her first love; nothing ever happened between them, but the tension was mutual. She loved both brothers; Jashin's personality pleased her more, by very little (author, 2026-10-06)
+- **Correction (2026-10-06):** **she** was the one killed in the tests and resurrected by Kami. Jashin was **sealed alive** and buried comatose
+- She believed him dead (Kami's lie) until the confession
+- **The grave (author, 2026-10-06):** after the confession she went back to his grave **to see him and hug him**; taking him away never occurred to her. Kami arrived and took his brother's body to Pristania. **She knows where the body is**
+- She never learns that Jashin's consciousness lives inside her son Hirohiko, nor that he still loves her and would recognize her under Rajin. **They never meet again**
 - She could not kill Kami even when she wanted to — her power forbids it
 - She could not free Jashin either
 - The full emotional weight of this relationship is part of what broke her when Kami confessed

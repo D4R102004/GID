@@ -347,14 +347,14 @@
 ## ARC 6 (Not Yet In Development)
 
 - [ ] **Jashin's separation from Gyrus** — physical manifestation, visual moment (decided 2026-09-19: Jashin plans to take control of Gyrus's body to unleash chaos; scene to be developed later)
-- [ ] **Gyrus vs. Jashin final confrontation** — Gyrus is the one who faces Jashin; resolution, Jashin's ultimate fate
-- [ ] **Story ending** — Arc 6 climax decided (Arjan vs. Lopney duel, Gallan revived, Jashin freed); Gyrus vs. Jashin resolution still open
+- [x] **Gyrus vs. Jashin final confrontation** — RESOLVED (2026-10-06): Inverse World duel; Jashin wins, then spends both resurrections reviving Diominiciel and Perlereina (no memories) and dies. See JASHIN_CHARACTER_PROFILE.md
+- [ ] **Story ending** — Arc 6 climax decided (Arjan vs. Lopney duel, Gallan revived, Jashin freed, Jashin's sacrifice). Open: what Jashin does between release and the duel; the aftermath with the revived siblings
 - [ ] **How does Gyrus discover what happened?** — He sees Perlereina's corpse turn to dust. He does not know Arjan and Lopney exist; Jashin may guide him
 - [ ] **Whose Nouryoku is the possession of Gallan by Gloria's spirit (Arc 5)?** — No possession ability exists in the files. Glayne's is Ellipse Manipulation (and Arjan already defeated him). Another user? A real spirit? Lopney's nullification ends it
 - [ ] **Gallan's resurrection logistics** — his body falls to the sea floor chained to the machine; the Resurrection restores him as he was before death (stabbed; the device reads his pulse). Where/how does he appear so Gyrus finds him?
 - [ ] **Arc 3 rescue vs. Arc 5 capture** — Team A rescues Gallan in Arc 3, but in Arc 5 he is bound to a machine in Pristania HQ. Does the Arc 3 rescue fail, or is he recaptured?
-- [ ] **Were Arjan and Lopney present at Megami's account (Arc 5)?** — Needed for their Arc 6 argument about the lie
-- [ ] **Arjan's theory about Hide's motive** — conflicts with the timeline (see Critical_Secrets_Tracker.md, The Resurrection Truth)
+- [ ] **Were Arjan and Lopney present at Megami's account (Arc 5)?** — Needed for their Arc 6 argument about the rule
+- [x] **Arjan's theory about Hide's motive** — RESOLVED (2026-10-06): Hide told the truth for the originals; the rule just does not apply to heirs. No motive needed
 
 ---
 ---
@@ -404,7 +404,7 @@
 ---
 
 **[✅ RESOLVED — 2026-09-19] Resurrection truth reveal — When is it discovered?**
-→ Arc 6, instantly. Arjan and Lopney survive reviving Gallan and only lose Kami's part of the power. Before that (Arc 5, before the Pristania assault), Megami tells all of Free the lie as Kami believed it; the reader has no reason to suspect Hide lied. In Arc 6, Arjan suspects it (hope and intuition); Lopney does not want to risk death.
+→ Arc 6, instantly. Arjan and Lopney survive reviving Gallan and only lose Kami's part of the power. Before that (Arc 5, before the Pristania assault), Megami tells all of Free the rule as Kami knew it (true for the originals; corrected 2026-10-06, it was never a lie). In Arc 6, Arjan suspects it does not apply to them (hope and intuition); Lopney does not want to risk death.
 *(Source: user decision)*
 
 ---
@@ -416,7 +416,7 @@
 ---
 
 **[✅ RESOLVED — 2026-09-19] How does the Arc 6 climax play out?**
-→ Arjan and Lopney fight a secret duel with no witnesses, so nobody interferes. Arjan wants to revive Gallan (believes the risk is worth it and suspects Hide lied). Lopney refuses: she thinks Arjan is becoming like Perlereina, that they must let go, and that if they died Gallan would be left alone. The winner decides. Lopney is established as the stronger fighter throughout the series; Arjan wins with power and cunning. Both use all four of Kami's abilities. Lopney accepts; together they speak the words and revive Gallan. They only lose Kami's part of the power (they keep their own Nouryoku). Perlereina's corpse turns to dust, and Jashin is freed (100% power, full consciousness). Gyrus sees the dust, understands what happened, and goes to find them, finding his best friend Gallan freshly revived.
+→ Arjan and Lopney fight a secret duel with no witnesses, so nobody interferes. Arjan wants to revive Gallan (believes the risk is worth it and suspects the rule does not apply to them). Lopney refuses: she thinks Arjan is becoming like Perlereina, that they must let go, and that if they died Gallan would be left alone. The winner decides. Lopney is established as the stronger fighter throughout the series; Arjan wins with power and cunning. Both use all four of Kami's abilities. Lopney accepts; together they speak the words and revive Gallan. They only lose Kami's part of the power (they keep their own Nouryoku). Perlereina's corpse turns to dust, and Jashin is freed (100% power, full consciousness). Gyrus sees the dust, understands what happened, and goes to find them, finding his best friend Gallan freshly revived.
 *(Source: user decision)*
 
 ---

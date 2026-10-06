@@ -26,14 +26,15 @@
 **Kensuke** (~60s) - Free acting president, ex-Pristania Emperor, Rajin's husband
 **Claudia Whannell "Dragoon"/"Misty"** (21, Arc 1) - Pristania Emperor, Bellsaw's daughter, real nurse at the Vista Alegre hospital, **Cloud Nouryoku**, Gabriella's best friend; coma in Arc 4, wakes end of Arc 5, stays in Pristania under Hirohiko
 **Angel Velasco "Tenshi"** (43, Arc 1) - **Secret 4th Emperor** of Pristania: Kami's chosen successor and lover, no Nouryoku, a real beggar in Vista Alegre, Perlereina's spy, **twist villain** of Arc 4. Kills Gabriella on Perlereina's order; killed by Lyzander (frozen alive) in the Arc 4 finale. Profile: 02_Characters/Pristania/ANGEL_CHARACTER_PROFILE.md
+**Jashin "Opus Dei"** (~73, Arc 1; sealed at ~18) - Ryakujin prototype, Kami's "brother", **final antagonist (Arc 6)**. Kami's double with black hair, yellow eyes, lines through the eyes. Body sealed in Pristania HQ; consciousness inside Hirohiko. Dies redeeming himself. Profile: 02_Characters/Pristania/JASHIN_CHARACTER_PROFILE.md
 
 ---
 
 ## THE KAMIGAMI (Kami's THREE children - NOT four)
 
-**Diominiciel Dei** (~40, Arc 1) - Eldest, mad scientist, creates robots, dies Arc 5
+**Diominiciel Dei** (~40, Arc 1) - Eldest, mad scientist, creates robots, dies Arc 5 (revived by Jashin in Arc 6, no memories)
 **Hirohiko Dei/Gyrus/Dr. Araki** (~38, Arc 1) - Middle child, amnesiac, **possessed by Jashin** (doesn't know); becomes leader of Pristania at the end of Arc 5
-**Perlereina Dei** (~35, Arc 1) - Youngest, de facto leader, dies Arc 5 (madness from losses)
+**Perlereina Dei** (~35, Arc 1) - Youngest, de facto leader, dies Arc 5 (madness from losses; revived by Jashin in Arc 6, no memories)
 
 **Note:** Tairin is NOT a Kamigami. She is a Free member (Head of Security).
 
@@ -95,9 +96,10 @@
 **Arc 2:** Shigeru Houzu (finale: sacrifices himself to save Yonoa)
 **Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
 **Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
+**Arc 6:** Jashin (spends both resurrections on Diominiciel and Perlereina; his body turns to dust)
 **Arc 4 (Emperors):** Perlereina, through Angel (secret 4th Emperor), lures Gabriella and Lyzander into a trap in the finale, on her order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists). Gabriella dies; Lyzander freezes Angel alive (Angel dies) and Yonoa saves him. Claudia falls into a coma after Yonoa beats her
 **End of Arc 5:** Hirohiko becomes leader of Pristania; peace between Pristania and Free
-**Arc 6:** Arjan vs. Lopney duel over reviving Gallan; Jashin freed [rest not developed yet]
+**Arc 6:** Arjan vs. Lopney duel over reviving Gallan; Jashin freed; Gyrus vs. Jashin in the Inverse World; Jashin revives Diominiciel and Perlereina (no memories) and dies
 
 ---
 

@@ -58,7 +58,7 @@ AGE_ARC_1: ~38
 - Handsome man
 - **Blonde hair**
 - **Red eyes** (normal appearance originally)
-- Resembles Kami a bit, but **more resembles Jashin**
+- Resembles Kami a bit, but **more resembles Jashin** in **build** (Jashin and Kami have near-identical faces; author, 2026-10-06)
 - Distinguished enough from siblings despite shared features
 
 **Style:**
@@ -273,6 +273,10 @@ AGE_ARC_1: ~38
 - Ambush tactics (unexpected positioning)
 - Containment (trap dangerous enemies with him)
 
+**Hidden potential (author, 2026-10-06):**
+- **Inside the Inverse World, its owner can imagine any ability and use it.** Only inside it
+- Gyrus **does not know** this until his Arc 6 duel with Jashin (who, having lived in him, shares the world)
+
 ---
 
 ### **Current Status (Post-Amnesia):**
@@ -293,7 +297,7 @@ AGE_ARC_1: ~38
 ### **Jashin's Healing Spear:**
 
 **Discovery:**
-- **Jashin developed this during his sealed years**
+- **Jashin developed this during his sealed years**, after Kami's death (before it he perceived nothing)
 - Experimented with his God's Halberd ability
 - Created spear variant with healing properties
 - When eaten: Restores wounds, provides nutrition
@@ -509,10 +513,10 @@ AGE_ARC_1: ~38
 - **Grows to care about Gyrus deeply** - sees kinship (both "betrayed" by siblings)
 
 **His Influence:**
-- Can communicate with Gyrus mentally (Gyrus thinks it's his own thoughts)
+- **Never speaks to Gyrus directly** (author, 2026-10-06): he creates urges and **premonitions** that Gyrus takes as his own intuition
 - Influences dreams
 - Plants ideas in Gyrus's head
-- Occasionally takes full control of body
+- Occasionally takes full control of body (**rarely**: he wants to stay hidden)
 
 **Control Mechanism:**
 - When Jashin takes control: **Gyrus enters trance**
@@ -688,7 +692,7 @@ AGE_ARC_1: ~38
 - Diominiciel dies (transferring power to Perlereina)
 - Perlereina descends into madness, dies
 - Gyrus survives
-- **Last surviving Kamigami**
+- **Last surviving Kamigami** (until Arc 6, when Jashin revives his siblings)
 
 **End of Arc 5 (decided 2026-09-19):**
 - **Becomes the leader of Pristania**
@@ -708,8 +712,18 @@ AGE_ARC_1: ~38
 
 **Jashin Becomes Free:**
 - No longer bound to Gyrus
-- Can manifest independently (or separate from Gyrus's body)
+- Can manifest independently (free from the seal), in his own body at ~55 (Kami's age at death)
+- **His plan: take Gyrus's body** and unleash chaos on the world
 - **Final antagonist revealed**
+
+**The Inverse World Duel (author, 2026-10-06):**
+- Jashin drags Gyrus **into the Inverse World** and confesses his intentions
+- Gyrus asks who "Zenshin" is: *"¿Tu padre ni siquiera te dijo su verdadero nombre?"*
+- **Gyrus's discovery:** inside the Inverse World, its owner can **imagine any ability and use it**. Because Jashin lived in him, the world is **both of theirs**
+- **Jashin is superior:** he knows the world better, uses it better, has more experience
+- Jashin asks why Gyrus protects a world that gave him only misfortune; Gyrus says he will make it better, as his father would have. Jashin: **he is lying to himself; his heart wants something else**. It is true: Gyrus wants to **see his siblings again and start over**
+- **Jashin's sacrifice:** he uses **both resurrections** on **Diominiciel and Perlereina**, knowing it kills him. His body turns to dust
+- **The siblings return** as adults, as they were, **with no memories** and without Jashin's power (see JASHIN_CHARACTER_PROFILE.md)
 
 **The Confrontation:**
 - **Gyrus vs. Jashin** - host vs. parasite
@@ -743,8 +757,8 @@ AGE_ARC_1: ~38
 - Full circle
 
 **Siblings:**
-- Doesn't reconcile with Diominiciel and Perlereina (they die in Arc 5)
-- Mourns them
+- Diominiciel and Perlereina die in Arc 5; he mourns them
+- **They come back in Arc 6**, revived by Jashin, **without memories** (author, 2026-10-06). [TBD: what he does with them afterwards]
 - Honors their memory while correcting their mistakes
 
 **Legacy:**

@@ -1,5 +1,19 @@
 # GID LORE CHANGELOG
 
+## 2026-10-06 (Jashin profile + consistency pass)
+**Files changed:** JASHIN (new), HIROHIKO, KAMI, RAJIN profiles, GID_MASTER_LORE.md, Timeline.md, Power_System.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Jashin (Opus Dei), built by interview. Body ages (~73 in Arc 1); Kami's double with black hair, yellow eyes, Ulquiorra-style lines; free form at ~55
+- RESURRECTION RULE: Hide told the TRUTH. Originals (Kami, Jashin) die after 2 resurrections and their body disappears; heirs (Arjan, Lopney) only lose the power. Everyone assumes the rule is inherited (a misunderstanding, not a lie). Resolves the TBD on Arjan's theory
+- ARC 6 ENDING: Jashin drags Gyrus into the Inverse World, wins the duel, realizes Gyrus wants his siblings back, revives Diominiciel and Perlereina (adults, no memories, no powers) and dies; his body turns to dust
+- INVERSE WORLD: inside it, its owner can imagine and use any ability; shared by Gyrus and Jashin; Gyrus discovers it in Arc 6
+- JASHIN'S BODY: buried after the escape; after Kami's confession Megami visits the grave to hug him, Kami arrives and moves the body to Pristania HQ; Megami knows
+- Jashin learns of Megami's survival, the resurrection power and the rule in Arc 5, through Gyrus hearing Megami's account; he causes Dr. Araki's encounters with the protagonists (Arc 3, Arc 5)
+- CORRECTED: Rajin's profile and Master Lore said Jashin was killed and resurrected; it was Megami. Jashin was sealed alive
+- CORRECTED: Power System seal date (~40 -> ~55 years before Arc 1); sealing TBD filled
+- CLARIFIED: Hirohiko "more resembles Jashin" = build; healing spear developed after Kami's death; Jashin never speaks to Gyrus (premonitions only)
+
 ## 2026-10-02 (Cross-file audit: powers, headers, links)
 **Files changed:** Power_System.md, Ryakujin_Experiments.md, Critical_Secrets_Tracker.md, Factions.md, GID_QUICK_REF_FINAL.md, CLAUDE_INSTRUCTIONS.md, GABRIELLA, TASED, SHIRO, ANGEL profiles
 

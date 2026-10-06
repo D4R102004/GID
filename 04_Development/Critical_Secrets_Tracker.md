@@ -368,22 +368,20 @@
 ## THE RESURRECTION TRUTH
 
 ### **THE SECRET:**
-- **Hide's LIE:** "After two resurrections, the USER ceases to exist"
-- **The TRUTH:** "After two resurrections, the POWER ceases to exist (user survives)"
-- Kami believed the lie - used one resurrection on Megami
-- Has one use left but fears it will kill him
+- **Hide told the TRUTH (corrected 2026-10-06):** for the **originals** (Kami, Jashin), two resurrections = the user dies and his body disappears
+- **The real secret is a MISUNDERSTANDING:** everyone assumes the rule is inherited. For **heirs** (Arjan, Lopney), two resurrections only destroy the POWER (they survive)
+- Kami used one resurrection on Megami; had one left and feared it would kill him. **He was right**
 
-### **WHO KNOWS (The Truth):**
-- **No one living**
-  - Hide is dead (took the truth with him)
+### **WHO KNOWS (That it does not apply to heirs):**
+- **No one**, until Arc 6
   - The Ryakujin may know (if they still exist)
 
-### **WHO KNOWS (The Lie):**
-- **Kami** (deceased - died believing the lie)
-- **The Kamigami** - Kami told them the lie
+### **WHO KNOWS (The Rule):**
+- **Kami** (deceased - died fearing it, rightly)
+- **The Kamigami** - Kami told them
   - They believe resurrection costs the user's life after two uses
-- **Rajin/Megami** - Kami told her everything (his confession, decided 2026-09-19). She knows he believed the lie and that he considered using his remaining resurrection on his brother (Jashin) but never did, fearing it would kill him
-- **Jashin** - May or may not know (unclear if Hide told him)
+- **Rajin/Megami** - Kami told her everything (his confession, decided 2026-09-19). She knows the rule as he told it and that he considered using his remaining resurrection on his brother (Jashin) but never did, fearing it would kill him
+- **Jashin** - Sealed before Hide spoke. **Learns it in Arc 5**, hearing Megami's account through Gyrus (author, 2026-10-06). Believes he will die if he uses both, and he does (Arc 6)
 
 ### **WHO DOESN'T KNOW (Either Version):**
 - All of Free, until Megami's account before the Arc 5 assault (see WHEN REVEALED)
@@ -391,10 +389,11 @@
 - Arjan & Lopney, until that same account [TBD: are they present?]
 
 ### **WHEN REVEALED (Decided 2026-09-19):**
-- **The Lie reaches Free in Arc 5:** before the Pristania assault, Megami tells her son (Meiji) and all of Free her history with Kami, including the lie as Kami believed it. The reader has no reason to suspect Hide lied (major twist)
-- **Arc 6, before the duel:** Arjan suspects Hide lied (hope and intuition, no proof). Lopney does not want to risk death and believes they must let go
+- **The Rule reaches Free in Arc 5:** before the Pristania assault, Megami tells her son (Meiji) and all of Free her history with Kami, including the rule. Jashin hears it too, through Gyrus
+- **Arc 6, before the duel:** Arjan suspects **the rule is not the same for them** (hope and intuition, no proof). Lopney does not want to risk death and believes they must let go
 - **Arc 6, the truth:** confirmed instantly when Arjan and Lopney survive reviving Gallan and only lose Kami's part of the power
-- [TBD - Arjan's stated theory (Hide lied so Kami wouldn't revive Megami) conflicts with the timeline: Kami used his 1st resurrection on Megami right after the lie. Needs another motive or reframing]
+- **Arc 6, the confirmation of the rule:** Jashin uses both resurrections (on Diominiciel and Perlereina) and dies, his body turning to dust
+- ~~[TBD - Arjan's theory about Hide's motive]~~ **RESOLVED (2026-10-06):** Hide did not lie, so no motive is needed. Arjan intuits that the rule may not apply to heirs
 
 ### **DRAMATIC IRONY:**
 - Kami had the power to resurrect one more person but was too afraid

@@ -94,10 +94,10 @@ All dates are calculated from these reference points.
 - Zenshin seals Jashin into coma
 - **Seal condition:** Works as long as Zenshin's power exists
 
-### **Hide's Final Lie**
+### **Hide's Final Manipulation**
 - Reveals Resurrection ability
-- **THE LIE:** "After 2 resurrections, you cease to exist"
-- **THE TRUTH:** After 2 resurrections, the POWER ceases (user survives)
+- **"After 2 resurrections, you cease to exist"**: TRUE for the originals (Kami, Jashin)
+- Does **not** apply to heirs: for them only the power ceases (discovered in Arc 6; corrected 2026-10-06)
 - Zenshin kills Hide in fury
 
 ### **The Choice**
@@ -105,6 +105,7 @@ All dates are calculated from these reference points.
 - Lies to her: "Ryakujin killed Jashin, we destroyed facility together"
 - They bury Jashin's comatose body
 - Escape together
+- (After Kami's confession, ~33 years before Arc 1: Megami visits the grave; Kami moves the body to Pristania HQ)
 
 ---
 
