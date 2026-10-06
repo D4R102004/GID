@@ -663,6 +663,8 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 **Timeline:** Night of Gallan's departure  
 **POV:** Arjan, Lopney, Shiro (minimal)
 
+**[AUTHOR NOTE — confirmed 2026-10-06]** The hooded stranger IS Shiro, in Kensuke's body. The phone call ("Is Gallan there? You got him fine then?") is Shiro coordinating with Pristania from inside Free. Identity stays hidden from the kids and the reader in Arc 1.
+
 **Story Beats:**
 
 **PART 1: THE CALM BEFORE (Beats 1-8)**
@@ -964,6 +966,7 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 - Made deal with Pristania to keep kids safe
 - Powering teleporter (away from island, with Glayne)
 - Kids think he's captured (dramatic irony)
+- Order of events (confirmed): first the deal and the teleporter; later, in Arc 2, Glayne betrays/captures him
 - **Character Question for Arc 2:** Will kids forgive him when truth comes out?
 
 **Internal Conflict:**
@@ -1282,11 +1285,10 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 - Character arcs, themes, mysteries compiled
 - Ready for chapter-by-chapter outlining
 
-**Next Steps:**
-- Develop detailed outlines for Chapters 2-5
-- Write Chapters 2-5
+**Next Steps (updated 2026-10-06):**
+- Write Chapters 4-5 (Chapters 1-3 are FINAL)
 - Review and revise complete Arc 1
-- Transition to Arc 2 development
+- Write ARC_2_SUMMARY.md from the author's synopsis
 
 ---
 
