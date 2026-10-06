@@ -71,7 +71,7 @@ AGE_ARC_1: ~40s
 
 **Distinctive Mark:**
 - **Left eye is blackened** (Ryakujin design mark)
-- Kami has normal eyes. Jashin has both eyes blackened. Megami, the neutral prototype, has one of each.
+- Kami has normal eyes (with small circles beneath). Jashin has both eyes blackened (plus Ulquiorra-style lines through them). Megami, the neutral prototype, has one of each.
 - She hides this permanently under her disguise
 - She will notice that Lopney's eyes carry the same mark — and she will say nothing
 

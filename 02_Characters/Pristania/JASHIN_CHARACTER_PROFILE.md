@@ -43,7 +43,8 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 **Face and build (author):**
 - **Identical to Kami, except for black hair** (Kami's is white). Still **distinguishable** from him at a glance
 - **Yellow eyes** (Kami's are green)
-- Instead of Kami's small circles under the eyes, **lines that run through his eyes**. Reference: **Ulquiorra (Bleach)**. They make him look **evil but also playful**
+- **Both eye surroundings blackened** (the Ryakujin "negative" mark; Rajin's profile) **and**, on top of that, **lines that run through his eyes** instead of Kami's small circles (author). Reference: **Ulquiorra (Bleach)**. They make him look **evil but also playful**
+- **The three prototypes' marks:** Kami = normal eyes with small circles beneath; Megami = one blackened eye; Jashin = both blackened, with the lines
 - **Build:** Hirohiko's build recalls Jashin's more than Kami's (author, clarifying Hirohiko's profile)
 
 **The comatose body (author):**
@@ -245,7 +246,7 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 5. **The fight:** both can imagine any ability there. **Jashin proves superior**: he knows the world better, uses it better, has more experience (author)
 6. **The exchange:** "why protect a world that only gave you misfortune?" / "you are lying to yourself" (see Voice)
 7. **The realization:** Jashin understands that **what Gyrus wants most is to be with his siblings again** (author)
-8. **The sacrifice:** he uses **both resurrections** to revive **Diominiciel and Perlereina**. He **believes he will die, and he does**. **His body turns to dust** (author)
+8. **The sacrifice:** he uses **both resurrections** to revive **Diominiciel and Perlereina**. **Deliberately not Megami**, even though Perlereina killed her in Arc 5: **he only thinks of granting Gyrus's wish** (author). He **believes he will die, and he does**. **His body turns to dust** (author)
 9. **The revived siblings:** they come back **as adults, as they were**, but with **no memories of their past life**, like the Arjan and Lopney cycle. They do **not** keep Jashin's powers (consumed) (author). It works even though Perlereina's corpse had turned to dust (author)
 
 [TBD: what Jashin does between being freed and the Inverse World confrontation; whether anyone else sees him in Arc 6 (Megami, the protagonists); what Gyrus does with his amnesiac siblings afterwards]
@@ -256,6 +257,7 @@ AGE_ARC_1: ~73 (comatose body); sealed at ~18
 
 - **The mirror of Kami** (editor's reading of the author's ending): Kami spent his first resurrection on selfish love (Megami) and built a life on a lie. Jashin, the "negative god", spends **both** on someone else's family, knowing it kills him. **The most selfless act in the story belongs to the "evil god"**
 - **The one who never forgave betrayal** dies giving everything to the nephew of his betrayer
+- **He revives Megami's killer instead of Megami** (author: deliberate). He spends his last act on Gyrus's wish, not his own love. In the prose, leave it unspoken: the reader knows what he gave up
 - **Free will:** Gyrus believed he acted on his own while being guided; in the end Jashin, the manipulator, tells him the truth about what his heart wants
 - **What people carry from violence:** decades in the void, a hatred with no living target, and a love he never admits
 
