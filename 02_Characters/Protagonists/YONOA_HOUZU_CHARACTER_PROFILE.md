@@ -516,16 +516,17 @@ AGE_ARC_1: 33
 - Yonoa **didn't question** why Marsella knew this
 - **Trusted blindly** - biggest regret
 
-**Capture:**
-- Arrives at Free HQ
-- **Framed as Pristania attacker**
-- Captured and imprisoned
-- First person she sees: **Lyzander**
-
-**First Night:**
-- **Sleeps with Lyzander** (non-sexual - just comfort)
+**Arrival & First Night:**
+- Enters Free HQ through the hole in Lyzander and Lyon's secret hideout; first person she sees: **Lyzander**
+- Disguised as Lyzander (Taeko's necklace, an artifact) she contacts Marsella from the phone room; fights Elysia, who recognizes her as Meiji's best friend once the necklace breaks
+- Elysia sends her to rest in Lyzander's room
+- **Sleeps with Lyzander in his room** (non-sexual - just comfort)
 - Feels attraction immediately
 - Beginning of their love story
+
+**Capture (after the first night):**
+- **Framed as Pristania attacker**
+- Captured and imprisoned
 
 **Rescue:**
 - **Lyzander saves her** from prison
