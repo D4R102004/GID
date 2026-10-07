@@ -109,7 +109,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 **7. The Video**
 - Next morning at the bar, Terror tells Ichiro that Pristania attacked, Tased was knocked out, and shows him a video: **"Yonoa" destroying Free's electrical installations**. Free is now cut off from outside.
 - Terror's two hypotheses: Yonoa works with Pristania, or someone from Pristania infiltrated wearing her face.
-- **Truth (author):** the video is a **montage prepared in advance by Pristania**.
+- **Truth (author):** the video is a **montage prepared in advance by Pristania**, using footage of Yonoa supplied by **Marsella** from Jitsumoto. The damage itself is real: **Shiro destroyed the electrical installations himself** that night, unseen. The montage ties the two traitors together.
 
 **8. Yonoa, Meiji & Kensuke**
 - Lyzander wakes; Yonoa apologizes for stealing his appearance and for not waiting (she had to tell her friend she'd arrived). She'll wait for Meiji on a nearby island until things calm down, and leaves through the window.
