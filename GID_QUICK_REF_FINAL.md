@@ -81,7 +81,7 @@
 
 ## ARC STRUCTURE (decided 2026-10-06)
 
-Each arc opens with a short flashback on its **arc boss** and has an **event from the past of Zenshin, Megami and Kami** right after the boss is defeated. Current Chapter 1 becomes the **Prologue**; Arc 1 then opens with Yurisha's flashback.
+Each arc opens with a short flashback on its **arc boss** and has an **event from the past of Zenshin, Megami and Kami** when the boss's role in the arc closes. The arc boss is the figure who frames the arc; they need not be defeated or killed by the protagonists (Light is beaten by Arjan but killed by the Emperors; Marjenis dies at Diominiciel's hands). Current Chapter 1 becomes the **Prologue**; Arc 1 then opens with Yurisha's flashback.
 
 **Arc bosses:** 1 Yurisha · 2 Light · 3 Mauricio · 4 Marjenis · 5 Perlereina · 6 Jashin (arc boss ≠ final villain of the arc: e.g. Angel is the Arc 4 twist villain)
 
