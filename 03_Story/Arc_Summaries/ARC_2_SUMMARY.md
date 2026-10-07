@@ -109,6 +109,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 **7. The Video**
 - Next morning at the bar, Terror tells Ichiro that Pristania attacked, Tased was knocked out, and shows him a video: **"Yonoa" destroying Free's electrical installations**. Free is now cut off from outside.
 - Terror's two hypotheses: Yonoa works with Pristania, or someone from Pristania infiltrated wearing her face.
+- **Truth (author):** the video is a **montage prepared in advance by Pristania**.
 
 **8. Yonoa, Meiji & Kensuke**
 - Lyzander wakes; Yonoa apologizes for stealing his appearance and for not waiting (she had to tell her friend she'd arrived). She'll wait for Meiji on a nearby island until things calm down, and leaves through the window.
@@ -149,9 +150,10 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 
 - **Kensuke interrogates and tortures Yonoa** for Jitsumoto intelligence. Key question: "Does anyone else know you're here?" She says no; he says she's lying. **Hint: he knows about Marsella** (Shiro coordinates with her).
 - **Elysia asks to use her power on Yonoa** to settle the question. Kensuke refuses: (1) too dangerous, locked alone in another dimension with a tornado Logia suspected of working for Pristania; (2) inconclusive, "any spy who studied Free would think of Meiji". Elysia is left with a doubt. Second time Kensuke blocks the truth.
-- **Meiji mysteriously doesn't wake.** Presented as a mystery; in truth Kensuke keeps him under on purpose so he won't free Yonoa (Shiro's plan is to draw Jitsumoto into a frontal battle).
+- **Meiji mysteriously doesn't wake.** Presented as a mystery; in truth Kensuke keeps him under on purpose so he won't free Yonoa (Shiro's plan is to draw Jitsumoto into a frontal battle), and **wakes him on purpose at the moment of the attack** so Pristania can capture him.
 - **Cristopher visits the unconscious Meiji** (his boyfriend): shows Meiji's place in Free while he's absent, and Cristopher beyond violence; ideally with "Kensuke" in the room.
 - **Yonoa and Lopney in adjacent cells** get to know each other. Both love **chess** (they can play by calling moves cell to cell). Conversations about **Marsella** (loads her later betrayal) and about Yonoa and Meiji's friendship.
+- **Arjan asks about Gallan**: no one in Free has seen anyone like him; Arjan decides to rescue his sister first.
 - **Arjan trains** with Cristopher (and Tased, in recovery); grows stronger; interacts with Light, Elysia, Suilan. Lives at Terror's bar.
 - **Arjan & Ichiro** in the back room: Ichiro, waking, notices Arjan matches Lopney's description of her brother. Arjan learns Ichiro risked everything for his sister. This is how Ichiro, Lyzander and Arjan coordinate. (Seeds Ichiro's feelings for Lopney.)
 - **Lyzander investigates** the damage (looking for the impostor) and the location of the cells. He works alone and tells Lyon nothing, to keep his friend out of it: he suspects they'll have to face the Elite, and believes they'll be forgiven because Meiji will understand, and Ichiro is Meiji's friend. **The Lyon–Lyzander friendship keeps deteriorating.**
@@ -167,10 +169,11 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 ### **PART 4 — CLIMAX**
 
 **12. The Rescue**
-- Lyzander learns Kensuke has redistributed security so that the cells are guarded **only by Suilan**. Plan: Lyzander distracts Suilan ("I need to show you something"); Ichiro and Arjan free the prisoners.
+- Lyzander learns Kensuke has redistributed security so that the cells are guarded **only by Suilan**. **This is deliberate (author):** Kensuke knows who Arjan is and his bond with Lopney, guesses the rescue attempt, and lets it happen so the protagonists exhaust the Elite right before the attack. The protagonists' victory is part of Shiro's plan. Plan: Lyzander distracts Suilan ("I need to show you something"); Ichiro and Arjan free the prisoners.
 - Just before, **Lyon confronts Lyzander**: he's tired, can't stand what their friendship has become. Heated argument; **Lyon announces he's leaving Free**, Lyzander reproaches him. In low spirits, Lyzander starts the operation.
 - **Policia** has deduced the plan. Lyzander is already with Suilan; Policia confronts Arjan and Ichiro. Ichiro uses illusions so Arjan can go on. **Policia beats Ichiro.**
 - Lyzander fails to convince Suilan; determined to free the prisoners, he fights her.
+- **Lyon**, preparing to leave, is knocked out when the attack begins; **Marsella finds him and carries him onto Pristania's ship** (place this beat in the climax).
 - Arjan arrives to find **Light waiting**: he left his post at an entrance to back up his companions.
 - **Arjan vs. Light — the hardest fight of the arc.** Arjan wins by encapsulating Light's hands in spheres so he can't generate electricity.
 
@@ -192,6 +195,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - **Protos gives Meiji a sphere** and says goodbye, but Meiji is already captured and is carried off by Pristania. (The sphere outliving its owner foreshadows Kami's power persisting in his corpse.)
 
 **14. Aftermath**
+- **Light's death is shown on page (author):** already beaten by Arjan, he still rises to fight the Emperors and dies as Elite.
 - **Dead:** Light, Suilan and Tased (fighting the Emperors; **Shigo kills Tased, then Suilan**, who fought him after seeing Tased dead; he takes their DNA), Shigeru, Kensuke/Protos.
 - **Captured:** Meiji.
 - Arjan and Lopney find **their father's tie** on the battlefield and assume he was captured too.
@@ -246,7 +250,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 **Still hidden at the end of Arc 2:**
 - How Pristania arrived so fast (teleporter powered by Gallan).
 - Gallan's deal with Diominiciel.
-- Who appeared as "Yonoa" in the video. **[Author to confirm when/if revealed]**
+- The "Yonoa" video is a montage prepared in advance by Pristania. **[When/how it is revealed: TBD]**
 - Gabriella is alive.
 - Zafiro is Ichiro's brother (Ichiro believes Shiro dead).
 - Arjan/Lopney's origin.
