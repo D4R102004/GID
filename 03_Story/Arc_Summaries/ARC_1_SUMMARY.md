@@ -51,6 +51,12 @@ Months later, when Gallan mysteriously departs, the siblings discover a stranger
 
 ---
 
+## **ARC STRUCTURE NOTE (decided 2026-10-06)**
+
+Current Chapter 1 ("I'm Leaving", 15 years ago) becomes the **Prologue**. Arc 1 proper opens with a short **flashback on the arc boss, Yurisha** (backstory without much detail, to build expectation), and an **event from the past of Zenshin, Megami and Kami** follows Yurisha's defeat. See GID_QUICK_REF_FINAL.md → Arc Structure.
+
+---
+
 ## **CHAPTER STRUCTURE**
 
 ### **Chapter Breakdown**

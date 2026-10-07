@@ -392,7 +392,7 @@ AGE_ARC_2: 17
 
 ---
 
-### **Light (Raidel Linares - His Friend):**
+### **Light (Raydel Linares - His Friend):**
 
 **Their Relationship:**
 - **Friends** - one of Tased's closest bonds
@@ -426,8 +426,7 @@ AGE_ARC_2: 17
 
 **Suilan's Role:**
 - **Witnesses Tased's death** - she's watching over him when he dies
-- Devastating for her (she couldn't save him)
-- *[Impact TBD in Suilan's profile]*
+- Fights Shigo in response and is killed by him (Arc 2 climax)
 
 ---
 
@@ -553,11 +552,12 @@ AGE_ARC_2: 17
 - Tragic and incomplete
 
 **Immediate Aftermath:**
-- Suilan witnesses it (traumatized)
+- Suilan witnesses it, decides to fight Shigo, and **is killed by him too** (confirmed 2026-10-06)
+- Shigo takes DNA (hair) from both: he will use Tased's plants and Suilan's Nouryoku against Arjan and Lopney in Arc 4
 - News reaches Free HQ
-- Tairin loses another child (compounding her grief)
+- Tairin loses another child (compounding her grief; Light also dies in the same battle)
 - Cristopher is profoundly anguished (guilt and loss)
-- Elysia is devastated (wants revenge)
+- Elysia is devastated (wants revenge; Suilan was her daughter)
 
 ---
 

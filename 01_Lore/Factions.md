@@ -80,9 +80,11 @@
 - Pass a specialized test, OR
 - Receive endorsement from a current/past Elite member
 
-**Current Members:**
+**War-era Elite (during the war against Pristania):** Uragaeshi, Elysia, Terror
 
-1. **Light (真名: Raidel Linares)**
+**Current Members (Arc 1 / early Arc 2; Light and Suilan die in the Arc 2 climax):**
+
+1. **Light (真名: Raydel Linares)**
    - Elite operative
    - *[Additional details in character profile]*
 
@@ -312,7 +314,7 @@
 - Rajin (Senior member)
 
 **Elite (三傑):**
-- Light (Raidel Linares)
+- Light (Raydel Linares)
 - Suilan (Kelen Raynor) - also theater performer
 - Policia (Satsuki Raynor)
 

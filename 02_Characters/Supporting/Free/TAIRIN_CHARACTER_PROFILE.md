@@ -288,7 +288,7 @@ Joined Free as one of the very first members alongside:
 
 **Other Survivors:**
 - **Lyon (Phlosion)** survived but lost his friends (lonely now)
-- **Light (Raidel Linares)** survived (friend of Gabriella and Lyzander)
+- **Light (Raydel Linares)** survived (friend of Gabriella and Lyzander)
 - **Lyzander** (Meiji's adopted son) survived
 - Most others died
 
@@ -529,7 +529,7 @@ Joined Free as one of the very first members alongside:
 
 ---
 
-#### **Light (Raidel Linares):**
+#### **Light (Raydel Linares):**
 
 **Relationship:**
 - **Raised by Tairin** - literally one of "her kids"

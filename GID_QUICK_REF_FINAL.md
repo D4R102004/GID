@@ -79,7 +79,13 @@
 
 ---
 
-## ARC TITLES (Plot details in individual character arcs)
+## ARC STRUCTURE (decided 2026-10-06)
+
+Each arc opens with a short flashback on its **arc boss** and has an **event from the past of Zenshin, Megami and Kami** right after the boss is defeated. Current Chapter 1 becomes the **Prologue**; Arc 1 then opens with Yurisha's flashback.
+
+**Arc bosses:** 1 Yurisha · 2 Light · 3 Mauricio · 4 Marjenis · 5 Perlereina · 6 Jashin (arc boss ≠ final villain of the arc: e.g. Angel is the Arc 4 twist villain)
+
+## ARC TITLES (Plot details in individual character arcs and 03_Story/Arc_Summaries)
 
 **Arc 1:** A Wondrous Island
 **Arc 2:** The Land of the Free
@@ -93,7 +99,7 @@
 ## MAJOR DEATHS BY ARC (Verified from character profiles)
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
-**Arc 2:** Shigeru Houzu (finale: sacrifices himself to save Yonoa)
+**Arc 2:** Shigeru Houzu (stabbed by Marsella, then sacrifices himself as the phoenix to save Yonoa), Kensuke/Protos (possessed by Shiro until the finale), Light (Free Elite, arc boss; dies vs. the Emperors), Tased and Suilan (both killed by Shigo, who takes their DNA)
 **Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
 **Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
 **Arc 6:** Jashin (spends both resurrections on Diominiciel and Perlereina; his body turns to dust)
