@@ -528,6 +528,13 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
 
 ---
 
+### **→ INTERLUDE: EVENT FROM THE PAST OF ZENSHIN, MEGAMI AND KAMI (first of six)**
+
+**Placement:** between Chapter 3 (Yurisha's defeat and death, the hat) and Chapter 4 (time skip). Chapter 3 stays as written.
+**Content:** TBD. Suggested: the six events run in chronological order across the arcs, so this one is the earliest (Ryakujin creating Zenshin, Jashin and Megami); a light image that rhymes with the Prologue's beam.
+
+---
+
 ### **CHAPTER 4: "Several Months Later" → "I'll Be Back"**
 
 **Timeline:** Several months after Yurisha attack  
