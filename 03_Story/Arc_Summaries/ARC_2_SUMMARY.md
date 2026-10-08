@@ -160,7 +160,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - **Lyzander investigates** the damage (looking for the impostor) and the location of the cells. He works alone and tells Lyon nothing, to keep his friend out of it: he suspects they'll have to face the Elite, and believes they'll be forgiven because Meiji will understand, and Ichiro is Meiji's friend. **The Lyon–Lyzander friendship keeps deteriorating.**
 - **Lyon and Marsella's communication device**: Lyon tries to repair it (his only clue to his origins) and notices it is sometimes moved. (Shiro steals it at night, fixes it, uses it, breaks it again and returns it.)
 - **Terror and Tairin** cross paths over Arjan: ex-spouses who avoid each other; Gabriella's absence felt without being stated.
-- **The Elite portrait:** Suilan sings at Terror's bar in front of Arjan and Lyzander; Policia repairs the energy failure (fits her mentality); **Light with Tairin** (mother and son: his hardness is hers, taken further).
+- **The Elite portrait:** Suilan sings at Terror's bar in front of Arjan and Lyzander; the Elite trio repairs the energy failure together (Policia leads; Light charges her gear); **Light with Tairin** (mother and son: his hardness is hers, taken further).
 - **Suilan watching over Tased** in the hospital.
 - **Gallan:** a cut to Gallan preparing the teleporter (no explanation of why).
 - The Elite keep hunting Ichiro, who stays hidden.
@@ -172,7 +172,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 **12. The Rescue**
 - Lyzander learns Kensuke has redistributed security so that the cells are guarded **only by Suilan**. **This is deliberate (author):** Kensuke knows who Arjan is and his bond with Lopney, guesses the rescue attempt, and lets it happen so the protagonists exhaust the Elite right before the attack. The protagonists' victory is part of Shiro's plan. Plan: Lyzander distracts Suilan ("I need to show you something"); Ichiro and Arjan free the prisoners.
 - Just before, **Lyon confronts Lyzander**: he's tired, can't stand what their friendship has become. Heated argument; **Lyon announces he's leaving Free**, Lyzander reproaches him. In low spirits, Lyzander starts the operation.
-- **Policia** has deduced the plan. Lyzander is already with Suilan; Policia confronts Arjan and Ichiro. Ichiro uses illusions so Arjan can go on. **Policia beats Ichiro.**
+- **Policia** has deduced the plan. Lyzander is already with Suilan; Policia confronts Arjan and Ichiro. Ichiro uses illusions so Arjan can go on. **Policia beats Ichiro** (she prepared after losing to him at the shop: wires with bells on the corridor, tear gas, smoke; his Saimin covers only two senses, and part of it is spent hiding Arjan. See POLICIA_SATSUKI_RAYNOR_CHARACTER_PROFILE.md).
 - Lyzander fails to convince Suilan; determined to free the prisoners, he fights her.
 - **Lyon**, preparing to leave, is knocked out when the attack begins; **Marsella finds him and carries him onto Pristania's ship** (place this beat in the climax).
 - Arjan arrives to find **Light waiting**: he left his post at an entrance to back up his companions.
@@ -285,9 +285,10 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - [ ] Content of the Zenshin/Megami/Kami past event (after Light's defeat)
 - [ ] Chapter breakdown for Arc 2
 - [ ] Order of the "Life in Free" scenes
-- [ ] Nouryoku of Suilan and Policia (Elite profiles pending)
+- [ ] Nouryoku of Suilan (Policia has none: gadgets)
 - [x] Light profile (2026-10-08)
-- [ ] Profiles for Suilan, Policia, Elysia, Terror
+- [x] Policia profile (2026-10-08)
+- [ ] Profiles for Suilan, Elysia, Terror
 - [ ] Artifacts section in Power_System.md (teleporter, Taeko's necklace)
 - [ ] Mauricio: profile and Arc 3 opening flashback
 

@@ -155,6 +155,8 @@ AGE_ARC_2: ~19
 - Dynamic: Light is the carefree one who gets the most out of the others; **Suilan** is insecure but tries to do everything as well as she can; **Policia** is intelligent and serious
 - The closeness between the three is very palpable
 - Suilan dies the same night (killed by Shigo). **Policia is the only Elite who survives**, and mourns both her trio-mates at once
+- **Light charges Policia's electroshock** (he can charge appliances); the trio repairs Free's power failure together in Arc 2
+- Tension inside the trio: Light is happy living hidden; Policia hates the passivity (see POLICIA_SATSUKI_RAYNOR_CHARACTER_PROFILE.md)
 
 ### **Elysia:**
 - One of his childhood idols (war Elite)
@@ -274,7 +276,6 @@ AGE_ARC_2: ~19
 
 ## **OPEN QUESTIONS**
 
-- [ ] Policia as "the teacher of Free": confirm and develop in her profile (pending)
 - [ ] Exact staging of Claudia vs. Light (Cloud vs. electricity matchup)
 - [ ] Whether Claudia learns Shigo killed Light afterwards, and what it does to her
 - [ ] How Shigo uses Light's Nouryoku in Arc 4 (and how it plays against Arjan, who already knows how to seal the hands)

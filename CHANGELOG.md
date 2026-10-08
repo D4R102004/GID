@@ -1,5 +1,17 @@
 # GID LORE CHANGELOG
 
+## 2026-10-08 (Policia profile)
+**Files changed:** POLICIA_SATSUKI_RAYNOR (new), LIGHT, TAIRIN profiles, Factions.md, ARC_2_SUMMARY.md
+
+**Decisions (author):**
+- NEW PROFILE: Policia (Satsuki Raynor), built by interview. 21; Suilan is younger. No Nouryoku: gadgets (self-made rubber-bullet pistol, baton, cuffs, electroshock, wires, tear gas, smoke, flashbangs). Free's teacher (inherited from Tairin at ~18). Entered the Elite by the test. Survives the whole story
+- FATHER: Uragaeshi is Kevin Raynor, Elysia's husband, father of Suilan and Policia; an Elite with no Nouryoku
+- UNIFORM: Uragaeshi's blue uniform, given to Policia by Elysia, dyed black in his honor; the cap is her signature
+- Elysia fell into depression after Uragaeshi's "death"; Policia grew up fast
+- Policia beats Ichiro in the Arc 2 climax by flooding all senses (wires/bells, tear gas, smoke) after losing to him at the shop (editor's proposal, approved)
+- The power failure is repaired by the trio together; Light charges Policia's electroshock
+- Arcs 3-4: stays in Free (wounded, rebuilding). Arc 5: reunion with Uragaeshi at the allies' gathering; fights Land (L411D) with Uragaeshi, Terror and Tairin. Elysia absent from that fight (intentional, reason TBD)
+
 ## 2026-10-08 (Light profile)
 **Files changed:** LIGHT_RAYDEL_LINARES (new) + LIGHT_visual_reference.png, SHIGO, CLAUDIA profiles, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md
 

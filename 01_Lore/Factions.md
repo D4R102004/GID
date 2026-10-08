@@ -80,13 +80,13 @@
 - Pass a specialized test, OR
 - Receive endorsement from a current/past Elite member
 
-**War-era Elite (during the war against Pristania):** Uragaeshi, Elysia, Terror
+**War-era Elite (during the war against Pristania):** Uragaeshi (Kevin Raynor; no Nouryoku; Elysia's husband, father of Suilan and Policia; "the Martyr of Free", believed dead, alive in Vista Alegre), Elysia, Terror
 
 **Current Members (Arc 1 / early Arc 2; Light and Suilan die in the Arc 2 climax):**
 
 1. **Light (真名: Raydel Linares)**
    - Elite operative
-   - *[Additional details in character profile]*
+   - *[See 02_Characters/Supporting/Free/LIGHT_RAYDEL_LINARES_CHARACTER_PROFILE.md]*
 
 2. **Suilan - 水濫 (真名: Kelen Raynor)**
    - Elite operative
@@ -98,8 +98,10 @@
 3. **Policia (真名: Satsuki 皐月 Raynor)**
    - Elite operative
    - Daughter of Elysia (security instructor)
-   - Sister of Suilan
-   - *[Additional details in character profile]*
+   - Sister of Suilan; daughter of Uragaeshi
+   - **No Nouryoku** (gadgets); Free's teacher (inherited the post from Tairin)
+   - Only Elite to survive Arc 2
+   - *[See 02_Characters/Supporting/Free/POLICIA_SATSUKI_RAYNOR_CHARACTER_PROFILE.md]*
 
 **Responsibilities:**
 - High-risk missions requiring specialized skills

@@ -305,6 +305,7 @@ Joined Free as one of the very first members alongside:
 **Current Life:**
 - Raising Lyon and Light and  Tased (both 19 now, while Tased's 17, still living with her)
 - Commands Elite: Light, Suilan, Policia
+- Was Free's teacher; handed the post to Policia (~18) for her intelligence
 - Works alongside Elysia (best friend)
 - Avoids Terror (ex-husband) but interacts professionally
 - Hatred of Pristania defines her
