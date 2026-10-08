@@ -41,10 +41,11 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 
 ## **STORY BEATS**
 
-### **0. ARC BOSS FLASHBACK — LIGHT (5 years before Arc 1)**
-- Raydel Linares, a child prodigy (~14), lives in Free's old HQ.
-- Introduces Free's Elite from the war against Pristania: **Uragaeshi, Elysia and Terror**.
-- Ends with Raydel wanting to be like them, and an explosion behind him: Pristania's attack on the old HQ.
+### **0. ARC BOSS FLASHBACK — LIGHT (short)**
+- Opens with baby Raydel Linares being picked up by Free in Vista Alegre (abandoned; parents unknown).
+- He is told he is a genius; he reflects a little on what that means to him.
+- Introduces Free's Elite from the war against Pristania: **Uragaeshi, Elysia and Terror**. Raydel admires them.
+- Ends with Raydel (~14) wanting to be like them, and an explosion behind him: Pristania's attack on the old HQ.
 
 ---
 
@@ -175,7 +176,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - Lyzander fails to convince Suilan; determined to free the prisoners, he fights her.
 - **Lyon**, preparing to leave, is knocked out when the attack begins; **Marsella finds him and carries him onto Pristania's ship** (place this beat in the climax).
 - Arjan arrives to find **Light waiting**: he left his post at an entrance to back up his companions.
-- **Arjan vs. Light — the hardest fight of the arc.** Arjan wins by encapsulating Light's hands in spheres so he can't generate electricity.
+- **Arjan vs. Light — the hardest fight of the arc.** Arjan wins by encapsulating Light's hands in spheres so he can't generate electricity. Light reacts with a tantrum: no recognition of Arjan.
 
 **→ [EVENT FROM THE PAST OF ZENSHIN, MEGAMI AND KAMI — content TBD]**
 
@@ -195,8 +196,8 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - **Protos gives Meiji a sphere** and says goodbye, but Meiji is already captured and is carried off by Pristania. (The sphere outliving its owner foreshadows Kami's power persisting in his corpse.)
 
 **14. Aftermath**
-- **Light's death is shown on page (author):** already beaten by Arjan, he still rises to fight the Emperors and dies as Elite.
-- **Dead:** Light, Suilan and Tased (fighting the Emperors; **Shigo kills Tased, then Suilan**, who fought him after seeing Tased dead; he takes their DNA), Shigeru, Kensuke/Protos.
+- **Light's death is shown on page (author):** already beaten by Arjan, he still rises to fight the Emperors and dies as Elite. **Claudia beats him** and leaves (she does not kill); **Shigo finishes him off** behind her back and takes his DNA. None of his own see him die. Last words: *"Todos ustedes están muertos."*
+- **Dead:** Light, Suilan and Tased (fighting the Emperors; **Shigo kills Tased, then Suilan**, who fought him after seeing Tased dead, **and finishes off Light**; he takes all three's DNA), Shigeru, Kensuke/Protos.
 - **Captured:** Meiji.
 - Arjan and Lopney find **their father's tie** on the battlefield and assume he was captured too.
 - **Rajin**, absent for a long period, returns too late; becomes acting Commander of Free.
@@ -263,7 +264,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - The five protagonists sail on Yurisha's ship toward Vista Alegre.
 - Free: in ruins, led by Rajin; Cristopher, Elysia, Terror recovering; Policia the only surviving Elite.
 - Meiji captured (and Gallan, as far as the twins believe).
-- Shigo carries Tased's and Suilan's DNA (used against the twins in Arc 4).
+- Shigo carries Tased's, Suilan's and Light's DNA (used against the twins in Arc 4).
 
 ---
 
@@ -285,7 +286,8 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - [ ] Chapter breakdown for Arc 2
 - [ ] Order of the "Life in Free" scenes
 - [ ] Nouryoku of Suilan and Policia (Elite profiles pending)
-- [ ] Profiles for Light, Suilan, Policia, Elysia, Terror
+- [x] Light profile (2026-10-08)
+- [ ] Profiles for Suilan, Policia, Elysia, Terror
 - [ ] Artifacts section in Power_System.md (teleporter, Taeko's necklace)
 - [ ] Mauricio: profile and Arc 3 opening flashback
 

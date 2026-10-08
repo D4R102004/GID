@@ -1,7 +1,7 @@
 # **SHIGO (TAKESHI KONDO) - COMPLETE CHARACTER PROFILE**
 
 ---
-ROLE: Antagonist (kills Tased in the Arc 2 climax; one of the main antagonists of Arc 4, with Bellsaw and Claudia)
+ROLE: Antagonist (kills Tased and Suilan and finishes off Light in the Arc 2 climax; one of the main antagonists of Arc 4, with Bellsaw and Claudia)
 FACTION: Pristania (Emperor)
 STATUS: Already an Emperor by Arc 2. Dies in Arc 4, killed by Cristopher Trueman in retaliation for Tased's death
 AGE_ARC_1: 15
@@ -121,7 +121,7 @@ AGE_ARC_1: 15
 - **Protos (Kensuke)** also qualifies, since Kensuke is dead
 - **The Arc 6 resurrection is out of his reach.** That requires being a designated **recipient** of Kami's powers, which Shigo is not
 
-**Source of powers:** In theory, any dead person in the world. In practice, he **overwhelmingly collects from enemies he kills himself**, which keeps his arsenal unpredictable fight to fight. Example: having killed **Tased** at the end of Arc 2, he later wields Tased's Nouryoku against **Lopney** in Arc 4
+**Source of powers:** In theory, any dead person in the world. In practice, he **overwhelmingly collects from enemies he kills himself**, which keeps his arsenal unpredictable fight to fight. Example: having killed **Tased** at the end of Arc 2, he later wields Tased's Nouryoku against **Lopney** in Arc 4. The same night he also takes **Suilan's** and **Light's** DNA, and uses **Light's electricity** in Arc 4
 
 ### **Combat Style:**
 - **Avoids melee when he can** — he can defend himself competently, but it's not his preference
@@ -163,6 +163,10 @@ AGE_ARC_1: 15
 ### **Tased (Free):**
 - Shigo kills him at the end of the Arc 2 climax, and later wields his stolen Nouryoku in battle — against Lopney, in Arc 4 *(cross-reference: TASED_CHARACTER_PROFILE.md)*
 
+### **Light / Raydel Linares (Free Elite):**
+- In the Arc 2 climax **Claudia beats Light** and leaves him alive; **Shigo finishes him off** behind her back and takes his DNA. None of Light's people see it
+- Uses **Light's Nouryoku (electricity from the hands)** in Arc 4 *(cross-reference: LIGHT_RAYDEL_LINARES_CHARACTER_PROFILE.md)*
+
 ### **Arjan & Lopney:**
 - First on-page encounter: ambushes them at a cemetery, tipped off they'd be there, around a tombstone bearing their father Gallan's name
 - Aoi intervenes and calls a cease-fire; Perlereina intervenes as well. Aoi resolves to fight her former student to stop her, while Shigo leaves with Arjan and Lopney
@@ -190,7 +194,7 @@ AGE_ARC_1: 15
 ## **ARC ROLE**
 
 ### **Arc 1:** [TBD — not yet confirmed whether/how he appears]
-### **Arc 2:** Already an Emperor. **Kills Tased** in the Arc 2 climax; Suilan witnesses it *(cross-reference: TASED_CHARACTER_PROFILE.md)*
+### **Arc 2:** Already an Emperor. **Kills Tased** in the Arc 2 climax; Suilan witnesses it and fights him, and he kills her too *(cross-reference: TASED_CHARACTER_PROFILE.md)*. **Finishes off Light** after Claudia beats him. Takes all three's DNA *(cross-reference: LIGHT_RAYDEL_LINARES_CHARACTER_PROFILE.md)*
 ### **Arc 3:** [TBD]
 
 ### **Arc 4 — his final arc:**

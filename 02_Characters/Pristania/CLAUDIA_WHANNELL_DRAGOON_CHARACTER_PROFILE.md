@@ -220,7 +220,7 @@ AGE_ARC_1: 21
 ## **ARC ROLE**
 
 ### **Arc 1:** [TBD]
-### **Arc 2:** Listed as a current Emperor (Factions). Not in the Arc 2 climax as far as the files say [TBD]
+### **Arc 2:** Arrives at Free HQ with Shigo in the climax (Arc 2 summary). **Beats Light** (Free Elite, already worn down by Arjan) and **leaves him alive**, consistent with her not killing. **Shigo finishes him off behind her back** and takes his DNA *(cross-reference: LIGHT_RAYDEL_LINARES_CHARACTER_PROFILE.md)*. [TBD: whether and when she learns Light died]
 ### **Arc 3:** [TBD]
 
 ### **Arc 4 - "Into the City of the Misbegotten" (Vista Alegre):**

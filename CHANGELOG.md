@@ -1,5 +1,17 @@
 # GID LORE CHANGELOG
 
+## 2026-10-08 (Light profile)
+**Files changed:** LIGHT_RAYDEL_LINARES (new) + LIGHT_visual_reference.png, SHIGO, CLAUDIA profiles, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Light (Raydel Linares), Arc 2 arc boss, built by interview. ~19; Tairin's adoptive son; abandoned as a baby in Vista Alegre and picked up by Free before the war; most powerful Elite, no formal leader
+- LIGHT'S NOURYOKU: electricity from the hands only (touch, conduction through objects, charging appliances); no speed, lightning form or device control. Weak to insulators; water favors him. Extendable metal staff; martial arts prodigy, grab-and-discharge
+- LIGHT'S TRIO: Light, Suilan, Policia (today the whole Elite). Calls Tairin "jefa", Suilan "Su", Policia "agente"/"maestra". Dislikes Terror for leaving Tairin; thinks Lyon is a danger to Free (Kyousen)
+- ARC 2 FLASHBACK: opens with baby Raydel being picked up, then the "genius" beat, then admiring the war Elite, then the attack
+- LIGHT'S DEATH: Claudia beats him and leaves (she does not kill); Shigo finishes him off and takes his DNA; none of his own see it. Last words: "Todos ustedes están muertos." Mourned most by Tairin, Elysia, Policia
+- SHIGO uses Light's electricity in Arc 4
+- CORRECTED: Claudia's profile said she was not in the Arc 2 climax; the Arc 2 summary already had her arriving with Shigo
+
 ## 2026-10-06 (Jashin profile + consistency pass)
 **Files changed:** JASHIN (new), HIROHIKO, KAMI, RAJIN profiles, GID_MASTER_LORE.md, Timeline.md, Power_System.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
 

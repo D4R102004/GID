@@ -1,6 +1,6 @@
 # GID - QUICK REFERENCE
 
-**Last Updated:** 2026-10-02
+**Last Updated:** 2026-10-08
 **Purpose:** Fast fact-checking for writing sessions. ALL information verified from character profiles.
 
 ---
@@ -99,7 +99,7 @@ Each arc opens with a short flashback on its **arc boss** and has an **event fro
 ## MAJOR DEATHS BY ARC (Verified from character profiles)
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
-**Arc 2:** Shigeru Houzu (stabbed by Marsella, then sacrifices himself as the phoenix to save Yonoa), Kensuke/Protos (possessed by Shiro until the finale), Light (Free Elite, arc boss; dies vs. the Emperors), Tased and Suilan (both killed by Shigo, who takes their DNA)
+**Arc 2:** Shigeru Houzu (stabbed by Marsella, then sacrifices himself as the phoenix to save Yonoa), Kensuke/Protos (possessed by Shiro until the finale), Light (Free Elite, arc boss; beaten by Claudia, finished off by Shigo), Tased and Suilan (both killed by Shigo; he takes all three's DNA)
 **Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
 **Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
 **Arc 6:** Jashin (spends both resurrections on Diominiciel and Perlereina; his body turns to dust)
