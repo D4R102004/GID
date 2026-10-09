@@ -303,7 +303,9 @@ Strengths noted: paranoia as weapon; betrayal from inside (Kensuke, Marsella); K
 - [x] Suilan profile (2026-10-08)
 - [x] Light profile (2026-10-08)
 - [x] Policia profile (2026-10-08)
-- [ ] Profiles for Elysia, Terror
+- [x] Terror profile (2026-10-09)
+- [ ] Elysia profile
+- [ ] The Jitsumoto daimyo Terror fights in the climax (daimyos not yet defined)
 - [ ] Artifacts section in Power_System.md (teleporter, Taeko's necklace)
 - [ ] Mauricio: profile and Arc 3 opening flashback
 

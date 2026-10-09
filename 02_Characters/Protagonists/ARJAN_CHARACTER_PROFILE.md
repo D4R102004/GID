@@ -192,7 +192,7 @@ AGE_ARC_1: 15
 - Initially reluctant, resentful
 
 **The Mentorship Begins (Arc 2):**
-- Terror and Tairin assign Cristopher to mentor Arjan
+- Tairin assigns Arjan to Cristopher as punishment; Terror also takes charge of him out of fondness (ARC_2_SUMMARY.md). His mentors: Cristopher and Terror
 - Cristopher sees it as punishment at first
 - Gradually develops genuine care for his student
 - Arjan is wary but willing to learn

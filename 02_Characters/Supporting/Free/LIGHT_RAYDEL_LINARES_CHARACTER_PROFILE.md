@@ -109,7 +109,7 @@ AGE_ARC_2: ~19
 - Most of the orphanage's children died; Gabriella was captured and presumed dead
 
 ### **After**
-- Tairin and Terror's marriage ended. **Light blames Terror for leaving Tairin**, and has disliked him since
+- Tairin and Terror's marriage ended. **Light thinks Terror didn't understand Tairin's feelings**, and has disliked him since (the real reason for the divorce is a secret of the couple; see TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md)
 - **Joined the Elite after the move to the island**
 
 ---
@@ -165,7 +165,7 @@ AGE_ARC_2: ~19
 
 ### **Terror:**
 - One of his childhood idols (war Elite)
-- Today: **dislike.** He blames Terror for leaving Tairin
+- Today: **dislike.** He thinks Terror didn't understand Tairin's feelings
 - In Arc 2 Terror lies to the Elite to cover for Ichiro
 
 ### **Lyon:**

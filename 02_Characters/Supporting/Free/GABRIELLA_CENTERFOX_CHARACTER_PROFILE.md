@@ -180,6 +180,7 @@ AGE_ARC_1: 20
 ### **Terror (Father):**
 - Playful, childish with her, challenged her to improve. Friendly combat between them. Owned a bar (source of her habit of drinking at bars)
 - She snapped at him more often than at Tairin
+- He accepted her death and never sees her alive again. In Arc 4 her wish (via Lyzander) reunites him with Tairin (TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md)
 
 ### **Lyzander (Childhood Best Friend):**
 - Trio member. With him she was **more reserved**, with **romantic tension between them**, but still lively
@@ -225,7 +226,7 @@ AGE_ARC_1: 20
 - **Angel** (the beggar) is the one who tells them **where to look**: to win their trust, he says that if they want to move against Pristania they should find the Metal Knight
 - They believe the knight could **help them fight Pristania**
 - **Shock:** the knight is **Gabriella**. This is how the protagonists find her
-- Lyzander tells her about Lyon
+- Lyzander tells her about Lyon, and that **her parents separated** after her capture. She feels guilty for it and **wishes to reunite them**
 
 ### **Structure:**
 - **All the events of Arc 4 happen between finding her and her death**
@@ -257,6 +258,7 @@ AGE_ARC_1: 20
 - **Claudia** goes after Yonoa in revenge for her father's death, starts wanting to kill and doubts mid-fight, and ends up in a **coma**. She wakes **shortly after the Pristania assault** (end of Arc 5), when she learns **everything**: Gabriella's death and how it happened. **Angel is already dead** (he dies in the same Arc 4 finale, frozen by Lyzander)
 - **Lyzander** carries the loss (see his profile). Lyon learns in Arc 5
 - **Tairin** learns her daughter was alive only to lose her again [TBD: how and when she learns]
+- **Terror and Tairin** learn (through Lyzander) that she wished to reunite them. **They get back together, for her**
 
 ---
 

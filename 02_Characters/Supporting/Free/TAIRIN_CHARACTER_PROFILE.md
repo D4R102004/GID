@@ -166,7 +166,7 @@ AGE_ARC_1: 40+
 
 **The Founding Group:**
 Joined Free as one of the very first members alongside:
-- **Terror** (would become her husband, later her ex)
+- **Terror** (Ezequiel Serrano; would become her husband, later her ex). A foreigner with a mafia past whom she met in Vista Alegre; **she brought him into Free**
 - **Elysia** (her best friend to this day)
 - **Uragaeshi** (close friend, Free's eventual martyr)
 
@@ -281,7 +281,7 @@ Joined Free as one of the very first members alongside:
 
 **The Aftermath:**
 - Tairin was **destroyed**
-- Ended her marriage to Terror (grief drove them apart, mutual feelings of failure)
+- Ended her marriage to Terror: he became fixated on avenging Gabriella, the relationship turned into mutual failure and they stopped seeing each other the same way. **The real reason is a secret of the couple**
 - Became "self-centered individual with visceral hate towards Pristania"
 - Hardened into the version of herself in Arc 1
 - Grief over all the lost children compounded by losing her daughter
@@ -501,8 +501,9 @@ Joined Free as one of the very first members alongside:
 - Ended the marriage despite still loving each other
 
 **Current Relationship:**
-- **Awkwardly distant** - avoid each other when possible
-- **Interact professionally** - both are Free members, must cooperate
+- **Like friends, with some friction** - she can confide in him
+- Both prefer to believe they don't understand each other, and act that way
+- **Mutual respect** - they lean on each other in moments of need, like colleagues
 - **Terror still loves her** - hasn't moved on
 - **Tairin still loves him** - but can't bring herself to reconcile
 - **Forced interaction:** Terror's bar hosts plays/events, Tairin attends
@@ -739,6 +740,10 @@ Joined Free as one of the very first members alongside:
 - Joy and devastation together
 - [TBD in Arc 4 development]
 
+**Reunion with Terror:**
+- Through Lyzander, they learn Gabriella felt guilty for their separation and wished to reunite them
+- **Tairin and Terror get back together, for their daughter** (TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md)
+
 ---
 
 ### **Arc 5 (A Sanctuary of Peace and Order - Pristania HQ Assault):**
@@ -766,6 +771,7 @@ Joined Free as one of the very first members alongside:
 
 ### **Arc 6 (The Dark God Arises):**
 - Role TBD
+- Reconciled with Terror; with the others she looks toward the new future between Free, Pristania and Jitsumoto
 
 ---
 
@@ -890,7 +896,7 @@ Joined Free as one of the very first members alongside:
 3. **Cristopher incident (Arc 2):** Full context of the "punching children" scene?
 4. **Lopney framing (Arc 2):** Who frames her? How is it resolved?
 5. **Arc 5 specifics:** How exactly is she defeated? What leads to her finding peace?
-6. **Reconciliation with Terror:** How does Gabriella's death in Arc 4 affect them? Does shared grief bring them back together?
+6. **Reconciliation with Terror:** RESOLVED (TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md): Gabriella's wish to reunite them, relayed by Lyzander, brings them back together in Arc 4
 
 ---
 

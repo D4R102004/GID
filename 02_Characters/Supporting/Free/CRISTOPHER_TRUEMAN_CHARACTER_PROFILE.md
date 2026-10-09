@@ -410,8 +410,7 @@ AGE_ARC_1: ~25
 
 **Their Relationship:**
 - Friends through Elysia
-- Terror **assigns Arjan to Cristopher** as his mentor (Arc 2)
-- *[Why does Terror make this decision? Spoilers for Arc 2]*
+- **Tairin assigns Arjan to Cristopher** as punishment (Arc 2); Terror also takes charge of Arjan out of fondness. Cristopher accepts out of respect for Tairin and Terror (ARC_2_SUMMARY.md)
 
 ---
 
@@ -442,7 +441,7 @@ AGE_ARC_1: ~25
 - **Forced to apologize** to Arjan the morning after
 
 **The Mentorship Begins:**
-- Terror and Tairin assign him to mentor Arjan
+- Tairin assigns him to mentor Arjan (as punishment); Terror co-mentors
 - Initially reluctant, sees it as punishment
 - Teaches Arjan martial arts, tactics, creative sphere usage
 - Gradually develops genuine care for him
@@ -503,7 +502,7 @@ AGE_ARC_1: ~25
 **The Turning Point:**
 - Tairin catches and punishes him
 - Forced to apologize to Arjan
-- Assigned to mentor Arjan (Terror & Tairin's decision)
+- Assigned to mentor Arjan (Tairin's decision; Terror co-mentors)
 
 **Growth:**
 - Reluctant teacher becomes invested mentor
@@ -667,7 +666,7 @@ AGE_ARC_1: ~25
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
 1. **Lyzander's reaction to the relationship:** Does he approve? Try to interfere?
-2. **Arc 2 specifics:** How does Terror decide to assign Arjan to Cristopher?
+2. **Arc 2 specifics:** RESOLVED (ARC_2_SUMMARY.md): Tairin assigns Arjan to Cristopher as punishment; Terror joins as co-mentor out of fondness
 3. **Arc 4 death scene:** Exact circumstances, final words, Meiji's reaction?
 4. **Does he ever tell Meiji he loves him?** Or does he die with it unsaid?
 5. **Arjan's reaction to his death:** How does losing his mentor affect him?

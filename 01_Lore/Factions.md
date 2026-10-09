@@ -80,7 +80,7 @@
 - Pass a specialized test, OR
 - Receive endorsement from a current/past Elite member
 
-**War-era Elite (during the war against Pristania):** Uragaeshi (Kevin Raynor; no Nouryoku; Elysia's husband, father of Suilan and Policia; "the Martyr of Free", believed dead, alive in Vista Alegre), Elysia, Terror
+**War-era Elite (during the war against Pristania):** Uragaeshi (Kevin Raynor; no Nouryoku; Elysia's husband, father of Suilan and Policia; "the Martyr of Free", believed dead, alive in Vista Alegre), Elysia, Terror (Ezequiel Serrano)
 
 **Current Members (Arc 1 / early Arc 2; Light and Suilan die in the Arc 2 climax):**
 
@@ -157,7 +157,7 @@
    - *[Additional details in character profile]*
 
 **Former Security:**
-- **Terror:** Former security member who defected from the unit
+- **Terror (Ezequiel Serrano):** Former security member who resigned after Gabriella's capture, when Free decided to hide
   - Now owns and operates the bar within Free HQ
   - Bar features a stage for performances
   - *[See General Membership section below]*
@@ -201,12 +201,12 @@
 - *[Additional details in character profile]*
 
 **Terror (Former Security)**
-- Defected from Security Unit
-- Founded and operates the bar within Free HQ
+- Resigned from Security after Gabriella's capture (Free chose to hide)
+- Operates **Terror's Bar** within Free HQ (it already existed at the old HQ)
 - Bar includes a performance stage
 - Suilan and Ichiro perform in the theater
 - Room located in the back of the bar
-- *[Additional details in character profile]*
+- Profile: 02_Characters/Supporting/Free/TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md
 
 **Ichiro**
 - Operates general goods shop within Free HQ
@@ -330,7 +330,7 @@
 
 **General Members:**
 - Lyzander - Meiji's adoptive son
-- Terror - Former security, bar owner
+- Terror (Ezequiel Serrano) - Former Elite and Security (retired), bar owner
 - Ichiro - Shop operator, theater performer
 
 **Additional Members:** [Names TBD as needed for story]

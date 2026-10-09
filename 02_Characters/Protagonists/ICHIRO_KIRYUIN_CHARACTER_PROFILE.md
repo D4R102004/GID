@@ -374,7 +374,7 @@ After Ichiro fled home at age 14:
 **Relationship:**
 - Owns the bar where Ichiro performs
 - **Close friends** - one of few who accepts Ichiro fully
-- Former Security member who defected
+- Former Security member (resigned after Gabriella's capture)
 - Provides Ichiro space to bring joy to Free members
 - Supportive of Ichiro's magic shows
 

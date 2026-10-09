@@ -285,7 +285,7 @@
 ## FACTIONS
 
 ### Jitsumoto
-- [ ] **The Daimyos** — Names, number, specialties, roles
+- [ ] **The Daimyos** — Names, number, specialties, roles (one fights Terror in the Arc 2 climax)
 - [ ] **Taeko's fate** — Still with Shigeru? Estranged? Deceased?
 - [ ] **Marsella's background** — How did she come to Jitsumoto? Former Pristania connection?
 - [ ] **How involved is Jitsumoto in Arcs 3-5?**

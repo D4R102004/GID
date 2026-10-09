@@ -524,6 +524,7 @@ AGE_ARC_1: ~19
 **Arc 4 Discovery:**
 - **Learns Gabriella is still alive** in Vista Alegre
 - Vindication of his belief
+- Tells her that her parents separated; she wishes to reunite them. He carries that wish back to Terror and Tairin, who get back together
 - **But:** Gabriella dies in Arc 4
 - Adds to grief and tension
 - **Breaks him completely** (his worst fear realized)

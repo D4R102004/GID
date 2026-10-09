@@ -1,5 +1,22 @@
 # GID LORE CHANGELOG
 
+## 2026-10-09 (Terror profile)
+**Files changed:** TERROR_EZEQUIEL_SERRANO (new), TAIRIN, GABRIELLA, LIGHT, CRISTOPHER, ARJAN, ICHIRO, LYZANDER profiles, Factions.md, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md
+
+**Decisions (author):**
+- NEW PROFILE: Terror (Ezequiel Serrano), built by interview. 40s, like Tairin. Foreigner, former mafia in his home country; fled when the police learned too much; met Tairin in Vista Alegre and she brought him into Free. Met Elysia and Uragaeshi inside. Free knows his past; he doesn't care
+- LOOK: burly, quite tall; thick mane and beard; red-and-black "cool older man" scheme. Signature: mane and belt (belt purely aesthetic). Bar clothes today; jacket in the war. Reference image is inspiration only
+- NOURYOKU "Terror" (no kanji, on purpose): ghost of a black saber-toothed tiger with human sulfur eyes and phosphorescent parts; corporeal or incorporeal, summoned/dismissed instantly, short range. Scare, then strike. No cost; weak to habituation; damage to the ghost hits him. Level ~Tairin, not rusty
+- PERSONALITY: warm, joking, foreign accent; scary outside, softie inside; stubborn, distrustful, unpredictable. Smokes (since Gabriella's death), never drinks. Keeps some of Gabriella's things. Driven by the bar: more happiness in Free
+- DIVORCE: Tairin ended it; Terror became fixated on avenging Gabriella and the relationship became mutual failure. The real reason is a secret of the couple. Light dislikes him because he thinks Terror didn't understand Tairin's feelings (replaces "blames Terror for leaving Tairin")
+- SECURITY: Terror RESIGNED (not "defected") after Gabriella's capture, because Free decided to hide. Chose to bring joy through the bar. Has accepted Gabriella's death after 5 years
+- RELATIONSHIPS: Tairin today like friends with friction, mutual respect, lean on each other; Elysia old Elite friend he supports; Uragaeshi brother-in-arms; defends Lyon; respects Kensuke; pities depressed Meiji; teaches Arjan about Free's ideology and work, senses a mysterious potential, ends up loving him
+- ARJAN'S MENTORSHIP: Arc 2 version is canon (Tairin assigns Cristopher as punishment; Terror joins out of fondness). Arjan and Cristopher profiles corrected
+- ARC 2: fights one of Jitsumoto's daimyos in the climax (daimyo and fight TBD)
+- ARC 4: learns Gabriella was alive too late. Revenge revives, then he lets it go: Gabriella felt guilty for the separation (Lyzander told her) and wished to reunite her parents. Terror and Tairin get back together
+- ARC 5: warm reunion with Uragaeshi. With Tairin, Policia and Uragaeshi disables Land; Land reveals another form and Terror is incapacitated
+- SURVIVES; reconciled with Tairin, looks to the new future of Free, Pristania and Jitsumoto. Arc 3: cutaways only
+
 ## 2026-10-08 (Suilan profile)
 **Files changed:** SUILAN_KELEN_RAYNOR (new), POLICIA, TASED, ICHIRO profiles, Factions.md, ARC_2_SUMMARY.md
 
