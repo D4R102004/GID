@@ -162,7 +162,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - **Terror and Tairin** cross paths over Arjan: ex-spouses who avoid each other; Gabriella's absence felt without being stated.
 - **The Elite portrait:** Suilan sings at Terror's bar in front of Arjan and Lyzander; the Elite trio repairs the energy failure together (Policia leads; Light charges her gear); **Light with Tairin** (mother and son: his hardness is hers, taken further).
 - **Suilan watching over Tased** in the hospital.
-- **Gallan:** a cut to Gallan preparing the teleporter (no explanation of why).
+- **Gallan:** a cut to Gallan preparing the teleporter, on the island itself (no explanation of why).
 - The Elite keep hunting Ichiro, who stays hidden.
 
 ---
@@ -304,7 +304,8 @@ Strengths noted: paranoia as weapon; betrayal from inside (Kensuke, Marsella); K
 - [x] Light profile (2026-10-08)
 - [x] Policia profile (2026-10-08)
 - [x] Terror profile (2026-10-09)
-- [ ] Elysia profile
+- [x] Elysia profile (2026-10-09)
+- [ ] The Jitsumoto daimyo Elysia fights in the climax
 - [ ] The Jitsumoto daimyo Terror fights in the climax (daimyos not yet defined)
 - [ ] Artifacts section in Power_System.md (teleporter, Taeko's necklace)
 - [ ] Mauricio: profile and Arc 3 opening flashback

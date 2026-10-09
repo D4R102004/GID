@@ -575,7 +575,7 @@ AGE_ARC_2: 17
 - One of the **most affected**
 - Changes her approach to revenge
 - Wants vengeance for him
-- *[More in her profile]*
+- Profile: ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md. Revenge becomes central to her life; Cristopher takes it from her by killing Shigo (she learns in Arc 5)
 
 **On Tairin:**
 - Another child lost (after Gabriella, after the tragedy 5 years ago)

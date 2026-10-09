@@ -109,7 +109,7 @@ AGE_ARC_1: 40s (similar to Tairin)
 
 ### **After**
 - Fixated on avenging Gabriella. **Tairin ended the marriage**: the relationship became a mutual failure and they stopped seeing each other the same way
-- **The real reason for the divorce is a secret of the couple.** Nobody else knows it
+- **The real reason for the divorce is a secret of the couple.** The only exception is **Elysia** (ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md)
 - **Resigned from Security** because Free decided to hide. Devoted himself to the bar (rebuilt at the new HQ on the island)
 
 ---
@@ -159,6 +159,8 @@ AGE_ARC_1: 40s (similar to Tairin)
 
 ### **Elysia (old Elite comrade):**
 - Friends since the Elite. He knows her very well and knows what she is going through (Uragaeshi's "death", her depression)
+- She is the only one besides the couple who knows the real reason for the divorce
+- **Crossing arcs:** he goes from revenge to letting go; she goes from having let go to being trapped by revenge (ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md)
 - Willing to **support her in whatever he can**
 
 ### **Uragaeshi (brother-in-arms):**
@@ -226,7 +228,7 @@ AGE_ARC_1: 40s (similar to Tairin)
 
 ### **Arc 5 - "A Sanctuary of Peace and Order":**
 - **Reunion with Uragaeshi** at the allies' gathering: **warm**; they catch up on several things, but there is no time to celebrate: they must assault Pristania HQ to rescue their leader
-- **Fights Land (Heavy Unit L411D)** with **Tairin, Policia and Uragaeshi**. The four disable the tank, but **Land reveals another form** and Terror is **incapacitated**
+- **Fights Land (Heavy Unit L411D)** with **Tairin, Policia and Uragaeshi**. The four disable the tank, but **Land reveals another form** and Terror is **incapacitated**. Land then defeats Policia and Uragaeshi; **Elysia** arrives and defeats it
 
 ### **Arc 6 - "The Dark God Arises":**
 - **Survives.** Reconciled with Tairin, he looks with the others toward the new future between Free, Pristania and Jitsumoto
@@ -257,7 +259,7 @@ AGE_ARC_1: 40s (similar to Tairin)
 
 ❌ Drinking
 ❌ Projecting the tiger at long range
-❌ Revealing the real reason for the divorce to anyone
+❌ Revealing the real reason for the divorce (only Tairin and Elysia know it)
 ❌ Hiding or being ashamed of his mafia past (he doesn't care)
 ❌ Explaining what he senses in Arjan
 ❌ Dying
@@ -267,7 +269,7 @@ AGE_ARC_1: 40s (similar to Tairin)
 ## **SECRETS & KNOWLEDGE**
 
 **Knows:**
-- The real reason for the divorce (shared only with Tairin)
+- The real reason for the divorce (shared with Tairin; Elysia is the only other who knows)
 
 **Doesn't know:**
 - Gabriella is alive (until Arc 4)

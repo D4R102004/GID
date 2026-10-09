@@ -469,7 +469,8 @@ Joined Free as one of the very first members alongside:
 **Their Bond:**
 - **Old friends** since Free's founding (~19 years)
 - Both original members, survivors of the war
-- **Tell each other everything** - closest confidant relationship
+- **Tell each other everything** - closest confidant relationship. Elysia is the only one who knows the real reason for the divorce from Terror
+- Profile: 02_Characters/Supporting/Free/ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md
 - Middle-aged woman friendship (supportive, deep, enduring)
 
 **Current Dynamic:**

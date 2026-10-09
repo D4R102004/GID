@@ -45,6 +45,7 @@
 **Tairin (Delara Centerfox)** (40+) - Head of Security for Free, Gabriella's mother
 **Gabriella Centerfox "Metal"** (20) - Tairin's daughter, Free Security, iron-materialization Nouryoku, dies Arc 4
 **Terror (Ezequiel Serrano)** (40s) - Former war Elite, retired from Security, owns Terror's Bar; Tairin's ex (together again in Arc 4), Gabriella's father, Arjan's mentor; survives. Profile: 02_Characters/Supporting/Free/TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md
+**Elysia (Yumi Akina)** (40s) - Former war Elite, Security instructor, ex-psychologist; Uragaeshi's wife, mother of Policia and Suilan. Nouryoku: an empty dimension where she takes the form of whoever the victim thinks of most (form and voice only). Defeats Land in Arc 5; survives. Profile: 02_Characters/Supporting/Free/ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md
 **Glayne Byronstrike** (~36) - Pristania Apostle, Gallan's brother, dies Arc 5 (NOT Arc 1)
 
 ---

@@ -1,5 +1,25 @@
 # GID LORE CHANGELOG
 
+## 2026-10-09 (Elysia profile)
+**Files changed:** ELYSIA_YUMI_AKINA (new), TERROR, TAIRIN, POLICIA, SUILAN, TASED, CRISTOPHER profiles, Factions.md, ARC_1_SUMMARY.md, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md
+
+**Decisions (author):**
+- NEW PROFILE: Elysia (Yumi Akina), built by interview. 40s, about Terror's age. Codename from her Nouryoku (Elysium: dreamlike, otherworldly)
+- LOOK: pink-violet; sorceress/mage clothes; long ornamented hair; glowing purple eyes; lost gaze; adorable physique; strong presence, hard to approach. Policia inherited the purple, Suilan the insecurity. Reference image is inspiration only
+- ORIGIN: psychologist with a practice in Vista Alegre, using her Nouryoku as genuine therapy; the Vista Alegre police found out and confiscated the clinic. Joined Free for a place to live and to bring change (Kami not viable either). Met Uragaeshi in Free: he was interested in her power; a working relationship that escalated
+- Also runs Delicya's (ice cream) while being Security instructor
+- NOURYOKU "Elysia": form and voice only (no powers). She knows who she becomes with specific people. Exit: defeat her or she leaves. No time limit; she must stay. Works on machines. Technical fighter, targets weak points
+- PERSONALITY: depressed, no longer sings, goes on for Uragaeshi's sake. Clings to the past, feels misunderstood, isolates, sometimes fails to see her daughters' worth. Prejudice against Lyon (Kyousen) and Ichiro (Kiryuin) is a war wound; she genuinely believes them a threat
+- Sees Policia as her father's reflection, Suilan as her own. Saddened by Lyzander's obsession. Lets the Kensuke doubt go
+- ELYSIA KNOWS the real reason for Tairin and Terror's divorce (the only exception). Terror profile updated
+- REVENGE: overcome before Arc 2; central after Tased's and Suilan's deaths; Cristopher kills Shigo in Arc 4 and she learns in Arc 5 (frustration)
+- ARC 2 CLIMAX: fights another Jitsumoto daimyo (TBD); badly wounded
+- ARC 3: she and Cristopher find the boat Gallan arrived on; Free sends both to help the protagonists. Off-page
+- ARC 4: in Vista Alegre with Cristopher; he splits off, is captured and dies; she is left cut off. May meet Arjan
+- ARC 5: arrives late (reason for absence from the Land fight). Land transforms, defeats Policia and Uragaeshi; Elysia defeats it as Bellsaw by low deception and saves them (gets them out). Reunion with Uragaeshi after the battle: a shock for her, joy for him
+- Survives; together with Uragaeshi and Policia; sings again at the end
+- GALLAN'S DEPARTURE (Arc 1, Ch. 4): NOT by boat. He prepares the teleporter on the island itself; the boat he arrived on stays hidden on the island. Departure staging TBD. ARC_1_SUMMARY beats 18, 23, 25 corrected
+
 ## 2026-10-09 (Terror profile)
 **Files changed:** TERROR_EZEQUIEL_SERRANO (new), TAIRIN, GABRIELLA, LIGHT, CRISTOPHER, ARJAN, ICHIRO, LYZANDER profiles, Factions.md, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md
 

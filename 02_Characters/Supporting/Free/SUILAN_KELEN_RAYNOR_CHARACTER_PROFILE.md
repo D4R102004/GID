@@ -251,5 +251,5 @@ All three functions apply (editor's proposal, approved):
 - [ ] The exact content of her last words
 - [ ] The Shigo fight: does she land anything on him?
 - [ ] How Policia finds the glasses (where; is she alone?)
-- [ ] Whether Elysia ever sings again after Suilan's death
+- [x] Whether Elysia ever sings again: yes, at the end of the story (when and for whom TBD; ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md)
 - [ ] How exactly Shigo uses her water in Arc 4 (note: Shigo also carries Light's electricity, and water conducts it)

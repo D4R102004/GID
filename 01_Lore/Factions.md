@@ -153,8 +153,9 @@
 4. **Elysia (真名: Yumi Akina 秋名裕美)**
    - Security member and instructor
    - Trains Cristopher and potentially others
-   - Mother of Suilan and Policia (both Elite members)
-   - *[Additional details in character profile]*
+   - Mother of Suilan and Policia (both Elite members); wife of Uragaeshi
+   - Former psychologist in Vista Alegre; runs Delicya's (ice cream shop)
+   - Profile: 02_Characters/Supporting/Free/ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md
 
 **Former Security:**
 - **Terror (Ezequiel Serrano):** Former security member who resigned after Gabriella's capture, when Free decided to hide
@@ -645,6 +646,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 
 2. **Heavy Unit L411D - Nicknamed "Land"**
    - Built by Diominiciel and Bellsaw; a huge tank with cannons and great destructive power
+   - Has a second form (Arc 5). Defeated by Elysia, who becomes Bellsaw before it
    - *[Further details TBD]*
 
 3. **Android Unit 41R - Nicknamed "Air"**

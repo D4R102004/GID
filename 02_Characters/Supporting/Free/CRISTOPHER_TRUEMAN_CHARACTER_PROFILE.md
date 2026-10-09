@@ -516,7 +516,7 @@ AGE_ARC_1: ~25
 
 **Role:**
 - Participates briefly
-- Travels after the protagonists
+- Travels after the protagonists: once recovered, he and **Elysia** find the boat Gallan arrived on years ago, and Free sends both to help (ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md)
 - Continues mentoring Arjan
 - *[Specific role TBD]*
 
@@ -525,6 +525,7 @@ AGE_ARC_1: ~25
 ### **Arc 4 (Into the City of the Misbegotten - Vista Alegre):**
 
 **Role:**
+- In Vista Alegre with Elysia; splits off from her to join Arjan and Lopney (she is left cut off after his capture)
 - Joins the protagonists fully
 - Continues teaching Arjan
 - Their bond is strong now (master and student, friends)

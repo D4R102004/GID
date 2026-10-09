@@ -629,7 +629,7 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
     - Squeezes Lopney's shoulder
     - "I love you both."
 18. **Kids wave goodbye:**
-    - Watch him walk toward shore (boat)
+    - Watch him walk away into the forest
     - Return to house when he's out of sight
     - Resume normal day
 19. **Kids believe:**
@@ -653,17 +653,14 @@ Yurisha is sent specifically to kill Arjan and Lopney, not Gallan. Killing the k
     - Mental Erasure still active
     - Ensuring no threats
 23. **Hesitation:**
-    - Stands at shore before boarding boat
-    - Hand on boat's edge
     - Almost turns back
 24. **His internal conflict:**
     - "I'm doing this to protect them"
     - "They'll be safe. Diominiciel promised."
     - "I have no choice."
 25. **Departs:**
-    - Boards boat
-    - Rows toward mainland
-    - **Camera lingers on island growing distant**
+    - **NOT by boat (author, 2026-10-09).** He prepares the teleporter on the island itself; the boat he arrived on years ago stays hidden on the island (Elysia and Cristopher find it in Arc 3)
+    - [Departure staging TBD]
     - Ominous music/atmosphere
 
 **Tone:** Uneasy calm → Foreboding  
