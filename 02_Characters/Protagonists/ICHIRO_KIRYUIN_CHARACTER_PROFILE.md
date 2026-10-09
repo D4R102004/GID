@@ -383,8 +383,9 @@ After Ichiro fled home at age 14:
 ### **Suilan (Performance Partner):**
 
 **Relationship:**
-- **Purely professional** partnership
+- **Purely professional** partnership, with good collegial relations
 - Suilan is a **singer**
+- Arc 2: when he fights her in the Elite Hunt, **she lives it as a betrayal and cannot understand it** (SUILAN_KELEN_RAYNOR_CHARACTER_PROFILE.md)
 - Ichiro is a **magician** (uses Saimin to create illusions)
 - Perform together at Terror's bar
 - Started performing because Ichiro wanted to bring joy to Free on Meiji's behalf

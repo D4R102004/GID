@@ -1,5 +1,21 @@
 # GID LORE CHANGELOG
 
+## 2026-10-08 (Suilan profile)
+**Files changed:** SUILAN_KELEN_RAYNOR (new), POLICIA, TASED, ICHIRO profiles, Factions.md, ARC_2_SUMMARY.md
+
+**Decisions (author):**
+- NEW PROFILE: Suilan (Kelen Raynor), built by interview. 18 in Arc 2 (younger than Light ~19 and Policia 21)
+- LOOK: slim; navy blue hair with blond streaks; piercing yellow eyes; glasses; formal, fashionable buttoned clothing; no scarf. Reference image is inspiration only
+- GLASSES: prescription (sniper without them loses precision), shield against her own water splash, hide her gaze; she takes them off when serious (editor's proposal, approved)
+- NOURYOKU: generates water from nothing and expels it through her fingers. Pressure jets that hurt but don't cut; sniper-range shots; barrages; flooding. Tires with use, needs pauses to recharge. Fully ranged, precise, fast; no hand-to-hand
+- vs. Lyzander: water douses his blue fire before it solidifies, and his fire can't leave his body; she is winning when the explosion hits
+- PERSONALITY: shy, quiet voice, apologizes needlessly; loud and decisive only on stage. Angry at herself for not being good enough; terrified of not measuring up. Submissive with Policia, insecure but snappy with Light, respectful with Tairin
+- SINGING: Elysia used to sing and stopped after Uragaeshi's "death"; Suilan learned to sing for her
+- Never knew her father (a baby when he was captured); wishes she had. Hid with Elysia during the attack 5 years ago
+- Entered the Elite by Tairin's endorsement; knows it and fears disappointing her
+- Ichiro fighting her in Arc 2 feels like a betrayal she cannot understand. Friendship with Tased
+- DEATH: last words for her sister and mother. Policia learns of it by finding her broken, bloodstained glasses
+
 ## 2026-10-08 (Policia profile)
 **Files changed:** POLICIA_SATSUKI_RAYNOR (new), LIGHT, TAIRIN profiles, Factions.md, ARC_2_SUMMARY.md
 

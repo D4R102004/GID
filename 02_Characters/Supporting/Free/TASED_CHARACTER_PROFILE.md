@@ -427,6 +427,7 @@ AGE_ARC_2: 17
 **Suilan's Role:**
 - **Witnesses Tased's death** - she's watching over him when he dies
 - Fights Shigo in response and is killed by him (Arc 2 climax)
+- **Friendship:** they get along (SUILAN_KELEN_RAYNOR_CHARACTER_PROFILE.md)
 
 ---
 

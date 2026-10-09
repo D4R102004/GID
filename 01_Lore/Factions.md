@@ -92,8 +92,9 @@
    - Elite operative
    - Daughter of Elysia (security instructor)
    - Sister of Policia
-   - Also performs in Terror's theater alongside Ichiro
-   - *[Additional details in character profile]*
+   - Also performs in Terror's theater alongside Ichiro (singer)
+   - Nouryoku: water expulsion from the fingers (sniper style); entered the Elite by Tairin's endorsement
+   - *[See 02_Characters/Supporting/Free/SUILAN_KELEN_RAYNOR_CHARACTER_PROFILE.md]*
 
 3. **Policia (真名: Satsuki 皐月 Raynor)**
    - Elite operative

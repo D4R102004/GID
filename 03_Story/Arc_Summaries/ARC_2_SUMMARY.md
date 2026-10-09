@@ -285,10 +285,11 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - [ ] Content of the Zenshin/Megami/Kami past event (after Light's defeat)
 - [ ] Chapter breakdown for Arc 2
 - [ ] Order of the "Life in Free" scenes
-- [ ] Nouryoku of Suilan (Policia has none: gadgets)
+- [x] Nouryoku of Suilan: water from the fingers, sniper style (2026-10-08)
+- [x] Suilan profile (2026-10-08)
 - [x] Light profile (2026-10-08)
 - [x] Policia profile (2026-10-08)
-- [ ] Profiles for Suilan, Elysia, Terror
+- [ ] Profiles for Elysia, Terror
 - [ ] Artifacts section in Power_System.md (teleporter, Taeko's necklace)
 - [ ] Mauricio: profile and Arc 3 opening flashback
 

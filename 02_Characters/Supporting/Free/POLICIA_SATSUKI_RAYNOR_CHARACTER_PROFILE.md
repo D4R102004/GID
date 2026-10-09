@@ -192,7 +192,8 @@ AGE_ARC_2: 21
 - **Life in Free:** the **power failure is repaired by the trio together** (Policia leads; Light and Suilan help)
 - **Climax:** **deduces the rescue plan.** Confronts Arjan and Ichiro; Ichiro uses illusions so Arjan can go on. **Policia beats Ichiro** (see Combat)
 - **Aftermath:** Light and Suilan die. **She is the only surviving Elite.** Wounded in the attack; tends the wounded with Tairin
-- [Open: who finds Light's and Suilan's bodies; it can be her or someone else]
+- **Learns of Suilan's death by finding her glasses, broken and bloodstained** (SUILAN_KELEN_RAYNOR_CHARACTER_PROFILE.md)
+- [Open: who finds Light's body]
 
 ### **Arc 3:**
 - **Stays in Free.** Wounded; helps rebuild and keeps watch, under Rajin's leadership
@@ -249,7 +250,7 @@ AGE_ARC_2: 21
 
 ## **OPEN QUESTIONS**
 
-- [ ] Who finds Light's and Suilan's bodies after the Arc 2 attack
+- [ ] Who finds Light's body after the Arc 2 attack (Suilan: Policia finds her broken, bloodstained glasses)
 - [ ] Why Elysia is absent from the fight against Land in Arc 5 (intentional; reason TBD)
 - [ ] Arc 6 role
 - [ ] Her move from distrust to trust with the protagonists (suggested: a scene with Lopney)
