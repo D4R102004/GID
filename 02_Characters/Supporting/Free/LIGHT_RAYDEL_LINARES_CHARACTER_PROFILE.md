@@ -102,7 +102,7 @@ AGE_ARC_2: ~19
 - Grew up in his own trio with **Suilan and Policia** (Elysia's daughters), who are today the whole Elite
 - Friend of Gabriella and Lyzander, but not part of their trio (Lyon, Gabriella, Lyzander)
 - Grew up in the same house as **Lyon**; they never got along
-- As a child he admired the war Elite: **Uragaeshi, Elysia and Terror**
+- As a child he admired the war Elite: **Uragaeshi, Elysia and Terror** (Uragaeshi only as a legend/martyr: he was captured when Light was ~1)
 
 ### **The Attack (5 years before Arc 1, age ~14)**
 - Survived Pristania's attack on the old HQ
@@ -200,7 +200,7 @@ AGE_ARC_2: ~19
 ### **0. Opening Flashback (short)**
 1. Baby Raydel is picked up by Free in Vista Alegre
 2. He is told he is a genius; he reflects a little on what that means to him
-3. He watches the war Elite (Uragaeshi, Elysia, Terror) and admires them
+3. He watches the war Elite (Elysia, Terror) and admires them, along with the legend of the martyr Uragaeshi
 4. Explosion behind him: Pristania's attack on the old HQ (he is ~14)
 
 ### **5 Years Earlier (Lyzander's flashback)**

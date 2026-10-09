@@ -172,6 +172,7 @@
 ### **MEGAMI'S POWER - "CARTOON TRANSFIGURATION"**
 
 **User:** Rajin (Megami in disguise)
+**Secondary user:** **Uragaeshi** (Kevin Raynor), via Mei's DNA injected by Bellsaw and Diominiciel. Same power, but a **limited number of uses** (a battery that **recharges by resting**); only Mei uses it without limit. **Inherits the Pacifism Lock** (even his bullets turn into cartoon bullets). Holding a form hurts. See URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md
 
 #### **Primary Ability:**
 
@@ -400,12 +401,12 @@ Their power **fragments into 3 parts:**
 
 ### **Copy Abilities**
 
-**Users:** Megami (Copy is one component of Cartoon Transfiguration), Shigo (copies the Nouryoku of the dead)
+**Users:** Megami (imitation through cartoon logic, not a true copy mechanic; also Uragaeshi, with limited uses), Shigo (copies the Nouryoku of the dead)
 
-**Megami's Copy:**
-- Can permanently duplicate any Nouryoku
-- Sees it once → can use it forever
-- No limit on number of copied abilities
+**Megami's "Copy" (author, 2026-10-09):**
+- **Not a copy mechanic.** Cartoon logic lets her do anything; **its limit is imagination**
+- Seeing a Nouryoku, she can imitate it ("he has a bomb, now I can make bombs too")
+- Uragaeshi can do the same within his limited uses
 
 **Shigo's 死後 ("After Death"):**
 - Ingests something with the target's DNA (usually hair) and copies their Nouryoku in full

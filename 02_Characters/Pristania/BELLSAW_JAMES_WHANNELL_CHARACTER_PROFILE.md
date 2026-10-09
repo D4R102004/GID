@@ -184,6 +184,7 @@ He does not say a fixed farewell before missions; he has several phrases and use
 - **The Arc 4 mecha** — at Perlereina's request he builds a giant winged mecha for Pristania (see Arc 4). He does not know who will pilot it or that the target is Vista Alegre
 - **Hidden mechanical appendages** — blades, extra arms, shields, stored under his cape/coat
 - **Pistols** — conventional, not custom-designed
+- **Human experiment (3-Year War):** with Diominiciel, injected Mei's DNA into the captured Free Elite **Uragaeshi**. Believes it failed and the prisoner died (02_Characters/Supporting/Free/URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - **Surveillance devices**
 - **Police training** — real, but he is now too old for it
 

@@ -130,6 +130,7 @@ AGE_ARC_1: ~38
 - Chose Gallan as Apostle because of relationship formed years ago (when he caught him stealing)
 - Similar to Diominiciel-Zafiro dynamic: confident and master-disciple
 - **Both participated in achieving peace** - united in opposing vengeance
+- **Ordered Gallan to free a Free prisoner** held for experiments (**Uragaeshi**), shortly before losing his memories. Neither he (amnesiac) nor Uragaeshi knows it (02_Characters/Supporting/Free/URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - Gallan knew about his opposition to vengeance
 - **Gallan didn't know about disappearance** - Dyoni and Paru told him "Gyrus left"
 - This broke Gallan ("the idea that Hirohiko had 'left' without telling him")

@@ -262,6 +262,7 @@ All dates are calculated from these reference points.
 - Civilians caught in crossfire
 - Former allies killing each other
 - Gallan witnesses horrors, realizes "This is not what Kami wanted"
+- **Uragaeshi captured** (Suilan a baby); Bellsaw and Diominiciel inject him with Mei's DNA. Free believes him dead ("the Martyr of Free")
 
 ### **Peace Faction Emerges**
 - **Hirohiko** (realizes vengeance perverts father's legacy)
@@ -277,6 +278,8 @@ All dates are calculated from these reference points.
 - Jitsumoto serves as neutral mediator (Shogun Shigeru)
 - Fragile peace established
 - Cold war tension persists
+- **Free abandons its war-era HQ** (known to Pristania) and moves to a new hidden HQ
+- **Gallan frees Uragaeshi on Hirohiko's order** (before Hirohiko's imprisonment); takes him to a Vista Alegre hospital; Uragaeshi jumps from the 34th floor and survives (cartoon physics); presumed dead. Later infiltrates the Kamigami's mansion as Ulises Wolmark
 
 ### **Immediately After Treaty - Hirohiko vs Siblings Conflict**
 - **Hirohiko vs. Diominiciel and Perlereina conflict** (specific events TBD)
@@ -306,7 +309,7 @@ All dates are calculated from these reference points.
 - **Jashin is the mastermind** pulling strings (plot twist for Arc 6)
 
 ### **5 Years Before Arc 1 - Free Relocates**
-- **Pristania attacks Free's original headquarters**
+- **Pristania attacks Free's post-war headquarters** (its second)
 - **Gabriella** (Tairin's daughter) captured
 - Free presumes her dead
 - Gabriella actually held captive at Pristania HQ for several months, then escapes with Uragaeshi's help and hides in Vista Alegre

@@ -80,7 +80,7 @@
 - Pass a specialized test, OR
 - Receive endorsement from a current/past Elite member
 
-**War-era Elite (during the war against Pristania):** Uragaeshi (Kevin Raynor; no Nouryoku; Elysia's husband, father of Suilan and Policia; "the Martyr of Free", believed dead, alive in Vista Alegre), Elysia, Terror (Ezequiel Serrano)
+**War-era Elite (during the war against Pristania):** Uragaeshi (Kevin Raynor; the Elite's spy; born with no Nouryoku, carries Megami's power from Pristania's experiments; Elysia's husband, father of Suilan and Policia; "the Martyr of Free", believed dead, infiltrated in the Kamigami's mansion as Ulises Wolmark; profile: 02_Characters/Supporting/Free/URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md), Elysia, Terror (Ezequiel Serrano)
 
 **Current Members (Arc 1 / early Arc 2; Light and Suilan die in the Arc 2 climax):**
 
@@ -364,7 +364,8 @@
 
 **Headquarters Establishment (5 years before Arc 2):**
 - Built underground base in island cliffs
-- 10 years after Kami's death
+- ~13 years after Kami's death
+- **Free's headquarters history:** (1) war-era HQ, known to Pristania, abandoned after the war; (2) post-war HQ, attacked by Pristania 5 years before Arc 1; (3) the island cliffs
 - Strategic location chosen for [STORY REASONS - Arc 2 reveal]
 
 ---

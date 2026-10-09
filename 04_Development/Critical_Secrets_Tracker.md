@@ -23,6 +23,7 @@
 10. [Free Headquarters Location](#free-headquarters-location)
 11. [Bellsaw's Infiltration](#bellsaws-infiltration)
 12. [Angel's Existence & Role](#angels-existence--role)
+13. [Uragaeshi's Survival & Power](#uragaeshis-survival--power)
 
 ---
 
@@ -492,6 +493,35 @@
 ### **FORESHADOWING (Arc 4 is an intrigue arc with other suspects):**
 - Planted across Arc 4: the gold **K necklace** (read as "King", means Kami), his double-meaning speech, the smile as a tool, the suit that does not fit a beggar, his name
 - Other suspects for the leak: Goro Kiryuin, police members who could be double agents like Bellsaw, Dragoon (Claudia), and more
+
+---
+
+## URAGAESHI'S SURVIVAL & POWER
+
+### **THE SECRET:**
+- Uragaeshi (Kevin Raynor), "the Martyr of Free", is alive
+- Captured in the 3-Year War; Bellsaw and Diominiciel injected him with **Mei's DNA** (from mementos Diominiciel keeps of his mother). He carries **Megami's power** (limited uses, recharges by resting; **cannot kill**)
+- **Gallan freed him on Hirohiko's order** at the end of the war; he faked his death by jumping from the 34th floor of a Vista Alegre hospital
+- Infiltrated in the **Kamigami's mansion** as **Ulises Wolmark**, the janitor. Freed Gabriella there
+
+### **WHO KNOWS:**
+- **Uragaeshi** (but not that the power is Megami's, nor who freed him)
+- **Gabriella** (from ~5 years before Arc 1)
+
+### **WHO DOESN'T KNOW:**
+- **Free** (believes him dead until Arc 4/5)
+- **Bellsaw and Diominiciel** (believe the experiment failed and the prisoner died)
+- **Gallan** (only knows he freed "a Free prisoner")
+- **Hirohiko** (amnesiac; does not remember giving the order)
+- **Megami/Rajin** (until Arc 5)
+
+### **WHEN REVEALED (Planned):**
+- **Arc 4/5:** Free learns he is alive [how: TBD]
+- **Arc 5:** at the allies' gathering he shows himself to everyone; he and Megami show each other their powers; he learns their origin
+
+### **DRAMATIC IRONY:**
+- Diominiciel used his mother's legacy for an experiment; it ended up in Free, beside his mother
+- Hirohiko ordered the release of the man who would later sabotage his siblings from inside their own house
 
 ---
 

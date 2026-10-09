@@ -46,6 +46,7 @@
 **Gabriella Centerfox "Metal"** (20) - Tairin's daughter, Free Security, iron-materialization Nouryoku, dies Arc 4
 **Terror (Ezequiel Serrano)** (40s) - Former war Elite, retired from Security, owns Terror's Bar; Tairin's ex (together again in Arc 4), Gabriella's father, Arjan's mentor; survives. Profile: 02_Characters/Supporting/Free/TERROR_EZEQUIEL_SERRANO_CHARACTER_PROFILE.md
 **Elysia (Yumi Akina)** (40s) - Former war Elite, Security instructor, ex-psychologist; Uragaeshi's wife, mother of Policia and Suilan. Nouryoku: an empty dimension where she takes the form of whoever the victim thinks of most (form and voice only). Defeats Land in Arc 5; survives. Profile: 02_Characters/Supporting/Free/ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md
+**Uragaeshi (Kevin Raynor)** (late 40s) - War Elite spy, "the Martyr of Free"; alive, infiltrated in the Kamigami's mansion as Ulises Wolmark (janitor). Carries Megami's power from Pristania's experiments (limited uses, cannot kill). Elysia's husband; freed Gabriella; survives. Profile: 02_Characters/Supporting/Free/URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md
 **Glayne Byronstrike** (~36) - Pristania Apostle, Gallan's brother, dies Arc 5 (NOT Arc 1)
 
 ---
@@ -77,6 +78,7 @@
 **Bellsaw = Commander James Whannell of the Vista Alegre police:** All high-ranking Pristania know; Free and the police do not (until after his death, Arc 4)
 **Claudia = Gabriella's best friend "Misty"** (neither knows the other's faction): Claudia learns Gabriella is the Metal Knight at Perlereina's meeting in Arc 4, when all of Pristania (Bellsaw included) does. **Gabriella never learns Claudia is an Emperor.** Free sees Claudia only as a nurse
 **Angel exists (Kami's secret chosen successor, Perlereina's spy and secret 4th Emperor):** Only Perlereina and Diominiciel know. Bellsaw builds his mecha without knowing who he is or that the target is Vista Alegre. Lyzander (and Gabriella) learn everything at the Arc 4 finale; the audience learns at the same time (twist)
+**Uragaeshi is alive, with Megami's power:** Only Uragaeshi (not knowing the source) and Gabriella. Bellsaw/Diominiciel believe the experiment failed and he died; Gallan freed him (Hirohiko's order) without knowing who he was. Free learns Arc 4/5; Megami recognizes her power in him Arc 5
 **Gallan's island location:** Hidden by Mental Erasure from the world; Glayne always knew it
 
 ---

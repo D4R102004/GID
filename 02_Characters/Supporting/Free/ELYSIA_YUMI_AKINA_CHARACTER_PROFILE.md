@@ -129,7 +129,7 @@ AGE_ARC_1: 40s (about Terror's age)
 
 ### **Uragaeshi / Kevin Raynor (husband):**
 - See Backstory. Believed dead since the war; actually alive in Vista Alegre
-- **Arc 5 reunion:** after she defeats Land and saves him; **a shock for her, a joy for him**. [Details TBD]
+- **Arc 5 reunion:** after she defeats Land and saves him; **a shock for her, a joy for him**. He already knows Suilan died (Policia told him at the gathering): the family together is joyful and tragic at once. [Details TBD] (URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 
 ### **Policia (elder daughter):**
 - Loves both daughters. Sees Policia as **a reflection of her father**

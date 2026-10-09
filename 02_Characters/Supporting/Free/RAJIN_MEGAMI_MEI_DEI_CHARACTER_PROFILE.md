@@ -298,6 +298,7 @@ AGE_ARC_1: ~40s
 - She drops her true form in front of Hirohiko.
 - Hirohiko sees his mother's face. His amnesia breaks. He bursts into tears.
 - She returns to Rajin immediately. There is no time.
+- **Uragaeshi** (carrying her power via her DNA): they show each other their powers; she recognizes it and he learns its origin. He shows himself as he really is before everyone (URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - Everything moves on.
 
 **Present at the Revelation:**

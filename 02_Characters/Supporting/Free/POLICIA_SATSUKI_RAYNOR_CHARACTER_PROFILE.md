@@ -161,6 +161,7 @@ AGE_ARC_2: 21
 - Remembers him vaguely; wears his uniform, dyed black in his honor
 - Believes he is dead (the Martyr of Free). **He is alive in Vista Alegre**, where he freed Gabriella and has hidden with her (GABRIELLA_CENTERFOX_CHARACTER_PROFILE.md)
 - **Reunion at the start of Arc 5**, when all the allies gather before the assault on Pristania (the same gathering where Megami reveals herself to Free)
+- A **happy reunion**: he is overjoyed she is well and tells her he loves her. **She tells him Suilan died** (URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - They fight side by side in the Arc 5 assault (see Arc Role)
 
 ### **Tairin:**

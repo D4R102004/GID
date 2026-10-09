@@ -510,6 +510,7 @@ AGE_ARC_1: ~40
 - **Resentment (not open)** - internalized, rarely expressed
 - **Does miss her** - buried beneath logic and duty
 - **Thinks she's gone forever** - no idea Rajin is Megami
+- **Keeps mementos of his mother.** In the 3-Year War he and Bellsaw used DNA from her objects in an experiment on a Free prisoner (**Uragaeshi**). Believes it failed and the prisoner died (02_Characters/Supporting/Free/URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - **Would be devastated** by the truth (mother raised Meiji)
 
 ---

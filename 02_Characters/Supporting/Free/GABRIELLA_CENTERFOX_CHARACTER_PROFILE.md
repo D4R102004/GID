@@ -105,7 +105,7 @@ AGE_ARC_1: 20
 - Joined Security at **15**
 
 ### **The Attack (5 Years Before Arc 1):**
-- Pristania attacks Free's original headquarters. Gabriella (15, newly in Security) is **captured**
+- Pristania attacks Free's post-war headquarters. Gabriella (15, newly in Security) is **captured**
 - Free presumes her dead. Lyzander woke up to find her missing (his worst memory)
 
 ### **Captivity:**
@@ -117,7 +117,7 @@ AGE_ARC_1: 20
 
 ### **The Escape:**
 - The Kamigami decide to move her to **their mansion** and from there to a **hospital**, because her health was so poor
-- **Uragaeshi**, infiltrated in the Kamigami's mansion, discovers her there
+- **Uragaeshi**, infiltrated in the Kamigami's mansion as **Ulises Wolmark** (the janitor), discovers her there
 - He frees her, **at first only to hurt Pristania**. They did not know each other
 - Once she is healed she tells him **who her mother is**, and he tells her **who he is**
 - **Uragaeshi got her out**

@@ -44,7 +44,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 ### **0. ARC BOSS FLASHBACK — LIGHT (short)**
 - Opens with baby Raydel Linares being picked up by Free in Vista Alegre (abandoned; parents unknown).
 - He is told he is a genius; he reflects a little on what that means to him.
-- Introduces Free's Elite from the war against Pristania: **Uragaeshi, Elysia and Terror**. Raydel admires them.
+- Introduces Free's Elite from the war against Pristania: **Uragaeshi, Elysia and Terror**. Raydel admires them (Uragaeshi as a legend/martyr: he fell when Raydel was a baby).
 - Ends with Raydel (~14) wanting to be like them, and an explosion behind him: Pristania's attack on the old HQ.
 
 ---

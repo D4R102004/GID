@@ -458,6 +458,7 @@ AGE_ARC_1: ~35
 - The fact that the world is dangerous
 
 ### **What He Doesn't Know:**
+- The "Free prisoner" he freed on Hirohiko's order at the end of the war was **Uragaeshi**, carrying Megami's power (02_Characters/Supporting/Free/URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - Arjan and Lopney's true origins (Kami's reincarnations)
 - The beam of light that brought them
 - Lopney's dormant power nullification

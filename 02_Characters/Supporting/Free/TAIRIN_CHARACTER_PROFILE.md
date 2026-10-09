@@ -242,7 +242,7 @@ Joined Free as one of the very first members alongside:
 - Deepened her bond with Terror and Elysia (the three survivors)
 
 **Current Status:**
-- **Uragaeshi is actually alive** in Vista Alegre
+- **Uragaeshi is actually alive** in Vista Alegre (experimented on with Mei's DNA, freed by Gallan at the war's end, infiltrated in the Kamigami's mansion as Ulises Wolmark; URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md)
 - Tairin doesn't know this (will be revealed Arc 4)
 - Free believes the story of martyrdom
 
@@ -893,7 +893,7 @@ Joined Free as one of the very first members alongside:
 ## **OPEN QUESTIONS FOR FUTURE DEVELOPMENT:**
 
 1. **Gabriella in Vista Alegre:** RESOLVED (see Gabriella's profile): captive several months, escaped with Uragaeshi, could not find Free; dies in Arc 4 in front of Lyzander. Remaining: how and when does Tairin learn she was alive and then dead?
-2. **Uragaeshi's survival:** What happened? Why the presumed death?
+2. **Uragaeshi's survival:** RESOLVED (URAGAESHI_KEVIN_RAYNOR_CHARACTER_PROFILE.md). Arc 5 reunion with Tairin and Terror: warm, like old friends
 3. **Cristopher incident (Arc 2):** Full context of the "punching children" scene?
 4. **Lopney framing (Arc 2):** Who frames her? How is it resolved?
 5. **Arc 5 specifics:** How exactly is she defeated? What leads to her finding peace?

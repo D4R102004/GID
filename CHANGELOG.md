@@ -1,5 +1,25 @@
 # GID LORE CHANGELOG
 
+## 2026-10-09 (Uragaeshi profile)
+**Files changed:** URAGAESHI_KEVIN_RAYNOR (new), ELYSIA, POLICIA, TAIRIN, GABRIELLA, LIGHT, RAJIN, GALLAN, HIROHIKO, BELLSAW, DIOMINICIEL profiles, Factions.md, Power_System.md, Timeline.md, Critical_Secrets_Tracker.md, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Uragaeshi (Kevin Raynor; the surname is a deliberate StarCraft homage), built by interview. Late 40s, a bit older than Terror and Elysia. Codename 裏返し: he was the Elite's spy
+- LOOK: in Free, well-kept secret-agent air, long dark hair tied back, red eyes, blue uniform. Today older, visibly worn by experimentation; can change his appearance. Reference image is inspiration only
+- ORIGIN: farm near Vista Alegre (grandfather: hunting and shooting; father: fighting); intelligence agency, left it for liberty; joined Free. Origin rewritten in the editor's words (no verbatim borrowing)
+- CAPTURE: during the war, Bellsaw and Diominiciel injected him with Mei's DNA, taken from mementos Diominiciel keeps of his mother. Chosen because a prisoner's death didn't matter. Pristania believes it failed and he died
+- FREED: by Gallan on Hirohiko's order (before Hirohiko's imprisonment). Gallan only knows he freed "a Free prisoner"; Uragaeshi knows someone freed him, not who. Taken to a Vista Alegre hospital; jumped from the 34th floor and survived (cartoon physics); presumed dead
+- WHY HE NEVER RETURNED: Free left its war-era HQ (known to Pristania) after the war; there is no way to find Free. Duty kept him sabotaging Pristania. Infiltrated the Kamigami's mansion as Ulises Wolmark, the janitor; freed Gabriella there
+- FREE HQ HISTORY: war-era HQ → post-war HQ (attacked 5 years before Arc 1) → island. Factions "10 years after Kami's death" corrected to ~13. Timeline and Gabriella "original HQ" corrected to "post-war HQ"
+- PERSONALITY: decisive, determined, serious, active, inquisitive, analytical, iron duty, liberty at his core; believes only he can help Free from inside. Flaws: too pragmatic, misses nuance, overestimates himself, can be cold, methodical; still feels fear
+- POWER: Megami's Cartoon Transfiguration, limited by imagination, with a battery (limited uses, recharges by resting; only Mei is unlimited). Inherits the Pacifism Lock: cannot kill, even his bullets turn cartoon; he knows it. Holding a form hurts (like Rajin). Fights with secret-agent weapons and gadgets plus the power. Does not know it is Megami's until Arc 5
+- POWER_SYSTEM: Megami's "copy" is not a copy mechanic but cartoon logic limited by imagination (rewritten)
+- LIGHT admired him only as a legend/martyr (captured when Light was ~1)
+- RELATIONSHIPS: Gabriella's death devastates him (Lyzander tells everyone). Arc 5: happy reunion with Policia (she tells him Suilan died); warm reunion with Terror and Tairin; reunion with Elysia after Land, joyful and tragic. Doesn't pay Claudia much attention
+- ARC 4: stays infiltrated as Ulises Wolmark; not present at the Land battle (Kiryuin mansion)
+- ARC 5: doesn't know where Pristania HQ is (confirmed); he and Megami show each other their powers, he learns the origin; shows himself to everyone; defeated by Land with Policia, saved by Elysia
+- Survives; with the rest of Free in Arc 6
+
 ## 2026-10-09 (Elysia profile)
 **Files changed:** ELYSIA_YUMI_AKINA (new), TERROR, TAIRIN, POLICIA, SUILAN, TASED, CRISTOPHER profiles, Factions.md, ARC_1_SUMMARY.md, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md
 
