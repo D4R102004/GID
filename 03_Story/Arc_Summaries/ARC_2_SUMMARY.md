@@ -280,6 +280,20 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 
 ---
 
+## **EDITORIAL REVIEW (2026-10-09) — KEEP IN MIND, NOTHING CHANGED**
+
+Author's decision: these critiques are noted, not acted on yet.
+
+1. **Yonoa's alibi.** Lyzander (she slept in his room) and Elysia (caught her, recognized her, sent her to his room) are witnesses. Elysia later apologizes as if she believes the video, and Lyzander goes to the jailbreak without pooling testimony with Elysia or Tairin. Risk of "Idiot Ball". Cheap fix: Lyzander tries and Kensuke discredits him; Elysia questions and Kensuke blocks her (a third time he hides the truth)
+2. **Overloaded climax.** Five deaths (Light, Suilan, Tased, Shigeru, Kensuke) plus Meiji's capture, Lyon leaving, Marsella's betrayal, the Zafiro reveal and Gallan's tie. Suggestion: stagger. Full on-page deaths: Shigeru, Kensuke; isolated on-page: Light; discovered afterwards: Tased and Suilan (the glasses). Give the aftermath room for grief
+3. **Passive protagonists in the invasion.** Arjan's fight is before it; Yonoa and Lyzander are trapped in a sphere; adults (Kensuke's spheres, Shigeru's phoenix) save them; Lopney has nothing to do. Konoha Crush comparison: Naruto has his own fight while the Hokage falls
+4. **Lopney is the weakest protagonist of the arc:** mostly an object (hunted, arrested, rescued); her active beat is the chess bond with Yonoa
+5. **~20 characters introduced.** Defend with clusters (trios) and strong silhouettes; Elysia and Terror (no profiles) are most at risk of staying names
+
+Strengths noted: paranoia as weapon; betrayal from inside (Kensuke, Marsella); Konoha-Crush structure; "the cost of winning"; Life in Free builds investment before the deaths.
+
+---
+
 ## **OPEN ITEMS**
 
 - [ ] Content of the Zenshin/Megami/Kami past event (after Light's defeat)
