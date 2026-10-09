@@ -215,6 +215,7 @@ All three functions apply (editor's proposal, approved):
 - **Two voices:** quiet offstage, loud only on stage. A sniper fights the same way, from a distance and unseen
 - **Singing for a silenced mother:** she keeps alive what Elysia lost with Uragaeshi
 - **A father she never knew**, alive the whole time she believed him dead
+- **Deliberate mirror of Claudia (author):** shy, glasses, yellow eyes, entered with someone's backing, daughter of an elite fighter. Not a flaw: the difference is the side each fell on. They stay apart through their flaw (Claudia's silence vs. Suilan's stage voice), killing (Claudia won't; Suilan dies fighting), fathers (a present fanatic vs. a martyr she never knew), power tier, and fate. Art note only: differentiate the two in silhouette
 
 ---
 

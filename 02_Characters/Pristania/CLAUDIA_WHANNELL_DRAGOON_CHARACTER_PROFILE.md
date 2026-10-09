@@ -274,6 +274,7 @@ AGE_ARC_1: 21
 - **She refuses to kill, then wants to.** She disobeys Perlereina's order to kill her best friend, then later goes after Yonoa to kill for her father
 - **Caught between a friend and a cause.** She discovers the friend she is protecting is fighting the cause she believes in, and her silence and her fear leave her unable to save either
 - **The cost of the family cause.** She loses her father and her friend to it, and sleeps through its end
+- **Deliberate mirror of Suilan (Free Elite) (author):** shy, glasses, yellow eyes, entered with help, daughter of an elite fighter. Intentional, not a redundancy. See SUILAN_KELEN_RAYNOR_CHARACTER_PROFILE.md (Thematic Role)
 
 ---
 
