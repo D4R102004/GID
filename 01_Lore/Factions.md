@@ -216,10 +216,9 @@
 - Room located in the back of the shop
 - *[Additional details in character profile]*
 
-**Total Membership (Arc 2):** 10-20+ members
-- **Historical note:** Free once had significantly more members
-- **Current status:** Reduced to core group during peacetime
-- *[See GEOGRAPHY.md for complete member list and room assignments]*
+**Total Membership (Arc 2):** **only the named members** (author, 2026-10-09): Meiji, Kensuke, Rajin, Tairin, Elysia, Terror, Light, Suilan, Policia, Lyon, Tased, Cristopher, Lyzander, Ichiro
+- **Historical note:** Free once had many more members; the rest have **deserted or died** over the years
+- Arc 2 alone removes nearly half (Light, Suilan, Tased and Kensuke die; Meiji is captured; Lyon leaves)
 
 ---
 
@@ -306,6 +305,9 @@
 - Less aggressive stance than during the 3-Year War
 - Focus on survival and stability rather than expansion
 
+**Supply:**
+- Free is supplied from a **distant mainland settlement**, the same one where Gallan bought supplies for his children (neither side knows about the other)
+
 ---
 
 ### **MEMBER ROSTER (QUICK REFERENCE)**
@@ -334,7 +336,7 @@
 - Terror (Ezequiel Serrano) - Former Elite and Security (retired), bar owner
 - Ichiro - Shop operator, theater performer
 
-**Additional Members:** [Names TBD as needed for story]
+**Additional Members:** None. Free's members are the named ones above
 
 ---
 
@@ -366,7 +368,7 @@
 - Built underground base in island cliffs
 - ~13 years after Kami's death
 - **Free's headquarters history:** (1) war-era HQ, known to Pristania, abandoned after the war; (2) post-war HQ, attacked by Pristania 5 years before Arc 1; (3) the island cliffs
-- Strategic location chosen for [STORY REASONS - Arc 2 reveal]
+- Why this island: **Pure coincidence (author, 2026-10-09).** When Free moved to the island after the attack 5 years before Arc 1, Kensuke was unconscious. Shiro discovered only later that it was Gallan's island, and Pristania decided to use that to its advantage
 
 ---
 
@@ -380,7 +382,7 @@
 4. **Elite mission examples** - What kind of operations do the 三傑 handle?
 5. **Lyzander's role** - What does Meiji's adoptive son do within Free?
 6. **Former members** - Besides Terror, who else left? Where did they go?
-7. **Relationship with civilians** - Does Free interact with the outside world?
+7. **Relationship with civilians** - Does Free interact with the outside world? (Partly answered: Free is supplied from a **distant mainland settlement**, the same one where Gallan bought supplies for his children (neither side knows about the other))
 
 ---
 

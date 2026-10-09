@@ -164,15 +164,15 @@ An unnamed tropical island in isolation from the modern world. For the past 15 y
 - **Additional passages:** Internal access routes within the complex (number and type TBD)
 
 **Timeline:**
-- **Established:** 10 years after Kami's death
-  - 13 years into the 15-year peace period
+- **Established:** ~13 years after Kami's death
+  - 10 years into the 15-year peace period
   - 5 years before Arc 2 begins
   - Built during peacetime, not during the war
 
 **Size & Population:**
 - Medium-sized base
 - Designed for strategic operations, not mass habitation
-- Member count: [TBD - fewer than 100]
+- Member count: only the named members (~14 at the start of Arc 2); once many more, lost to desertion and death
 
 **Relationship to Other Island Locations:**
 - **Completely separate** from Gallan's home area
@@ -188,7 +188,7 @@ An unnamed tropical island in isolation from the modern world. For the past 15 y
 - Specific layout to be developed when needed for story
 
 **Why This Location:**
-- [STORY SECRET - to be revealed in Arc 2]
+- **Pure coincidence (author, 2026-10-09).** When Free moved to the island after the attack 5 years before Arc 1, Kensuke was unconscious. Shiro discovered only later that it was Gallan's island, and Pristania decided to use that to its advantage
 
 **Discovery:**
 - [STORY SECRET - inciting incident of Arc 2]
@@ -358,6 +358,7 @@ An unnamed tropical island in isolation from the modern world. For the past 15 y
 **Nearest Accessible Point:**
 - Unnamed mainland settlement
 - Gallan's supply destination
+- **Also supplies Free** (neither side knows about the other)
 - Closer than Kamino/Vista Alegre
 - Small, unremarkable location
 
@@ -402,9 +403,7 @@ An unnamed tropical island in isolation from the modern world. For the past 15 y
    - Or was it pure coincidence?
 
 3. **Free's Choice**
-   - Why did Free choose this island for their headquarters?
-   - Do they know about Gallan and the children?
-   - Is there a connection between the cave/beam and Free's interest?
+   - RESOLVED (2026-10-09): pure coincidence. Kensuke was unconscious during the move; Shiro learned later it was Gallan's island and Pristania used it. Free does not know about Gallan and the children; no connection to the cave/beam
 
 4. **Exact Measurements** (to be determined as needed)
    - Island's total area/dimensions

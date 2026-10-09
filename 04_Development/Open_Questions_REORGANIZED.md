@@ -313,7 +313,8 @@
 - [ ] **Vista Alegre details** — City structure, culture, history
 - [ ] **Pristania HQ interior** — What does it look like inside the ruins?
 - [ ] **Jitsumoto Territory** — Compound layout, daily life, size
-- [ ] **Free HQ specifics** — Why this island? When built? Do any Free members know Gallan lives above?
+- [x] **Free HQ specifics** — RESOLVED (2026-10-09): pure coincidence (Kensuke unconscious during the move; Shiro learned later it was Gallan's island; Pristania used it). Built ~5 years before Arc 1. No Free member knows Gallan lives there. Supplied from the same distant settlement Gallan used
+- [ ] **Pristania's timing** — Shiro was inside Free for 5 years and Pristania knew the island. Why strike only in Arc 2? (teleporter powered by Gallan? Gallan leaving the island? something else?)
 
 ## THE RYAKUJIN
 

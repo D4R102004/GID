@@ -1,5 +1,15 @@
 # GID LORE CHANGELOG
 
+## 2026-10-09 (Free faction decisions)
+**Files changed:** Factions.md, Geography.md, Open_Questions_REORGANIZED.md
+
+**Decisions (author), from the Free faction analysis:**
+- WHY THE ISLAND: pure coincidence. Kensuke was unconscious when Free moved there after the attack; Shiro discovered later it was Gallan's island, and Pristania decided to use it
+- MEMBERSHIP: Free is only its named members (~14 at the start of Arc 2). It once had many more; the rest deserted or died. "10-20+" and "fewer than 100" replaced
+- SUPPLY: Free is supplied from a distant mainland settlement, the same one where Gallan bought supplies for his children
+- Geography: island HQ dated ~13 years after Kami's death (10 years into the peace), matching Factions
+- NEW OPEN QUESTION: why Pristania waited until Arc 2 to strike, with Shiro inside Free for 5 years
+
 ## 2026-10-09 (Uragaeshi profile)
 **Files changed:** URAGAESHI_KEVIN_RAYNOR (new), ELYSIA, POLICIA, TAIRIN, GABRIELLA, LIGHT, RAJIN, GALLAN, HIROHIKO, BELLSAW, DIOMINICIEL profiles, Factions.md, Power_System.md, Timeline.md, Critical_Secrets_Tracker.md, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md
 
