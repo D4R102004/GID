@@ -60,7 +60,7 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 - **Meiji killed Kami**
 
 ### **Why He Races:**
-- At first he **didn't race**: the driver was **Masaki**
+- At first he **didn't race**: the driver was **Masaki**, and he was her **cheerleader**
 - He races now **to honor her**
 
 ---
@@ -89,7 +89,7 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 ### **The Living Car**
 - **It was Masaki's car**: the one she raced in. An **ordinary, old car**, not a race car. **No name**
 - Masaki's **spirit survived** and **attached itself to Mauricio's car** (spirits with a **strong will** can adhere to objects after death; no Nouryoku needed. Same phenomenon as **Gloria**, who becomes vengeful; Masaki becomes a car)
-- The car became a kind of **walking Nouryoku**. Masaki **does not know** she is a car
+- The car became a kind of **walking Nouryoku**: a will without clear consciousness. It **knows it is a car**, but **does not know it was Masaki** (MASAKI_OKU_CHARACTER_PROFILE.md)
 - **It is alive:** it **does not speak**, but it **can act on its own**
 - **Communication:** like being with someone you know is intelligent but whose language you don't understand
 - Mauricio discovered his car was **alive** right after losing his girlfriend. They **communicate** and get along. He **does not know** it is Masaki
@@ -177,8 +177,8 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 
 ## **SECRETS & KNOWLEDGE**
 
-- **The car is Masaki:** no one knows (not Mauricio, not Masaki)
-- **Masaki was Kami's first chosen successor:** no one alive knows (Kami is dead; Masaki never told Mauricio). Angel never knew either [TBD: confirm]
+- **The car is Masaki:** no one knows (not Mauricio; the car knows it is a car, not that it was Masaki)
+- **Masaki was Kami's first chosen successor:** no one alive knows (Kami is dead; Masaki never told Mauricio). Angel never met her (author: Angel comes after all this) [TBD: whether he ever learns of her]
 - **Glayne is from Pristania:** Kamino doesn't know until Glayne reveals it at the race (ARC_3_SUMMARY)
 
 ---
@@ -214,7 +214,7 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 
 - **Mauricio:** older man, short black hair, ordinary face, veteran's calm. Leather helmet (Masaki's) and pilot goggles; suit jacket over simple clothes (reference image, "based on")
 - **The car:** an **ordinary, old car**, not a race car. Its life shows in what it does, not in how it looks
-- **Masaki (flashback):** resembles **Mei** a little. [TBD: other features]
+- **Masaki (flashback):** see MASAKI_OKU_CHARACTER_PROFILE.md (very young, short brown '80s hair, athletic, resembles **Mei** a little)
 
 ---
 

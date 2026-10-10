@@ -1,5 +1,19 @@
 # GID LORE CHANGELOG
 
+## 2026-10-10 (Masaki Oku profile)
+**Files changed:** MASAKI_OKU_CHARACTER_PROFILE.md (new), MAURICIO_FANGIO_CHARACTER_PROFILE.md
+
+**Decisions (author):**
+- NEW PROFILE: Masaki Oku (奥正木), built by interview (blocks 1-6). Very young at death (~21-22). Teacher of Kami's ideology; professional-level God's Flag driver, second to Kami
+- LOOK: gentle, simple face; short brown '80s hair; athletic; '80s fashion; her helmet. Reference image is inspiration only
+- PERSONALITY: gentle, kind, naive and insecure; proud and passionate behind the wheel. Average Kamino faith; wants to make the world better; angered by the world, like Kami. Flaw: pride
+- VOICE: speaks like a teacher (no voseo); warm; calls him "Kami-sama"
+- KAMI: kind, paternal mentor (as with Angel), preparing his successor as leader of Pristania. She loves him in her heart but stays loyal to Mauricio
+- DEATH: an accident; hit while driving by an unknown Kamino local, far from home; Mauricio arrived afterwards. Kami's plan was to reassure Mauricio about the meetings and tell him she would be the successor
+- THE CAR: a will without clear consciousness; knows it is a car, does not know it was Masaki (CORRECTED in MAURICIO: "Masaki does not know she is a car")
+- Mauricio was her cheerleader before he raced; Angel never met her (MAURICIO updated)
+- FLAGGED [TBD]: the car after returning to Kamino; whether anyone learns the car is Masaki; whether Angel learns of her; meaning of the resemblance to Mei; editor's sample dialogue pending approval
+
 ## 2026-10-09 (Free faction decisions)
 **Files changed:** Factions.md, Geography.md, Open_Questions_REORGANIZED.md
 
