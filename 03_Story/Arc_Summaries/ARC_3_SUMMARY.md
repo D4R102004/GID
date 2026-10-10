@@ -100,7 +100,18 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 
 ---
 
-### **PART 3 — LIFE IN KAMINO** *(order not decided)*
+### **PART 3 — LIFE IN KAMINO**
+
+**Order (author, 2026-10-10)** — beats below are grouped by thread, not by order:
+1. Arrival at the clinic (beat 5)
+2. **The beach** (beat 9)
+3. Ichiro steals the car; the twins' first visit to the facility; Hirohiko's past (beats 6-7)
+4. **The clinic** with Lyzander and the children (beat 8), **intercut with Ichiro at Mauricio's house** (beat 11)
+5. Lyon vs. Fukusei (beat 10)
+6. The facility: monitors and Hide (beat 7)
+7. The God's Flag (beat 13)
+
+Yonoa recovers throughout (beat 12).
 
 **7. The Ryakujin Facility (twins & Hirohiko)**
 - They need a place to practice. **Hirohiko** takes the twins to the outskirts: "Do you see anything?" They do: **the destroyed Ryakujin facility**, **invisible and impassable** except to Kami's power. They'll practice there undetected.
@@ -128,7 +139,7 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 - For anyone in Kamino, seeing an Apostle or Emperor would be a dream come true.
 
 **9. Glayne & Perlereina at the Beach**
-- On **the same Kamino beach where the heroes washed up**, Glayne invites Perlereina. The villains in another light.
+- **At sunset, one or two days after S34's death**, on **the same Kamino beach where the heroes washed up**, Glayne invites Perlereina. The villains in another light.
 - Glayne helps her bear the loss of S34 (necklace 海). Both believe the heroes drowned. She is frustrated they can't kill Meiji (the capture plan failed with Sea). Her human side with Glayne: what unites them, why the reader invests in them. She knows his whole vendetta (they're a couple; they tell each other everything).
 
 **10. Lyon & Fukusei**
@@ -320,7 +331,7 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 
 ## **OPEN ITEMS**
 
-- [ ] **Order of the "Life in Kamino" events** (beats 7-12)
+- [x] Order of the "Life in Kamino" events (2026-10-10; see Part 3)
 - [x] Interlude 3: right after the twins win (2026-10-10)
 - [x] The car mourns Mauricio: in Vista Alegre, seeing the news, it races back to Kamino (2026-10-10)
 - [x] Kamino does not know Dr. Hero helped the heroes; how Gyrus reaches them is Arc 4 (2026-10-10)
