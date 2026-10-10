@@ -16,15 +16,17 @@ The Ryakujin conducted numerous experiments to create biological weapons and god
 ## THE RYAKUJIN
 
 **Who They Are:**
-- Advanced civilization/organization conducting supernatural experiments
+- An **ancient civilization** (not human, not extraterrestrial) conducting supernatural experiments
 - Created biological weapons and god-tier beings
 - Operated in secrecy across multiple locations and time periods
+- **Appearance (author, 2026-10-10):** they look like people, but are not human. **Species marker: pupil-less eyes** (provisional; the author may revisit). Each one also has an **individual otherworldly trait** (e.g. Hide's moth wings; another scientist with a kind of helmet). No dragon/scale traits (Kiryuin territory). Their creations (Zenshin, Jashin, Megami) look human but have traits that say they are not of this world
+- **Hide (秀)**: chief scientist and head of the laboratory (HIDE_CHARACTER_PROFILE.md)
 
 **Known Experiments:**
 1. **Bakuzoku (爆属)** - Biological bomb-wielding weapons (failed experiment, abandoned)
 2. **Kiryuin (鬼龍院)** - [Details TBD]
 3. **Kami (Zenshin)** - God-tier being created as ultimate weapon
-4. **Meiji** - God-tier being, circumstances of creation [TBD]
+4. **Meiji** - God-tier being. Started by Hide with the others as a **contingency plan against the gods**; a biological experiment that took years to complete. The facility, **running on its own**, kept developing him in secret; he was born ~34 years before Arc 1 (author, 2026-10-10)
 5. **Rajin** - God-tier being, circumstances of creation [TBD]
 
 **Current Status:**

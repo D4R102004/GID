@@ -144,6 +144,14 @@
 
 ---
 
+### **Hide's monster form (Arc 3)**
+- A substance derived from Kami and Jashin, injected before his death, turned Hide into a monster with **the gods' power** (Kami's and Jashin's are identical)
+- **His beam fires from him forward** (Kami's descends, Jashin's rises)
+- Aesthetic: **decomposed, a travesty** of the gods' power; in essence the same
+- See HIDE_CHARACTER_PROFILE.md
+
+---
+
 #### **Hidden Ability: Sealing**
 
 **Function:**

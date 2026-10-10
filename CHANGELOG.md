@@ -1,5 +1,21 @@
 # GID LORE CHANGELOG
 
+## 2026-10-10 (Hide profile)
+**Files changed:** HIDE_CHARACTER_PROFILE.md (new, 02_Characters/Ryakujin/), Ryakujin_Experiments.md, Power_System.md
+
+**Decisions (author):**
+- NEW PROFILE: Hide (秀), built by interview (blocks 1-4). A Ryakujin; chief scientist and head of the laboratory
+- RYAKUJIN LOOK: an ancient civilization (not extraterrestrial), not human. Species marker: pupil-less eyes (provisional). Each has an individual otherworldly trait; Hide's are moth wings. Zenshin, Jashin and Megami look human but have otherworldly traits
+- HIDE LOOK: older ordinary scientist, heavy-set ordinary build, lab coat. Reference image is inspiration only
+- PERSONALITY: ambitious manipulative scientist; genuinely kind and paternal with Zenshin (his deepest relationship), who was also his best experiment. Liked Megami but saw her as a tool; disliked Jashin as rebellious and undisciplined. Feared death
+- MOTIVE AGAINST JASHIN: to do Zenshin a favor (his jealousy over Mei); only one god is really needed; Jashin was problematic
+- GODS' PURPOSE: great power, reviving the living, an asset of the Ryakujin civilization
+- MEIJI: Hide started him with the others as a contingency against the gods; the facility runs on its own and completed him (born ~34 years before Arc 1). Hide never met him
+- INTERLUDES: 1 introduced at the gods' birth; 2 bond with Zenshin, friction with Jashin; 3 sends the gods to the cities; 4 stabbed by Jashin, brothers fight, dialogue with Zenshin, killed by Zenshin, who revives Megami
+- MONSTER: no consciousness, as if possessed; resentment at betrayal (Zenshin was like his son). Same power as the gods, beam fires forward, decomposed aesthetic. Kami's one return (to collect Jashin's body) never brought him near Hide
+- No one connects the monster to Hide (a priori)
+- FLAGGED [TBD]: exact moment he injects the substance in Interlude 4; other Ryakujin in the interludes
+
 ## 2026-10-10 (Masaki Oku profile)
 **Files changed:** MASAKI_OKU_CHARACTER_PROFILE.md (new), MAURICIO_FANGIO_CHARACTER_PROFILE.md
 
