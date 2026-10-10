@@ -42,6 +42,23 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 - Trusts that a better world is possible and works for it
 - **Resents Free**, but the God's Flag winner's wish is Kami's tradition: if the winners are from Free, then they are the winners. Granting it is Kami's justice in action
 
+### **What Drives Him:**
+- The **memory of Masaki**, the woman he loved
+- His **devotion to Kami**
+
+### **What Enrages Him:**
+- **Cheating**
+- **Disrespect toward Kami**
+
+### **What Terrifies Him:**
+- **Failing his two most important figures:** Masaki and Kami
+
+### **His Weakness:**
+- **Threats to the car.** It is his only weakness
+
+### **Why He Resents Free:**
+- **Meiji killed Kami**
+
 ### **Why He Races:**
 - At first he **didn't race**: the driver was **Masaki**
 - He races now **to honor her**
@@ -53,6 +70,8 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 - **Folksy, warm** (campechano)
 - Uses **Latin American filler words and turns of phrase**
 - Warmth is the key to his speech, even in authority
+- **Voseo:** greets strangers with *"¿Y vos quién sos?"*
+- **Region:** [TBD between Argentina, Venezuela, Colombia. Editor's suggestion: **rioplatense (Argentina)**, since the voseo already points there and it matches the Fangio homage]
 
 ---
 
@@ -68,8 +87,11 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 - Kami was left in shock and searched again; he found **Angel** (see ANGEL_CHARACTER_PROFILE.md)
 
 ### **The Living Car**
+- **It was Masaki's car**: the one she raced in. An **ordinary, old car**, not a race car. **No name**
 - Masaki's **spirit survived** and **attached itself to Mauricio's car** (spirits with a **strong will** can adhere to objects after death; no Nouryoku needed. Same phenomenon as **Gloria**, who becomes vengeful; Masaki becomes a car)
 - The car became a kind of **walking Nouryoku**. Masaki **does not know** she is a car
+- **It is alive:** it **does not speak**, but it **can act on its own**
+- **Communication:** like being with someone you know is intelligent but whose language you don't understand
 - Mauricio discovered his car was **alive** right after losing his girlfriend. They **communicate** and get along. He **does not know** it is Masaki
 - He sees nothing wrong in racing with it: the God's Flag bans the drivers' Nouryoku, and the car is his partner, not his power
 
@@ -84,6 +106,7 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 
 - **No Nouryoku**
 - His edge is the **living car** (Masaki's spirit) and decades of driving
+- **Vulnerability:** threaten the car and you reach him
 
 ---
 
@@ -101,7 +124,20 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 - Rivals for **about 10 years**; Mauricio always wins
 - **Strong mutual respect**. Glayne is somewhat **resentful** at never winning
 - Glayne races without anyone knowing he is from Pristania
-- **Glayne kills him** (Arc 3)
+- When Glayne reveals himself as an Apostle of Pristania, Mauricio is at first **in awe**
+- **Glayne kills him** (Arc 3). Mauricio dies **sad**: this is not what Kami would have wanted
+
+### **Pristania:**
+- **Knows Pristania exists**, as Kami's organization
+- Pristania never showed itself in Kamino after Kami's death
+
+### **Free / Meiji:**
+- **Resents Free** because **Meiji killed Kami**
+- Still grants the twins their wish: Kami's tradition comes first
+
+### **The Car (Masaki's spirit):**
+- His partner; they understand each other without words
+- **Mourns him** when he dies
 
 ### **Arjan & Lopney:**
 - Sees them as **worthy rivals** (sportsmanship)
@@ -122,7 +158,10 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 - Mayor of Kamino and God's Flag champion: the protagonists need to **win the race** to have their wish (a ride to Vista Alegre) granted
 - The twins win. **Faithful to Kami, he grants their wish**
 - His town declares him a **traitor for helping Free** and **jails** him
-- **Glayne kills him** as punishment for helping Free
+- **Glayne kills him** as punishment for helping Free: a **public execution**
+- **Last words: to Masaki**
+- **The car mourns him**
+- He dies sad, not for himself: Kami would not have wanted this
 - **His death marks a new stage for Kamino**, now tied to Pristania and its bloody will
 
 ---
@@ -131,6 +170,8 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 
 - What Kami's ideals look like **without Pristania**: a town governing by Kami's teachings out of custom, with justice, sportsmanship and no hatred
 - He honors Kami's tradition even when it favors his enemies, and dies for it at the hands of Kami's own organization
+- **Mirror of Shigeru** (author): both embody Kami's philosophy of justice. Mauricio is the clean version of that ideal; Shigeru hid a genocide. They die in consecutive arcs
+- **Mirror of Glayne** (editor's reading, author: "si quieres"; weight uncertain): both lost a woman they loved whose spirit persists after death (Masaki becomes a car; Gloria becomes vengeful). Glayne turned the loss into revenge; Mauricio chose no hatred. The man who chose revenge executes the man who didn't. Use lightly; not load-bearing
 
 ---
 
@@ -144,15 +185,42 @@ AGE_ARC_1: 40s (about the age of Free's old Elite)
 
 ## **OPEN QUESTIONS**
 
-1. **The car/Masaki when Mauricio dies:** what happens to the car and the spirit?
+1. **The car/Masaki after Mauricio dies:** it mourns him (author). What happens to it next?
 2. **Does anyone ever learn the car is Masaki?**
 3. **Does Angel know about Masaki?**
 
 ---
 
+## **WRITING MAURICIO - QUICK REFERENCE**
+
+✅ Warm, folksy, voseo ("¿Y vos quién sos?")
+✅ Sportsmanship: worthy rivals are worthy rivals, Free or not
+✅ Gentlemanly, especially with women
+✅ Serene faith in Kami; never questions him
+✅ Reasonable mercy (lets Ichiro go)
+✅ Masaki's helmet on
+✅ Grants the wish even to Free: tradition is justice
+
+❌ Hatred or revenge, even toward Free
+❌ Cheating, or tolerating cheating
+❌ Knowing the car is Masaki
+❌ A Nouryoku
+❌ Ties to Pristania before Glayne's reveal
+❌ The car speaking
+
+---
+
+## **VISUAL NOTES FOR ARTISTS**
+
+- **Mauricio:** older man, short black hair, ordinary face, veteran's calm. Leather helmet (Masaki's) and pilot goggles; suit jacket over simple clothes (reference image, "based on")
+- **The car:** an **ordinary, old car**, not a race car. Its life shows in what it does, not in how it looks
+- **Masaki (flashback):** resembles **Mei** a little. [TBD: other features]
+
+---
+
 ## **SOURCES**
 
-- Author, session 2026-10-09 (all of the above)
+- Author, session 2026-10-09 (blocks 1-4)
 - Cross-checks: ANGEL_CHARACTER_PROFILE.md (Kami's successor, ages), KAMI_CHARACTER_PROFILE.md (TBD on Megami feelings vs. Angel), Factions.md (Kamino), chapter_2_FINAL.md (God's Flag, Arjan's fandom)
 
 ---
