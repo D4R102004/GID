@@ -104,8 +104,9 @@ Each arc opens with a short flashback on its **arc boss** and has an **event fro
 
 **Arc 1:** Yurisha (assassin, killed by Glayne)
 **Arc 2:** Shigeru Houzu (stabbed by Marsella, then sacrifices himself as the phoenix to save Yonoa), Kensuke/Protos (possessed by Shiro until the finale), Light (Free Elite, arc boss; beaten by Claudia, finished off by Shigo), Tased and Suilan (both killed by Shigo; he takes all three's DNA)
+**Arc 3:** Sea (S34, Perlereina's robot; destroyed by Yonoa, first of her losses), Hide (monster; killed by Jashin through Hirohiko), Mauricio (arc boss; executed by Glayne)
 **Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the finale), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present)
-**Arc 5:** Perlereina, Diominiciel, Glayne, Sea (robot), Gallan (self-sacrifice; resurrected Arc 6)
+**Arc 5:** Perlereina, Diominiciel, Glayne, Gallan (self-sacrifice; resurrected Arc 6)
 **Arc 6:** Jashin (spends both resurrections on Diominiciel and Perlereina; his body turns to dust)
 **Arc 4 (Emperors):** Perlereina, through Angel (secret 4th Emperor), lures Gabriella and Lyzander into a trap in the finale, on her order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists). Gabriella dies; Lyzander freezes Angel alive (Angel dies) and Yonoa saves him. Claudia falls into a coma after Yonoa beats her
 **End of Arc 5:** Hirohiko becomes leader of Pristania; peace between Pristania and Free

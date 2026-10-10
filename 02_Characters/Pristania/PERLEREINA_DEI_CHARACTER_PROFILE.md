@@ -501,16 +501,17 @@ AGE_ARC_1: ~35
 ### **Sea (Survey Unit S34 - Her Beloved Robot):**
 
 **Their Relationship:**
-- **Personal robot** created by Diominiciel
-- **Beloved companion** - one of her most treasured connections
+- **Personal robot** created by Diominiciel (upgraded over the years with Bellsaw), given to her for her **birthday when she was little**: her **first bond outside the family**
+- **Best friends, genuinely.** She never neglects him for Glayne
 - Functions as assistant, confidant, and friend
 - Represents family (created by her brother for her)
+- Profile: 02_Characters/Pristania/SEA_S34_CHARACTER_PROFILE.md
 
-**Sea's Death:**
-- **One of her devastating losses**
-- **Compounds** with deaths of Kami, Glayne, Diominiciel
-- **Breaking point** - loses everyone she loves
-- **Contributes to madness** - even her robot companion is taken
+**Sea's Death (Arc 3):**
+- **Destroyed by Yonoa** at sea. **The first of her losses**
+- She punches a **crater** into the island and takes his **core (海)**, which she **wears as a necklace** from then on
+- Glayne helps her bear it at the Kamino beach
+- **Compounds** later with Kami's memory and the Arc 5 deaths (Glayne, Diominiciel): loses everyone she loves
 
 ---
 
@@ -541,7 +542,8 @@ AGE_ARC_1: ~35
 
 **Opening Scene:**
 - **Confronts the heroes** (3v1 initially)
-- **Teleports Lyzander away** to Lopney and Ichiro
+- **Teleports Lyzander away** into S34 (Sea), who is to carry him to Pristania (ARC_3_SUMMARY)
+- **Loses Sea** (destroyed by Yonoa): first of her losses; wears his core 海 as a necklace
 - **"You thought three vs one was a fair fight?"** (demonstrates tactical superiority)
 - Shows her portal mastery and combat prowess
 
@@ -570,7 +572,7 @@ AGE_ARC_1: ~35
 - **Escalation** - proves how far she will go against Meiji
 
 **Alone with the captive Meiji (Arc 3 or 4):**
-- Meiji has been her prisoner since the end of Arc 2. In a scene alone with him: "I have you now. HAHAHAHAHA" [TBD: Arc 3 or Arc 4]
+- Meiji has been her prisoner since the end of Arc 2. **End of Arc 3:** she sees him face to face for the first time since his capture: "I have you now. HAHAHAHAHA" (ARC_3_SUMMARY, decided 2026-10-10)
 
 **The Gabriella Incident (decided 2026-09-19):**
 - Angel, her secret spy inside the protagonists' side, gives her **where and when Gabriella will be alone** (he does not know who she is), so she can **corner her alone**, suddenly on the page. Gabriella was her captive years before (with Diominiciel) and escaped
@@ -796,7 +798,7 @@ AGE_ARC_1: ~35
 6. **Her death scene** - Who kills her? Final words? Or just madness?
 7. **Does she fight Arjan/Lopney?** - Recognize them as Kami's fragments?
 8. **Rajin/Megami reveal** - Does she learn the truth before dying?
-9. **Sea's capabilities** - What can her robot companion do?
+9. ~~**Sea's capabilities**~~ **RESOLVED (2026-10-10):** see SEA_S34_CHARACTER_PROFILE.md
 10. **Beach routine with Glayne** - How often? Their special place?
 11. **Gabriella incident (Arc 4):** order relative to the Cristopher incident; how she reacts to being overruled by Bellsaw and Diominiciel; how a top-tier fighter ends up retreating (numbers and wounds, per the author)
 

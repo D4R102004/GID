@@ -645,7 +645,8 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 Pristania possesses robots, androids, and advanced machines developed by Diominiciel together with Bellsaw (the Emperor-engineer):
 
 1. **Survey Unit S34 - Nicknamed "Sea"**
-   - *[Function and capabilities TBD in tech/character profiles]*
+   - Perlereina's birthday robot, upgraded by Diominiciel and Bellsaw into a plane-sized armored combat drone; Pristania's best naval-combat asset. Destroyed by Yonoa in Arc 3
+   - Profile: 02_Characters/Pristania/SEA_S34_CHARACTER_PROFILE.md
 
 2. **Heavy Unit L411D - Nicknamed "Land"**
    - Built by Diominiciel and Bellsaw; a huge tank with cannons and great destructive power
@@ -660,6 +661,8 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
    - *[Function and capabilities TBD]*
 
 **Angel's mecha (Arc 4):** a giant winged mecha (cannon on one arm, hand on the other; lasers, bomb drones, fire, giant bombs), built by Bellsaw at Perlereina's request. Not one of the four units above. *[Name TBD]*
+
+**Build order (author, 2026-10-10):** Land → Sea → Air → Space. The units act like rival siblings at Pristania HQ
 
 **Note:** These units serve Pristania's operations and report to the Kamigami (primarily Diominiciel as their creator; Bellsaw co-built them, per-unit credit TBD).
 

@@ -1,5 +1,20 @@
 # GID LORE CHANGELOG
 
+## 2026-10-10 (Sea profile)
+**Files changed:** SEA_S34_CHARACTER_PROFILE.md (new), PERLEREINA, DIOMINICIEL, BELLSAW profiles, Factions.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Sea (Survey Unit S34), built by interview (blocks 1-3)
+- ORIGIN: a little robot, Diominiciel's birthday present to the young Perlereina, already named Sea; Diominiciel and Bellsaw kept upgrading it as she grew. Her first bond outside the family
+- NAME: his place in Pristania's series; build order Land → Sea → Air → Space. Pristania's best naval-combat asset. Survey units can carry arms
+- LOOK: plane-sized, armored, metallic; two side missile rails; rear thrusters; screen face (a smiley over a grid, with expressions); core 海 behind the face. Reference images are shape inspiration only
+- Genderless in theory; sees himself as a man. Mechanical, robotic voice
+- COMBAT: flight, underwater, missiles, cannons, ramming, bombs; carries a person inside; a creative heavy combat drone
+- PERSONALITY: arrogant, dutiful, somewhat insecure, feels in control (like Perlereina). Fears failing her. Sees his builders as mechanics. Somewhat jealous of Glayne, but loves Perlereina more; best friends. The other units are rival siblings at HQ
+- He knows Yonoa's losses because Pristania's information on its attack on Free is known
+- CONSISTENCY: Sea's death moved from Arc 5 to Arc 3 in Quick Ref (new Arc 3 deaths line: Sea, Hide, Mauricio) and Perlereina; Perlereina's Arc 3 opening now teleports Lyzander into S34; "I have you now" set at end of Arc 3; Bellsaw co-built Sea
+- FLAGGED [TBD]: the bonding scene / flashback; what the little robot looked like; how Land, Air and Space react to his death
+
 ## 2026-10-10 (Hide profile)
 **Files changed:** HIDE_CHARACTER_PROFILE.md (new, 02_Characters/Ryakujin/), Ryakujin_Experiments.md, Power_System.md
 

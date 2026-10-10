@@ -307,11 +307,12 @@ AGE_ARC_1: ~40
 **The Units:**
 
 1. **Sea (Survey Unit S34)**
-   - **Created for:** Perlereina's birthday gift (when she was little)
-   - **Function:** Surveillance, reconnaissance, companion
-   - **Relationship:** Perlereina's beloved robot
+   - **Created for:** Perlereina's birthday gift (when she was little): a little robot that he and Bellsaw kept upgrading as she grew
+   - **Function:** Surveillance, reconnaissance, companion; became Pristania's best naval-combat asset
+   - **Relationship:** Perlereina's beloved robot; sees Diominiciel and Bellsaw as his mechanics
    - Autonomous AI with personality
-   - *[Further details TBD in Sea's profile]*
+   - **Destroyed by Yonoa in Arc 3**
+   - Profile: 02_Characters/Pristania/SEA_S34_CHARACTER_PROFILE.md
 
 2. **Land (Heavy Unit L411D)**
    - Heavy combat/construction unit
