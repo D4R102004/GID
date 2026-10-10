@@ -156,7 +156,7 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 - In the stands: **Marsella, Perlereina, Lyon** on one side; **Ichiro and Gyrus** on the other. Lyzander stays at the clinic with Yonoa. Goro is in the stadium.
 - A very tense race; everyone plays their cards. **The twins win** (the boss is defeated).
 
-**→ INTERLUDE 3: ZENSHIN, MEGAMI AND JASHIN — THE THREE CITIES TEST** *(placement within the climax: see Open Items)*
+**→ INTERLUDE 3: ZENSHIN, MEGAMI AND JASHIN — THE THREE CITIES TEST** *(right after the twins win: the boss is defeated)*
 
 - Mauricio asks their wish: **"To go to Vista Alegre."** Glayne connects the dots, recognizes the twins and does the unthinkable: declares himself **Glayne Byronstrike, Apostle of Pristania**, proves it with his power, and tells the crowd these kids want to save Meiji. The crowd turns on them. (The twins: a man with **their surname**, from Pristania.)
 - As the crowd is about to lynch them, **Mauricio lends them his car**. The twins escape the stadium. **Glayne and the crowd seize Mauricio.**
@@ -189,12 +189,12 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 - **Goro wins easily**, but Ichiro's determination stops him from finishing it. To a defeated Ichiro: **he'll be watching; he'll wait for him at his mansion in Vista Alegre.**
 
 **19. Mauricio's Death**
-- **Public execution by Glayne**, as punishment for helping Free; his own town condemns him as a traitor. **Last words: to Masaki.** **The car mourns him** (far away, with the heroes: see Open Items).
+- **Public execution by Glayne**, as punishment for helping Free; his own town condemns him as a traitor. **Last words: to Masaki.** (The car, far away with the heroes, learns of it in Vista Alegre: see Transition to Arc 4.)
 - **The staging of a new power in Kamino:** the town now tied to Pristania and its bloody will.
 
 **20. The Kamigami and Meiji**
 - The Kamigami receive the news: **Goro found nothing** (he lied; he has never missed a contract before).
-- The scene of the **Kamigami with Meiji** in Pristania, including Perlereina alone with him: **"I have you now. HAHAHAHAHA"**.
+- The scene of the **Kamigami with Meiji** in Pristania. **Perlereina sees Meiji face to face for the first time since his capture** (she hadn't before): **"I have you now. HAHAHAHAHA"**.
 
 **21. End of Arc**
 - The protagonists drive on toward **Vista Alegre**.
@@ -257,7 +257,8 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 
 ## **TRANSITION TO ARC 4**
 
-- The five drive Mauricio's car (Masaki) toward Vista Alegre.
+- The five drive Mauricio's car (Masaki) toward Vista Alegre, **by land**.
+- **On arrival in Vista Alegre** they see on the news the **death of Kamino's mayor**: the heroes learn Mauricio was executed. **The car, seeing it, races back the way it came like lightning** (it mourns him; it leaves them).
 - Goro waits at his mansion in Vista Alegre; Pristania believes he found nothing.
 - Perlereina knows the heroes are alive; her capture plan for Lyzander has failed twice (third attempt: Cristopher, Arc 4).
 - Cristopher and Elysia found the boat Gallan arrived on and were sent to help (off-page).
@@ -320,12 +321,12 @@ The five sail for Vista Alegre: the twins to save Gallan, the trio (Yonoa, Lyzan
 ## **OPEN ITEMS**
 
 - [ ] **Order of the "Life in Kamino" events** (beats 7-12)
-- [ ] **Placement of Interlude 3** inside the climax: right after the win and before "Vista Alegre"/Glayne's reveal (cliffhanger), or after the escape?
-- [ ] **The car mourns Mauricio** while it is far away with the heroes: how does it show on page?
-- [ ] **Does Kamino know Dr. Hero helped the heroes?** How does Gyrus reach them in Arc 4?
-- [ ] **What changes for Perlereina** to say "I have you now" at the end?
-- [ ] **Route to Vista Alegre** by land (Geography says Vista Alegre is far beyond Kamino)
-- [ ] **Do the heroes ever learn Mauricio was executed?**
+- [x] Interlude 3: right after the twins win (2026-10-10)
+- [x] The car mourns Mauricio: in Vista Alegre, seeing the news, it races back to Kamino (2026-10-10)
+- [x] Kamino does not know Dr. Hero helped the heroes; how Gyrus reaches them is Arc 4 (2026-10-10)
+- [x] "I have you now": Perlereina sees Meiji face to face for the first time since his capture (2026-10-10)
+- [x] Route to Vista Alegre: by land (2026-10-10)
+- [x] The heroes learn of Mauricio's execution on arrival in Vista Alegre (2026-10-10)
 - [ ] Interlude 5 content (Arc 5)
 
 ---
