@@ -134,7 +134,8 @@ Yonoa recovers throughout (beat 12).
   - **Apostles:** Elipse (with Paru), Disappear (with Gyrus)
   - **Emperors:** Kami, Fénix, Protos, Bellsaw, Aoi, Fukusei
 - Public knowledge: one of the three Kamigami "isn't around." Lyzander maps Paru and Dyoni to faces; Gyrus and Disappear sound like old legend.
-- **Lyzander reacts to "Protos" and "Fénix"** (his grandfather, dead days ago; Yonoa's father in the next bed), idolized as heroes of Kami. He already knew Kensuke was an Emperor: the blow is emotional. **This reaction is the misdirection** that lets "Disappear" and "Bellsaw" pass unmarked.
+- **Yonoa is awake** (gravely wounded) and **starts to bond with Lyzander** here.
+- **Lyzander and Yonoa react to "Protos" and "Fénix"** (his grandfather and her father, both dead days ago), idolized as heroes of Kami. Lyzander already knew Kensuke was an Emperor; Yonoa recognizes her father as a superhero of the stories, **without knowing of the genocide** (dramatic irony). Their shared grief is their first real bond. **This reaction is the misdirection** that lets "Disappear" and "Bellsaw" pass unmarked.
 - **Hirohiko hears "Gyrus" and just smiles.**
 - For anyone in Kamino, seeing an Apostle or Emperor would be a dream come true.
 
@@ -154,7 +155,7 @@ Yonoa recovers throughout (beat 12).
 - We see the bond between Mauricio and his car. **The car learns Ichiro's scent** (pays off in beat 13).
 
 **12. Yonoa**
-- No event: gravely wounded, she recovers little by little.
+- No event of her own: gravely wounded, she recovers little by little; awake at the clinic, where she bonds with Lyzander (beat 8).
 
 ---
 
@@ -181,7 +182,7 @@ Yonoa recovers throughout (beat 12).
 - **Mauricio's car arrives with Arjan and Lopney** (it tracked **Ichiro's scent**), picks up Ichiro, Lyzander and Yonoa, and they're gone.
 
 **15. The Chase**
-- Marsella tends the cut on Lyon's neck. **Perlereina chases them through Kamino** with her portals. From the balconies people **connect the portals with "Paru"**, and knowing about the race, try to stop the heroes. They escape the city.
+- Marsella tends the cut on Lyon's neck. **Perlereina chases them through Kamino** with her portals. **The five use their powers together, imaginatively, to beat her off** (first time acting as a team) [TBD: design]. From the balconies people **connect the portals with "Paru"**, and knowing about the race, try to stop the heroes. They escape the city.
 - Perlereina punches another **crater** and a curtain of smoke rises. Marsella arrives with Lyon; a heated argument.
 - **Glayne** calms them and points out that Kamino is watching. He tells the people she is **Kami's daughter**, and **from now on Pristania will be with them**. The four leave.
 
@@ -195,11 +196,14 @@ Yonoa recovers throughout (beat 12).
 **17. Fathers**
 - On the long road to Vista Alegre the group stops and talks about **each one's father** (Gallan captured; Meiji captured; Shigeru dead; Goro alive). They tell Ichiro he should maybe be glad his father is alive and safe; Ichiro isn't in the mood.
 
-**18. Goro vs. Ichiro**
+**18-19. Goro vs. Ichiro → Mauricio's Death (chained)**
+*Staging (editor's proposal, author asked how it would look): night duel → match cut on "watching" → dawn in Kamino's square, the crowd watching the scaffold → daylight execution → back to the road by day, the car starting off unaware.*
+
+**18. Goro vs. Ichiro (night)**
 - A clone finds the group while **Ichiro is on guard**; the clone, recognizing his master's son, approaches almost with joy: "Young master Ichiro! Come, I'll take you to your father." First meeting in three years. Goro's first reaction is happiness; Ichiro refuses; they fight.
 - **Goro wins easily**, but Ichiro's determination stops him from finishing it. To a defeated Ichiro: **he'll be watching; he'll wait for him at his mansion in Vista Alegre.**
 
-**19. Mauricio's Death**
+**19. Mauricio's Death (day)**
 - **Public execution by Glayne**, as punishment for helping Free; his own town condemns him as a traitor. **Last words: to Masaki.** (The car, far away with the heroes, learns of it in Vista Alegre: see Transition to Arc 4.)
 - **The staging of a new power in Kamino:** the town now tied to Pristania and its bloody will.
 
@@ -279,6 +283,9 @@ Yonoa recovers throughout (beat 12).
 
 ## **WRITING NOTES**
 
+- **Small Kamino situations** (author: to help interactions; editor's options, not canon): Ichiro and Arjan stealing the car; Lopney learning to trust Arjan's blind instructions at the facility (the race and the chase); Lyzander using his ice tenderly at the clinic; Ichiro doing magic tricks for Kamino's kids.
+- **The race** must be frantic, adrenaline-driven; Mauricio must feel unbeatable beforehand. Arjan, hidden, gives Lopney the instructions that win it.
+
 - **Hide says "Zenshin", never "Kami".** No line on page links them.
 - **The clinic list:** hero names only; only figures from Kami's lifetime; a single reaction on page (Lyzander to Protos and Fénix); "Disappear" and "Bellsaw" get no panel; a story detail goes on another name (e.g. Fénix, "the fire bird"); Hirohiko just smiles at "Gyrus"; nobody says aloud that Gyrus hasn't been seen in years.
 - **The bomb is shown to the reader**, never to the characters.
@@ -338,6 +345,9 @@ Yonoa recovers throughout (beat 12).
 - [x] "I have you now": Perlereina sees Meiji face to face for the first time since his capture (2026-10-10)
 - [x] Route to Vista Alegre: by land (2026-10-10)
 - [x] The heroes learn of Mauricio's execution on arrival in Vista Alegre (2026-10-10)
+- [ ] **Design the God's Flag** (frantic, adrenaline; Mauricio unbeatable; how Arjan instructs from the trunk)
+- [ ] **Design the chase** (the five vs. Perlereina, creative use of powers)
+- [ ] Goro duel → execution chaining: confirm the editor's staging
 - [ ] Interlude 5 content (Arc 5)
 
 ---
