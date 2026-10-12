@@ -453,7 +453,7 @@
 
 ### **WHO DOESN'T KNOW:**
 - **Free** (and the protagonists' side)
-- **The Vista Alegre police** (Chief Marjenis and the other two commanders): nobody suspects him
+- **The Vista Alegre police** (Chief Marjenis and the other two commanders, Derek Guzman and Mariana): nobody suspects him
 
 ### **WHEN REVEALED (Planned):**
 - **Arc 4:** after his death in a Vista Alegre hospital, the police investigation discovers he was an Emperor [details TBD]
@@ -551,3 +551,32 @@
 ---
 
 *END OF CRITICAL SECRETS TRACKER*
+
+---
+
+## **MARJENIS MORALES IS A NOURYOKUSHA (added 2026-10-12)**
+
+### **WHO KNOWS:**
+- **Marjenis**
+- **Kami** (dead): found out through Bellsaw's information and assaulted the department; kept the secret as part of their pact
+
+### **WHO DOESN'T KNOW:**
+- Everyone else, including his son **Kouji** and his commanders
+- Nobody can trace the Sellos: he places them subtly, nobody links a stamp to what happened to them, and removed Sellos vanish after 10 minutes
+- [TBD: whether Bellsaw knew of the Kami-Marjenis pact]
+
+### **ALSO HIDDEN:**
+- As a boy he killed the fake doctor and the corrupt officer who murdered his parents: nobody knows
+- He drove the former Chief mad with his Sellos: nobody knows
+
+### **WHEN REVEALED:**
+- **Arc 4:** he reveals it himself in a public speech and unites the police with Karauma
+- **Reader:** should suspect, not know, from the opening flashback (MARJENIS profile)
+
+---
+
+## **MARIANA LEADS KARAUMA (added 2026-10-12)**
+- **Who knows:** Mariana and Karauma
+- **Who doesn't:** the police, Marjenis
+- **Revealed:** Arc 4, by Space
+

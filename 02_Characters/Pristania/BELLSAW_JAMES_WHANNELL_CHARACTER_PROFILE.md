@@ -276,6 +276,8 @@ He does not say a fixed farewell before missions; he has several phrases and use
 ### **Joining Kami:**
 - Kami met him on the job, saw through him, and convinced him to join his cause after a conversation about right and wrong
 - Bellsaw stayed in the police as an informant
+- **Dates (2026-10-12):** joins ~32 years before Arc 1 (age ~29). **His information let Kami assault the department alone and confront Marjenis** (~30 years before Arc 1); **right after, Kami named him Emperor** (~31). MARJENIS_MORALES_CHARACTER_PROFILE.md
+- **Arc 4:** kidnaps his own lieutenant **Karin** for Pristania; Marsella and Diominiciel turn her into Space (5P4C3). Bellsaw and Space confront Arjan, Lopney and Yonoa; Space goes rogue
 
 ### **Contributions:**
 - Provided police information

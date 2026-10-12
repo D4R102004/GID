@@ -908,7 +908,7 @@ AGE_ARC_1: ~40
 5. **Does he talk to Kami's corpse?** - Private moments in the lab?
 6. **Other inventions** - Beyond the four units and necklace?
 7. **Relationship with Space's creator** - Who made the biological unit?
-8. **Arc 2-4 specifics** - What are his pivotal moments? (Arc 4 now includes Perlereina's meeting and the task he gives Claudia; still TBD: how he covers Dragoon's role, whether he learns that Perlereina broke his order through Angel before his Arc 5 death)
+8. **Arc 2-4 specifics** - What are his pivotal moments? (Arc 4 now includes Perlereina's meeting and the task he gives Claudia; **2026-10-12:** acting as Dragoon he ambushes Lyzander, flees when Marjenis arrives; with Marsella turns Karin into Space; **kills Marjenis** in the assault on the Vista Alegre police (MARJENIS_MORALES_CHARACTER_PROFILE.md); still TBD: how he covers Dragoon's role, whether he learns that Perlereina broke his order through Angel before his Arc 5 death)
 9. **Does he ever doubt the cause?** - Moments of clarity?
 10. **Relationship with other Pristania members** - Beyond Emperors?
 

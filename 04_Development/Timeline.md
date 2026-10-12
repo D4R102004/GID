@@ -131,8 +131,16 @@ All dates are calculated from these reference points.
 - Kami establishes **Pristania** (before the Kamigami are born)
 - Ideology: Absolute morality creates perfect world
 - Kami serves as 4th Emperor himself
-- **The 4 Emperors are NOT named on day one:** Kami recruits and names the original Emperors (Bellsaw, Shigeru, Kensuke) during Pristania's **early years** [TBD: exact years]
+- **The 4 Emperors are NOT named on day one:** Kami recruits and names the original Emperors (Bellsaw, Shigeru, Kensuke) during Pristania's **early years** [TBD: exact years for Shigeru and Kensuke]. **Bellsaw:** joins as an informant ~32 years before Arc 1 and is named Emperor ~30 years before Arc 1, right after Kami's assault on the Vista Alegre police (see Marjenis below; MARJENIS_MORALES_CHARACTER_PROFILE.md)
 - Begins building following
+
+### **Marjenis Morales and Vista Alegre (author, 2026-10-12)**
+- **~57 years before Arc 1:** Marjenis (8) awakens his Nouryoku (Sellos) in Vista Alegre and hides it
+- **~56 years before Arc 1:** a fake doctor (a Nouryokusha protected by a corrupt officer) murders his parents and burns the house; the boy kills both men. *(Arc 4 opening flashback)*
+- **~34 years before Arc 1:** Marjenis (~31) exposes the corrupt former Chief and becomes **Chief of Police**; institutes the "however is necessary" policy
+- **~32 years before Arc 1:** Bellsaw (~29), disillusioned by the new brutality, joins Pristania as an informant inside the department
+- **~30 years before Arc 1:** with Bellsaw's information, Kami assaults the department alone, spares only Marjenis, names him **Devirtud** and makes a secret pact (Kami preaches freely; Kami keeps his secret). **Right after, Kami names Bellsaw Emperor** (~31)
+- **~30-18 years before Arc 1:** Marjenis and Kami are secret pseudo-allies
 
 ### **Early Development**
 - Founds **Kamino** as loyal population base
@@ -378,8 +386,19 @@ All dates are calculated from these reference points.
 3. Claudia persuades; Gabriella tells her about Free, refuses to stop
 4. Bellsaw dies (beaten by Yonoa; dies in the hospital where Claudia works)
 5. Claudia goes after Yonoa and is beaten into a coma
-6. **Arc 4 finale, the trap (author):** on Perlereina's order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists), Angel, her secret 4th Emperor, lures Gabriella and Lyzander to a building. A projector shows Angel's life and all his acts, including his betrayals: **Lyzander learns everything**. Angel reveals himself and fires from a giant mecha; Gabriella shields Lyzander, opens him a path and dies, giving him metal wings; Lyzander fights the mecha, freezes it and then **freezes Angel alive (Angel dies)**. The mecha has destroyed a large part of Vista Alegre (Claudia's hospital is spared). **Yonoa saves Lyzander** from the rubble
-[TBD: exact order of 4 and 5 relative to 6 (the trap is the final act of Arc 4, author); how the fall of the Vista Alegre police fits (before the trap)]
+6. **The trap (author), after the fall of the police and before the Kamino conquest:** on Perlereina's order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists), Angel, her secret 4th Emperor, lures Gabriella and Lyzander to a building. A projector shows Angel's life and all his acts, including his betrayals: **Lyzander learns everything**. Angel reveals himself and fires from a giant mecha; Gabriella shields Lyzander, opens him a path and dies, giving him metal wings; Lyzander fights the mecha, freezes it and then **freezes Angel alive (Angel dies)**. The mecha has destroyed a large part of Vista Alegre (Claudia's hospital is spared). **Yonoa saves Lyzander** from the rubble
+[TBD: exact order of 4 and 5 relative to 6]
+
+### **Arc 4 (Vista Alegre), the police thread (author, 2026-10-12; MARJENIS_MORALES_CHARACTER_PROFILE.md)**
+- Diominiciel (as Dragoon, so after step 2) ambushes Lyzander, out walking with Angel; Marjenis arrives, Diominiciel flees, **the police capture Lyzander**
+- Bellsaw kidnaps his own lieutenant **Karin**; Marsella and Diominiciel turn her into **Space** (Biological Unit 5P4C3)
+- Bellsaw and Space vs. Arjan, Lopney, Yonoa: Space goes rogue; Bellsaw dies (step 4). Only now does Marjenis learn of Free
+- Kouji talks Marjenis out of executing Lyzander in public. Space exposes Commander Mariana as leader of **Karauma**
+- Marjenis reveals in public that he is a Nouryokusha; police and Karauma unite against the organizations
+- **Fall of the Vista Alegre police:** Free and Pristania assault the coalition; Marjenis beats Ichiro and Shiro (as Zafiro); **Diominiciel kills Marjenis**. Lyzander is freed
+- Then the trap (step 6) and the mecha's destruction of the city
+- **Last act of the Vista Alegre story:** Pristania engineers **Kamino** into an army of fanatics and **conquers Vista Alegre** in a pitched battle
+- **Arc 4 closes** with Free preparing the assault on Pristania HQ
 
 ### **Arc 5 end**
 - Perlereina and Diominiciel die; Hirohiko becomes the leader of Pristania; peace between Pristania and Free

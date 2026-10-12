@@ -1,5 +1,31 @@
 # GID LORE CHANGELOG
 
+## 2026-10-12 (Marjenis profile)
+**Files changed:** MARJENIS_MORALES_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), Factions.md, Timeline.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, BELLSAW, ANGEL, DIOMINICIEL profiles, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Marjenis Morales, Nouryoku name **Devirtud** ("de virtud" / "Devil"), built by interview (blocks 1-7). Preliminary: more will come with Arc 4
+- Chief of the Vista Alegre police; 65 in Arc 1; male; **secret Nouryokusha**. Tall, heavy, bald, mulatto, deep voice (Mongul as presence reference only)
+- PERSONALITY: believes he does right; military, patriotic, brutal; police as family; himself as the city's hero; ideas close to Kami's, a touch of Light Yagami. Flaw: the worst kind of evil, the kind that doesn't know it. "Devil" is moral (fallen from grace), not a transformation
+- GOAL: the development of Vista Alegre; to get there, remove Free, Pristania and Jitsumoto. Despises the Kamigami (impure; Pristania is no longer Kami's)
+- ORIGIN (Arc 4 flashback): Nouryoku at 8; a fake doctor (Nouryokusha, protected by a corrupt officer) kills his parents and burns the house; the boy kills both. His hatred of Nouryokusha is self-loathing
+- RISE: drove the corrupt former Chief mad with humiliating Sellos and exposed him; Chief ~34 years before Arc 1; "however is necessary" policy
+- KAMI: with Bellsaw's information, Kami assaults the department alone (~30 years before Arc 1), names him Devirtud ("You really are Devil. No... you will be Devirtud. And I, as Kami, will allow you to exist."), secret pact; Kami names Bellsaw Emperor right after. Pseudo-allies until Kami's death; then he felt alone
+- NOURYOKU: **Sellos** (postage stamps; distinct from Kami's Sealing) activated through the **Vice** (fist-sized reader). Physical effects only, never the will; must touch; skin vs. clothes; visible; removing ends it; vanish 10 min after removal; no limit, no cost. Fights as a tank
+- POLICE STRUCTURE (Factions.md): Chief Marjenis; Commanders Derek Guzman, Mariana, Bellsaw; Lieutenants Kouji (son, under Derek), Iris, Karin (under Bellsaw). Mirrors Pristania. Mariana fills the previously unnamed commander slot
+- KARAUMA: secret mafia-like organization opposing Marjenis; led by Mariana
+- KARIN = SPACE: kidnapped by Bellsaw, injected with Mei's cells by Marsella and Diominiciel; goes rogue
+- ARC 4: Diominiciel (as Dragoon) ambushes Lyzander; police capture him. After Bellsaw's death Marjenis learns of Free; Kouji talks him out of executing Lyzander; Space exposes Mariana; Marjenis reveals himself in public and unites police and Karauma. Free and Pristania assault the coalition; he beats Ichiro and Shiro (Zafiro); **Diominiciel kills him**. Then the trap and the mecha; then **Pristania conquers Vista Alegre with Kamino's fanatics** (last act in Vista Alegre). Arc 4 closes with Free preparing the Pristania HQ assault
+- Kouji survives and knows his father was a Nouryokusha
+- READER: should suspect, not know, the flashback boy is Marjenis (editor's recommendation, accepted)
+
+**Consistency:**
+- Timeline: Bellsaw joins ~32 and is named Emperor ~30 years before Arc 1 (early-years TBD narrowed); Marjenis entries; Arc 4 police thread; the trap no longer labeled "Arc 4 finale"
+- Angel profile: unnamed commander → Mariana
+- Open Questions: Vista Alegre survivors partly resolved
+
+**FLAGGED [TBD]:** last words; how he meets Arjan and Lopney; the visual link between boy and adult; whether Bellsaw knew of the pact; Kouji after Arc 4; full speech; Iris; Karauma details; uniform design
+
 ## 2026-10-10 (Sea profile)
 **Files changed:** SEA_S34_CHARACTER_PROFILE.md (new), PERLEREINA, DIOMINICIEL, BELLSAW profiles, Factions.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
 

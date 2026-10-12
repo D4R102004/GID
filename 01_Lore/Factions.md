@@ -658,6 +658,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 
 4. **Biological Unit 5P4C3 - Nicknamed "Space"**
    - Not created by Diominiciel alone: his profile credits another creator, and Marsella's profile has her co-developing it with him
+   - **Origin (author, 2026-10-12):** **Karin**, a Vista Alegre police lieutenant under Bellsaw, kidnapped by Bellsaw in Arc 4 and injected with Mei's cells by Marsella and Diominiciel. What Uragaeshi would have become had the experiments continued. Two personalities: Karin's kind, justice-minded self, and a new hidden one born of the trauma, Space. **Goes rogue and deserts Pristania** in Arc 4 (after the fight with Arjan, Lopney and Yonoa); exposes Mariana as Karauma's leader
    - *[Function and capabilities TBD]*
 
 **Angel's mecha (Arc 4):** a giant winged mecha (cannon on one arm, hand on the other; lasers, bomb drones, fire, giant bombs), built by Bellsaw at Perlereina's request. Not one of the four units above. *[Name TBD]*
@@ -1589,6 +1590,41 @@ GENERAL MEMBERSHIP
 ---
 
 **END OF JITSUMOTO ENTRY**
+
+---
+
+## VISTA ALEGRE: POLICE AND KARAUMA
+
+*(Added 2026-10-12, author. Not organizations at war in the sense of the three factions above, but Arc 4's main forces in the city.)*
+
+### **VISTA ALEGRE POLICE DEPARTMENT**
+
+**Structure (modeled on Pristania, a sign of Marjenis' regard for Kami):** Chief = Kami; Commanders = the Kamigami; Lieutenants = the Apostles. Each lieutenant serves under one commander.
+
+| Rank | Holder | Notes |
+|---|---|---|
+| **Chief of Police** | **Marjenis Morales "Devirtud"** | Secret Nouryokusha; Arc 4 boss; killed by Diominiciel. Profile: 02_Characters/Vista_Alegre/MARJENIS_MORALES_CHARACTER_PROFILE.md |
+| Commander | **Derek Guzman** | Tailed by Angel on Perlereina's order [why: TBD]. No profile |
+| ↳ Lieutenant | **Kouji Morales** | Marjenis' son; Derek's assistant; a "liberal" officer; survives Arc 4 |
+| Commander | **Mariana** | Secretly the leader of **Karauma**; infiltrated the department |
+| ↳ Lieutenant | **Iris** | Under Mariana by elimination [confirm]. No details yet |
+| Commander | **James Whannell (Bellsaw)** | Pristania Emperor; dies Arc 4 |
+| ↳ Lieutenant | **Karin** | Kidnapped by Bellsaw; becomes **Space** (5P4C3) |
+
+Below them, the rest of the force.
+
+**Policy:** under Marjenis, brutality, hatred of Nouryokusha and criminals, and the rule that an officer may close a case "however is necessary". Declared Pristania illegal; confiscated Elysia's clinic.
+
+### **KARAUMA**
+- A **secret, mafia-like organization** in Vista Alegre that directly opposes Marjenis' ideas and brutality
+- **Leader:** Commander **Mariana**, who rose to commander by slipping into the department. Her aim: **peace for Vista Alegre**
+- **Arc 4:** exposed by Space; then joins the police in **Marjenis' coalition** after his public reveal. Shattered in the Free/Pristania assault
+- [TBD: members, methods, name meaning]
+
+### **ARC 4 OUTCOME**
+- The coalition (police + Karauma) falls to the Free/Pristania assault; Marjenis dies
+- Angel's mecha destroys a large part of the city
+- **Pristania engineers Kamino into an army of fanatics and conquers Vista Alegre**
 
 ---
 

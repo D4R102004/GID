@@ -117,12 +117,12 @@
   - How does Diominiciel cover Dragoon's position (Nouryoku is Time Flow Manipulation; he avoids direct combat)?
   - ~~Why does Angel act on his own against Diominiciel's ceasefire?~~ **RESOLVED 2026-09-19:** he acts on Perlereina's order and does not know the ceasefire exists. Still open: does Diominiciel learn Perlereina used Angel to break it?
   - ~~**Angel profile:** Nouryoku, identity, motive, and how and when he dies~~ **RESOLVED 2026-09-19:** no Nouryoku; Angel Velasco; dies in the Arc 4 finale, frozen alive by Lyzander
-  - Exact order of Gabriella's death, Bellsaw's death and the Yonoa fight (the trap is the final act of Arc 4, author)
+  - Exact order of Gabriella's death, Bellsaw's death and the Yonoa fight. **2026-10-12:** the trap comes after the fall of the police; the Kamino conquest is the last act in Vista Alegre (Timeline.md)
 
 - [ ] **Angel's remaining questions (2026-09-19; see ANGEL_CHARACTER_PROFILE.md, Editor's Flags and Open Questions)**
   - What Lyzander does with what he learned (Angel's history with Kami, Perlereina's role): does he tell Free and Meiji? How do they react to learning Kami had a lover and a secret successor?
   - Does Perlereina learn Lyzander knows? Does Diominiciel learn she used Angel to break his ceasefire?
-  - Vista Alegre after the mecha's attack: who survives (Derek Guzman, Marjenis, the police)? Who is Derek Guzman and why does Perlereina watch him?
+  - Vista Alegre after the mecha's attack: who survives (Derek Guzman, the police)? **PARTLY RESOLVED 2026-10-12:** Marjenis dies before the mecha (killed by Diominiciel in the assault); Kouji survives; the police/Karauma coalition is shattered and Pristania conquers the city with Kamino's fanatics. Still open: who Derek Guzman is and why Perlereina watches him
   - The projection: does it show the ambush tip; is it Angel's edited version? Who runs it?
   - ~~Kami's age at death~~ **RESOLVED 2026-10-02: ~55.** Still open: Kami's life-stage ages and the Timeline's Kamigami birth years don't match the roster ages (~40/~38/~35)
   - The mecha's name; who built Angel's arm cannon; a full Yonoa rescue scene
