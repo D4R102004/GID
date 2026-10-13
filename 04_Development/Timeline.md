@@ -104,6 +104,7 @@ All dates are calculated from these reference points.
 - Zenshin uses **1st resurrection** on Megami (1 use remaining)
 - Lies to her: "Ryakujin killed Jashin, we destroyed facility together"
 - They bury Jashin's comatose body
+- **Zenshin renames himself Kami (神), "God", here at the facility**, after sealing Jashin, killing Hide and reviving Megami (author, 2026-10-13; previously placed 2-9 years later, at the marriage). Shown in **Interlude 4** (after Diominiciel kills Marjenis): the line tells the reader that the interludes were Kami's backstory
 - Escape together
 - (After Kami's confession, ~33 years before Arc 1: Megami visits the grave; Kami moves the body to Pristania HQ)
 
@@ -114,7 +115,6 @@ All dates are calculated from these reference points.
 **Kami's Age:** 18 to ~32 years old
 
 ### **The Wandering Period**
-- Zenshin renames himself **Kami (神)** - "God"
 - Travels the world with Megami
 - **Marries Megami** (2-9 years after the massacre). They choose to be together; **no children yet**
 - Develops his ideology of absolute morality

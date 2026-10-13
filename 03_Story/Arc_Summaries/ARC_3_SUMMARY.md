@@ -311,7 +311,7 @@ Yonoa recovers throughout (beat 12).
 - **Pristania's plan for Meiji:** capture someone from Free and torture them before him so he deactivates Protos's sphere (Lyzander ×2 in Arc 3; Cristopher in Arc 4).
 - **Pristania as children's myth** in Kamino (hero names; Kami-era roster).
 - **At Kami's death:** Apostles Glayne and Gallan; Emperors Kami, Aoi, Bellsaw, Goro.
-- **Interludes** are of **Zenshin, Megami and Jashin** (Kami = Zenshin): 1 creation (after Yurisha) · 2 their relationship (after Light) · 3 the three cities (after Mauricio) · 4 the destruction of the facility (after Marjenis) · 5 TBD (after Perlereina). Five, not six.
+- **Interludes** are of **Zenshin, Megami and Jashin** (Kami = Zenshin): 1 creation (after Yurisha) · 2 their relationship (after Light) · 3 the three cities (after Mauricio) · 4 the destruction of the facility (after Diominiciel kills Marjenis: the full fight of Zenshin and Jashin, Jashin destroying the Ryakujin facility, Zenshin killing Hide and reviving Megami; it ends with **Zenshin naming himself Kami**, so the reader realizes the interludes were Kami's backstory; author, 2026-10-13. Megami's face is not Rajin's, so showing her does not give Rajin away) · 5 TBD (after Perlereina). Five, not six.
 
 ---
 

@@ -88,6 +88,7 @@ The Ryakujin send all three to different human cities to test their combat effec
 - Zenshin uses his **first resurrection** on Megami
 - **Lies to her:** "The Ryakujin killed Jashin, we both destroyed the facility together"
 - They bury Jashin's **still-living comatose body**
+- **Zenshin renames himself Kami (神), "God", here at the facility**, after sealing Jashin, killing Hide and reviving Megami (author, 2026-10-13; previously placed 2-9 years later, at the marriage). Shown in **Interlude 4** (after Diominiciel kills Marjenis): the line tells the reader that the interludes were Kami's backstory
 - *Later (after Kami's confession, ~33 years before Arc 1):* Megami returns to the grave to hug him; Kami arrives and takes his brother's body to a hidden chamber in Pristania HQ. Megami knows (decided 2026-10-06)
 - Escape together
 
@@ -96,7 +97,6 @@ The Ryakujin send all three to different human cities to test their combat effec
 ### **THE FAMILY ERA**
 
 **~2-9 Years After Massacre:**
-- Zenshin renames himself **Kami (神)** - "God"
 - Marries Megami; they travel together and choose to be a couple **without children yet**
 
 **Kami's Journey (~41 years before Arc 1, Kami ~32):**

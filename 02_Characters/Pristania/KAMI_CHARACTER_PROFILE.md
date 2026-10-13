@@ -22,7 +22,7 @@ AGE_ARC_1: N/A (died age ~55)
 ## **NAME SIGNIFICANCE**
 
 **Zenshin → Kami:**
-- Changed his name after marrying Megami
+- Changed his name **at the Ryakujin facility**, right after sealing Jashin, killing Hide and reviving Megami (author, 2026-10-13; previously "after marrying Megami"). Shown in Interlude 4
 - **"Kami"** = "God" - declaring himself the only god
 - Symbolic: Jashin (his brother) was sealed/dormant, so he alone remained
 - Represents his transformation from experiment to self-determined being
@@ -36,11 +36,12 @@ AGE_ARC_1: N/A (died age ~55)
 - Sealed Jashin, killed Hide
 - Escaped with resurrected Megami
 - Buried Jashin's comatose body
+- Renamed himself Kami, at the facility
 
 **Age 18-~32:** Traveled the world with Megami
 - Witnessed human suffering
 - Developed his ideology
-- Married Megami (2-9 years after the massacre), renamed himself Kami. Together, no children yet
+- Married Megami (2-9 years after the massacre). Together, no children yet
 
 **Age ~32:** Founded Pristania (~41 years before Arc 1)
 - Began spreading his ideology
