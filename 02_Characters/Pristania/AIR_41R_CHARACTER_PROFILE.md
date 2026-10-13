@@ -3,7 +3,7 @@
 ---
 ROLE: Antagonist (Arc 4); Diominiciel's android; the machine that wants to be human
 FACTION: Pristania (technological unit)
-STATUS: Dies Arc 4 (killed in cold blood by Ichiro, after the assault on the Vista Alegre police)
+STATUS: Destroyed Arc 4 (by Ichiro, after the assault on the Vista Alegre police, just before Ichiro's evolution)
 AGE_ARC_1: An android; looks mid-to-late 20s. Built by Diominiciel after Sea and before the attack on Free 5 years before Arc 1 (exact date TBD)
 ---
 
@@ -15,7 +15,7 @@ AGE_ARC_1: An android; looks mid-to-late 20s. Built by Diominiciel after Sea and
 **Series:** third of Pristania's four units: **Land** (first) → **Sea** → **Air** → **Space** (last)
 **Gender:** male (this profile uses "he")
 **Apparent age:** mid-to-late 20s
-**Status:** Killed by Ichiro (Arc 4)
+**Status:** Destroyed by Ichiro (Arc 4)
 
 ---
 
@@ -156,7 +156,7 @@ AGE_ARC_1: An android; looks mid-to-late 20s. Built by Diominiciel after Sea and
 - Admires his idea of improving the world, known through Pristania and Diominiciel
 
 ### **Arjan and Ichiro Kiryuin:**
-- **Defeated by Arjan and Ichiro** after the assault on Vista Alegre. **Ichiro kills him in cold blood** (Arc 4)
+- **Defeated by Arjan and Ichiro** after the assault on Vista Alegre. **Ichiro destroys him** (Arc 4). To Ichiro this is not murder: Air is not a person, and piercing the core is the only way to stop him
 
 ---
 
@@ -167,7 +167,8 @@ AGE_ARC_1: An android; looks mid-to-late 20s. Built by Diominiciel after Sea and
 
 ### **Arc 4 - "Into the City of the Misbegotten":**
 - **The assault on the Vista Alegre police:** he **infiltrates the headquarters**, **lets the rest of Pristania in**, and takes charge of **fighting the police officers**
-- **After the assault** (in the final stretch of Arc 4; details to come from the author): **defeated by Arjan and Ichiro**. **Ichiro kills him in cold blood**
+- **After the assault** (in the final stretch of Arc 4; details to come from the author): **defeated by Arjan and Ichiro**. **Ichiro destroys him** by piercing his core. **Not murder** (author): Air is not a person, and there is no other way to defeat him
+- Happens **just before Ichiro's evolution** (完全催眠; ICHIRO_KIRYUIN_CHARACTER_PROFILE.md)
 
 ---
 
@@ -179,7 +180,8 @@ AGE_ARC_1: An android; looks mid-to-late 20s. Built by Diominiciel after Sea and
 - *Editor's readings (not author canon; use lightly):*
   - **Space's mirror**: Karin is a human made into a weapon against her will; Air is a weapon who wants to be human. They never meet
   - Vista Alegre persecutes those who are different (Nouryokusha, under Marjenis): the city that would despise him is the one he dies in
-  - A fight against him is a fight against illusions; the opponent who kills him is a stage magician (Ichiro)
+  - A fight against him is a fight against illusions; the opponent who destroys him is a stage magician (Ichiro)
+  - He spends his life wanting to be a person; he ends treated as a machine, destroyed rather than killed
 
 ---
 
@@ -195,7 +197,7 @@ AGE_ARC_1: An android; looks mid-to-late 20s. Built by Diominiciel after Sea and
 1. **When Diominiciel built him**
 2. **Hair color:** long white, red or blue
 3. **His role in the attack on Free** 5 years ago
-4. **The fight with Arjan and Ichiro** and the context of his death (author: final stretch of Arc 4)
+4. **The fight with Arjan and Ichiro** (author: final stretch of Arc 4, just before Ichiro's evolution)
 5. **Sea:** how Air related to him and took his death
 6. **Signature lines**
 

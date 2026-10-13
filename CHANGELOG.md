@@ -11,7 +11,7 @@
 - POWER (technology, not a Nouryoku, no name): four metal pieces form a cubicle; arm-panel combos call up prepared augmented-reality holograms (felt but not wounding, like Yu-Gi-Oh! anime duels), one set at a time; real metal weapons from the walls and floor. Plays with victims; fights like a conversation
 - RELATIONSHIPS: very close to Diominiciel (who also wants to make him human); admires Perlereina as the summit of human power; Land's opposite pole; never meets Space; knows Kami's idea only through Pristania and Diominiciel
 - CORRECTED: in the flashback of the attack on Free 5 years ago, the missiles on Lyon and Gabriella were **Sea's**, not Air's (ARC_2_SUMMARY). Air helped Pristania attack Free that night
-- ARC 4: infiltrates the police HQ in the assault, lets Pristania in, fights the police. **After the assault** (final stretch, details pending), defeated by Arjan and Ichiro; **Ichiro kills him in cold blood**
+- ARC 4: infiltrates the police HQ in the assault, lets Pristania in, fights the police. **After the assault** (final stretch, details pending), defeated by Arjan and Ichiro; **Ichiro destroys him** (not murder: Air is not a person), just before Ichiro's evolution
 - EDITOR'S READINGS (not canon): Space's mirror; Vista Alegre as the city that despises the different; killed by a stage magician in a fight of illusions
 
 ## 2026-10-13 (Land profile)

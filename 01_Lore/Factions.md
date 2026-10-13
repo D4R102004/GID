@@ -658,7 +658,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 3. **Android Unit 41R - Nicknamed "Air"**
    - **Built by Diominiciel alone**, from nothing. Core **空**. A skin-covered android (think Android #16) who looks mid-to-late 20s, sinister, and **wants to be human**; does not fly (the name is about his ideas)
    - Fights with technology, not a Nouryoku: a **cubicle** of four metal pieces where his arm panel calls up augmented-reality holograms (they hurt but don't wound) plus real weapons from the walls and floor
-   - Helped attack Free 5 years before Arc 1. Arc 4: infiltrates the police HQ in the assault; after it, defeated by Arjan and Ichiro and **killed in cold blood by Ichiro**
+   - Helped attack Free 5 years before Arc 1. Arc 4: infiltrates the police HQ in the assault; after it, defeated by Arjan and Ichiro and **destroyed by Ichiro** (not murder: Air is not a person), just before Ichiro's evolution
    - Profile: 02_Characters/Pristania/AIR_41R_CHARACTER_PROFILE.md
 
 4. **Biological Unit 5P4C3 - Nicknamed "Space"**
