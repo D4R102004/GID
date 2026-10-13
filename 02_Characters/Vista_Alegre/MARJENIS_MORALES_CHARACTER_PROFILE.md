@@ -175,10 +175,12 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 
 ### **Kouji Morales (son):**
 - Lieutenant under **Commander Derek Guzman**
+- A **happy childhood**: Kouji is a daddy's boy. His mother died when he was small
+- Marjenis **shields him from the department's brutality** and **wonders whether he should have let his son become a police officer**
 - **Complicated relationship.** Kouji is more "liberal": a policeman on the side of justice and doing things right. Marjenis shares those ideals in his own way, but they have clashed over them
 - **Does not know** his father is a Nouryokusha (until the public reveal)
 - **Kouji is the one who changes him** over Arc 4: a father-son conversation stops him from executing Lyzander in public
-- **Survives Arc 4**
+- **Survives Arc 4**; becomes **Chief of Police** just before Arc 6. Profile: KOUJI_MORALES_CHARACTER_PROFILE.md
 
 ### **His Commanders (Derek Guzman, Mariana, Bellsaw):**
 - He **appreciates all of them** and sees them as **loyal followers**
@@ -207,7 +209,7 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 - His opponents in the **Arc 4 climax**. He **defeats both**
 
 ### **Arjan and Lopney:**
-- Meets them in Arc 4 [TBD: circumstances]
+- After Bellsaw's death they infiltrate the department to find Lyzander; **Kouji guesses who they are and brings them before Marjenis**. Derek gets them out [TBD: how]
 
 ---
 
@@ -263,11 +265,10 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 ## **OPEN QUESTIONS**
 
 1. **Last words** facing Diominiciel
-2. **Arjan and Lopney:** how he meets them
-3. **The visual link** between the boy in the flashback and the adult
-4. **Did Bellsaw know** of the pact between Kami and Marjenis?
-5. **Kouji after Arc 4:** what he does with the police and with Vista Alegre under Pristania
-6. **The full speech** (to be finished at drafting)
+2. **The visual link** between the boy in the flashback and the adult
+3. **Did Bellsaw know** of the pact between Kami and Marjenis?
+4. **Kouji under the occupation** (Arc 5): what he does while Vista Alegre is held by Pristania
+5. **The full speech** (to be finished at drafting)
 
 ---
 

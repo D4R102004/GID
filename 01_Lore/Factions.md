@@ -1604,10 +1604,10 @@ GENERAL MEMBERSHIP
 | Rank | Holder | Notes |
 |---|---|---|
 | **Chief of Police** | **Marjenis Morales "Devirtud"** | Secret Nouryokusha; Arc 4 boss; killed by Diominiciel. Profile: 02_Characters/Vista_Alegre/MARJENIS_MORALES_CHARACTER_PROFILE.md |
-| Commander | **Derek Guzman** | Tailed by Angel on Perlereina's order [why: TBD]. No profile |
-| ↳ Lieutenant | **Kouji Morales** | Marjenis' son; Derek's assistant; a "liberal" officer; survives Arc 4 |
+| Commander | **Derek Guzman** | More subdued; looks after Kouji out of respect for Marjenis; reckless in the chase of Glayne (Arc 4); gets Arjan and Lopney out of the department [how/why: TBD]. Tailed by Angel on Perlereina's order [why: TBD]. No profile |
+| ↳ Lieutenant | **Kouji Morales** | Marjenis' son; Derek's assistant; a "liberal" officer; survives Arc 4; **Chief of Police just before Arc 6**. Profile: 02_Characters/Vista_Alegre/KOUJI_MORALES_CHARACTER_PROFILE.md |
 | Commander | **Mariana** | Secretly the leader of **Karauma**; infiltrated the department |
-| ↳ Lieutenant | **Iris** | Under Mariana by elimination [confirm]. No details yet |
+| ↳ Lieutenant | **Iris** | Under Mariana by elimination [confirm]. Young and inexperienced; friction with Kouji |
 | Commander | **James Whannell (Bellsaw)** | Pristania Emperor; dies Arc 4 |
 | ↳ Lieutenant | **Karin** | Kidnapped by Bellsaw; becomes **Space** (5P4C3) |
 
@@ -1625,6 +1625,7 @@ Below them, the rest of the force.
 - The coalition (police + Karauma) falls to the Free/Pristania assault; Marjenis dies
 - Angel's mecha destroys a large part of the city
 - **Pristania engineers Kamino into an army of fanatics and conquers Vista Alegre**
+- **Just before Arc 6:** Hirohiko lifts the occupation; Kouji becomes Chief
 
 ---
 

@@ -1,5 +1,24 @@
 # GID LORE CHANGELOG
 
+## 2026-10-12 (Kouji profile)
+**Files changed:** KOUJI_MORALES_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), MARJENIS, GLAYNE, HIROHIKO profiles, Factions.md, Timeline.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Kouji Morales (幸治; name chosen by his mother), built by interview (blocks 1-6). ~25 in Arc 1; male; no Nouryoku; no partner or children
+- MOTHER: died when he was small (editor's proposal, approved)
+- LOOK: slim, fit, handsome; green eyes; light hair; his mother's skin, his father's expression; dresses in black (Gladion as reference only)
+- PERSONALITY: insecure but determined; acts from the heart; erratic on missions, no subtlety; immature and edgy but good; tries to understand you without letting you understand him; black and white. Wants to be a good cop, honor his father, hunt Free and Pristania. Hates being "his father's son"
+- VOICE: youthful street slang ("bro"); calls his father "Padre"
+- RANK: lieutenant through connection and effort; believes he earned it. Never saw the brutality: Marjenis shields him and doubts he should have let him join
+- COMBAT: modern police gear; acrobatic, hit-and-run close combat; on Lopney's level
+- ARC 4: chases Glayne with Derek (police uncover Glayne's identity, don't catch him; first shock). After Bellsaw's death, guesses Arjan and Lopney when they infiltrate and brings them before Marjenis; Derek gets them out. Talks his father out of executing Lyzander ("we represent justice"). Shock at the reveal, then a father-son scene. Loses to Arjan and Lopney in Free's assault; unconscious when Marjenis dies
+- AFTER: Hirohiko frees Vista Alegre just before Arc 6; Kouji becomes Chief of Police
+- THEME: "the pure police; the most beautiful ideal the people in blue have to offer"
+
+**Consistency:** Marjenis meets the twins through Kouji (open question closed); Glayne gets an Arc 4 entry; Hirohiko and Timeline get the liberation of Vista Alegre
+
+**FLAGGED [TBD]:** how and why Derek gets the twins out; why Glayne is in Vista Alegre; Kouji's hair tone; what Kouji learns of his father's past; his role as Chief in Arc 6
+
 ## 2026-10-12 (Marjenis profile)
 **Files changed:** MARJENIS_MORALES_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), Factions.md, Timeline.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, BELLSAW, ANGEL, DIOMINICIEL profiles, GID_QUICK_REF_FINAL.md
 

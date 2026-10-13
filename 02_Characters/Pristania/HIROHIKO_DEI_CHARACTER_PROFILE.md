@@ -700,6 +700,7 @@ AGE_ARC_1: ~38
 - **Peace between Pristania and Free** is in place by the time Claudia wakes (author: "now that there is peace between the organizations")
 - Emperor **Claudia Whannell (Dragoon)**, in a coma since Arc 4, wakes shortly after, learns everything, and **decides to keep serving Pristania under him** now that there is peace (see her profile)
 - Note: **Jashin is still inside him** (unaware) until it is fully freed in Arc 6, so he leads Pristania while still possessed
+- **Just before Arc 6 (author, 2026-10-12):** lifts Kamino's occupation and **frees Vista Alegre** (conquered by Pristania with Kamino's fanatics at the end of Arc 4). **Kouji Morales** is installed as Chief of Police
 
 ---
 
