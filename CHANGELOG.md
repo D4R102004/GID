@@ -11,7 +11,8 @@
 - BACKSTORY: teenage dojo yaburi, estranged from her family; Kami beat and immobilized her in a Vista Alegre dojo, offered her a place and strong opponents in exchange for training Perlereina. Grudging, then maternal. Her Nouryoku awoke while bonding with Perlereina. Empress; met Gallan, romantic sparks; both hated the war. After Kami's death the war made her a mass killer again; fall-out with Perlereina; stopped the war with Gallan and Hirohiko; resigned at its end, against the Kamigami's decisions. No contact with Perlereina since; learns of Pristania only through Shigo
 - ARC 4: Goro tells her Shigo will be at the cemetery; even fight with Perlereina, who wins and leaves her alive (breaking point for both). Gravely wounded in hospital; learns of Shigo's death
 - ARC 6: revived Gallan goes to find her
-- FLAGGED [TBD]: whether she sees Gallan's tombstone; whether she is Gallan's TBD love interest; fighting style; Arcs 1-3 and 5
+- RESOLVED (same day): **Aoi is Gallan's love interest** (filled the TBD in Gallan's profile: the woman Lopney reminds him of); she does **not** see the tombstone, but asks Perlereina what she did with Gallan, and Perlereina says he is alive and the tomb is fake; fights with **martial arts + flowers**, weapon a **Japanese staff with a bell at the end**
+- FLAGGED [TBD]: Arcs 1-3 and 5; Bellsaw relationship; signature lines
 
 ## 2026-10-13 (Air profile)
 **Files changed:** AIR_41R_CHARACTER_PROFILE.md (new, 02_Characters/Pristania/), Factions.md, DIOMINICIEL, BELLSAW, LAND, SEA profiles, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md

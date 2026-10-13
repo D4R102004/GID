@@ -68,7 +68,7 @@ AGE_ARC_1: ~35
 ### **Before the War (Young Gallan):**
 - Supportive, somewhat cheerful
 - Fervent believer in Pristania and Kami
-- Had his brother Glayne, his love interest, and purpose
+- Had his brother Glayne, his love interest (Aoi), and purpose
 - Idealistic and driven to help his family
 
 ### **After the War (Current Gallan):**
@@ -289,7 +289,7 @@ AGE_ARC_1: ~35
 ### **Lopney:**
 
 **Why He Loves Her:**
-- Reminds him of **his love interest** *[Name TBD - to be developed later]*
+- Reminds him of **his love interest, Aoi** (Mizuki Kondo), the Empress who trained Perlereina
 - Her drive, intelligence, fighting spirit
 - She's earned every bit of skill through hard work
 
@@ -376,16 +376,17 @@ AGE_ARC_1: ~35
 - She believes he is far away living a new life; she hasn't heard of him in years
 - **Arc 6:** revived, **Gallan goes to find her**
 - Her green hair and palette **echo his on purpose** (author)
-- *[Open: is she the love interest below?]* Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
+- **She is his love interest** (see below). Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
 
 ---
 
 ### **His Love Interest:**
 
-**Status:** *[TBD - who was she? What happened to her?]*
-**Connection to Lopney:** She reminds him of this person
+**Who:** **Aoi (Mizuki Kondo)**, Pristania Empress in Kami's time, Perlereina's teacher (resolved 2026-10-13; see the Aoi section above and 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md)
+**What happened:** romantic sparks between them; they stopped the war together with Hirohiko; then he left, and they lost touch. She is alive, a dojo sensei in Vista Alegre, believing he lives far away
+**Connection to Lopney:** She reminds him of Aoi
 **Why It Matters:** Training Lopney triggers grief/guilt tied to this loss
-*[Needs full development]*
+**Arc 6:** revived, he goes to find her
 
 ---
 
@@ -454,7 +455,7 @@ AGE_ARC_1: ~35
 - His master Hirohiko
 - The 3-Year War atrocities he committed
 - Gloria's death (his fault)
-- His love interest *[TBD]*
+- His love interest (Aoi)
 - Basically everything except living in Vista Alegre
 
 ### **What He DOESN'T Hide:**
@@ -579,7 +580,7 @@ He's the **moral complexity** of the story - proof that good people do terrible 
 ## **OPEN QUESTIONS FOR LATER DEVELOPMENT:**
 
 1. ~~**Glayne's current status**~~ **RESOLVED** (see Relationships → Glayne)
-2. **Gallan's love interest:** Who was she? What happened to her? Why does Lopney remind him of her?
+2. ~~**Gallan's love interest:** Who was she?~~ RESOLVED 2026-10-13: **Aoi**. Still open: the specific way Lopney reminds him of her
 3. ~~**Hirohiko's truth**~~ **RESOLVED** (see Relationships → Hirohiko)
 4. **The scar location:** Where exactly is Gallan's war mark/scar?
 5. **Reunion scenes:** Gallan + Hirohiko (Arc 6; beats open), Gallan + Glayne (Arc 3; beats open)

@@ -517,7 +517,7 @@ AGE_ARC_1: ~35
 - Kami put her under Aoi at **~10** (Aoi ~16, a dojo yaburi he had beaten and recruited). Aoi **trained her into the fighter she is**
 - Grudging at first, then **like mother and daughter**. Perlereina showed Aoi there was more to life than fighting; Aoi's Nouryoku awoke during their bond
 - **Fall-out after Kami's death**, over the war; Aoi stopped it with Gallan and Hirohiko and resigned. No contact since. Perlereina's lingering affection let Shigo rise to Emperor
-- **Arc 4, the cemetery:** an even fight; **Perlereina surpasses her teacher** and leaves her alive, unconscious. A breaking point: her teacher confronts her with the truth of her actions
+- **Arc 4, the cemetery:** Aoi asks what she did with Gallan; Perlereina tells her **he is alive and the tomb is fake**. An even fight; **Perlereina surpasses her teacher** and leaves her alive, unconscious. A breaking point: her teacher confronts her with the truth of her actions
 - Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
 
 ---

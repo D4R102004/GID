@@ -83,7 +83,7 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 
 ### **Pristania:**
 - Began working for Pristania; became **Empress** (after Kensuke and Shigeru left, with Goro and Bellsaw)
-- Met **Gallan** there. They grew close, and there were **romantic sparks** between them (once both were adults; Gallan is ~6 years younger) *[TBD: see Open Questions]*
+- Met **Gallan** there. They grew close, and there were **romantic sparks** between them (once both were adults; Gallan is ~6 years younger). **She is Gallan's love interest**: the woman Lopney reminds him of (GALLAN_BYRONSTRIKE_CHARACTER_PROFILE.md)
 - Both **abhorred the war**; Aoi above all, having known **Kami's idea**
 
 ### **The War and the Break:**
@@ -117,7 +117,8 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 - **Weaknesses:** an opponent **faster than the flowers**, or one able to **repel them**
 
 ### **Fighting style:**
-- *[TBD: how she mixes martial arts and the flowers; weapons, if any]*
+- **Combines martial arts with the flowers**
+- **Weapon:** a **Japanese staff with a bell at the end**
 
 ---
 
@@ -136,7 +137,7 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 - **His death (Arc 4)** reaches her in the hospital, and it hurts
 
 ### **Gallan Byronstrike:**
-- **Close** in Pristania; **romantic sparks**; both hated the war; stopped it together with Hirohiko
+- **Close** in Pristania; **romantic sparks**: she is **his love interest**, the woman Lopney reminds him of. Both hated the war; stopped it together with Hirohiko
 - Believes he is **far away, living a new life**. She hasn't heard of him in a long time; this adds to her loneliness and confusion
 - **Arc 6:** when Gallan is revived, **he goes to find her**
 - The visual echo (green hair) is **intentional**
@@ -165,6 +166,7 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 - **Goro tells her** Shigo will be at the cemetery. She goes
 - Shigo ambushes Arjan and Lopney at a tombstone bearing Gallan's name. **Aoi intervenes and calls a cease-fire**
 - **Perlereina** intervenes too. **Aoi resolves to fight her former student** to stop her, while Shigo leaves with the twins
+- Aoi **does not see** the tombstone with Gallan's name. She **asks Perlereina what she did with Gallan**; Perlereina answers that **he is alive, and the tomb is fake**
 - **Aoi vs. Perlereina:** an **even fight**, but **Perlereina wins**. She **leaves her alive, unconscious**
 - **Why this fight matters (author):** a **breaking point**. Aoi **coming out of her confusion** and facing her daughter; Perlereina **confronted with the truth of her actions** by her teacher; Perlereina **surpassing her teacher**
 - Perlereina then arrives where Cristopher has just killed Shigo, and captures Cristopher (PERLEREINA_DEI_CHARACTER_PROFILE.md)
@@ -200,12 +202,10 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 
 ## **OPEN QUESTIONS**
 
-1. **The tombstone:** does Aoi see the grave with Gallan's name at the cemetery? What does it do to her, given she believes he is far away and alive?
-2. **Gallan's "love interest"** (TBD in GALLAN_BYRONSTRIKE_CHARACTER_PROFILE.md: someone Lopney reminds him of): is it Aoi?
-3. **Fighting style:** martial arts and flowers together? Weapons?
-4. **Arcs 1-3 and Arc 5:** any role?
-5. **Bellsaw:** relationship as fellow Emperors
-6. **Signature lines**
+1. **Arcs 1-3 and Arc 5:** any role?
+2. **Bellsaw:** relationship as fellow Emperors
+3. **Signature lines**
+4. **How she learns** Gallan is involved at the cemetery (why she asks Perlereina about him)
 
 ---
 
@@ -217,6 +217,8 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 ✅ Loves Shigo; calls him out
 ✅ Former dojo yaburi: once lived only to fight
 ✅ 葵: hundreds of cutting flowers (Senbonzakura-like); no cost; beaten by speed or repulsion
+✅ Martial arts + flowers; a Japanese staff with a bell at the end
+✅ Gallan's love interest
 ✅ Visual echo of Gallan (green hair) is intentional
 
 ❌ Born with a Nouryoku (it awoke later, with Perlereina)
@@ -229,6 +231,7 @@ AGE_ARC_1: ~41 (about 16 when a 10-year-old Perlereina became her student)
 
 ## **VISUAL NOTES FOR ARTISTS**
 
+- **Weapon:** a Japanese staff with a bell at the end
 - Japanese features; **intense red eyes**; **short, tied-up green hair with a touch of white**
 - Long-sleeved kimono, long hakama; palette **white, green, red**
 - Athletic, elegant walk; well-kept for ~41
