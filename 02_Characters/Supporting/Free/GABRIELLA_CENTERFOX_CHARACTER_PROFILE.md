@@ -131,6 +131,7 @@ AGE_ARC_1: 20
 - She could not return to Free, and neither could Uragaeshi: **Free is a hidden secret organization, exactly like Pristania**, and they have no way to find it
 - Had to use her Nouryoku **in real time** to survive: her skills improved and she found more ingenious ways to use them
 - As the **Metal Knight / Armor Bastard** she wreaks havoc on Vista Alegre's lesser organizations and on its police
+- **Karauma** (author, 2026-10-12) is one of her main targets: she knows its business reaches **Pristania**, but **not who the intermediary is** (it is Shigo's company DeathCake). See MARIANA_CAELESTIS_CHARACTER_PROFILE.md and Factions.md
 
 ---
 

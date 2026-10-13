@@ -253,6 +253,8 @@ Ichiro visits the mansion at the urging of his friends. Goro attempts, clumsily,
 
 Diominiciel arrives. Reminds Goro of his history with Pristania. Makes clear that things will go badly for Ichiro if Goro does not cooperate. In exchange for his son's safety, Goro agrees to work against the protagonists again.
 
+**During the Free/Pristania assault on the Vista Alegre police (author, 2026-10-12), Goro defeats Commander Mariana Caelestis and destroys almost all of her spirits**, leaving her in a coma; she dies afterwards (MARIANA_CAELESTIS_CHARACTER_PROFILE.md). [TBD: where this falls relative to his reconciliation with Ichiro]
+
 Arc 4 is a betrayal arc. Goro actively undermines the protagonists — but always engineering it so Ichiro is absent when the damage lands. He is protecting his son with the only tools he knows: violence and manipulation.
 
 The deception is discovered. Ichiro confronts him. Goro tells him the truth — he did it to protect him, Pristania is too powerful, Ichiro does not understand what he is up against. Ichiro declares he has no father.

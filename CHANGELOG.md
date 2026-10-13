@@ -1,5 +1,28 @@
 # GID LORE CHANGELOG
 
+## 2026-10-12 (Mariana profile)
+**Files changed:** MARIANA_CAELESTIS_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), MARJENIS, DEREK, GORO, PERLEREINA profiles, Factions.md, Timeline.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):** (preliminary; the author is still developing Mariana)
+- NEW PROFILE: Mariana Caelestis, Nouryoku name **Victoria**; ~36 in Arc 1 (contemporary of Glayne and Gallan); female; commander; secret Nouryokusha
+- VICTORIA: six bodies (Mariana, the original, plus Lukas, Rosalía, García, Samuel, Teresa) with a shared field of vision. The spirits ARE her power (not the dead). Inside her they help; outside they take human form with their own personality. Each holds a place in society. Rosalía's dust regenerates a spirit's body (not resurrection; cannot revive Mariana). The spirits love each other. "Victoria": while spirits remain, she recovers
+- SETTING (restructured after a coherence review): Mariana is a commander aiming to end police brutality and win recognition for Karauma; García is Karauma's boss, giving her an alibi
+- KARAUMA (空馬, kara-uma / ku-ba = Cuba; based on Cuba's 1930s clandestine struggle): **founded by García from day one**; revolutionary, with dirty business that **finances the struggle**; final goal: **the end of police brutality**. Cell structure (editor's design, delegated): García, captains who don't know who García is, cells for trade / armed action / refuge / eyes. **Nobody knows García is Mariana**
+- IRIS: knows Mariana is Karauma (to her, the captain of the "eyes" cell), not that she is García
+- TRADE: Karauma trades with **DeathCake** (Shigo's company); goods reach Pristania; Karauma doesn't know; Gabriella knows they reach Pristania but not the intermediary, so Karauma is one of her main targets
+- SPACE: Karin had been investigating Karauma; Space exposes Mariana as a Nouryokusha at the police HQ, revealing she is García
+- ORIGIN: parents killed in the persecution of Nouryokusha (under Marjenis); grew up on the streets
+- LOOK: fair skin, grey eyes, long blonde hair, blouse with an M; an ordinary Cuban woman
+- PERSONALITY: calm, inquisitive, a mediator who believes anyone can change; knows her mafia does wrong; peace over revenge. Flaw: almost too perfect, misses illogical details (never suspected Bellsaw, whom she saw as a mentor)
+- RELATIONSHIPS: despises Marjenis until he changes, then believes him; diametrical opposite of Derek (the anti-Derek, editor's framing accepted); sees Kouji kindly and warily
+- IRIS: secret Nouryokusha who joined Karauma; slipped into the police by Mariana as her lieutenant (confirmed)
+- ARC 4: exposed by Space; joins Marjenis' coalition; in the assault **Goro defeats her and destroys almost all her spirits** (coma) to show his efficacy as an assassin; Marjenis is buried and **Lukas guards his body** for fear Pristania will desecrate it; **Perlereina comes for the body**, kills Lukas, and Mariana dies
+- REJECTED (editor's proposals): spirits as warring contradictions; a Karauma schism; Mariana founding Karauma in the open with her street gang; Marsella as the Pristania intermediary (timing with Gabriella); Shigo copying Devirtud for the Protos Sphere (Pristania wouldn't risk him)
+
+**Consistency:** Factions (Karauma rewritten; hidden Nouryokusha at the top as a faction trait); Goro and Perlereina get their Mariana/Lukas beats; Derek's Mariana relationship; Marjenis' grave; Gabriella and Shigo get the DeathCake/Karauma trade
+
+**FLAGGED [TBD]:** the five spirits and their combat rules; why Perlereina wants Marjenis' body (author considering Devirtud vs. the Protos Sphere); Iris's knowledge and fate; Karauma after Mariana; Mariana's visual reference; order of the Lukas scene vs. the trap
+
 ## 2026-10-12 (Derek profile)
 **Files changed:** DEREK_GUZMAN_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), ARJAN, LOPNEY, ANGEL, GLAYNE, LYON, KOUJI, MARJENIS profiles, Factions.md, Timeline.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
 

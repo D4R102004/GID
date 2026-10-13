@@ -53,7 +53,8 @@
 
 **Marjenis Morales "Devirtud"** (65, Arc 1) - Chief of Police, **Arc 4 boss**, secret Nouryokusha (Sellos), Kami's secret pseudo-ally. Reveals himself in public in Arc 4; killed by Diominiciel. Son: Kouji (lieutenant; Chief of Police just before Arc 6, after Hirohiko frees the city). Profile: 02_Characters/Vista_Alegre/MARJENIS_MORALES_CHARACTER_PROFILE.md
 **Derek Guzman** (~30, Arc 1) - Commander, secret Nouryokusha (Battle), Perlereina's mirror (eternal grudge against Pristania); **runs Arjan as his secret informant** in Arc 4; survives; Kouji's right hand from Arc 6. Profile: 02_Characters/Vista_Alegre/DEREK_GUZMAN_CHARACTER_PROFILE.md
-**Police:** Commanders Derek Guzman, Mariana (secret leader of Karauma), Bellsaw; Lieutenants Kouji, Iris, Karin (becomes Space). Details: Factions.md
+**Mariana Caelestis "Victoria"** (~36, Arc 1) - Commander, secret Nouryokusha (six bodies: herself and five spirits), secretly Karauma's boss through her spirit García, its founder (nobody knows); Karauma trades with Pristania through Shigo's DeathCake without knowing it. The anti-Derek. Dies Arc 4. Profile: 02_Characters/Vista_Alegre/MARIANA_CAELESTIS_CHARACTER_PROFILE.md
+**Police:** Commanders Derek Guzman, Mariana, Bellsaw; Lieutenants Kouji, Iris (Karauma, secret Nouryokusha), Karin (becomes Space). Details: Factions.md
 
 ---
 
@@ -111,7 +112,7 @@ Each arc opens with a short flashback on its **arc boss** and has an **event fro
 **Arc 1:** Yurisha (assassin, killed by Glayne)
 **Arc 2:** Shigeru Houzu (stabbed by Marsella, then sacrifices himself as the phoenix to save Yonoa), Kensuke/Protos (possessed by Shiro until the finale), Light (Free Elite, arc boss; beaten by Claudia, finished off by Shigo), Tased and Suilan (both killed by Shigo; he takes all three's DNA)
 **Arc 3:** Sea (S34, Perlereina's robot; destroyed by Yonoa, first of her losses), Hide (monster; killed by Jashin through Hirohiko), Mauricio (arc boss; executed by Glayne)
-**Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the trap), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present), **Marjenis** (arc boss, Vista Alegre Chief of Police; killed by Diominiciel in the Free/Pristania assault on the police). Vista Alegre's story ends with Pristania conquering the city with Kamino's fanatics
+**Arc 4:** Shigo (killed by Cristopher), Cristopher (holds off Perlereina so the twins escape; captured, dies in front of the captive Meiji), Goro Kiryuin (reconciles with Ichiro first), Gabriella, Angel (frozen alive by Lyzander in the trap), Bellsaw (beaten by Yonoa, dies in a Vista Alegre hospital with Claudia present), **Marjenis** (arc boss, Vista Alegre Chief of Police; killed by Diominiciel in the Free/Pristania assault on the police), **Mariana** (spirits destroyed by Goro in the assault; dies when Perlereina kills Lukas, her last spirit, at Marjenis' grave). Vista Alegre's story ends with Pristania conquering the city with Kamino's fanatics
 **Arc 5:** Perlereina, Diominiciel, Glayne, Gallan (self-sacrifice; resurrected Arc 6)
 **Arc 6:** Jashin (spends both resurrections on Diominiciel and Perlereina; his body turns to dust)
 **Arc 4 (Emperors):** Perlereina, through Angel (secret 4th Emperor), lures Gabriella and Lyzander into a trap in the finale, on her order (Diominiciel's ceasefire is not broken by him; Angel does not know it exists). Gabriella dies; Lyzander freezes Angel alive (Angel dies) and Yonoa saves him. Claudia falls into a coma after Yonoa beats her

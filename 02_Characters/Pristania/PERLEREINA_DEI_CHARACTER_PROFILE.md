@@ -583,6 +583,7 @@ AGE_ARC_1: ~35
 - [TBD: order relative to the Cristopher incident; her reaction to being overruled]
 
 **The trap and Vista Alegre (decided 2026-09-19):**
+- **After the assault and Marjenis' death (author, 2026-10-12): she comes for Marjenis' body.** **Lukas**, Mariana's last spirit, is guarding his grave; **Perlereina kills him**, and Mariana dies. [TBD: why she wants the body] (MARIANA_CAELESTIS_CHARACTER_PROFILE.md)
 - **She hates Vista Alegre**: for her everyone there is guilty of **not supporting Kami while he lived**, and she **hates its police department**
 - Against Diominiciel's ceasefire, she has Angel **lure Gabriella and Lyzander into a trap and kill both**, and uses the mecha Bellsaw built to **destroy a large part of the city**. She orders Angel **not to destroy the hospital** where Claudia lies
 - **Lyzander freezes the mecha and Angel** (Angel dies). [TBD: her reaction; whether she learns Lyzander knows everything about Angel and her role]

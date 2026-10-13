@@ -186,7 +186,7 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 - He **appreciates all of them** and sees them as **loyal followers**
 - **Bellsaw** resents him in secret (brutality, hatred of Nouryokusha, innocents killed "in the name of justice") and is Kami's spy and an Emperor. Marjenis never suspects. The irony: the commander he trusts was the source Kami used to reach him
 - **Derek Guzman** runs Arjan as a private informant without Marjenis knowing, and is himself a secret Nouryokusha; **neither knows the other's secret**. Derek is excited by Marjenis' reveal. Profile: DEREK_GUZMAN_CHARACTER_PROFILE.md
-- **Mariana** is secretly the leader of **Karauma** and infiltrated the department to work for peace in Vista Alegre. Exposed by Space in Arc 4
+- **Mariana** is secretly the mind behind **Karauma** (run through her spirit García). She despised him until he changed, then believed him; her last spirit, Lukas, dies guarding his grave. Profile: MARIANA_CAELESTIS_CHARACTER_PROFILE.md and infiltrated the department to work for peace in Vista Alegre. Exposed by Space in Arc 4
 
 ### **Kami:**
 - Kami found him through Bellsaw, knocked out his entire department and spared only him
@@ -225,7 +225,8 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 6. **Mariana exposed:** Space arrives and exposes Mariana as the leader of **Karauma**. Mariana explains she infiltrated because Marjenis is not doing what is right, and she wants peace for Vista Alegre
 7. **Change of heart:** still turning Kouji's words over, Marjenis goes public. He **reveals he is a Nouryokusha**, says he will no longer fight out of hatred but for a better future, and names **the organizations as the real enemy**. The speech **unites the police and Karauma**. The city recognizes him as a **hero** and pledges itself to him: **Vista Alegre united against Free and Pristania**
 8. **The assault (climax):** Free and Pristania attack the coalition, which holds Lyzander captive. Marjenis fights **Ichiro and Shiro (as Zafiro)** and defeats both. As he is about to kill Zafiro, **Diominiciel intervenes**; they fight and **Diominiciel kills him**
-9. **Aftermath:** the coalition is shattered; Vista Alegre is left without a strong leader, its defenders gravely wounded. Then **Angel's mecha partially destroys the city**, and **Pristania engineers Kamino into an army of fanatics** and **conquers Vista Alegre** in a pitched battle: the last act of the Vista Alegre story. Arc 4 closes with Free preparing the assault on Pristania HQ
+9. **After his death:** Perlereina comes for his body; Lukas (Mariana's last spirit) guards his grave and is killed [TBD: why she wants the body]
+10. **Aftermath:** the coalition is shattered; Vista Alegre is left without a strong leader, its defenders gravely wounded. Then **Angel's mecha partially destroys the city**, and **Pristania engineers Kamino into an army of fanatics** and **conquers Vista Alegre** in a pitched battle: the last act of the Vista Alegre story. Arc 4 closes with Free preparing the assault on Pristania HQ
 
 ### **Interlude 4:**
 - Follows the close of his role: the destruction of the facility (ARC_3_SUMMARY.md; HIDE profile)

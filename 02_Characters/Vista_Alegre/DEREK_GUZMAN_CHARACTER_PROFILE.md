@@ -134,8 +134,10 @@ AGE_ARC_1: ~30
 ### **Bellsaw (fellow commander):**
 - Learning after Bellsaw's death that he was a Pristania Emperor: **disgust and betrayal**
 
-### **Mariana (fellow commander):** [TBD]
-### **Iris (lieutenant):** [TBD]
+### **Mariana Caelestis (fellow commander):**
+- **Diametrical opposites**; their personalities repel each other. Both orphans of violence and secret Nouryokusha in the police; he never lets go, she lets go of everything (MARIANA profile)
+
+### **Iris (Mariana's lieutenant):** [TBD]
 
 ### **Perlereina (unknowing mirror):**
 - She has **Angel tail him** because he is a commander of an enemy faction. **Angel discovers the protagonists by tailing Derek**, and gets the idea to approach them. **Angel never learns about Arjan**
@@ -186,7 +188,7 @@ AGE_ARC_1: ~30
 1. **How he is humbled** in the post-Arc 5 world
 2. **Lopney and the secret:** does she confront Arjan? Does she tell the others?
 3. **Derek vs. Lyon:** outcome beyond Derek's wounds
-4. **Mariana and Iris:** his relationship with them
+4. **Iris:** his relationship with her
 5. **Which orphanage** took him in
 6. **Does Derek ever learn Arjan's father (Gallan) was a Pristania Apostle?**
 

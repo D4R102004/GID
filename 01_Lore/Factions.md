@@ -1606,23 +1606,30 @@ GENERAL MEMBERSHIP
 | **Chief of Police** | **Marjenis Morales "Devirtud"** | Secret Nouryokusha; Arc 4 boss; killed by Diominiciel. Profile: 02_Characters/Vista_Alegre/MARJENIS_MORALES_CHARACTER_PROFILE.md |
 | Commander | **Derek Guzman** | ~30; secret Nouryokusha (Battle); obsessed with revenge on Pristania (Perlereina's mirror); runs Arjan as a private informant; tailed by Angel on Perlereina's order; survives Arc 4; Kouji's right hand from Arc 6. Profile: 02_Characters/Vista_Alegre/DEREK_GUZMAN_CHARACTER_PROFILE.md |
 | ↳ Lieutenant | **Kouji Morales** | Marjenis' son; Derek's assistant; a "liberal" officer; survives Arc 4; **Chief of Police just before Arc 6**. Profile: 02_Characters/Vista_Alegre/KOUJI_MORALES_CHARACTER_PROFILE.md |
-| Commander | **Mariana** | Secretly the leader of **Karauma**; infiltrated the department |
-| ↳ Lieutenant | **Iris** | Under Mariana by elimination [confirm]. Young and inexperienced; friction with Kouji |
+| Commander | **Mariana Caelestis "Victoria"** | ~36; secret Nouryokusha; founder of **Karauma**, which she runs through her spirit García; dies Arc 4. Profile: 02_Characters/Vista_Alegre/MARIANA_CAELESTIS_CHARACTER_PROFILE.md |
+| ↳ Lieutenant | **Iris** | Under Mariana; **secret Nouryokusha**, member of **Karauma** (slipped in by Mariana). Young and inexperienced; friction with Kouji. No profile |
 | Commander | **James Whannell (Bellsaw)** | Pristania Emperor; dies Arc 4 |
 | ↳ Lieutenant | **Karin** | Kidnapped by Bellsaw; becomes **Space** (5P4C3) |
 
 Below them, the rest of the force.
 
+**Hidden Nouryokusha at the top:** Marjenis, Derek, Mariana and Iris are all secret Nouryokusha inside a department that hates them, and none knows about the others. The institution that hunts Nouryokusha is the best place for them to hide.
+
 **Policy:** under Marjenis, brutality, hatred of Nouryokusha and criminals, and the rule that an officer may close a case "however is necessary". Declared Pristania illegal; confiscated Elysia's clinic.
 
 ### **KARAUMA**
 - A **secret, mafia-like organization** in Vista Alegre that directly opposes Marjenis' ideas and brutality
-- **Leader:** Commander **Mariana**, who rose to commander by slipping into the department. Her aim: **peace for Vista Alegre**
-- **Arc 4:** exposed by Space; then joins the police in **Marjenis' coalition** after his public reveal. Shattered in the Free/Pristania assault
-- [TBD: members, methods, name meaning]
+- **Founded by García** (one of Mariana's spirits, Victoria) from day one. **Nobody knows García is Mariana**, not even Karauma's captains, which gives Mariana a permanent alibi as a police commander
+- **Revolutionary**, with **dirty business** (trafficking, deals with other criminal groups) that **finances the struggle**. Not saints, but against the police. **Final goal: the end of police brutality**
+- **Structure (cells, like mafias and clandestine armies):** García sees everything; captains each run one cell and know only García and their cell; cells for trade, armed action, refuge and "eyes" (informants). Couriers and codes; if someone falls, only their cell is lost
+- **Members in the police:** Commander Mariana, who poses as the captain of the "eyes" cell; Lieutenant Iris (knows Mariana is Karauma, not that she is García)
+- **Trade with Pristania:** through **DeathCake**, the company Shigo secretly owns. Karauma does not know its partner is Pristania. **Gabriella (Metal Knight)** knows the goods reach Pristania but not who the intermediary is
+- **Name:** 空馬, *kara-uma* in kun'yomi and *ku-ba* (**Cuba**) in on'yomi. Based on **Cuba's clandestine struggle of the 1930s**
+- **Arc 4:** Space (Karin had been investigating Karauma) exposes Mariana as a Nouryokusha, and it comes out that she is García; after Marjenis' public reveal, Karauma joins the police in **Marjenis' coalition**. Shattered in the Free/Pristania assault; Mariana dies
+- [TBD: Karauma after Mariana's death]
 
 ### **ARC 4 OUTCOME**
-- The coalition (police + Karauma) falls to the Free/Pristania assault; Marjenis dies
+- The coalition (police + Karauma) falls to the Free/Pristania assault; Marjenis dies; Goro destroys Mariana's spirits; after the assault Perlereina comes for Marjenis' body and kills Lukas, and Mariana dies
 - Angel's mecha destroys a large part of the city
 - **Pristania engineers Kamino into an army of fanatics and conquers Vista Alegre**
 - **Just before Arc 6:** Hirohiko lifts the occupation; Kouji becomes Chief

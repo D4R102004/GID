@@ -399,8 +399,9 @@ All dates are calculated from these reference points.
 - After Bellsaw's death, Arjan and Lopney infiltrate the department to find Lyzander; Kouji brings them before Marjenis; **Derek saves them by calling Arjan his informant**; Lopney connects the dots
 - Kouji talks Marjenis out of executing Lyzander in public. Space exposes Commander Mariana as leader of **Karauma**
 - Marjenis reveals in public that he is a Nouryokusha; police and Karauma unite against the organizations
-- **Fall of the Vista Alegre police:** Free and Pristania assault the coalition; Kouji fights Arjan and Lopney and loses; Derek fights Lyon and is gravely wounded; Marjenis beats Ichiro and Shiro (as Zafiro); **Diominiciel kills Marjenis** (Kouji unconscious elsewhere in the building). Lyzander is freed
-- Then the trap (step 6) and the mecha's destruction of the city
+- **Fall of the Vista Alegre police:** Free and Pristania assault the coalition; Kouji fights Arjan and Lopney and loses; Derek fights Lyon and is gravely wounded; Goro defeats Mariana and destroys almost all her spirits (coma); Marjenis beats Ichiro and Shiro (as Zafiro); **Diominiciel kills Marjenis** (Kouji unconscious elsewhere in the building). Lyzander is freed
+- After the assault: Perlereina comes for Marjenis' body; Lukas, Mariana's last spirit, guards his grave and is killed; **Mariana dies**
+- Then the trap (step 6) and the mecha's destruction of the city [TBD: order relative to the Lukas scene]
 - **Last act of the Vista Alegre story:** Pristania engineers **Kamino** into an army of fanatics and **conquers Vista Alegre** in a pitched battle
 - **Arc 4 closes** with Free preparing the assault on Pristania HQ
 

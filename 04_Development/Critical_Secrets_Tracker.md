@@ -576,9 +576,18 @@
 ---
 
 ## **MARIANA LEADS KARAUMA (added 2026-10-12)**
-- **Who knows:** Mariana and Karauma
-- **Who doesn't:** the police, Marjenis
-- **Revealed:** Arc 4, by Space
+- **Karauma's boss is García, one of Mariana's spirits.** Nobody knows García is Mariana: not the police, not Marjenis, not Karauma's captains, not Iris
+- **Mariana is in Karauma:** Iris knows (Mariana poses as a captain); the police do not
+- **Mariana is a Nouryokusha:** nobody knows
+- **Revealed:** Arc 4. Karin had been investigating Karauma; Space exposes Mariana as a Nouryokusha at the police headquarters, and it comes out that she is García
+
+## **DEATHCAKE IS KARAUMA'S PIPELINE TO PRISTANIA (added 2026-10-12)**
+- **Who knows:** Shigo
+- **Who doesn't:** Karauma (does not know its partner is Pristania); Gabriella (knows the goods reach Pristania, not who the intermediary is)
+
+## **IRIS IS A NOURYOKUSHA AND A MEMBER OF KARAUMA (added 2026-10-12)**
+- **Who knows:** Iris, Mariana, Karauma's "eyes" cell
+- **Who doesn't:** the police
 
 ---
 

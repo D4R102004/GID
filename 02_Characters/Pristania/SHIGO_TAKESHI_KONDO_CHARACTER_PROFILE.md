@@ -182,6 +182,7 @@ AGE_ARC_1: 15
 
 - Born Takeshi Kondo, younger brother of Mizuki Kondo. Their parents had him **much later** than her
 - **Father:** built DeathCake, a real family-owned confectionery and bakery company in Vista Alegre. Killed in **conflicts with the local mafia**, leaving Shigo as successor
+- **DeathCake trades with Karauma** (author, 2026-10-12): through it, Karauma's goods reach Pristania under another name. Karauma does not know its partner is a Pristania Emperor; Gabriella knows the goods reach Pristania but not who the intermediary is (MARIANA_CAELESTIS_CHARACTER_PROFILE.md)
 - **Too young to front the company publicly**, Shigo had his secretary pose as CEO instead. The public believes the secretary runs DeathCake; in truth, Shigo — trained by his father in business from an early age — controls everything from behind
 - **Entered Pristania through Aoi**, who had been Empress before later resigning. After Kensuke and Shigeru left, the Emperors were **Aoi, Goro Kiryuin and Bellsaw**; Aoi and Goro later left too, and their seats went to **Shigo and Claudia** (author, 2026-10-02)
 - **Rose to Emperor** through his own talent, helped by Aoi's influence and Perlereina's affection for her former student — a decision **not universally supported** within Pristania
