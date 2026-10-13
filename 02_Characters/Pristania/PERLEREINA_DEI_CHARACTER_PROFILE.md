@@ -513,6 +513,13 @@ AGE_ARC_1: ~35
 - Glayne helps her bear it at the Kamino beach
 - **Compounds** later with Kami's memory and the Arc 5 deaths (Glayne, Diominiciel): loses everyone she loves
 
+### **Aoi / Mizuki Kondo (Her Teacher):**
+- Kami put her under Aoi at **~10** (Aoi ~16, a dojo yaburi he had beaten and recruited). Aoi **trained her into the fighter she is**
+- Grudging at first, then **like mother and daughter**. Perlereina showed Aoi there was more to life than fighting; Aoi's Nouryoku awoke during their bond
+- **Fall-out after Kami's death**, over the war; Aoi stopped it with Gallan and Hirohiko and resigned. No contact since. Perlereina's lingering affection let Shigo rise to Emperor
+- **Arc 4, the cemetery:** an even fight; **Perlereina surpasses her teacher** and leaves her alive, unconscious. A breaking point: her teacher confronts her with the truth of her actions
+- Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
+
 ---
 
 ## **ARC-BY-ARC ROLE**

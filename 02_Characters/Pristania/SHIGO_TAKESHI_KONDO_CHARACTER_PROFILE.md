@@ -139,7 +139,7 @@ AGE_ARC_1: 15
 - They live together; **she handles the domestic side of their life**
 - They love each other deeply, but he tends to overestimate himself — something **she calls him out on**
 - He sees his position in Pristania as a way of **redeeming her name**
-- **[TBD]:** Aoi's current day-to-day, whether she appears on-page beyond the Arc 4 cemetery scene
+- Aoi is a **dojo sensei** in Vista Alegre. She resigned at the end of the 3-Year War, against the Kamigami's decisions, after helping Gallan and Hirohiko stop it. **Goro tells her** Shigo will be at the cemetery; after Perlereina beats her she is hospitalized, and learns there of Shigo's death (02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md)
 
 ### **Perlereina Dei (Mentor):**
 - Shigo's devotion to her sits at the level of **platonic love**, rarely shown outwardly
@@ -216,5 +216,5 @@ AGE_ARC_1: 15
 - Full Arc 1-3 role beyond killing Tased
 - Nouryoku limits beyond stated (switching speed mid-combat, per-power energy cost specifics)
 - Final linework for all three looks (Emperor, DeathCake heir, and bare/civilian)
-- Why Aoi resigned, and when
+- ~~Why Aoi resigned, and when~~ RESOLVED 2026-10-13 (end of the 3-Year War; see Aoi's profile)
 - *(Consistency pass DONE 2026-10-02: Factions path, Emperor succession, Goro retcon, Meiji/Cristopher/Perlereina Arc 4 sequence)***

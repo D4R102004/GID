@@ -54,6 +54,7 @@
 **Marjenis Morales "Devirtud"** (65, Arc 1) - Chief of Police, **Arc 4 boss**, secret Nouryokusha (Sellos), Kami's secret pseudo-ally. Reveals himself in public in Arc 4; killed by Diominiciel. Son: Kouji (lieutenant; Chief of Police just before Arc 6, after Hirohiko frees the city). Profile: 02_Characters/Vista_Alegre/MARJENIS_MORALES_CHARACTER_PROFILE.md
 **Derek Guzman** (~30, Arc 1) - Commander, secret Nouryokusha (Battle), Perlereina's mirror (eternal grudge against Pristania); **runs Arjan as his secret informant** in Arc 4; survives; Kouji's right hand from Arc 6. Profile: 02_Characters/Vista_Alegre/DEREK_GUZMAN_CHARACTER_PROFILE.md
 **Mariana Caelestis "Victoria"** (~36, Arc 1) - Commander, secret Nouryokusha (six bodies: herself and five spirits), secretly Karauma's boss through her spirit García, its founder (nobody knows); Karauma trades with Pristania through Shigo's DeathCake without knowing it. The anti-Derek. Dies Arc 4. Profile: 02_Characters/Vista_Alegre/MARIANA_CAELESTIS_CHARACTER_PROFILE.md
+**Aoi (Mizuki Kondo)** (~41, Arc 1) - Shigo's elder sister, dojo sensei, former Empress, Perlereina's teacher and maternal figure; Nouryoku 葵 (cutting flowers); beaten (left alive) by Perlereina at the cemetery in Arc 4; reunites with Gallan in Arc 6. Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
 **Police:** Commanders Derek Guzman, Mariana, Bellsaw; Lieutenants Kouji, Iris (Karauma, secret Nouryokusha), Karin (becomes Space). Details: Factions.md
 
 ---

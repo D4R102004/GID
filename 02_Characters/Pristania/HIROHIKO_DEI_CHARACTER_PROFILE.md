@@ -157,7 +157,7 @@ AGE_ARC_1: ~38
 - Turned against what his siblings were doing
 - Tried to convince them peacefully at first
 - Stood firm despite disagreement
-- **Engineered the peace treaty** with other high-ranking members (including Gallan)
+- **Engineered the peace treaty** with other high-ranking members (including Gallan and the Empress **Aoi**, who resigned at the war's end: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md)
 - "Always a man of his word and a person who would defend his ideals, as Kami had taught him"
 
 ---

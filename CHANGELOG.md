@@ -1,5 +1,18 @@
 # GID LORE CHANGELOG
 
+## 2026-10-13 (Aoi profile)
+**Files changed:** AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md (new, 02_Characters/Supporting/Vista_alegre/), Factions.md, SHIGO, PERLEREINA, GALLAN, HIROHIKO, GORO profiles, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Aoi (Mizuki Kondo); Nouryoku **葵** (generates and controls hundreds of cutting flowers; Senbonzakura-like; no cost; beaten by speed or repulsion)
+- AGE: ~41 in Arc 1; ~16 when a ~10-year-old Perlereina became her student (option B, chosen so Aoi and Gallan are ~6 years apart; making Gallan as old as Hirohiko was rejected because Glayne is canonically a year older than Gallan, which would cascade)
+- LOOK: very Japanese; intense red eyes; short, tied-up green hair with white, recalling Gallan (intentional association); athletic like Perlereina; elegant; kimono and hakama; palette white/green/red. References are shape/color only
+- NOW: dojo sensei in Vista Alegre; strict; tries to find fun in life; regretful, lonely, confused, on inertia
+- BACKSTORY: teenage dojo yaburi, estranged from her family; Kami beat and immobilized her in a Vista Alegre dojo, offered her a place and strong opponents in exchange for training Perlereina. Grudging, then maternal. Her Nouryoku awoke while bonding with Perlereina. Empress; met Gallan, romantic sparks; both hated the war. After Kami's death the war made her a mass killer again; fall-out with Perlereina; stopped the war with Gallan and Hirohiko; resigned at its end, against the Kamigami's decisions. No contact with Perlereina since; learns of Pristania only through Shigo
+- ARC 4: Goro tells her Shigo will be at the cemetery; even fight with Perlereina, who wins and leaves her alive (breaking point for both). Gravely wounded in hospital; learns of Shigo's death
+- ARC 6: revived Gallan goes to find her
+- FLAGGED [TBD]: whether she sees Gallan's tombstone; whether she is Gallan's TBD love interest; fighting style; Arcs 1-3 and 5
+
 ## 2026-10-13 (Air profile)
 **Files changed:** AIR_41R_CHARACTER_PROFILE.md (new, 02_Characters/Pristania/), Factions.md, DIOMINICIEL, BELLSAW, LAND, SEA profiles, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md
 

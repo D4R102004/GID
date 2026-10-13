@@ -586,7 +586,7 @@ CONTROLLED ASSETS (Kamino government, etc. - unaware of Pristania's control)
 **Former Emperors:**
 - **Kensuke** - Defected to Free before Kami's duel
 - **Shigeru Houzu** - Left gradually and amicably; founded Jitsumoto
-- **Aoi (Mizuki Kondo)** - Empress after Kensuke and Shigeru left; Perlereina's former teacher; later resigned. Shigo's elder sister
+- **Aoi (Mizuki Kondo)** - Empress after Kensuke and Shigeru left; Perlereina's teacher and maternal figure (recruited by Kami as a teenage dojo yaburi); helped Gallan and Hirohiko stop the 3-Year War and resigned at its end. Shigo's elder sister; now a dojo sensei in Vista Alegre. Nouryoku 葵 (cutting flowers). Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
 - **Goro Kiryuin** - Emperor for a time before Kami's death; later left (now an independent contractor, "Fukusei")
 
 **Succession:** original seats Bellsaw, Shigeru, Kensuke + Kami (4th) → after Kensuke and Shigeru left: **Aoi, Goro, Bellsaw** → after Aoi and Goro left: **Bellsaw, Claudia, Shigo** (+ Angel in Kami's seat, secret, from Arc 4)

@@ -371,6 +371,13 @@ AGE_ARC_1: ~35
 - Does he still think about Glayne? Try to contact him?
 - *[Needs development for potential later story beats]*
 
+### **Aoi (Mizuki Kondo):**
+- Pristania Empress in Kami's time (~6 years older). **Close, with romantic sparks** once both were adults; both abhorred the war, and **stopped it together with Hirohiko**
+- She believes he is far away living a new life; she hasn't heard of him in years
+- **Arc 6:** revived, **Gallan goes to find her**
+- Her green hair and palette **echo his on purpose** (author)
+- *[Open: is she the love interest below?]* Profile: 02_Characters/Supporting/Vista_alegre/AOI_MIZUKI_KONDO_CHARACTER_PROFILE.md
+
 ---
 
 ### **His Love Interest:**
