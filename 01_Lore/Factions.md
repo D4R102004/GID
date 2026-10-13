@@ -649,9 +649,11 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
    - Profile: 02_Characters/Pristania/SEA_S34_CHARACTER_PROFILE.md
 
 2. **Heavy Unit L411D - Nicknamed "Land"**
-   - Built by Diominiciel and Bellsaw; a huge tank with cannons and great destructive power
-   - Has a second form (Arc 5). Defeated by Elysia, who becomes Bellsaw before it
-   - *[Further details TBD]*
+   - **Built by Bellsaw alone**, 20+ years before Arc 1 (Kami's era): his first contribution to Pristania's firepower. Bellsaw is his father; Kami saw him as something new for the world
+   - A war tank built like a tower (main cannon, Tomahawk missiles, minigun); core **地**; no face, only a visor; speaks like code ("IF Free forces, THEN laughter.")
+   - **Second form** (given later by Diominiciel): a smaller, agile humanoid robot that seeks strong opponents and respects them. Revealed in Arc 5
+   - Arc 4: destroys the Kiryuin mansion, Goro's clones and Goro. Arc 5: beats Tairin, Terror, Policia and Uragaeshi; shut down by Elysia (as Bellsaw, she pierces his core). Arc 6: reactivated, serves Hirohiko
+   - Profile: 02_Characters/Pristania/LAND_L411D_CHARACTER_PROFILE.md
 
 3. **Android Unit 41R - Nicknamed "Air"**
    - *[Function and capabilities TBD]*
@@ -665,7 +667,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 
 **Build order (author, 2026-10-10):** Land → Sea → Air → Space. The units act like rival siblings at Pristania HQ
 
-**Note:** These units serve Pristania's operations and report to the Kamigami (primarily Diominiciel as their creator; Bellsaw co-built them, per-unit credit TBD).
+**Note:** These units serve Pristania's operations and report to the Kamigami (Land: Bellsaw alone, second form by Diominiciel; Sea: Diominiciel with Bellsaw; Space: Diominiciel with Marsella; Air: TBD).
 
 ---
 

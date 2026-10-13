@@ -315,10 +315,10 @@ AGE_ARC_1: ~40
    - Profile: 02_Characters/Pristania/SEA_S34_CHARACTER_PROFILE.md
 
 2. **Land (Heavy Unit L411D)**
-   - Heavy combat/construction unit
-   - Built with Bellsaw (Pristania Emperor, engineer)
-   - Autonomous AI with personality
-   - *[Further details TBD in Land's profile]*
+   - Heavy combat unit (a war tank; not a construction unit)
+   - **Built by Bellsaw alone**, in Kami's era. Diominiciel later **gave him his second form** (a humanoid robot)
+   - Autonomous AI with personality. They go on several missions together; Land is the unit he has known longest, and **argues with some of his orders**
+   - Profile: 02_Characters/Pristania/LAND_L411D_CHARACTER_PROFILE.md
 
 3. **Air (Android Unit 41R)**
    - Aerial reconnaissance/combat android

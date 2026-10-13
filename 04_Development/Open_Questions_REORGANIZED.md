@@ -292,7 +292,7 @@
 - [ ] **When/how does Yonoa become Shogun?**
 
 ### Pristania
-- [ ] **Technological Units' full combat capabilities** (Land, Air, Space; **Sea resolved 2026-10-10**, see SEA_S34_CHARACTER_PROFILE.md)
+- [ ] **Technological Units' full combat capabilities** (Air, Space; **Sea resolved 2026-10-10**, see SEA_S34_CHARACTER_PROFILE.md; **Land resolved 2026-10-13**, see LAND_L411D_CHARACTER_PROFILE.md)
 - [x] **4th Emperor succession** — RESOLVED 2026-09-19: **Angel Velasco**, in secret; he takes Kami's Emperor seat but not the leadership of Pristania
 - [ ] **Marsella de Sores' recruitment** — When/how does she join Pristania?
 - [ ] **Lyon's complicated story** — How does a Free member end up connected to Pristania?

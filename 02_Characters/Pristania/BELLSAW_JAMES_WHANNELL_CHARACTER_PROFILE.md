@@ -180,7 +180,7 @@ He does not say a fixed farewell before missions; he has several phrases and use
 
 ### **Combat Style: Engineer**
 - **Traps** — his signature method; preparation and terrain
-- **Robots** — he and Diominiciel built Pristania's robots (e.g., L411D "Land", a huge cannon-armed tank). Space (5P4C3) is credited to another creator in Diominiciel's profile (co-developed with Marsella)
+- **Robots** — **Land (L411D)**, a huge cannon-armed tank, is **his first creation, built alone** in Kami's era: his first contribution to Pristania's firepower and his pride. Land sees him as his father (02_Characters/Pristania/LAND_L411D_CHARACTER_PROFILE.md). He and Diominiciel co-built Sea; Diominiciel later gave Land its second form. Space (5P4C3) is credited to another creator in Diominiciel's profile (co-developed with Marsella)
 - **The Arc 4 mecha** — at Perlereina's request he builds a giant winged mecha for Pristania (see Arc 4). He does not know who will pilot it or that the target is Vista Alegre
 - **Hidden mechanical appendages** — blades, extra arms, shields, stored under his cape/coat
 - **Pistols** — conventional, not custom-designed
@@ -430,7 +430,7 @@ He does not say a fixed farewell before missions; he has several phrases and use
 8. **Arc 3 role**
 9. **Does he use Taeko (whom he knew) as leverage against Yonoa?**
 10. ~~**Claudia's status at the hospital:** cover job or real role?~~ **RESOLVED (2026-09-19):** she is a real nurse; the hospital is not part of Pristania; she helps get wounded Pristania members taken away from it
-11. **Which of the four robots (Sea, Land, Air, Space) did he build vs Diominiciel?** (Land and Sea confirmed co-built: he and Diominiciel kept upgrading Sea as Perlereina grew; see SEA_S34_CHARACTER_PROFILE.md)
+11. **Which of the four robots (Sea, Land, Air, Space) did he build vs Diominiciel?** (Land: **Bellsaw alone**, resolved 2026-10-13, LAND_L411D_CHARACTER_PROFILE.md. Sea: co-built, he and Diominiciel kept upgrading it as Perlereina grew. Air: TBD)
 12. **Vista Alegre PD emblem design**
 13. **Where the Arc 2 climax happens and how the police are positioned to interfere** (Free HQ is on Gallan's island)
 

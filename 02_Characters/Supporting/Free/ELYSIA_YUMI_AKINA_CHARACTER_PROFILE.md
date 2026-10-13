@@ -194,7 +194,7 @@ AGE_ARC_1: 40s (about Terror's age)
 
 ### **Arc 5 - "A Sanctuary of Peace and Order":**
 - **Arrives late** to the assault (she didn't learn of it in time); that is why she is absent from the start of the fight against Land
-- Land transforms and **defeats Policia and Uragaeshi**. At that moment **Elysia enters and defeats Land**: she becomes **Bellsaw** (Land's dead creator) and beats it with a **low deception**
+- Land transforms and **defeats Policia and Uragaeshi**. At that moment **Elysia enters and defeats Land**: she becomes **Bellsaw** (Land's dead creator and "father": he is who Land thinks of most). Land hesitates; she **slips behind him and pierces his core (地)**, shutting him down (LAND_L411D_CHARACTER_PROFILE.md)
 - **Saves Policia and Uragaeshi**, both dying, getting them out of there. **Reunion with Uragaeshi** after the battle
 - Learns that **Cristopher killed Shigo**: frustration at the revenge taken from her
 - **Resolution (editor's reading, pending author confirmation):** she never gets her revenge; instead she arrives in time to **save the living**, the daughter she has left and the husband she believed dead: the treasure she did not see
@@ -252,7 +252,7 @@ AGE_ARC_1: 40s (about Terror's age)
 - [ ] The Jitsumoto daimyo she fights in the Arc 2 climax (daimyos not yet defined)
 - [ ] Whether she meets Arjan in Arc 4, and how she spends the time cut off
 - [ ] Reunion with Uragaeshi: details
-- [ ] The deception she uses on Land, as Bellsaw
+- [x] The deception she uses on Land, as Bellsaw — RESOLVED 2026-10-13: Land hesitates at his father's face; she gets behind him and pierces his core
 - [ ] Confirm the resolution reading (saving the living instead of avenging the dead)
 - [ ] When and for whom she sings again
 - [ ] Speech patterns and signature lines

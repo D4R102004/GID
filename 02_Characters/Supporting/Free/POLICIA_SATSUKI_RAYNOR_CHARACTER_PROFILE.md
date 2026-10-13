@@ -204,7 +204,7 @@ AGE_ARC_2: 21
 
 ### **Arc 5 - "A Sanctuary of Peace and Order":**
 - **Reunion with her father** at the gathering of allies before the assault
-- **Fights Land (Heavy Unit L411D)**, the huge cannon tank built by Diominiciel and Bellsaw, alongside **Uragaeshi, Terror and Tairin**
+- **Fights Land (Heavy Unit L411D)**, the huge cannon tank built by Bellsaw, alongside **Uragaeshi, Terror and Tairin**
 - **Elysia is not in this fight at first (author, intentional):** she arrives late to the assault, cut off since Cristopher's capture in Vista Alegre
 - Land transforms; Terror is incapacitated; Land then **defeats Policia and Uragaeshi**. **Elysia enters, defeats Land** (becoming Bellsaw, by low deception) and **saves Policia and Uragaeshi**, both dying (ELYSIA_YUMI_AKINA_CHARACTER_PROFILE.md)
 - An inventor with no Nouryoku against Pristania's biggest machine, next to the father who was also an Elite with no Nouryoku, wearing his uniform

@@ -1,5 +1,20 @@
 # GID LORE CHANGELOG
 
+## 2026-10-13 (Land profile)
+**Files changed:** LAND_L411D_CHARACTER_PROFILE.md (new, 02_Characters/Pristania/), Factions.md, DIOMINICIEL, BELLSAW, SEA, POLICIA, ELYSIA profiles, Open_Questions_REORGANIZED.md
+
+**Decisions (author):**
+- NEW PROFILE: Land (Heavy Unit L411D; "L411D" is LAND in numbers); core kanji **地**; male
+- CORRECTED: Land was built by **Bellsaw alone** (not with Diominiciel), 20+ years before Arc 1, in Kami's era: Bellsaw's first contribution to Pristania's firepower. **Diominiciel later gave him the second form.** Fixed in Factions, Diominiciel, Bellsaw and Policia profiles
+- CORRECTED: Land is not a construction unit (Diominiciel's profile)
+- LOOK: first form a war tank built like a tower (tracks/big wheels, main cannon), visor and no face; second form a tall, slim, jointed humanoid robot with long sturdy arms, metal legs, wheels in the feet, mouthless gaze. Reference images are shape-only
+- VOICE: speaks like a programming language ("IF Free forces, THEN laughter."), same in both forms; emotion only in his voice
+- PERSONALITY: soldier serving Pristania; sees himself as leader of the units; Bellsaw's death makes him more ruthless. Second form: proud of being a robot, tests himself against strong rivals, respects them
+- RELATIONSHIPS: Bellsaw is his father; loyal to Kami and Bellsaw; argues with Diominiciel's orders, missions together; sees Perlereina as a potential rival; obeys the Kamigami after Bellsaw dies; Sea his counterpart, mourned as a fallen comrade; closest to Air; never interacts with Space
+- COMBAT: Tomahawk missiles, minigun, main cannon, runs people over; second form melee plus small missiles
+- ARCS: not shown in Arcs 1-3. Arc 4: first form, destroys the Kiryuin mansion, Goro's clones and Goro (Diominiciel and Shiro present). Arc 5: second form beats the Free team; **Elysia, as Bellsaw, pierces his core from behind while he hesitates**; shut down, not destroyed. Arc 6: reactivated by Pristania, serves Hirohiko
+- EDITOR'S READINGS (not canon): Elysia becomes Bellsaw because he is who Land thinks of most (follows from her Nouryoku); the two forms as Bellsaw's and Diominiciel's imprints
+
 ## 2026-10-12 (Mariana profile)
 **Files changed:** MARIANA_CAELESTIS_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), MARJENIS, DEREK, GORO, PERLEREINA profiles, Factions.md, Timeline.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
 

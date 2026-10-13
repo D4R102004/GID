@@ -119,6 +119,7 @@ AGE_ARC_1: A robot; built for Perlereina's birthday when she was little, upgrade
 
 ### **Land, Air, Space:**
 - **Like rival siblings**; they interact at Pristania HQ
+- **Land** sees Sea as his counterpart (land / sea) and mourns him like a fallen comrade (LAND_L411D_CHARACTER_PROFILE.md)
 
 ### **Yonoa Houzu:**
 - His enemy and his killer (Arc 3)
@@ -164,7 +165,7 @@ AGE_ARC_1: A robot; built for Perlereina's birthday when she was little, upgrade
 
 1. **The bonding scene** when he is given to Perlereina: does it get a flashback?
 2. **What he looked like as the little robot** (for that flashback)
-3. **Land, Air, Space:** how they react to his death
+3. **Air, Space:** how they react to his death (Land: like a soldier mourning a fallen comrade; LAND_L411D_CHARACTER_PROFILE.md)
 
 ---
 
