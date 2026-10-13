@@ -3,7 +3,7 @@
 ---
 ROLE: Antagonist (Arc 4)
 FACTION: Vista Alegre Police (Lieutenant under Bellsaw; as Space, Commander in his place) / Pristania (technological unit; deserts)
-STATUS: Dies Arc 4 (mortally wounded by Yonoa in the assault; Marsella finishes her with an injection that erases both Space and Karin)
+STATUS: Dies Arc 4 (in the assault, Yonoa shoots Karin to kill; Space intervenes and the impact sends her on a rampage through the police headquarters; Marsella ends her with an injection that erases both Space and Karin)
 AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 ---
 
@@ -54,8 +54,8 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 - **Quiet**; keeps to herself (Kouji barely knew her)
 - **A machine fanatic**: an engineer who **admired Bellsaw's work** in Vista Alegre
 - Joined the police for **personal reasons**: to be **under Bellsaw's tutelage**
-- **Deeply idolized and trusted Bellsaw** as her captain, seeing him as a **savior** and a **father figure**. After the kidnapping she still clings to him: **Stockholm syndrome**, the product of his manipulation
-- **Unaware of Space.** She lives an ordinary life and does not know what Space does
+- **Deeply idolized and trusted Bellsaw** as her commander, seeing him as a **savior** and a **father figure**. After the kidnapping she still clings to him: **Stockholm syndrome**, the product of his manipulation
+- **Knows Space exists** (author, 2026-10-13: changed from an earlier "unaware", for a better dynamic between the two). She lives the ordinary life while Space handles the rest
 
 ### **Space:**
 - **Playful**: the **opposite pole** of Karin
@@ -67,12 +67,13 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 - **Saw Bellsaw for what he was**, and **hates him**
 
 ### **How the two coexist:**
-- **Space dominates Karin.** Space **knows everything** that happens to Karin; Karin knows nothing of Space
+- **Space dominates Karin.** Space **knows everything** that happens to Karin
+- **Karin knows Space exists** [TBD: since when, how much of what Space does she knows, and how the two relate]
 - Space **surfaces from time to time**. Once she has appeared, she **lets Karin live the mundane life** while she **handles the fun things**
 - **Space carries the truth** of what was done to Karin
 
 ### **What Karin wants (after the truth):**
-- Karin **does learn that Bellsaw was Pristania.** She **feels used**, and it fills her with **determination to finish Pristania and Free**
+- Karin **learns that Bellsaw was Pristania when Space exposes him.** She **feels used**, and it fills her with **determination to finish Pristania and Free**
 - She wants to **change things**; her ideals about the Vista Alegre police move her
 
 ### **What Space wants:**
@@ -142,7 +143,7 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 - Her makers. **Marsella ends her life** in the assault
 
 ### **Yonoa Houzu:**
-- Her opponent in the assault, and the one who **mortally wounds Karin**
+- Her opponent in the assault. When Space switches to Karin, Yonoa, the reckless killer, **shoots to kill**
 
 ---
 
@@ -158,8 +159,8 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 7. **The assault on the police (her death):**
    - **Yonoa and Space fight to a stalemate.** Space **traps Yonoa** so she cannot get out
    - Space **switches to Karin**, thinking **Yonoa would not hurt an innocent**
-   - **Yonoa mortally wounds Karin**, thinking it will switch off Space's ability
-   - Instead **Space goes on a rampage** and **destroys the headquarters**. **Yonoa leaves**
+   - **Yonoa shoots to kill**, thinking it will switch off Space's ability (Yonoa is the reckless killer)
+   - **Space intervenes** and Karin does not die from the shot, but **the impact is so strong** that Space goes on a **rampage through the whole Vista Alegre police headquarters**. **Yonoa leaves**
    - **Marsella** arrives and stops her: she **injects a substance that eliminates both Space and Karin**
 
 ---
@@ -169,7 +170,7 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 - **The devotee made into the machine she loved:** Bellsaw's "honor" is the cruelest form of his belief that he stands above others
 - **The other Uragaeshi:** the same power from the same source, in a woman who did not choose it; composure against frenzy
 - *Editor's readings (not author canon; use lightly):*
-  - **Two women, one body, one protects the other:** the cruel half exists to shield the kind one, and Karin dies because Space bet on someone else's mercy
+  - **Two women, one body, one protects the other:** the cruel half exists to shield the kind one, and the end begins because Space bet on the mercy of a woman who has none
   - **Made and unmade by the same hands:** Marsella builds her and erases her
   - **The last of the quartet:** Pristania's units are siblings; Space is the one who left
 
@@ -177,8 +178,8 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 
 ## **SECRETS & KNOWLEDGE**
 
-- **Space exists:** Karin does not know. Space knows everything about Karin
-- **Bellsaw is Pristania:** Space knows; Karin learns after his death; the police learn when Space exposes him
+- **Space exists:** Karin knows. Space knows everything about Karin
+- **Bellsaw is Pristania:** Space knows; after his death Space exposes him, and Karin and the police learn it then
 - **Mariana is a Nouryokusha / García:** exposed by Space
 - [TBD: what the police and Marjenis know about what Karin has become]
 
@@ -191,25 +192,24 @@ AGE_ARC_4: About Yonoa's age (~33), perhaps a little older
 3. **The reading of 宙** (*sora* / *chū*)
 4. **Space's eyes:** how they change
 5. **The fight with Bellsaw, Arjan, Lopney and Yonoa:** set in Arc 4 drafting
-6. **"5th Division":** the author calls Bellsaw her captain in the 5th Division. Factions.md has no divisions (Chief / Commanders / Lieutenants). Does the department have divisions, and is Bellsaw's command the 5th?
-7. **What the police know** about Karin becoming an android when Marjenis names Space commander
-8. **How Karin learns Bellsaw was Pristania** (from Space's exposure, or otherwise, given she is unaware of Space)
-9. **Marsella's presence** at the assault and her substance: what it is
+6. **What the police know** about Karin becoming an android when Marjenis names Space commander
+7. **Karin and Space:** since when Karin knows Space exists, and how their dynamic works
+8. **Marsella's presence** at the assault and her substance: what it is
 
 ---
 
 ## **WRITING KARIN / SPACE - QUICK REFERENCE**
 
 ✅ Karin: kind, just, quiet, a machine-loving engineer; idolized Bellsaw
-✅ Karin unaware of Space; Space knows everything
+✅ Karin knows Space exists; Space knows everything about Karin
 ✅ Space: playful, rough-spoken, cruel, responsible, likes proving herself; loves and protects Karin
 ✅ Space hates Bellsaw; abandons him; exposes him after his death
 ✅ Megami's power, cartoon logic, frenetic; only Space uses it; cannot kill, can hurt badly
 ✅ Time limit: Space must return to Karin
 ✅ Hair turns blond and spiky, eyes and voice change when Space surfaces
 
-❌ Karin knowing about Space
 ❌ Karin using the power
+❌ Yonoa holding back (she shoots to kill)
 ❌ Space killing anyone
 ❌ Space composed or methodical (that is Uragaeshi)
 ❌ Visible mechanical parts
