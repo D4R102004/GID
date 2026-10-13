@@ -481,7 +481,7 @@ Learning Gallan found happiness through the kids — "He doesn't get to rebuild 
 ### **Survival & Future:**
 - **Survives Arc 1** - leaves after killing Yurisha
 - Returns in **Arc 3** for direct confrontation with Gallan
-- **Arc 4 (author, 2026-10-12):** hunted in **Vista Alegre** by the police (Commander Derek Guzman and Lieutenant Kouji Morales). The police **uncover his identity** as a Pristania Apostle but **do not catch him**. His brutality in the chase is part of Kouji's first shock. [TBD: why he is in Vista Alegre] (KOUJI_MORALES_CHARACTER_PROFILE.md)
+- **Arc 4 (author, 2026-10-12):** hunted in **Vista Alegre** by the police (Commander Derek Guzman and Lieutenant Kouji Morales). Tracked thanks to Arjan's information to Derek. The police **uncover his identity** as a Pristania Apostle but **do not catch him**: he **fights Derek** and breaks Derek's Battle by wrapping himself in an **ellipse** (Ellipse Encapsulation), then escapes. His brutality in the chase is part of Kouji's first shock. [TBD: why he is in Vista Alegre] (KOUJI_MORALES_CHARACTER_PROFILE.md)
 - **Arc 5** - major challenge for Arjan and Lopney
 
 ### **Character Arc:**

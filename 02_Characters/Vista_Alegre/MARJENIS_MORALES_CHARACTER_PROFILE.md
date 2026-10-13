@@ -185,6 +185,7 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 ### **His Commanders (Derek Guzman, Mariana, Bellsaw):**
 - He **appreciates all of them** and sees them as **loyal followers**
 - **Bellsaw** resents him in secret (brutality, hatred of Nouryokusha, innocents killed "in the name of justice") and is Kami's spy and an Emperor. Marjenis never suspects. The irony: the commander he trusts was the source Kami used to reach him
+- **Derek Guzman** runs Arjan as a private informant without Marjenis knowing, and is himself a secret Nouryokusha; **neither knows the other's secret**. Derek is excited by Marjenis' reveal. Profile: DEREK_GUZMAN_CHARACTER_PROFILE.md
 - **Mariana** is secretly the leader of **Karauma** and infiltrated the department to work for peace in Vista Alegre. Exposed by Space in Arc 4
 
 ### **Kami:**
@@ -209,7 +210,7 @@ The author's term is **Sellos**. They are distinct from Kami's **Sealing** (Powe
 - His opponents in the **Arc 4 climax**. He **defeats both**
 
 ### **Arjan and Lopney:**
-- After Bellsaw's death they infiltrate the department to find Lyzander; **Kouji guesses who they are and brings them before Marjenis**. Derek gets them out [TBD: how]
+- After Bellsaw's death they infiltrate the department to find Lyzander; **Kouji guesses who they are and brings them before Marjenis**. **Derek saves them by calling Arjan his informant** (DEREK profile)
 
 ---
 

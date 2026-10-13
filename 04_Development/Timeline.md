@@ -329,7 +329,7 @@ All dates are calculated from these reference points.
 ### **About 4-5 Years Before Arc 1 - Perlereina Finds Angel**
 - Perlereina notices a handkerchief on Kami's body (the only memento of Angel's mother, which he gave Kami), traces Angel's mother to her death at the orphanage, then Angel himself, and makes him her secret spy "to honor her father"
 - Author's timing: **12-13 years after Kami's death, after Gabriella escapes and before the protagonists reach Vista Alegre**. Gabriella escaped about 4.5 years before Arc 1 and Kami died 18 years before, so the gap works out to about 13-14 years
-- She assigns him to tail **Derek Guzman**, a Vista Alegre police commander. Only Perlereina and Diominiciel know Angel exists
+- She assigns him to tail **Derek Guzman**, a Vista Alegre police commander (an enemy-faction commander). Tailing Derek is how Angel later finds the protagonists. Only Perlereina and Diominiciel know Angel exists
 
 ### **Peace Period Developments**
 - Pristania declared illegal by Vista Alegre
@@ -393,11 +393,13 @@ All dates are calculated from these reference points.
 - Diominiciel (as Dragoon, so after step 2) ambushes Lyzander, out walking with Angel; Marjenis arrives, Diominiciel flees, **the police capture Lyzander**
 - Bellsaw kidnaps his own lieutenant **Karin**; Marsella and Diominiciel turn her into **Space** (Biological Unit 5P4C3)
 - Bellsaw and Space vs. Arjan, Lopney, Yonoa: Space goes rogue; Bellsaw dies (step 4). Only now does Marjenis learn of Free
-- Derek and Kouji chase **Glayne** in the city: the police uncover his identity but do not catch him (Kouji's first sight of the department's brutality)
-- After Bellsaw's death, Arjan and Lopney infiltrate the department to find Lyzander; Kouji brings them before Marjenis; **Derek** gets them out [TBD: how/why]
+- On arrival, **Derek makes Arjan his secret informant** (blackmail; common enemy)
+- With Arjan's information, Derek and Kouji chase **Glayne**: the police uncover his identity; Glayne breaks Derek's Battle with an ellipse and escapes. Derek saves Kouji and reveals his Nouryoku to him (Kouji's first sight of the department's brutality)
+- Arjan's information also lets the police track **Zafiro** (Shiro) after he approaches Ichiro
+- After Bellsaw's death, Arjan and Lopney infiltrate the department to find Lyzander; Kouji brings them before Marjenis; **Derek saves them by calling Arjan his informant**; Lopney connects the dots
 - Kouji talks Marjenis out of executing Lyzander in public. Space exposes Commander Mariana as leader of **Karauma**
 - Marjenis reveals in public that he is a Nouryokusha; police and Karauma unite against the organizations
-- **Fall of the Vista Alegre police:** Free and Pristania assault the coalition; Kouji fights Arjan and Lopney and loses; Marjenis beats Ichiro and Shiro (as Zafiro); **Diominiciel kills Marjenis** (Kouji unconscious elsewhere in the building). Lyzander is freed
+- **Fall of the Vista Alegre police:** Free and Pristania assault the coalition; Kouji fights Arjan and Lopney and loses; Derek fights Lyon and is gravely wounded; Marjenis beats Ichiro and Shiro (as Zafiro); **Diominiciel kills Marjenis** (Kouji unconscious elsewhere in the building). Lyzander is freed
 - Then the trap (step 6) and the mecha's destruction of the city
 - **Last act of the Vista Alegre story:** Pristania engineers **Kamino** into an army of fanatics and **conquers Vista Alegre** in a pitched battle
 - **Arc 4 closes** with Free preparing the assault on Pristania HQ

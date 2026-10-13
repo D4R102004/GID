@@ -52,6 +52,7 @@
 ## VISTA ALEGRE
 
 **Marjenis Morales "Devirtud"** (65, Arc 1) - Chief of Police, **Arc 4 boss**, secret Nouryokusha (Sellos), Kami's secret pseudo-ally. Reveals himself in public in Arc 4; killed by Diominiciel. Son: Kouji (lieutenant; Chief of Police just before Arc 6, after Hirohiko frees the city). Profile: 02_Characters/Vista_Alegre/MARJENIS_MORALES_CHARACTER_PROFILE.md
+**Derek Guzman** (~30, Arc 1) - Commander, secret Nouryokusha (Battle), Perlereina's mirror (eternal grudge against Pristania); **runs Arjan as his secret informant** in Arc 4; survives; Kouji's right hand from Arc 6. Profile: 02_Characters/Vista_Alegre/DEREK_GUZMAN_CHARACTER_PROFILE.md
 **Police:** Commanders Derek Guzman, Mariana (secret leader of Karauma), Bellsaw; Lieutenants Kouji, Iris, Karin (becomes Space). Details: Factions.md
 
 ---

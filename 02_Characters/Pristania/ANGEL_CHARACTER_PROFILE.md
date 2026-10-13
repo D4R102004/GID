@@ -223,7 +223,7 @@ AGE_ARC_1: 43
 - [TBD: any direct scene between them]
 
 ### **Derek Guzman (Vista Alegre police commander):**
-- Perlereina has Angel **follow him and report his movements** (author). [TBD: who he is, why she watches him, whether he ever notices the beggar. No profile exists]
+- Perlereina has Angel **follow him and report his movements** (author), because he is a commander of an enemy faction. **Angel discovers the protagonists by tailing Derek**, which gives him the idea to approach them. **Angel never learns that Arjan is Derek's informant.** Derek never notices him. Profile: 02_Characters/Vista_Alegre/DEREK_GUZMAN_CHARACTER_PROFILE.md
 
 ### **Shigo (Takeshi Kondo) and Bellsaw:**
 - **Bellsaw built Angel's mecha** at Perlereina's request (author). He **does not know who Angel is** and only follows orders: Perlereina gives him the design. He knows it is for destruction, **not that the target is Vista Alegre** (author)
@@ -284,7 +284,7 @@ AGE_ARC_1: 43
 
 **Timeline note:** Kami died at **~55** and Angel was about **25**. About **18 years** separate Kami's death from Arc 1. Perlereina found him **12-13 years** after (author), when Angel was about 37-38 and Perlereina about 29-30 (ages from the Quick Ref).
 
-[TBD: **why Derek Guzman matters to Perlereina** (the author's reason is only that she wants to know his movements);
+[RESOLVED 2026-10-12: Perlereina watches Derek because he is a commander of an enemy faction; Angel finds the protagonists through him (DEREK profile).
 
 ---
 
@@ -428,7 +428,7 @@ One of the Emperors, who are the **primary antagonists of Arc 4**. What the file
 6. ~~**How he reconnects with Pristania**~~ **RESOLVED:** Perlereina, via the handkerchief, about 13-14 years after Kami's death (after Gabriella escapes, before the protagonists arrive)
 7. ~~**Successor vs. 4th Emperor**~~ **RESOLVED:** 4th Emperor, not leader
 8. ~~**Who knows he exists**~~ **RESOLVED:** only Perlereina and Diominiciel
-8b. ~~**Which police commander he tails**~~ **RESOLVED:** Derek Guzman. **Why he matters to Perlereina** is still open
+8b. ~~**Which police commander he tails**~~ **RESOLVED:** Derek Guzman. **Why he matters to Perlereina: RESOLVED 2026-10-12** (enemy-faction commander; DEREK profile)
 8c. **What Angel learns about Gabriella, and when** (he does not know who she is at first; does he learn before he kills her?), and **how he finds out where and when she will be alone**
 9. ~~**Who built the mecha**~~ **RESOLVED:** Bellsaw, at Perlereina's request; he does not know who Angel is or that the target is Vista Alegre
 10. ~~**How, when and at whose hands he dies**~~ **RESOLVED (author):** in the Arc 4 finale, frozen by Lyzander after he burns Lyzander's wings. Scene narrated 2026-09-19

@@ -217,6 +217,14 @@ AGE_ARC_1: 15
 - Pushes hard but celebrates victories
 - Honest feedback, blunt criticism, genuine praise
 
+**Arc 4 - Derek's Informant (author, 2026-10-12):**
+- On arrival in Vista Alegre, police commander **Derek Guzman** takes Arjan aside: he knows who they are (an informant in Kamino described the kids who won the race). He could send the whole police after them; instead he makes Arjan **his spy**, passing on what Free learns about Pristania, in exchange for keeping their identity secret
+- Arjan accepts **under blackmail**, and because he sees in Derek an **ally against a common enemy**. **He tells no one in the group**
+- His information lets the police **track Glayne**, and later **Zafiro** (Shiro, approaching Ichiro under a hidden identity), after Ichiro tells the group
+- When Arjan and Lopney are caught infiltrating the department, **Derek saves them by calling Arjan his informant**. **Lopney connects the dots**
+- Derek comes to see Arjan as a fellow victim of Pristania (Gallan's capture). Arjan shows Derek's human side (DEREK_GUZMAN_CHARACTER_PROFILE.md)
+- [TBD: whether the rest of the group learns; Lopney's reaction]
+
 **Arc 4 - The Devastating Loss:**
 - **Cristopher holds off Perlereina so Arjan and Lopney can escape** (after he and Arjan defeat Shigo)
 - Heroic sacrifice (throws himself in harm's way)

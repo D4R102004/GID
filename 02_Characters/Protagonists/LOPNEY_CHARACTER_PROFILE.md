@@ -217,6 +217,9 @@ AGE_ARC_1: 15
 - Annoyed when he tries to protect her, but understands why
 - **Not jealous of his powers** - jealous of **herself** for not having any
 
+**Arc 4 (author, 2026-10-12):**
+- When Derek Guzman saves them at the Vista Alegre police by calling Arjan his informant, **Lopney connects the dots**: Arjan has been secretly informing for the police (DEREK_GUZMAN_CHARACTER_PROFILE.md). [TBD: her reaction]
+
 **Physical Interaction:**
 - Accepts his hugs even when irritated
 - Sparring together is a bonding ritual

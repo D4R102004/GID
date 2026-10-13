@@ -120,6 +120,8 @@ AGE_ARC_1: ~25
 - Kouji is the enthusiastic young man trying to do things; **Derek is more subdued**
 - They talk easily, but **Derek sees him as a daddy's boy**
 - Through Derek's reckless pursuit of Glayne, Kouji first sees the police's brutality
+- In that fight **Derek saves Kouji's life** and **reveals he is a Nouryokusha** (Battle). **Kouji keeps the secret**
+- From Arc 6, Derek is Kouji's **right hand** and occasional advisor. Profile: DEREK_GUZMAN_CHARACTER_PROFILE.md
 
 ### **Iris (fellow lieutenant):**
 - Both **young and inexperienced**; they **rub against each other** at work
@@ -137,8 +139,8 @@ AGE_ARC_1: ~25
 ## **ARC-BY-ARC ROLE**
 
 ### **Arc 4 - "Into the City of the Misbegotten":**
-1. **The chase:** goes with **Derek** to capture **Glayne**, who is being hunted in Vista Alegre. **The police uncover Glayne's identity** ("¡Lo tengo, padre!"), but **do not catch him**. Kouji sees Derek's recklessness, and Glayne's brutality: **his first shock**
-2. **The infiltration** (after Bellsaw's death): Arjan and Lopney infiltrate the department to find where Lyzander is held. Kouji guesses who they are and **brings them before Marjenis**. They get out **thanks to Derek** [TBD: how and why]
+1. **The chase:** goes with **Derek** to capture **Glayne**, who is being hunted in Vista Alegre. **The police uncover Glayne's identity** ("¡Lo tengo, padre!"), but **do not catch him**. Kouji sees Derek's recklessness, and Glayne's brutality: **his first shock**. **Derek saves his life** and reveals his Nouryoku to him; Kouji keeps the secret
+2. **The infiltration** (after Bellsaw's death): Arjan and Lopney infiltrate the department to find where Lyzander is held. Kouji guesses who they are and **brings them before Marjenis**. **Derek saves them by calling Arjan his informant**
 3. **Father and son:** when Marjenis means to **execute Lyzander in public**, Kouji tells him it isn't right: they represent justice. It leaves Marjenis shaken
 4. **The public reveal:** Kouji is **in shock** that his father is a Nouryokusha. After the speech he **understands his father's motives**; a beautiful father-and-son scene
 5. **The assault:** Free attacks the department to rescue Lyzander. **Kouji fights Arjan and Lopney** and loses. He is **unconscious elsewhere in the building** when Diominiciel kills Marjenis
@@ -172,7 +174,7 @@ AGE_ARC_1: ~25
 
 ## **OPEN QUESTIONS**
 
-1. **Derek and the escape:** how and why Derek gets Arjan and Lopney out
+1. ~~Derek and the escape~~ **RESOLVED:** Arjan is Derek's informant (DEREK profile)
 2. **Hair tone**
 3. **What he learns of his father's past**, and when
 4. **As Chief (Arc 6):** what role, if any, he plays

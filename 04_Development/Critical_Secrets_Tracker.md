@@ -580,3 +580,16 @@
 - **Who doesn't:** the police, Marjenis
 - **Revealed:** Arc 4, by Space
 
+---
+
+## **ARJAN IS DEREK GUZMAN'S INFORMANT (added 2026-10-12)**
+- **Who knows:** Derek, Arjan. **Lopney** connects the dots when Derek saves them at the police department (Arc 4). The police present then hear Derek call Arjan his informant
+- **Who doesn't:** the rest of the group (Lyzander, Yonoa, Ichiro); Free; **Angel** (tails Derek but never learns it); Marjenis does not know what Derek does on his own until then
+- **Consequences:** the police track Glayne and Zafiro (Shiro) with Arjan's information
+- [TBD: whether the group learns]
+
+## **DEREK GUZMAN IS A NOURYOKUSHA (Battle) (added 2026-10-12)**
+- **Who knows:** Derek; **Kouji** (told in the Glayne fight, keeps it secret)
+- **Who doesn't:** Marjenis, the police
+- Derek and Marjenis each hide being a Nouryokusha from the other
+

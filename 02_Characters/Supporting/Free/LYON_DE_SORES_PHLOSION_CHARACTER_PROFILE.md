@@ -1262,6 +1262,7 @@ AGE_ARC_2: 19-20
 
 **Role:**
 - **Pristania starts sending him on missions**
+- **In the Free/Pristania assault on the Vista Alegre police, he fights Commander Derek Guzman** and leaves him gravely wounded (author, 2026-10-12; DEREK_GUZMAN_CHARACTER_PROFILE.md) [TBD: outcome]
 - Still conflicted about role
 - **Tries to avoid fighting Free** when possible
 - Walks difficult line

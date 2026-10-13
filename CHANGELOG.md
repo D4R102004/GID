@@ -1,5 +1,24 @@
 # GID LORE CHANGELOG
 
+## 2026-10-12 (Derek profile)
+**Files changed:** DEREK_GUZMAN_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), ARJAN, LOPNEY, ANGEL, GLAYNE, LYON, KOUJI, MARJENIS profiles, Factions.md, Timeline.md, Critical_Secrets_Tracker.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
+
+**Decisions (author):**
+- NEW PROFILE: Derek Guzman, built by interview (blocks 1-4). ~30 in Arc 1 (lowered from ~40 so he was a child in the war); male; commander; only a cop, works for Marjenis
+- ORIGIN: during the 3-Year War two Pristania soldiers broke into his family's house on the outskirts of a town to steal food; his parents attacked to let him escape and were killed in self-defense; the soldiers tried to apologize, Derek ran away swearing revenge. Survived alone in Vista Alegre, then an orphanage, then the police; commander on merit
+- NOURYOKU (secret): **Battle**. Points with his index finger at someone in sight with a straight-line path: the target freezes and can't use their Nouryoku; Derek must walk straight to them (pain if he strays); first strike in melee within 2 m (a gun won't fire); the target is freed when he swings. One target; repeatable at once. Third parties can hit him. Glayne breaks it with an ellipse. Weapon: bat. Pokémon-trainer concept
+- LOOK: dark circles, black eyes, black and white clothes, a little like Kouji; obsessive, Machiavellian laugh, chill surface, rage inside, subdued (Guzma as reference only)
+- PERSONALITY: eternal grudge against Pristania; believes he does justice; cares for his own; arrogant, stubborn, bitter, jaded, brutal, out of control. Calls Pristania "the Pristies". Motto: "Fuck letting go..."
+- MIRROR OF PERLEREINA: same hatred; both run a secret spy; Arjan shows his human side as Glayne shows hers
+- ARJAN: on arrival Derek blackmails Arjan into being his informant (an informant in Kamino described the race-winning kids); Arjan also sees a common enemy. His information tracks Glayne and Zafiro (Shiro). Derek saves Arjan and Lopney at the department by calling Arjan his informant; Lopney connects the dots. Derek comes to empathize with Arjan (Gallan's capture)
+- PERLEREINA watches Derek because he is an enemy-faction commander; Angel finds the protagonists through him; Angel never learns about Arjan
+- ARC 4: fights Glayne (breaks Battle with an ellipse, escapes); saves Kouji and reveals his Nouryoku to him (Kouji keeps it); excited by Marjenis' reveal; disgusted by Bellsaw's betrayal; fights Lyon in the assault, gravely wounded; survives
+- AFTER: Kouji's right hand and occasional advisor; keeps his grudge but is somehow humbled in the post-Arc 5 world
+
+**Consistency:** Arjan and Lopney profiles get the informant thread; Angel's "why Perlereina watches Derek" resolved; Glayne's Arc 4 fight; Lyon fights Derek; Kouji and Marjenis updated; two new secrets
+
+**FLAGGED [TBD]:** how Derek is humbled; whether the group learns about Arjan and Lopney's reaction; Derek vs. Lyon outcome; Mariana and Iris; which orphanage; whether Derek learns Gallan was a Pristania Apostle
+
 ## 2026-10-12 (Kouji profile)
 **Files changed:** KOUJI_MORALES_CHARACTER_PROFILE.md (new, 02_Characters/Vista_Alegre/), MARJENIS, GLAYNE, HIROHIKO profiles, Factions.md, Timeline.md, Open_Questions_REORGANIZED.md, GID_QUICK_REF_FINAL.md
 
