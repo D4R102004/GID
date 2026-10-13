@@ -83,7 +83,7 @@ Arjan and Lopney follow the hooded stranger (Shiro in Kensuke's body) into Free 
 - Gabriella (15, already Security) comes to fetch Lyzander for the meeting. Alone with Lyon, she tells him the opening is his chance to look for his origins.
 - Marsella passes them, **recognizes Lyon instantly**, says nothing but "be careful, the meeting is about to start".
 - Lyon and Gabriella imagine that together, Free and Jitsumoto might beat Pristania.
-- **Air** (Android Unit 41R) attacks with missiles. Gabriella's metal saves them both, but Lyon goes into **Kyousen**; Gabriella is wounded trying to hold him back.
+- **Sea** (Survey Unit S34) attacks with missiles. Gabriella's metal saves them both, but Lyon goes into **Kyousen**; Gabriella is wounded trying to hold him back.
 - Lyzander arrives: Pristania is attacking, evacuate. Gabriella goes to protect Meiji (her duty) and leaves Lyon to Lyzander.
 - Lyzander is knocked out by a Kyousen bomb. Terror carries both boys out. In the distance, Shigeru's phoenix repels Pristania. Cut to white.
 - Two days later Lyzander wakes with Meiji, Tairin and Terror. Gabriella was captured and must be presumed dead: in the war ten years earlier Pristania took no prisoners (Tased's father as example).

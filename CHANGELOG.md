@@ -1,5 +1,19 @@
 # GID LORE CHANGELOG
 
+## 2026-10-13 (Air profile)
+**Files changed:** AIR_41R_CHARACTER_PROFILE.md (new, 02_Characters/Pristania/), Factions.md, DIOMINICIEL, BELLSAW, LAND, SEA profiles, ARC_2_SUMMARY.md, GID_QUICK_REF_FINAL.md, Open_Questions_REORGANIZED.md
+
+**Decisions (author):**
+- NEW PROFILE: Air (Android Unit 41R; "41R" is AIR in numbers); core kanji **空**; male; built by **Diominiciel alone**, from nothing
+- LOOK: skin-covered android (think Android #16) who looks mid-to-late 20s; sinister; eyes are light bulbs under skin; fashionable (grey turtleneck, long black coat, dark trousers; clothing reference only); hair long white, red or blue (TBD); arm button panel. Can turn body parts to metal, remove skin, limbs or head and keep working; leaks oil; very hard skin; dies only if the core in his heart is pierced
+- CORRECTED: Air does **not** fly and is not an aerial unit; the name is about his ideas (Diominiciel profile)
+- PERSONALITY: wants to be human; believes he is a person; loves mundane human life, emotions, the world as a beautiful temple; optimistic, doesn't take things seriously, but efficient and cruel; wants to leave a mark as the first human machine; serves Pristania out of devotion to Kami's idea; fears being despised if people learn he is a machine. Speaks like a normal person
+- POWER (technology, not a Nouryoku, no name): four metal pieces form a cubicle; arm-panel combos call up prepared augmented-reality holograms (felt but not wounding, like Yu-Gi-Oh! anime duels), one set at a time; real metal weapons from the walls and floor. Plays with victims; fights like a conversation
+- RELATIONSHIPS: very close to Diominiciel (who also wants to make him human); admires Perlereina as the summit of human power; Land's opposite pole; never meets Space; knows Kami's idea only through Pristania and Diominiciel
+- CORRECTED: in the flashback of the attack on Free 5 years ago, the missiles on Lyon and Gabriella were **Sea's**, not Air's (ARC_2_SUMMARY). Air helped Pristania attack Free that night
+- ARC 4: infiltrates the police HQ in the assault, lets Pristania in, fights the police. **After the assault** (final stretch, details pending), defeated by Arjan and Ichiro; **Ichiro kills him in cold blood**
+- EDITOR'S READINGS (not canon): Space's mirror; Vista Alegre as the city that despises the different; killed by a stage magician in a fight of illusions
+
 ## 2026-10-13 (Land profile)
 **Files changed:** LAND_L411D_CHARACTER_PROFILE.md (new, 02_Characters/Pristania/), Factions.md, DIOMINICIEL, BELLSAW, SEA, POLICIA, ELYSIA profiles, Open_Questions_REORGANIZED.md
 

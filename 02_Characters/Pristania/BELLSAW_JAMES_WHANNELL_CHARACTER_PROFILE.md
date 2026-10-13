@@ -430,7 +430,7 @@ He does not say a fixed farewell before missions; he has several phrases and use
 8. **Arc 3 role**
 9. **Does he use Taeko (whom he knew) as leverage against Yonoa?**
 10. ~~**Claudia's status at the hospital:** cover job or real role?~~ **RESOLVED (2026-09-19):** she is a real nurse; the hospital is not part of Pristania; she helps get wounded Pristania members taken away from it
-11. **Which of the four robots (Sea, Land, Air, Space) did he build vs Diominiciel?** (Land: **Bellsaw alone**, resolved 2026-10-13, LAND_L411D_CHARACTER_PROFILE.md. Sea: co-built, he and Diominiciel kept upgrading it as Perlereina grew. Air: TBD)
+11. **Which of the four robots (Sea, Land, Air, Space) did he build vs Diominiciel?** (Land: **Bellsaw alone**, resolved 2026-10-13, LAND_L411D_CHARACTER_PROFILE.md. Sea: co-built, he and Diominiciel kept upgrading it as Perlereina grew. Air: Diominiciel alone, resolved 2026-10-13, AIR_41R_CHARACTER_PROFILE.md)
 12. **Vista Alegre PD emblem design**
 13. **Where the Arc 2 climax happens and how the police are positioned to interfere** (Free HQ is on Gallan's island)
 

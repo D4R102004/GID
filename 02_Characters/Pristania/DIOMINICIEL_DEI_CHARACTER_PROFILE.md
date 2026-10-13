@@ -321,9 +321,9 @@ AGE_ARC_1: ~40
    - Profile: 02_Characters/Pristania/LAND_L411D_CHARACTER_PROFILE.md
 
 3. **Air (Android Unit 41R)**
-   - Aerial reconnaissance/combat android
-   - Autonomous AI with personality
-   - *[Further details TBD in Air's profile]*
+   - **Built by Diominiciel alone**, from nothing: a skin-covered android who looks and walks like a person. **Not an aerial unit** (he doesn't fly; the name is about his ideas)
+   - Autonomous AI with personality. **Very close to Diominiciel**, who also wants to make him human
+   - Profile: 02_Characters/Pristania/AIR_41R_CHARACTER_PROFILE.md
 
 4. **Space (Biological Unit 5P4C3)**
    - **NOT created by Diominiciel**

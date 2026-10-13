@@ -172,7 +172,7 @@ AGE_ARC_1: A robot; built 20+ years before Arc 1, while Kami was still alive
 
 ### **Air (41R):**
 - **Closer** than with the others. Land sees himself as the elder brother / leader of the units
-- Air **has his own ideas** [to be developed in Air's profile]
+- Air **has his own ideas**: he believes he is human, while Land is proud of being a machine. Opposite poles (AIR_41R_CHARACTER_PROFILE.md)
 
 ### **Space (5P4C3):**
 - **Never interacts with him**
@@ -234,9 +234,8 @@ AGE_ARC_1: A robot; built 20+ years before Arc 1, while Kami was still alive
 1. **When Diominiciel gave him the second form**, and whether Bellsaw knew
 2. **Whether Land fought in the 3-Year War**
 3. **What he does in Arc 6** under Hirohiko (who is possessed by Jashin)
-4. **How Air relates to him** (pending Air's profile)
-5. **Whether Land knows** of Space, Angel's mecha, or Bellsaw's police identity
-6. **A Bellsaw–Land scene** (e.g., a flashback): does it get one?
+4. **Whether Land knows** of Space, Angel's mecha, or Bellsaw's police identity
+5. **A Bellsaw–Land scene** (e.g., a flashback): does it get one?
 
 ---
 

@@ -656,7 +656,10 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
    - Profile: 02_Characters/Pristania/LAND_L411D_CHARACTER_PROFILE.md
 
 3. **Android Unit 41R - Nicknamed "Air"**
-   - *[Function and capabilities TBD]*
+   - **Built by Diominiciel alone**, from nothing. Core **空**. A skin-covered android (think Android #16) who looks mid-to-late 20s, sinister, and **wants to be human**; does not fly (the name is about his ideas)
+   - Fights with technology, not a Nouryoku: a **cubicle** of four metal pieces where his arm panel calls up augmented-reality holograms (they hurt but don't wound) plus real weapons from the walls and floor
+   - Helped attack Free 5 years before Arc 1. Arc 4: infiltrates the police HQ in the assault; after it, defeated by Arjan and Ichiro and **killed in cold blood by Ichiro**
+   - Profile: 02_Characters/Pristania/AIR_41R_CHARACTER_PROFILE.md
 
 4. **Biological Unit 5P4C3 - Nicknamed "Space"**
    - Not created by Diominiciel alone: his profile credits another creator, and Marsella's profile has her co-developing it with him
@@ -667,7 +670,7 @@ Pristania possesses robots, androids, and advanced machines developed by Diomini
 
 **Build order (author, 2026-10-10):** Land → Sea → Air → Space. The units act like rival siblings at Pristania HQ
 
-**Note:** These units serve Pristania's operations and report to the Kamigami (Land: Bellsaw alone, second form by Diominiciel; Sea: Diominiciel with Bellsaw; Space: Diominiciel with Marsella; Air: TBD).
+**Note:** These units serve Pristania's operations and report to the Kamigami (Land: Bellsaw alone, second form by Diominiciel; Sea: Diominiciel with Bellsaw; Air: Diominiciel alone; Space: Diominiciel with Marsella).
 
 ---
 
